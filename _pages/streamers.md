@@ -18,7 +18,7 @@ comments: true
     height: 480,
     channel: "aebon",
     // Only needed if this page is going to be embedded on other websites
-    //parent: ["embed.example.com", "othersite.example.com"]
+    parent: ["gaceta-eorzea.com", "www.gaceta-eorzea.com"]
     });
 </script>
 
@@ -28,7 +28,7 @@ comments: true
     height: 480,
     channel: "momoxttw",
     // Only needed if this page is going to be embedded on other websites
-    //parent: ["embed.example.com", "othersite.example.com"]
+    parent: ["gaceta-eorzea.com", "www.gaceta-eorzea.com"]
     });
 </script>
 
@@ -38,7 +38,7 @@ comments: true
     height: 480,
     channel: "shunkodai",
     // Only needed if this page is going to be embedded on other websites
-    //parent: ["embed.example.com", "othersite.example.com"]
+    parent: ["gaceta-eorzea.com", "www.gaceta-eorzea.com"]
     });
 </script>
 
@@ -48,6 +48,6 @@ comments: true
     height: 480,
     channel: "chocoferu",
     // Only needed if this page is going to be embedded on other websites
-    //parent: ["embed.example.com", "othersite.example.com"]
+    parent: ["gaceta-eorzea.com", "www.gaceta-eorzea.com"]
     });
 </script>
