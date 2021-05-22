@@ -3,17 +3,17 @@
   <channel>
     <title>Gaceta Eorzea</title>
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 May 2021 18:16:20 +0100</pubDate>
-    <lastBuildDate>Sat, 22 May 2021 18:16:20 +0100</lastBuildDate>
+    <link>/gaceta-eorzea/</link>
+    <atom:link href="/gaceta-eorzea/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 22 May 2021 18:30:58 +0100</pubDate>
+    <lastBuildDate>Sat, 22 May 2021 18:30:58 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Fashion Report 21 Mayo 2021</title>
         <description>&lt;p&gt;Una semana mas &lt;a href=&quot;https://twitter.com/kaiyokostar&quot; target=&quot;_blank&quot;&gt;Kaiyoko Star&lt;/a&gt; ha publicado la solucion para el Fashion Report, la cual podeis veir a continuacion.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/fashion/freport_173.jpg&quot; alt=&quot;Fashion Report 173&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gaceta-eorzea//assets/images/fashion/freport_173.jpg&quot; alt=&quot;Fashion Report 173&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Para hacer los 80 puntos y ganar 60,000 MGP necesitareis :&lt;/p&gt;
 
@@ -35,11 +35,11 @@
 
 &lt;p&gt;Por ultimo recordar que este año tenemos de nuevo el evento del Final Fantasy XV con el que podeis conseguir el coche Regalia Type-G por 2000,000 MGP.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/fashion/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gaceta-eorzea//assets/images/fashion/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 May 2021 00:00:00 +0100</pubDate>
-        <link>/fashion210521/</link>
-        <guid isPermaLink="true">/fashion210521/</guid>
+        <link>/gaceta-eorzea/fashion210521/</link>
+        <guid isPermaLink="true">/gaceta-eorzea/fashion210521/</guid>
         
         <category>gold saucer</category>
         
@@ -58,33 +58,33 @@
 
 &lt;p&gt;Para que os hagáis una idea, nuestra idea es que vamos a superponer una pantalla encima de nuestro juego. Para esto, el juego lo vamos a poner el juego en Borderless Windowed (Venta completa maximizada)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/tataru_1.jpg&quot; alt=&quot;Venta completa maximizada&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gaceta-eorzea//assets/images/articles/tataru_1.jpg&quot; alt=&quot;Venta completa maximizada&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;El siguiente paso es que vamos a permitir ver en el Chat los diálogos de los NPCs. Lo que hacemos es que vamos a Character Configuration y en la pestaña General, nos vamos a Log Windows Settings, bajamos y clickeamos sobre General.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/tataru_2.jpg&quot; alt=&quot;Opciones del chat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gaceta-eorzea//assets/images/articles/tataru_2.jpg&quot; alt=&quot;Opciones del chat&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Se nos abrirá una ventana que tenemos que buscar las opciones: NPC Dialogue y NPC Dialogue (Announcemets) Las activamos las dos.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/tataru_3.jpg&quot; alt=&quot;Dialogos de NPC&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gaceta-eorzea//assets/images/articles/tataru_3.jpg&quot; alt=&quot;Dialogos de NPC&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ya hemos hecho los cambios necesarios dentro del juego. Ahora vamos a bajar el programa de traducción. Se llama &lt;a href=&quot;https://github.com/NightlyRevenger/TataruHelper&quot; target=&quot;_blank&quot;&gt;TataruHelper&lt;/a&gt; y lo podeis bajar desde &lt;a href=&quot;https://github.com/NightlyRevenger/TataruHelper/releases/latest/download/Setup.exe&quot; target=&quot;_blank&quot;&gt;este enlance&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Este programa nos va a dar muchas opciones y nos va a crear una ventanita que irá traduciendo las Strings. Se puede cambiar el fondo, cambiar el tamaño, etc. Os dejo unas imágenes con mi propia configuración.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/tataru_4.png&quot; alt=&quot;Opciones tataru 1&quot; /&gt;
-&lt;img src=&quot;/assets/images/articles/tataru_5.png&quot; alt=&quot;Opciones tataru 1&quot; /&gt;
-&lt;img src=&quot;/assets/images/articles/tataru_6.png&quot; alt=&quot;Opciones tataru 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gaceta-eorzea//assets/images/articles/tataru_4.png&quot; alt=&quot;Opciones tataru 1&quot; /&gt;
+&lt;img src=&quot;/gaceta-eorzea//assets/images/articles/tataru_5.png&quot; alt=&quot;Opciones tataru 1&quot; /&gt;
+&lt;img src=&quot;/gaceta-eorzea//assets/images/articles/tataru_6.png&quot; alt=&quot;Opciones tataru 1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ya, tras esto, en vuestro juego os saldrá más o menos la ventana que os voy a enseñar en la siguiente Screen. Y veréis como se traducen, en esa ventana, las distintas Strings que vayan apareciendo en el juego. Este programa no traduce Skills ni interface.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/tataru_7.jpg&quot; alt=&quot;Ventana de tataru sobre el juego&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gaceta-eorzea//assets/images/articles/tataru_7.jpg&quot; alt=&quot;Ventana de tataru sobre el juego&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Espero que os haya ayudado el hilo para conseguir traducir el Final Fantasy XIV al Español y que disfrutéis aún más de este fantástico MMo. Un saludo!&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 May 2021 00:00:00 +0100</pubDate>
-        <link>/traducir/</link>
-        <guid isPermaLink="true">/traducir/</guid>
+        <link>/gaceta-eorzea/traducir/</link>
+        <guid isPermaLink="true">/gaceta-eorzea/traducir/</guid>
         
         <category>nuevos jugadores</category>
         
