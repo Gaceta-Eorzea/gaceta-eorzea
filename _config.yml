@@ -6,7 +6,7 @@ logo: 'assets/images/log.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: ''
-disqus: 'gacetaeorzea'
+disqus: 'https-gaceta-eorzea-com'
 mailchimp-list: 'https://xxxx'
 include: ["_pages"]
 permalink: /:title/
