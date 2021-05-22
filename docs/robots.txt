@@ -1,1 +1,1 @@
-Sitemap: /gaceta-eorzea/sitemap.xml
+Sitemap: /sitemap.xml
