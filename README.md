@@ -1,0 +1,3 @@
+# Gaceta Eorzea
+
+TBC

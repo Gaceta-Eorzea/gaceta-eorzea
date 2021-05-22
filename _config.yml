@@ -1,0 +1,71 @@
+# Site
+name: "Gaceta Eorzea"
+title: "Gaceta Eorzea"
+description: "Articulos y guias de Final Fantasy XIV en Español."
+logo: 'assets/images/log.png'
+favicon: 'assets/images/logo.png'
+baseurl: ''
+google_analytics: ''
+disqus: 'gacetaeorzea'
+mailchimp-list: 'https://xxxx'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  cecile:
+    name: Cecile Valdelius
+    display_name: Cecile Valdelius
+    avatar: 'assets/images/avatars/cecile.jpg'
+    email: jamedina@gmail.com
+    web: https://www.juan-medina.com
+    twitter: https://twitter.com/JuanMedinaCode
+    description: "Jugador de MMOs, juego en Ragnarok (Chaos)"
+  jony:
+    name: J0HNyRISu
+    display_name: J0HNyRISu
+    avatar: 'assets/images/avatars/jony.jpg'
+    email: jamedina@gmail.com
+    twitter: https://twitter.com/J0HNyRISu
+    description: "Gamer y Madridista. DC y Marvel. Awakener of the Void en Wraeclast. Traveler for Tamriel. Brujo y Adalid DOVAKHIIN 13+34. Lady Noa en Ragnarok (Chaos)"    
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+default_locale: "es"
