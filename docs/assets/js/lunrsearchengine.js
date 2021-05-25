@@ -33,7 +33,7 @@ var documents = [{
     "id": 6,
     "url": "https://gaceta-eorzea.com/znuevas_relics/",
     "title": "Preview de las reliquias de Zadnor",
-    "body": "2021/05/25 - El creador de contenido The Fashionista ha publico un video con una preview de las armas reliquias de Zadnor. Recordamos que para conseguirlas debemos preseguir con la mision “What Dreams Are Made Of” que nos dara Gerolt en Gangos (X:6. 2 Y:5. 0), debemos haber completado anteriormente “A New Playing Field”. "
+    "body": "2021/05/25 - El creador de contenido The Fashionista ha publico un video con una preview de las armas reliquias de Zadnor.   Recordamos que para conseguirlas debemos preseguir con la mision “What Dreams Are Made Of” que nos dara Gerolt en Gangos (X:6. 2 Y:5. 0), debemos haber completado anteriormente “A New Playing Field”. "
     }, {
     "id": 7,
     "url": "https://gaceta-eorzea.com/resumen-5-55/",

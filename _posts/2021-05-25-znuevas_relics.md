@@ -11,6 +11,6 @@ hidden: false
 ---
 El creador de contenido [The Fashionista](https://www.youtube.com/channel/UCthOhLPb1MBA20e56F2bnFQ) ha publico un video con una preview de las armas reliquias de Zadnor.
 
-<iframe style="width:100%;" height="720" src="https://www.youtube.com/embed/rUDBIgk0jSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id='rUDBIgk0jSA' %}
 
 Recordamos que para conseguirlas debemos preseguir con la mision "What Dreams Are Made Of" que nos dara Gerolt en Gangos (X:6.2 Y:5.0), debemos haber completado anteriormente "A New Playing Field".
