@@ -2,8 +2,8 @@
 layout: post
 title:  "Guía de Razas de Final Fantasy XIV"
 author: sharn
-categories: [ Guías ]
-tags: [nuevos jugadores, Guías]
+categories: [ guias ]
+tags: [nuevos jugadores, guias]
 image: assets/images/articles/guiarazas/xivraces.png
 description: "Guía de razas en español de Final Fantasy XIV"
 featured: false
