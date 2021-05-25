@@ -31,7 +31,7 @@ authors:
     avatar: 'assets/images/avatars/jony.jpg'
     email: jamedina@gmail.com
     twitter: https://twitter.com/J0HNyRISu
-    description: "Gamer y Madridista. DC y Marvel. Awakener of the Void en Wraeclast. Traveler for Tamriel. Brujo y Adalid DOVAKHIIN 13+34. Lady Noa en Ragnarok (Chaos)"    
+    description: "Gamer y Madridista. DC y Marvel. Awakener of the Void en Wraeclast. Traveler for Tamriel. Brujo y Adalid DOVAKHIIN 13+34. Señora Noa en Ragnarok (Chaos)"    
 # Plugins
 plugins:
   - jekyll-paginate
