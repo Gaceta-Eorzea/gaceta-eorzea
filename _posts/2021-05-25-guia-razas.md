@@ -19,7 +19,7 @@ Los *Hyur* son una raza parecida a los humanos. Los Hyur además soy una de las 
 
 Los clanes de los Hyur son **Midlanders** y **Highlanders**.
 
-![Hyur](/assets/images/articles/GuiaRazas/hyur.jpg)
+![Hyur](/assets/images/articles/GuiaRazas/Hyur.jpg)
 
 #### Elezen
 
