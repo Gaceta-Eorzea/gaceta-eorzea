@@ -4,7 +4,7 @@ title:  "Guía de Razas de Final Fantasy XIV"
 author: sharn
 categories: [ guias ]
 tags: [nuevos jugadores, guias]
-image: assets/images/articles/guiarazas/xivraces.png
+image: assets/images/articles/guiarazas2/xivraces.png
 description: "Guía de razas en español de Final Fantasy XIV"
 featured: false
 hidden: false
@@ -19,7 +19,7 @@ Los *Hyur* son una raza parecida a los humanos. Los Hyur además soy una de las 
 
 Los clanes de los Hyur son **Midlanders** y **Highlanders**.
 
-![Hyur](/assets/images/articles/guiarazas/hyur.jpg)
+![Hyur](/assets/images/articles/guiarazas2/hyur.jpg)
 
 #### Elezen
 
@@ -27,7 +27,7 @@ Los *Elezen* son una raza de Elfos. Son algo más altos que la media de las otra
 
 Los clanes de los Elezen se dividen en **Wildwood** y **Duskwight**.
 
-![Elezen](/assets/images/articles/guiarazas/elezen.png)
+![Elezen](/assets/images/articles/guiarazas2/elezen.png)
 
 #### Lalafell
 
@@ -35,7 +35,7 @@ Los *Lalafell* son una raza pequeña que proviene de los mares del sur de Eorzea
 
 Los clanes de los Lalafell se dividen en **Plainsfolk** y **Dunesfolk**.
 
-![Lalafell](/assets/images/articles/guiarazas/lalafell.jpg)
+![Lalafell](/assets/images/articles/guiarazas2/lalafell.jpg)
 
 #### Miqo'te
 
@@ -43,21 +43,21 @@ La raza con apariencia de gatos son los *Miqo’te*. Tienen grandes orejas y col
 
 Los clanes de los Miqo'te se dividen en **Seekers of the Sun** y **Keepers of the Moon**.
 
-![Miqote](/assets/images/articles/guiarazas/miqote.png)
+![Miqote](/assets/images/articles/guiarazas2/miqote.png)
 
 #### Roegadyn
 Los *Roegadyn* son fornidos humanoides que se les distinguen desde lejos. Son descendientes de los marineros de los duros mares del norte. Muchas de las otras razas los consideran una raza de bárbaros.
 
 Los Roegadyn se dividen en **Sea Wolves** y **Hellsguard**.
 
-![Roegadyn](/assets/images/articles/guiarazas/roegadyn.png)
+![Roegadyn](/assets/images/articles/guiarazas2/roegadyn.png)
 
 #### Au'Ra
 
 Los *Au'Ra* se introdujeron en Final Fantasy XIV en la Expansión de Heavensward. Son una raza basada en dragons con cuernos, escamas y colas.
 Los clanes de los Au'Ra son los **Raen** y los **Xaela**.
 
-![AuRa](/assets/images/articles/guiarazas/aura.png)
+![AuRa](/assets/images/articles/guiarazas2/aura.png)
 
 #### Viera
 
@@ -67,7 +67,7 @@ Los *Viera* se introdujeron en Shadowbringers. Esta raza solo puede jugarse actu
 
 Los clanes de los Viera se dividen en **Rava** y **Veena**.
 
-![Viera](/assets/images/articles/guiarazas/viera.jpg)
+![Viera](/assets/images/articles/guiarazas2/viera.jpg)
 
 #### Hrothgar
 
@@ -77,7 +77,7 @@ Los *Hrothgar* también se introdujeron en Shadowbringers. Esta raza solo puede 
 
 Los Hrothgar se dividen en los clanes **Helions** y **The Lost**.
 
-![Hrothgar](/assets/images/articles/guiarazas/hrothgar.png)
+![Hrothgar](/assets/images/articles/guiarazas2/hrothgar.png)
 
 Y con esto ya estarían descritas todas las razas jugables. Lo más importante a la hora de crearte tu personaje es elegir la raza que más te guste por pura estética. Siéntete agusto jugando y jugarás mucho.
 
