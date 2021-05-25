@@ -16,7 +16,12 @@
 <meta name="twitter:site" content="{{ site.title }}">
 <meta name="twitter:creator" content="@GacetaEorzea">
 <meta name="twitter:domain" content="{{ site.url }}">
-<meta property="twitter:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.default_img | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+
+{% if page.image %}
+<meta property="twitter:image" content="{{ site.url }}/{{ page.image }}">
+{% else %}
+<meta property="twitter:image" content="{{ site.url }}/{{ site.logo }}">
+{% endif %}
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     
