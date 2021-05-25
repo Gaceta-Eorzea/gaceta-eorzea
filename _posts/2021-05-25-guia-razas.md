@@ -11,7 +11,7 @@ hidden: false
 ---
 ## Razas jugables.
 
-Final Fantasy XIV tiene ocho razas jugables: **Hyur**, **Elezen**, **Lalafell**, **Miqo'te**, **Roegadyn**, **Au Ra**, **Viera** y **Hrothgar**. Además cada raza tiene dos clanes que los diferencian sobre todo visualmente.
+Final Fantasy XIV tiene ocho razas jugables: **Hyur**, **Elezen**, **Lalafell**, **Miqo'te**, **Roegadyn**, **Au'Ra**, **Viera** y **Hrothgar**. Además cada raza tiene dos clanes que los diferencian sobre todo visualmente.
 
 #### Hyur
 
@@ -78,3 +78,7 @@ Los *Hrothgar* también se introdujeron en Shadowbringers. Esta raza solo puede 
 Los Hrothgar se dividen en los clanes **Helions** y **The Lost**.
 
 ![Hrothgar](/assets/images/articles/GuiaRazas/Hrothgar.png)
+
+Y con esto ya estarían descritas todas las razas jugables. Lo más importante a la hora de crearte tu personaje es elegir la raza que más te guste por pura estética. Siéntete agusto jugando y jugarás mucho.
+
+¡Un saludo y nos vemos por Eorzea!
