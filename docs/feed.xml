@@ -5,8 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 May 2021 16:43:08 +0200</pubDate>
-    <lastBuildDate>Tue, 25 May 2021 16:43:08 +0200</lastBuildDate>
+    <pubDate>Tue, 25 May 2021 16:53:25 +0200</pubDate>
+    <lastBuildDate>Tue, 25 May 2021 16:53:25 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -122,7 +122,7 @@
 
 &lt;p&gt;Los clanes de los Hyur son &lt;strong&gt;Midlanders&lt;/strong&gt; y &lt;strong&gt;Highlanders&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/Hyur.jpg&quot; alt=&quot;Hyur&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guiarazas/hyur.jpg&quot; alt=&quot;Hyur&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;elezen&quot;&gt;Elezen&lt;/h4&gt;
 
@@ -130,7 +130,7 @@
 
 &lt;p&gt;Los clanes de los Elezen se dividen en &lt;strong&gt;Wildwood&lt;/strong&gt; y &lt;strong&gt;Duskwight&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/elezen.png&quot; alt=&quot;Elezen&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guiarazas/elezen.png&quot; alt=&quot;Elezen&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;lalafell&quot;&gt;Lalafell&lt;/h4&gt;
 
@@ -138,7 +138,7 @@
 
 &lt;p&gt;Los clanes de los Lalafell se dividen en &lt;strong&gt;Plainsfolk&lt;/strong&gt; y &lt;strong&gt;Dunesfolk&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/Lalafell.jpg&quot; alt=&quot;Lalafell&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guiarazas/lalafell.jpg&quot; alt=&quot;Lalafell&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;miqote&quot;&gt;Miqo’te&lt;/h4&gt;
 
@@ -146,21 +146,21 @@
 
 &lt;p&gt;Los clanes de los Miqo’te se dividen en &lt;strong&gt;Seekers of the Sun&lt;/strong&gt; y &lt;strong&gt;Keepers of the Moon&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/miqote.png&quot; alt=&quot;Miqote&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guiarazas/miqote.png&quot; alt=&quot;Miqote&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;roegadyn&quot;&gt;Roegadyn&lt;/h4&gt;
 &lt;p&gt;Los &lt;em&gt;Roegadyn&lt;/em&gt; son fornidos humanoides que se les distinguen desde lejos. Son descendientes de los marineros de los duros mares del norte. Muchas de las otras razas los consideran una raza de bárbaros.&lt;/p&gt;
 
 &lt;p&gt;Los Roegadyn se dividen en &lt;strong&gt;Sea Wolves&lt;/strong&gt; y &lt;strong&gt;Hellsguard&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/Roegadyn.png&quot; alt=&quot;Roegadyn&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guiarazas/roegadyn.png&quot; alt=&quot;Roegadyn&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;aura&quot;&gt;Au’Ra&lt;/h4&gt;
 
 &lt;p&gt;Los &lt;em&gt;Au’Ra&lt;/em&gt; se introdujeron en Final Fantasy XIV en la Expansión de Heavensward. Son una raza basada en dragons con cuernos, escamas y colas.
 Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;strong&gt;Xaela&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/AuRa.png&quot; alt=&quot;AuRa&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guiarazas/aura.png&quot; alt=&quot;AuRa&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;viera&quot;&gt;Viera&lt;/h4&gt;
 
@@ -170,7 +170,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;Los clanes de los Viera se dividen en &lt;strong&gt;Rava&lt;/strong&gt; y &lt;strong&gt;Veena&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/Viera.jpg&quot; alt=&quot;Viera&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guiarazas/viera.jpg&quot; alt=&quot;Viera&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;hrothgar&quot;&gt;Hrothgar&lt;/h4&gt;
 
@@ -180,7 +180,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;Los Hrothgar se dividen en los clanes &lt;strong&gt;Helions&lt;/strong&gt; y &lt;strong&gt;The Lost&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/Hrothgar.png&quot; alt=&quot;Hrothgar&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guiarazas/hrothgar.png&quot; alt=&quot;Hrothgar&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Y con esto ya estarían descritas todas las razas jugables. Lo más importante a la hora de crearte tu personaje es elegir la raza que más te guste por pura estética. Siéntete agusto jugando y jugarás mucho.&lt;/p&gt;
 
