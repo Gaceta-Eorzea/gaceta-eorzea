@@ -5,8 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 May 2021 15:42:55 +0200</pubDate>
-    <lastBuildDate>Tue, 25 May 2021 15:42:55 +0200</lastBuildDate>
+    <pubDate>Tue, 25 May 2021 15:50:21 +0200</pubDate>
+    <lastBuildDate>Tue, 25 May 2021 15:50:21 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -246,11 +246,11 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
         <title>Traducir los diálogos y cinemáticas</title>
         <description>&lt;p&gt;En este hilo voy a explicar como poder traducir los diálogos y las cinemáticas de Final Fantasy XIV Online al Español (o cualquier idioma) que queráis.&lt;/p&gt;
 
-&lt;p&gt;Para que os hagáis una idea, nuestra idea es que vamos a superponer una pantalla encima de nuestro juego. Para esto, el juego lo vamos a poner el juego en Borderless Windowed (Venta completa maximizada)&lt;/p&gt;
+&lt;p&gt;Para que os hagáis una idea, lo que vamos a hacer es superponer una pantalla encima de nuestro juego. Para esto, tenemos que configurarlo en Borderless Windowed (Venta completa maximizada)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/tataru_1.jpg&quot; alt=&quot;Venta completa maximizada&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;El siguiente paso es que vamos a permitir ver en el Chat los diálogos de los NPCs. Lo que hacemos es que vamos a Character Configuration y en la pestaña General, nos vamos a Log Windows Settings, bajamos y clickeamos sobre General.&lt;/p&gt;
+&lt;p&gt;El siguiente paso es que vamos a permitir ver en el Chat los diálogos de los NPCs. Nos vamos al menú Character Configuration y en la pestaña General, nos vamos a Log Windows Settings, bajamos y clickeamos sobre General.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/tataru_2.jpg&quot; alt=&quot;Opciones del chat&quot; /&gt;&lt;/p&gt;
 
@@ -260,13 +260,13 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;Ya hemos hecho los cambios necesarios dentro del juego. Ahora vamos a bajar el programa de traducción. Se llama &lt;a href=&quot;https://github.com/NightlyRevenger/TataruHelper&quot; target=&quot;_blank&quot;&gt;TataruHelper&lt;/a&gt; y lo podeis bajar desde &lt;a href=&quot;https://github.com/NightlyRevenger/TataruHelper/releases/latest/download/Setup.exe&quot; target=&quot;_blank&quot;&gt;este enlance&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Este programa nos va a dar muchas opciones y nos va a crear una ventanita que irá traduciendo las Strings. Se puede cambiar el fondo, cambiar el tamaño, etc. Os dejo unas imágenes con mi propia configuración.&lt;/p&gt;
+&lt;p&gt;Este programa nos va a dar muchas opciones y nos va a crear una ventanita que irá traduciendo las Strings (líneas de texto). Se puede cambiar el fondo, cambiar el tamaño, etc. Os dejo unas imágenes con mi propia configuración.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/tataru_4.png&quot; alt=&quot;Opciones tataru 1&quot; /&gt;
 &lt;img src=&quot;/assets/images/articles/tataru_5.png&quot; alt=&quot;Opciones tataru 1&quot; /&gt;
 &lt;img src=&quot;/assets/images/articles/tataru_6.png&quot; alt=&quot;Opciones tataru 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Ya, tras esto, en vuestro juego os saldrá más o menos la ventana que os voy a enseñar en la siguiente Screen. Y veréis como se traducen, en esa ventana, las distintas Strings que vayan apareciendo en el juego. Este programa no traduce Skills ni interface.&lt;/p&gt;
+&lt;p&gt;Ya, tras esto, en vuestro juego os saldrá más o menos la ventana que os voy a enseñar en la siguiente Screen. Y veréis como se traducen, en esa ventana, las distintas Strings que vayan apareciendo en el juego. Este programa no traduce skills ni interface.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/tataru_7.jpg&quot; alt=&quot;Ventana de tataru sobre el juego&quot; /&gt;&lt;/p&gt;
 
