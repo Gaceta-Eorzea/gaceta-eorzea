@@ -9,6 +9,15 @@
 
 {% seo %}
 
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}">
+<meta name="twitter:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
+<meta name="twitter:site" content="{{ site.title }}">
+<meta name="twitter:creator" content="@GacetaEorzea">
+<meta name="twitter:domain" content="{{ site.url }}">
+<meta property="twitter:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.default_img | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     
 <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">

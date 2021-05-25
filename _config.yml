@@ -12,9 +12,6 @@ include: ["_pages"]
 permalink: /:title/
 lang: "es_ES"
 locale: "es_ES"
-twitter:
-  username: GacetaEorzea
-  card: summary
 social:
   name: Gaceta Eorzea
   links:
