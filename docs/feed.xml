@@ -5,8 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 May 2021 13:25:27 +0200</pubDate>
-    <lastBuildDate>Tue, 25 May 2021 13:25:27 +0200</lastBuildDate>
+    <pubDate>Tue, 25 May 2021 15:26:55 +0200</pubDate>
+    <lastBuildDate>Tue, 25 May 2021 15:26:55 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -107,6 +107,91 @@
         
         
         <category>parches</category>
+        
+      </item>
+    
+      <item>
+        <title>Guía de Razas de Final Fantasy XIV</title>
+        <description>&lt;h2 id=&quot;razas-jugables&quot;&gt;Razas jugables.&lt;/h2&gt;
+
+&lt;p&gt;Final Fantasy XIV tiene ocho razas jugables: &lt;strong&gt;Hyur&lt;/strong&gt;, &lt;strong&gt;Elezen&lt;/strong&gt;, &lt;strong&gt;Lalafell&lt;/strong&gt;, &lt;strong&gt;Miqo’te&lt;/strong&gt;, &lt;strong&gt;Roegadyn&lt;/strong&gt;, &lt;strong&gt;Au Ra&lt;/strong&gt;, &lt;strong&gt;Viera&lt;/strong&gt; y &lt;strong&gt;Hrothgar&lt;/strong&gt;. Además cada raza tiene dos clanes que los diferencian sobre todo visualmente.&lt;/p&gt;
+
+&lt;h4 id=&quot;hyur&quot;&gt;Hyur&lt;/h4&gt;
+
+&lt;p&gt;Los &lt;em&gt;Hyur&lt;/em&gt; son una raza parecida a los humanos. Los Hyur además soy una de las razas más jugadas en el juego.&lt;/p&gt;
+
+&lt;p&gt;Los clanes de los Hyur son &lt;strong&gt;Midlanders&lt;/strong&gt; y &lt;strong&gt;Highlanders&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/hyur.jpg&quot; alt=&quot;Hyur&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;elezen&quot;&gt;Elezen&lt;/h4&gt;
+
+&lt;p&gt;Los &lt;em&gt;Elezen&lt;/em&gt; son una raza de Elfos. Son algo más altos que la media de las otras razas. Se cree que es una raza proveniente de la propia Eorzea y que antaño tuvieron un gran imperio.&lt;/p&gt;
+
+&lt;p&gt;Los clanes de los Elezen se dividen en &lt;strong&gt;Wildwood&lt;/strong&gt; y &lt;strong&gt;Duskwight&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/elezen.png&quot; alt=&quot;Elezen&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;lalafell&quot;&gt;Lalafell&lt;/h4&gt;
+
+&lt;p&gt;Los &lt;em&gt;Lalafell&lt;/em&gt; son una raza pequeña que proviene de los mares del sur de Eorzea. Los Lalafell tienen actitudes y apariencia de niños con actitudes muy divertidas.&lt;/p&gt;
+
+&lt;p&gt;Los clanes de los Lalafell se dividen en &lt;strong&gt;Plainsfolk&lt;/strong&gt; y &lt;strong&gt;Dunesfolk&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/Lalafell.jpg&quot; alt=&quot;Lalafell&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;miqote&quot;&gt;Miqo’te&lt;/h4&gt;
+
+&lt;p&gt;La raza con apariencia de gatos son los &lt;em&gt;Miqo’te&lt;/em&gt;. Tienen grandes orejas y colas felinas. Durante la Era de la Escarcha Infinita emigraron a Eorzea al final de la Quinta Era.&lt;/p&gt;
+
+&lt;p&gt;Los clanes de los Miqo’te se dividen en &lt;strong&gt;Seekers of the Sun&lt;/strong&gt; y &lt;strong&gt;Keepers of the Moon&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/miqote.png&quot; alt=&quot;Miqote&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;roegadyn&quot;&gt;Roegadyn&lt;/h4&gt;
+&lt;p&gt;Los &lt;em&gt;Roegadyn&lt;/em&gt; son fornidos humanoides que se les distinguen desde lejos. Son descendientes de los marineros de los duros mares del norte. Muchas de las otras razas los consideran una raza de bárbaros.&lt;/p&gt;
+
+&lt;p&gt;Los Roegadyn se dividen en &lt;strong&gt;Sea Wolves&lt;/strong&gt; y &lt;strong&gt;Hellsguard&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/Roegadyn.png&quot; alt=&quot;Roegadyn&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;aura&quot;&gt;Au’Ra&lt;/h4&gt;
+
+&lt;p&gt;Los &lt;em&gt;Au’Ra&lt;/em&gt; se introdujeron en Final Fantasy XIV en la Expansión de Heavensward. Son una raza basada en dragons con cuernos, escamas y colas.
+Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;strong&gt;Xaela&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/AuRa.png&quot; alt=&quot;AuRa&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;viera&quot;&gt;Viera&lt;/h4&gt;
+
+&lt;p&gt;Los &lt;em&gt;Viera&lt;/em&gt; se introdujeron en Shadowbringers. Esta raza solo puede jugarse actualmente en su versión femenina. Son una raza leporina distinguida por sus grandes orejas&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;La versión masculina de los Viera se introducirá en la expansión de Endwalker.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Los clanes de los Viera se dividen en &lt;strong&gt;Rava&lt;/strong&gt; y &lt;strong&gt;Veena&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/Viera.jpg&quot; alt=&quot;Viera&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;hrothgar&quot;&gt;Hrothgar&lt;/h4&gt;
+
+&lt;p&gt;Los &lt;em&gt;Hrothgar&lt;/em&gt; también se introdujeron en Shadowbringers. Esta raza solo puede jugarse actualmente en su versión masculina. Los Hrothgar son una raza felina, animal y corpulenta.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;La versión femenina de los Hrothgar se podrá jugar en la expansión Endwalker.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Los Hrothgar se dividen en los clanes &lt;strong&gt;Helions&lt;/strong&gt; y &lt;strong&gt;The Lost&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/GuiaRazas/Hrothgar.png&quot; alt=&quot;Hrothgar&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/guia-razas/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/guia-razas/</guid>
+        
+        <category>nuevos jugadores</category>
+        
+        <category>Guías</category>
+        
+        
+        <category>Guías</category>
         
       </item>
     
