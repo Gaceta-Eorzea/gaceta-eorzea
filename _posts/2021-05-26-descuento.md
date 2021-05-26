@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Descuento del 50% en The Complete Edition - Final Fantasy XIV."
+title:  "Descuento del 60% en The Complete Edition - Final Fantasy XIV tanto en PC como en las versiones de PlayStation."
 author: sharn
 categories: [ noticias ]
-tags: [nuevos jugadores, noticias, descuento, rebajas, pc, ps4]
+tags: [nuevos jugadores, noticias, descuento, rebajas, pc, playstation]
 image: assets/images/articles/noticias/descuento260521/ffxivcompleteedition.jpg
-description: "Descuento del 50% en The Complete Edition - Final Fantasy XIV."
+description: "Descuento del 60% en The Complete Edition - Final Fantasy XIV tanto en PC como en las versiones de PlayStation"
 featured: false
 hidden: false
 ---
 
 Con motivo de la salida del parche *5.55* de **Shadowbringers** desde Square Enix nos quieren facilitar la llegada a Final Fantasy XIV.
 
-Desde ayer mismo y hasta el 6 de junio, The Complete Edition de Final Fantasy XIV está rebajada a un 50%. Costando así **15.99€ para PC** y **21.99€ para PS4**.
+Desde ayer mismo y hasta el 6 de junio, The Complete Edition de Final Fantasy XIV está rebajada a un 60%. Costando así **15.99€ para PC** y **21.99€ para PS4**.
 
 Hay que recordar que la Complete Edition viene con todas las expansiones hasta la actualidad (A Realm Reborn, Heavensward, Stormblood y Shadowbringers) y con 30 días de juego.
 
