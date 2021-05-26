@@ -5,8 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 May 2021 10:24:05 +0100</pubDate>
-    <lastBuildDate>Wed, 26 May 2021 10:24:05 +0100</lastBuildDate>
+    <pubDate>Wed, 26 May 2021 15:25:52 +0200</pubDate>
+    <lastBuildDate>Wed, 26 May 2021 15:25:52 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -21,7 +21,7 @@
 
 &lt;p&gt;Si quieres empezar a descubrir el mundo de Final Fantasy XIV en tu PS5, este es el momento.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/versionps5/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/versionps5/</guid>
         
@@ -61,7 +61,7 @@
 &lt;/img-comparison-slider&gt;
 
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/hydaelyn-zodiac-1/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/hydaelyn-zodiac-1/</guid>
         
@@ -69,6 +69,53 @@
         
         
         <category>multimedia</category>
+        
+      </item>
+    
+      <item>
+        <title>Guía introductoria de clases y profesiones.</title>
+        <description>&lt;p&gt;¿Eres nuevo en Final Fantasy XIV y no sabes qué quieres jugar? Pues desde Gaceta Eorzea te vamos a facilitar la vida. Vas a descubrir cuales son las clases y las profesiones que hay dentro del juego.&lt;/p&gt;
+
+&lt;p&gt;Lo primero que hay que aclarar es que no todas las profesiones empiezan al comenzar el juego. En la creación del personaje tendrás acceso a las siguientes clases:&lt;/p&gt;
+
+&lt;h1 id=&quot;-tanques&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaclases/tankrole.png&quot; alt=&quot;LogoTanque&quot; width=&quot;75&quot; /&gt; Tanques&lt;/h1&gt;
+
+&lt;h3 id=&quot;-gladiador-----paladín&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaclases/logogladiador.png&quot; alt=&quot;LogoGladiador&quot; /&gt; Gladiador &amp;gt; &amp;gt; &amp;gt; &lt;img src=&quot;/assets/images/articles/guias/guiaclases/logopaladin.png&quot; alt=&quot;LogoPaladin&quot; /&gt; Paladín&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaclases/gladiador.jpg&quot; alt=&quot;Gladiador&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El &lt;strong&gt;Gladiador&lt;/strong&gt; (Gladiator en inglés) es una clase de guerra que se especializa en el rol de tanque. Si quieres iniciarte en esta clase como secundaria, hay que ir al Coliseo de &lt;strong&gt;Ul’dah&lt;/strong&gt; y hablar con &lt;em&gt;Mylia Swordsong&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A nivel 30, el Gladiador evoluciona a la profesión de &lt;strong&gt;Paladín&lt;/strong&gt; (Paladin en inglés). El Paladín es un tanque poderoso con grandes mitigaciones tanto en AoE como a un único objetivo dándole a los &lt;em&gt;Sanadores&lt;/em&gt; más flexibilidad comparados con otros tanques. Además el Paladín tiene una cura llamada &lt;em&gt;Clemency&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;-merodeador-----guerrero&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaclases/logomerodeador.png&quot; alt=&quot;LogoMerodeador&quot; /&gt; Merodeador &amp;gt; &amp;gt; &amp;gt; &lt;img src=&quot;/assets/images/articles/guias/guiaclases/logoguerrero.png&quot; alt=&quot;Logoguerrero&quot; /&gt; Guerrero&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaclases/merodeador.jpg&quot; alt=&quot;Merodeador&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Otra clase especializada como tanque en la creación de tu personaje es el &lt;strong&gt;Merodeador&lt;/strong&gt; (Marauder en inglés). Para iniciarse como clase secundaria, debes ir la Torre Coral de &lt;strong&gt;Limsa Lominsa&lt;/strong&gt; y hablar con &lt;em&gt;Wyrnzoen Saelsmyndsyn&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A nivel 30, el Merodeador consigue la profesión de &lt;strong&gt;Guerrero&lt;/strong&gt; (Warrior en inglés). El Guerrero es un tanque que se lanza al encuentro sin pensárselo dos veces gracias a su auto mitigación combinada con herramientas poderosas de recuperación de vida. Estas mecánicas permiten al Guerrero adaptarse a situaciones inesperadas como, por ejemplo, la muerte del &lt;em&gt;Sanador&lt;/em&gt; de tu grupo.&lt;/p&gt;
+
+&lt;h1 id=&quot;-sanador&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaclases/healerrole.png&quot; alt=&quot;LogoSanador&quot; width=&quot;75&quot; /&gt; Sanador&lt;/h1&gt;
+
+&lt;h3 id=&quot;-conjurador-----mago-blanco&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaclases/logoconjurador.png&quot; alt=&quot;LogoConjurador&quot; /&gt; Conjurador &amp;gt; &amp;gt; &amp;gt; &lt;img src=&quot;/assets/images/articles/guias/guiaclases/logomagoblanco.png&quot; alt=&quot;LogoMagoBlanco&quot; /&gt; Mago Blanco&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaclases/magoblanco.jpg&quot; alt=&quot;MagoBlanco&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El &lt;strong&gt;Conjurador&lt;/strong&gt; (Conjurer en inglés) es la única clase que encontrarás puramente &lt;em&gt;Sanadora&lt;/em&gt; a la hora de crearte tu personaje. Si deseas iniciarte en ella como clase secundaria, tienes que ir al puerto Mealvaan’s Gate de &lt;strong&gt;Limsa Lominsa&lt;/strong&gt; y hablar con &lt;em&gt;Thubyrgeim Guldweitzwyn&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Al alcanzar nivel 30, el Conjurador consigue la profesión de &lt;strong&gt;Mago Blanco&lt;/strong&gt; (White Mage en inglés). El gran daño AoE del Mago Blanco lo destacan por encima del resto de sanadores cuando además su habilidad &lt;em&gt;Holy&lt;/em&gt; es capaz de incapacitar en área. La efectividad de sus curas tanto reactivas como preventivas dotan al Mago Blanco de una capacidad innata de adaptación a los distintos inconvenientes que nos propongan los encuentros.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/guiaclases/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/guiaclases/</guid>
+        
+        <category>nuevos jugadores</category>
+        
+        <category>guias</category>
+        
+        
+        <category>guias</category>
         
       </item>
     
@@ -82,9 +129,11 @@
 
 &lt;p&gt;Podrás acceder a la oferta de PC a traves de &lt;a href=&quot;https://store.eu.square-enix-games.com/en_EU/product/565219/final-fantasy-xiv-online-complete-edition-pc-download&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;este enlace&lt;/a&gt; y si lo quieres para PS4, lo puedes comprar en la misma Store PS4 o también a través de &lt;a href=&quot;https://store.playstation.com/es-es/product/EP0082-PPSA02955_00-COMPLETE20190000&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;este otro enlace&lt;/a&gt;.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Actualización&lt;/em&gt;&lt;/strong&gt;: Si juegas en PC y aún estás con el &lt;em&gt;free trial&lt;/em&gt; también recomendamos acceder a la oferta con la opción &lt;em&gt;PC Download&lt;/em&gt; en &lt;em&gt;Your Platform&lt;/em&gt;. Te darán un código y tienes que introducir ese código en tu cuenta de &lt;strong&gt;Mog Station&lt;/strong&gt; una vez llegado al nivel 60 de la línea de misiones del apartado principal (Main Scenario en inglés). Si juegas en PlayStation no tendrás esta posibilidad y al comprar la oferta se te activarán las expansiones y el primer mes de suscripción haciendo obligatoria el pago de ésta cada 30 días.&lt;/p&gt;
+
 &lt;p&gt;¡Sin duda este es el momento de la llegada masiva de nuevos héroes a Eorzea!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/descuento/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/descuento/</guid>
         
@@ -115,7 +164,7 @@
 
 &lt;p&gt;Recordamos que para conseguirlas debemos preseguir con la mision “What Dreams Are Made Of” que nos dara Gerolt en Gangos (X:6.2 Y:5.0), debemos haber completado anteriormente “A New Playing Field”.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/znuevas_relics/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/znuevas_relics/</guid>
         
@@ -214,7 +263,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche5_55/5_55_14.png&quot; alt=&quot;5.55 image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/resumen-5-55/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/resumen-5-55/</guid>
         
@@ -307,7 +356,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;¡Un saludo y nos vemos por Eorzea!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guia-razas/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-razas/</guid>
         
@@ -348,7 +397,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 22 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 22 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210521/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210521/</guid>
         
@@ -393,7 +442,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;Espero que os haya ayudado el hilo para conseguir traducir el Final Fantasy XIV al Español y que disfrutéis aún más de este fantástico MMO. Un saludo!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 21 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 21 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/traducir/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/traducir/</guid>
         
