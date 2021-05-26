@@ -9,9 +9,9 @@ description: "Primera entrega de la serie de visitar Eorzea de la mano de Hydael
 featured: false
 hidden: true
 ---
-En la proxima expansion endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiac y como homenaje hemos decidido haver una visita a distintos puntos de eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta primera entrega vamos a visitar algunos de nuestro asentamientos favoritos.
+En la proxima expansion endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiac y como homenaje hemos decidido hacer una visita a distintos puntos de eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta primera entrega vamos a visitar algunos de nuestros asentamientos favoritos.
 
-*Podeis cambiar entre las imagenes arrastrando el marcado que tienen en el centro.*
+*Podeis cambiar entre las imagenes arrastrando el marcador que tienen en el centro.*
 
 ## Limsa Lominsa
 

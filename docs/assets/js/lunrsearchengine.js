@@ -43,7 +43,7 @@ var documents = [{
     "id": 8,
     "url": "https://gaceta-eorzea.com/hydaelyn-zodiac-1/",
     "title": "Hydaelyn y Zodiac alrededor de Eorzea. Parte 1",
-    "body": "2021/05/26 - En la proxima expansion endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiac y como homenaje hemos decidido haver una visita a distintos puntos de eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta primera entrega vamos a visitar algunos de nuestro asentamientos favoritos. Podeis cambiar entre las imagenes arrastrando el marcado que tienen en el centro. Limsa Lominsa:   Idyllshire:   "
+    "body": "2021/05/26 - En la proxima expansion endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiac y como homenaje hemos decidido hacer una visita a distintos puntos de eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta primera entrega vamos a visitar algunos de nuestros asentamientos favoritos. Podeis cambiar entre las imagenes arrastrando el marcador que tienen en el centro. Limsa Lominsa:   Idyllshire:   "
     }, {
     "id": 9,
     "url": "https://gaceta-eorzea.com/descuento/",
