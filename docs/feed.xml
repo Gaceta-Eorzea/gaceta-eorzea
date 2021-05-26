@@ -5,13 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Wed, 26 May 2021 15:35:51 +0200</pubDate>
-    <lastBuildDate>Wed, 26 May 2021 15:35:51 +0200</lastBuildDate>
-=======
-    <pubDate>Wed, 26 May 2021 15:24:48 +0100</pubDate>
-    <lastBuildDate>Wed, 26 May 2021 15:24:48 +0100</lastBuildDate>
->>>>>>> 06fc384b893a4a17594861220bf1d51447a74fa5
+    <pubDate>Wed, 26 May 2021 17:58:57 +0200</pubDate>
+    <lastBuildDate>Wed, 26 May 2021 17:58:57 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -130,6 +125,9 @@
 &lt;p&gt;El &lt;strong&gt;Conjurador&lt;/strong&gt; (Conjurer en inglés) es la única clase que encontrarás puramente &lt;em&gt;Sanadora&lt;/em&gt; a la hora de crearte tu personaje. Si deseas iniciarte en ella como clase secundaria, tienes que ir al puerto Mealvaan’s Gate de &lt;strong&gt;Limsa Lominsa&lt;/strong&gt; y hablar con &lt;em&gt;Thubyrgeim Guldweitzwyn&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Al alcanzar nivel 30, el Conjurador consigue la profesión de &lt;strong&gt;Mago Blanco&lt;/strong&gt; (White Mage en inglés). El gran daño AoE del Mago Blanco lo destacan por encima del resto de sanadores cuando además su habilidad &lt;em&gt;Holy&lt;/em&gt; es capaz de incapacitar en área. La efectividad de sus curas tanto reactivas como preventivas dotan al Mago Blanco de una capacidad innata de adaptación a los distintos inconvenientes que nos propongan los encuentros.&lt;/p&gt;
+
+&lt;h1 id=&quot;-daño&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaclases/dpsrole.png&quot; alt=&quot;LogoDPS&quot; width=&quot;75&quot; /&gt; Daño&lt;/h1&gt;
+
 </description>
         <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guiaclases/</link>
@@ -154,7 +152,7 @@
 
 &lt;p&gt;Podrás acceder a la oferta de PC a traves de &lt;a href=&quot;https://store.eu.square-enix-games.com/en_EU/product/565219/final-fantasy-xiv-online-complete-edition-pc-download&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;este enlace&lt;/a&gt; y si lo quieres para PS4, lo puedes comprar en la misma Store PS4 o también a través de &lt;a href=&quot;https://store.playstation.com/es-es/product/EP0082-PPSA02955_00-COMPLETE20190000&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;este otro enlace&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Actualización&lt;/em&gt;&lt;/strong&gt;: Si juegas en PC y aún estás con el &lt;em&gt;free trial&lt;/em&gt; también recomendamos acceder a la oferta con la opción &lt;em&gt;PC Download&lt;/em&gt; en &lt;em&gt;Your Platform&lt;/em&gt; pero &lt;strong&gt;&lt;em&gt;NO ACTIVAR el código que te dan&lt;/em&gt;&lt;/strong&gt;. Mientras estés en &lt;em&gt;free trial&lt;/em&gt; tienes el juego de forma totalmnete gratuita hasta nivel 60 de la línea de misiones del apartado principal (Main Scenario en inglés). Una vez llegado a nivel 60, es el momento de introducir el código en tu cuenta de &lt;strong&gt;Mog Station&lt;/strong&gt;. Si juegas en PlayStation no tendrás esta posibilidad y al comprar la oferta se te activarán las expansiones y el primer mes de suscripción haciendo obligatoria el pago de ésta cada 30 días.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Actualización&lt;/em&gt;&lt;/strong&gt;: Si juegas en PC y aún estás con el &lt;em&gt;free trial&lt;/em&gt; también recomendamos acceder a la oferta con la opción &lt;em&gt;PC Download&lt;/em&gt; en &lt;em&gt;Your Platform&lt;/em&gt; pero &lt;strong&gt;&lt;em&gt;NO ACTIVAR el código que te dan&lt;/em&gt;&lt;/strong&gt;. Mientras estés en &lt;em&gt;free trial&lt;/em&gt; tienes el juego de forma totalmnete gratuita hasta nivel 60 de la línea de misiones del escenario principal (Main Scenario en inglés). Una vez llegado a nivel 60, es el momento de introducir el código en tu cuenta de &lt;strong&gt;Mog Station&lt;/strong&gt;. Si juegas en PlayStation no tendrás esta posibilidad y al comprar la oferta se te activarán las expansiones y el primer mes de suscripción haciendo obligatoria el pago de ésta cada 30 días.&lt;/p&gt;
 
 &lt;p&gt;¡Sin duda este es el momento de la llegada masiva de nuevos héroes a Eorzea!&lt;/p&gt;
 </description>
