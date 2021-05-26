@@ -5,8 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 May 2021 13:59:05 +0100</pubDate>
-    <lastBuildDate>Wed, 26 May 2021 13:59:05 +0100</lastBuildDate>
+    <pubDate>Wed, 26 May 2021 15:24:48 +0100</pubDate>
+    <lastBuildDate>Wed, 26 May 2021 15:24:48 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -65,6 +65,13 @@
 &lt;img-comparison-slider&gt;
   &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/uldah_1.jpg&quot; /&gt;
   &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/uldah_2.jpg&quot; /&gt;
+&lt;/img-comparison-slider&gt;
+
+&lt;h2 id=&quot;ishgard&quot;&gt;Ishgard&lt;/h2&gt;
+
+&lt;img-comparison-slider&gt;
+  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/ishgard_1.jpg&quot; /&gt;
+  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/ishgard_2.jpg&quot; /&gt;
 &lt;/img-comparison-slider&gt;
 
 &lt;h2 id=&quot;idyllshire&quot;&gt;Idyllshire&lt;/h2&gt;
