@@ -41,9 +41,9 @@ var documents = [{
     "body": "2021/05/26 - Desde Square Enix se ha informado que con la llegada del parche 5. 55 de Shadowbringers la versión de PS5 se ha actualizado con numerosas mejoras. Con el lanzamiento del parche jugarás a Final Fantasy XIV a otro nivel si lo haces desde Playstation 5 al habilitar su soporte por primera vez. El recién acuñado Final Fantasy XIV La versión de PS5 cuenta con mejoras de velocidad de fotogramas, tiempos de carga más rápidos, compatibilidad con 4K, nuevos trofeos, compatibilidad con audio 3D y retroalimentación háptica DualSense. El parche 5. 55 también marca el punto final del Shadowbringers expansión, agregando contenido adicional al juego principal, así como las líneas de misiones de YoRHa: Dark Apocalypse y Save the Queen. Puedes encontrar un resumen de lo que trae el parche 5. 55 en el siguiente enlace Además hasta el 6 de junio Final Fantasy XIV está con un descuento del 60% en todas sus versiones. Recordamos que para jugar en PS5 no tendrás que hacer ningún desembolso adicional si ya posees tu versión de PS4. Para comprar la versión de PS5 de Final Fantasy XIV, puedes hacerlo directamente desde la Store de Playstation. Si quieres empezar a descubrir el mundo de Final Fantasy XIV en tu PS5, este es el momento. "
     }, {
     "id": 8,
-    "url": "https://gaceta-eorzea.com/hydaelyn-zodiac-1/",
-    "title": "Hydaelyn y Zodiac alrededor de Eorzea. Parte 1",
-    "body": "2021/05/26 - En la proxima expansion endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiac y como homenaje hemos decidido hacer una visita a distintos puntos de eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta primera entrega vamos a visitar algunos de nuestros asentamientos favoritos. Podeis cambiar entre las imagenes arrastrando el marcador que tienen en el centro. Limsa Lominsa:   Idyllshire:   "
+    "url": "https://gaceta-eorzea.com/hydaelyn-zodiak-1/",
+    "title": "Hydaelyn y Zodiak alrededor de Eorzea. Parte 1",
+    "body": "2021/05/26 - En la proxima expansion endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiak y como homenaje hemos decidido hacer una visita a distintos puntos de eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta primera entrega vamos a visitar algunos de nuestros asentamientos favoritos. Podeis cambiar entre las imagenes arrastrando el marcador que tienen en el centro. Limsa Lominsa:   Idyllshire:   "
     }, {
     "id": 9,
     "url": "https://gaceta-eorzea.com/descuento/",
