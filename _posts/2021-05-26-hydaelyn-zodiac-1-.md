@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hydaelyn y Zodiac alrededor de Eorzea."
+title:  "Hydaelyn y Zodiac alrededor de Eorzea. Parte 1"
 author: cecile
 categories: [ multimedia ]
 tags: [imagenes]
@@ -9,7 +9,7 @@ description: "Primera entrega de la serie de visitar Eorzea de la mano de Hydael
 featured: false
 hidden: true
 ---
-En la proxima expansion endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiac y como homenaje hemos decidido haver una visita a distintos puntos de eorzea y mostrar como se ven ante la Luz y la Oscuridad.
+En la proxima expansion endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiac y como homenaje hemos decidido haver una visita a distintos puntos de eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta primera entrega vamos a visitar algunos de nuestro asentamientos favoritos.
 
 ## Idyllshire
 
