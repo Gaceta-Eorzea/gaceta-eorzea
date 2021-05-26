@@ -51,3 +51,13 @@ comments: true
     parent: ["gaceta-eorzea.com", "www.gaceta-eorzea.com"]
     });
 </script>
+
+<script type="text/javascript">
+    new Twitch.Embed("twitch-embed", {
+    width: 854,
+    height: 480,
+    channel: "ArcalCCA",
+    // Only needed if this page is going to be embedded on other websites
+    parent: ["gaceta-eorzea.com", "www.gaceta-eorzea.com"]
+    });
+</script>
