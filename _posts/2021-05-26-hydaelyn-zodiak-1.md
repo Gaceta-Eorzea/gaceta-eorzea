@@ -27,6 +27,13 @@ En la proxima expansion endwalker veremos el desenlace del arco argumental de Hy
   <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/gridania_2.jpg" />
 </img-comparison-slider>
 
+## Ul'dah
+
+<img-comparison-slider>
+  <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/uldah_1.jpg" />
+  <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/uldah_2.jpg" />
+</img-comparison-slider>
+
 ## Idyllshire
 
 <img-comparison-slider>
