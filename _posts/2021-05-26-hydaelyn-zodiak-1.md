@@ -41,6 +41,13 @@ En la proxima expansion endwalker veremos el desenlace del arco argumental de Hy
   <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/ishgard_2.jpg" />
 </img-comparison-slider>
 
+## Kugane
+
+<img-comparison-slider>
+  <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/kugane_1.jpg" />
+  <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/kugane_2.jpg" />
+</img-comparison-slider>
+
 ## Idyllshire
 
 <img-comparison-slider>
