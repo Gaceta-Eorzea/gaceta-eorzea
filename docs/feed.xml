@@ -5,8 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 May 2021 17:03:44 +0100</pubDate>
-    <lastBuildDate>Wed, 26 May 2021 17:03:44 +0100</lastBuildDate>
+    <pubDate>Wed, 26 May 2021 18:20:25 +0200</pubDate>
+    <lastBuildDate>Wed, 26 May 2021 18:20:25 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -21,7 +21,7 @@
 
 &lt;p&gt;Si quieres empezar a descubrir el mundo de Final Fantasy XIV en tu PS5, este es el momento.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/versionps5/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/versionps5/</guid>
         
@@ -41,8 +41,8 @@
       </item>
     
       <item>
-        <title>Hydaelyn y Zodiak alrededor de Eorzea. Parte 1</title>
-        <description>&lt;p&gt;En la proxima expansion endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiak y como homenaje hemos decidido hacer una visita a distintos puntos de eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta primera entrega vamos a visitar algunos de nuestros asentamientos favoritos.&lt;/p&gt;
+        <title>Hydaelyn y Zodiak: alrededor de Eorzea. Parte 1</title>
+        <description>&lt;p&gt;En la próxima expansión &lt;strong&gt;Endwalker&lt;/strong&gt; veremos el desenlace del arco argumental de &lt;strong&gt;Hydaelyn&lt;/strong&gt; y &lt;strong&gt;Zodiak&lt;/strong&gt; y como homenaje hemos decidido hacer una visita a distintos puntos de &lt;strong&gt;Eorzea&lt;/strong&gt; y mostrar como se ven ante la &lt;em&gt;Luz&lt;/em&gt; y la &lt;em&gt;Oscuridad&lt;/em&gt;. En esta primera entrega vamos a visitar algunos de nuestros asentamientos favoritos.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Podeis cambiar entre las imagenes arrastrando el marcador que tienen en el centro.&lt;/em&gt;&lt;/p&gt;
 
@@ -74,6 +74,13 @@
   &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/ishgard_2.jpg&quot; /&gt;
 &lt;/img-comparison-slider&gt;
 
+&lt;h2 id=&quot;idyllshire&quot;&gt;Idyllshire&lt;/h2&gt;
+
+&lt;img-comparison-slider&gt;
+  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/idyllshire_1.jpg&quot; /&gt;
+  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/idyllshire_2.jpg&quot; /&gt;
+&lt;/img-comparison-slider&gt;
+
 &lt;h2 id=&quot;kugane&quot;&gt;Kugane&lt;/h2&gt;
 
 &lt;img-comparison-slider&gt;
@@ -81,18 +88,24 @@
   &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/kugane_2.jpg&quot; /&gt;
 &lt;/img-comparison-slider&gt;
 
-&lt;h2 id=&quot;idyllshire&quot;&gt;Idyllshire&lt;/h2&gt;
-
-&lt;img-comparison-slider&gt;
-  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/idyllshire_1.jpg&quot; /&gt;
-  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/idyllshire_2.jpg&quot; /&gt;
-&lt;/img-comparison-slider&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/hydaelyn-zodiak-1/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/hydaelyn-zodiak-1/</guid>
         
         <category>imagenes</category>
+        
+        <category>multimedia</category>
+        
+        <category>hydaelyn</category>
+        
+        <category>zodiak</category>
+        
+        <category>eorzea</category>
+        
+        <category>luz</category>
+        
+        <category>oscuridad</category>
         
         
         <category>multimedia</category>
@@ -136,7 +149,7 @@
 &lt;h1 id=&quot;-daño&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaclases/dpsrole.png&quot; alt=&quot;LogoDPS&quot; width=&quot;75&quot; /&gt; Daño&lt;/h1&gt;
 
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guiaclases/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guiaclases/</guid>
         
@@ -163,7 +176,7 @@
 
 &lt;p&gt;¡Sin duda este es el momento de la llegada masiva de nuevos héroes a Eorzea!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/descuento/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/descuento/</guid>
         
@@ -194,7 +207,7 @@
 
 &lt;p&gt;Recordamos que para conseguirlas debemos preseguir con la mision “What Dreams Are Made Of” que nos dara Gerolt en Gangos (X:6.2 Y:5.0), debemos haber completado anteriormente “A New Playing Field”.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/znuevas_relics/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/znuevas_relics/</guid>
         
@@ -202,8 +215,16 @@
         
         <category>5.55</category>
         
+        <category>multimedia</category>
         
-        <category>parches</category>
+        <category>video</category>
+        
+        <category>videos</category>
+        
+        <category>reliquias</category>
+        
+        
+        <category>multimedia</category>
         
       </item>
     
@@ -293,7 +314,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche5_55/5_55_14.png&quot; alt=&quot;5.55 image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/resumen-5-55/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/resumen-5-55/</guid>
         
@@ -386,7 +407,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;¡Un saludo y nos vemos por Eorzea!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guia-razas/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-razas/</guid>
         
@@ -427,7 +448,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 22 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 22 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210521/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210521/</guid>
         
@@ -472,7 +493,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;Espero que os haya ayudado el hilo para conseguir traducir el Final Fantasy XIV al Español y que disfrutéis aún más de este fantástico MMO. Un saludo!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 21 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 21 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/traducir/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/traducir/</guid>
         
