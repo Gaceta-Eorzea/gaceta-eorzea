@@ -6,7 +6,7 @@ categories: [ guias ]
 tags: [nuevos jugadores, guias]
 image: assets/images/articles/guias/guiarazas2/xivraces.png
 description: "Guía de razas en español de Final Fantasy XIV"
-featured: false
+featured: true
 hidden: false
 ---
 ## Razas jugables.
