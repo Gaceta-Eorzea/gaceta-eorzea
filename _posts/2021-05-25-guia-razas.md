@@ -9,6 +9,8 @@ description: "Guía de razas en español de Final Fantasy XIV"
 featured: true
 hidden: false
 ---
+Si eres nuevo en Final Fantasy XIV en este artículo te vamos a enseñar todas las razas jugables que vas a encontrar dentro del juego.
+
 ## Razas jugables.
 
 Final Fantasy XIV tiene ocho razas jugables: **Hyur**, **Elezen**, **Lalafell**, **Miqo'te**, **Roegadyn**, **Au'Ra**, **Viera** y **Hrothgar**. Además cada raza tiene dos clanes que los diferencian sobre todo visualmente.

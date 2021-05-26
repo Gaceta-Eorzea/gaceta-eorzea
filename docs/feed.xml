@@ -5,8 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 May 2021 09:15:47 +0200</pubDate>
-    <lastBuildDate>Wed, 26 May 2021 09:15:47 +0200</lastBuildDate>
+    <pubDate>Wed, 26 May 2021 09:20:14 +0200</pubDate>
+    <lastBuildDate>Wed, 26 May 2021 09:20:14 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -199,7 +199,9 @@
     
       <item>
         <title>Guía de Razas de Final Fantasy XIV</title>
-        <description>&lt;h2 id=&quot;razas-jugables&quot;&gt;Razas jugables.&lt;/h2&gt;
+        <description>&lt;p&gt;Si eres nuevo en Final Fantasy XIV en este artículo te vamos a enseñar todas las razas jugables que vas a encontrar dentro del juego.&lt;/p&gt;
+
+&lt;h2 id=&quot;razas-jugables&quot;&gt;Razas jugables.&lt;/h2&gt;
 
 &lt;p&gt;Final Fantasy XIV tiene ocho razas jugables: &lt;strong&gt;Hyur&lt;/strong&gt;, &lt;strong&gt;Elezen&lt;/strong&gt;, &lt;strong&gt;Lalafell&lt;/strong&gt;, &lt;strong&gt;Miqo’te&lt;/strong&gt;, &lt;strong&gt;Roegadyn&lt;/strong&gt;, &lt;strong&gt;Au’Ra&lt;/strong&gt;, &lt;strong&gt;Viera&lt;/strong&gt; y &lt;strong&gt;Hrothgar&lt;/strong&gt;. Además cada raza tiene dos clanes que los diferencian sobre todo visualmente.&lt;/p&gt;
 
