@@ -41,3 +41,6 @@ A nivel 30, el Merodeador consigue la profesión de **Guerrero** (Warrior en ing
 El **Conjurador** (Conjurer en inglés) es la única clase que encontrarás puramente *Sanadora* a la hora de crearte tu personaje. Si deseas iniciarte en ella como clase secundaria, tienes que ir al puerto Mealvaan's Gate de **Limsa Lominsa** y hablar con *Thubyrgeim Guldweitzwyn*.
 
 Al alcanzar nivel 30, el Conjurador consigue la profesión de **Mago Blanco** (White Mage en inglés). El gran daño AoE del Mago Blanco lo destacan por encima del resto de sanadores cuando además su habilidad *Holy* es capaz de incapacitar en área. La efectividad de sus curas tanto reactivas como preventivas dotan al Mago Blanco de una capacidad innata de adaptación a los distintos inconvenientes que nos propongan los encuentros.
+
+# ![LogoDPS](/assets/images/articles/guias/guiaclases/dpsrole.png){: width="75" } Daño
+
