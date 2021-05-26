@@ -4,7 +4,7 @@ title:  "Preview de las reliquias de Zadnor"
 author: cecile
 categories: [ parches ]
 tags: [shadowbringers, "5.55"]
-image: assets/images/articles/multimedia/zadnor.jpg
+image: assets/images/articles/multimedia/zadnorreliquias5_55/zadnor.jpg
 description: "Ya tenemos una preview de las armas reiqulia de Zadnor, disponibles en le parche 5.55."
 featured: false
 hidden: false
