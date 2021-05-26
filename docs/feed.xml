@@ -5,13 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Wed, 26 May 2021 17:02:42 +0100</pubDate>
-    <lastBuildDate>Wed, 26 May 2021 17:02:42 +0100</lastBuildDate>
-=======
-    <pubDate>Wed, 26 May 2021 17:58:57 +0200</pubDate>
-    <lastBuildDate>Wed, 26 May 2021 17:58:57 +0200</lastBuildDate>
->>>>>>> ce0bd2b9c5149ecfd01dc621818a63e38911ba46
+    <pubDate>Wed, 26 May 2021 17:03:44 +0100</pubDate>
+    <lastBuildDate>Wed, 26 May 2021 17:03:44 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -26,7 +21,7 @@
 
 &lt;p&gt;Si quieres empezar a descubrir el mundo de Final Fantasy XIV en tu PS5, este es el momento.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/versionps5/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/versionps5/</guid>
         
@@ -93,7 +88,7 @@
   &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/idyllshire_2.jpg&quot; /&gt;
 &lt;/img-comparison-slider&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/hydaelyn-zodiak-1/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/hydaelyn-zodiak-1/</guid>
         
@@ -141,7 +136,7 @@
 &lt;h1 id=&quot;-daño&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaclases/dpsrole.png&quot; alt=&quot;LogoDPS&quot; width=&quot;75&quot; /&gt; Daño&lt;/h1&gt;
 
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/guiaclases/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guiaclases/</guid>
         
@@ -168,7 +163,7 @@
 
 &lt;p&gt;¡Sin duda este es el momento de la llegada masiva de nuevos héroes a Eorzea!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/descuento/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/descuento/</guid>
         
@@ -199,7 +194,7 @@
 
 &lt;p&gt;Recordamos que para conseguirlas debemos preseguir con la mision “What Dreams Are Made Of” que nos dara Gerolt en Gangos (X:6.2 Y:5.0), debemos haber completado anteriormente “A New Playing Field”.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/znuevas_relics/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/znuevas_relics/</guid>
         
@@ -298,7 +293,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche5_55/5_55_14.png&quot; alt=&quot;5.55 image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/resumen-5-55/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/resumen-5-55/</guid>
         
@@ -391,7 +386,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;¡Un saludo y nos vemos por Eorzea!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/guia-razas/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-razas/</guid>
         
@@ -432,7 +427,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 22 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 22 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/fashion210521/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210521/</guid>
         
@@ -477,7 +472,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;Espero que os haya ayudado el hilo para conseguir traducir el Final Fantasy XIV al Español y que disfrutéis aún más de este fantástico MMO. Un saludo!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 21 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Fri, 21 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/traducir/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/traducir/</guid>
         
