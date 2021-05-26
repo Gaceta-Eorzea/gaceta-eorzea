@@ -11,9 +11,20 @@ hidden: true
 ---
 En la proxima expansion endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiac y como homenaje hemos decidido haver una visita a distintos puntos de eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta primera entrega vamos a visitar algunos de nuestro asentamientos favoritos.
 
+**Podeis cambiar entre las imagenes arrastrando el marcado que tienen en el centro.**
+
+## Limsa Lominsa
+
+<img-comparison-slider>
+  <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiac/limsa_1.jpg" />
+  <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiac/limsa_2.jpg" />
+</img-comparison-slider>
+
+
 ## Idyllshire
 
 <img-comparison-slider>
   <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiac/idyllshire_1.jpg" />
   <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiac/idyllshire_2.jpg" />
 </img-comparison-slider>
+
