@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Hydaelyn y Zodiak alrededor de Eorzea. Parte 1"
+title:  "Hydaelyn y Zodiak: alrededor de Eorzea. Parte 1"
 author: cecile
 categories: [ multimedia ]
-tags: [imagenes]
+tags: [imagenes, multimedia, hydaelyn, zodiak, eorzea, luz, oscuridad]
 image: assets/images/articles/multimedia/hydaelyn-zodiak/FFXIV_Endwalker_Amano_art.jpg
-description: "Primera entrega de la serie de visitar Eorzea de la mano de Hydaelyn y Zodiak."
+description: "Primera entrega de la serie visitando Eorzea de la mano de Hydaelyn y Zodiak."
 featured: false
 hidden: true
 ---
-En la proxima expansion endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiak y como homenaje hemos decidido hacer una visita a distintos puntos de eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta primera entrega vamos a visitar algunos de nuestros asentamientos favoritos.
+En la próxima expansión **Endwalker** veremos el desenlace del arco argumental de **Hydaelyn** y **Zodiak** y como homenaje hemos decidido hacer una visita a distintos puntos de **Eorzea** y mostrar como se ven ante la *Luz* y la *Oscuridad*. En esta primera entrega vamos a visitar algunos de nuestros asentamientos favoritos.
 
 *Podeis cambiar entre las imagenes arrastrando el marcador que tienen en el centro.*
 
@@ -41,6 +41,13 @@ En la proxima expansion endwalker veremos el desenlace del arco argumental de Hy
   <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/ishgard_2.jpg" />
 </img-comparison-slider>
 
+## Idyllshire
+
+<img-comparison-slider>
+  <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/idyllshire_1.jpg" />
+  <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/idyllshire_2.jpg" />
+</img-comparison-slider>
+
 ## Kugane
 
 <img-comparison-slider>
@@ -48,9 +55,3 @@ En la proxima expansion endwalker veremos el desenlace del arco argumental de Hy
   <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/kugane_2.jpg" />
 </img-comparison-slider>
 
-## Idyllshire
-
-<img-comparison-slider>
-  <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/idyllshire_1.jpg" />
-  <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/idyllshire_2.jpg" />
-</img-comparison-slider>
