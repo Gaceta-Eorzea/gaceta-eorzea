@@ -5,8 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 May 2021 11:54:32 +0100</pubDate>
-    <lastBuildDate>Wed, 26 May 2021 11:54:32 +0100</lastBuildDate>
+    <pubDate>Wed, 26 May 2021 12:14:45 +0100</pubDate>
+    <lastBuildDate>Wed, 26 May 2021 12:14:45 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -53,13 +53,19 @@
   &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/limsa_2.jpg&quot; /&gt;
 &lt;/img-comparison-slider&gt;
 
+&lt;h2 id=&quot;gridania&quot;&gt;Gridania&lt;/h2&gt;
+
+&lt;img-comparison-slider&gt;
+  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/gridania_1.jpg&quot; /&gt;
+  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/gridania_2.jpg&quot; /&gt;
+&lt;/img-comparison-slider&gt;
+
 &lt;h2 id=&quot;idyllshire&quot;&gt;Idyllshire&lt;/h2&gt;
 
 &lt;img-comparison-slider&gt;
   &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/idyllshire_1.jpg&quot; /&gt;
   &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/idyllshire_2.jpg&quot; /&gt;
 &lt;/img-comparison-slider&gt;
-
 </description>
         <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/hydaelyn-zodiak-1/</link>

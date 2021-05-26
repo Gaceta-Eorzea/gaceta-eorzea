@@ -20,6 +20,12 @@ En la proxima expansion endwalker veremos el desenlace del arco argumental de Hy
   <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/limsa_2.jpg" />
 </img-comparison-slider>
 
+## Gridania
+
+<img-comparison-slider>
+  <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/gridania_1.jpg" />
+  <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/gridania_2.jpg" />
+</img-comparison-slider>
 
 ## Idyllshire
 
@@ -27,4 +33,3 @@ En la proxima expansion endwalker veremos el desenlace del arco argumental de Hy
   <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/idyllshire_1.jpg" />
   <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak/idyllshire_2.jpg" />
 </img-comparison-slider>
-
