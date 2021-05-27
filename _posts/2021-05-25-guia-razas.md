@@ -6,7 +6,7 @@ categories: [ guias ]
 tags: [nuevos jugadores, guias]
 image: assets/images/articles/guias/guiarazas2/xivraces.png
 description: "Guía de razas en español de Final Fantasy XIV"
-featured: true
+featured: false
 hidden: false
 ---
 Si eres nuevo en Final Fantasy XIV en este artículo te vamos a enseñar todas las razas jugables que vas a encontrar dentro del juego.
