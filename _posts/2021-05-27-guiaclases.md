@@ -42,7 +42,7 @@ A nivel 30, el Merodeador consigue la profesión de **Guerrero** (Warrior en ing
 
 Los **Caballeros Oscuros** (Dark Knight en inglés) son una profesión de tanque  que se introdujo en Final Fantasy XIV en la expansión de **Heavensward**. Para conseguir esta profesión, hay que completar la misión *Our End* en  **Ishgard**. Es importante indicar que para poder acceder a esta profesión hay que llegar a **Ishgard** que se desbloquea en las misiones de la historia principal (Main Scenario en inglés) de *Heavensward*. Cuando desbloqueas al astrólogo empezarás a jugar desde nivel 30.
 
-El arma característica de la clase es el **mandoble a 2 manos**.
+El arma característica de la profesión es el **mandoble a 2 manos**.
 
 El caballero oscuro es un tanque orientado a hacer el mayor daño posible de forma sostenida y explosiva. Su mitigación viene a través de una barrera que puede usar para sí mismo o cualquier aliado en apuros haciéndole así un tanque muy versátil. Como punto negativo no tiene la auto sustenibilidad de otros tanques.
 
@@ -52,7 +52,7 @@ El caballero oscuro es un tanque orientado a hacer el mayor daño posible de for
 
 El **SablePistolero** (Gunbreaker en inglés) es una profesión de tanque que se introdujo en Final Fantasy XIV en la expansión de **Shadowbringers**. Para poder acceder a la profesión hay que tener activa la expansión y tener una clase/profesión a nivel 60. Después, hay que completar la misión *The Makings of a Gunbreaker* en **Gridania**. El SablePistolero empezarás a jugarlo directamente a nivel 60.
 
-El arma característica de la clase es el **sable pistola**.
+El arma característica de la profesión es el **sable pistola**.
 
 Los SablePistoleros combinan daño sólido, mitigación y utilidad en un estilo de juego sencillo. Poseen combos consistentes que generan cartuchos, que pueden usarse para aumentar aún más su daño o para apuntar habilidades especiales (como escudos o regeneración) a los miembros del grupo.
 
@@ -84,7 +84,7 @@ Al llegar a nivel 30 conseguirás la profesión de **Erudito** (Scholar en ingl�
 
 Los **Astrólogos** (Astrologian en inglés) son una profesión de sanador que se introdujo en Final Fantasy XIV en la expansión de **Heavensward**. Para conseguir esta clase, hay que ir al observatorio Athenaeum Astrologicum de **Ishgard** y hablar con *Jannequinard de Durendaire*. Es importante indicar que para poder acceder a esta profesión hay que llegar a **Ishgard** que se desbloquea en las misiones de la historia principal (Main Scenario en inglés) de *Heavensward*. Cuando desbloqueas al astrólogo empezarás a jugar desde nivel 30.
 
-El arma característica de la clase son los **globos astronómicos**.
+El arma característica de la profesión son los **globos astronómicos**.
 
 Los astrólogos son maestros del destino que brindan escudos y regeneración a los aliados en un área grande, y también pueden usar Cartas para proporcionar beneficios de daño a los miembros del grupo mediante el uso de su *Star Globe*. Siendo su daño propio inferior al resto de los sanadores los astrólogos lo compensan al dar beneficios extras al grupo mediante el uso de sus Cartas pasando a ser el sanador que aporta más daño global al grupo. Gracias a su versatilidad ***puede elegir entre potenciar sus curas o mitigaciones*** siendo así la única profesión que puede cambiar su rol entre sanador reactivo o sanador preventivo.
 
@@ -126,7 +126,7 @@ Cuando llegues a nivel 30 con el pícaro accederás a la profesión **Ninja** (N
 
 El **Samurai** (Samurai en inglés) es una profesión de daño cuerpo a cuerpo que se introdujo en Final Fantasy XIV en la expansión de **Stormblood**. Para poder acceder a la profesión hay que tener activa la expansión y tener una clase/profesión a nivel 50. Después hay que completar la misión *The Way of the Samurai* en **Ul'dah**. El Samurai empezarás a jugarlo directamente a nivel 50.
 
-El arma característica de la clase son las **katanas**.
+El arma característica de la profesión son las **katanas**.
 
 Los **Samurais** son una profesión con una ***fase de alto daño de 60 segundos*** y habilidades que dotan de auto beneficios duraderos que hacen que perdonen errores en la rotación. Tiene pocos ataques posicionales y mucha movilidad gracias a sus habilidades de salto. Son una clase que no dan ningún beneficio al grupo sino más que bien se aprovechan de éste para aumentar su propio daño. 
 
@@ -148,7 +148,7 @@ A nivel 30, el arquero evoluciona a **Bardo** (Bard en inglés). El bardo es una
 
 El **Maquinista** (Machinist en inglés) son una profesión de daño físico a distancia que se introdujo en Final Fantasy XIV en la expansión de **Heavensward**. Esta profesión la desbloquearás cuando completes la misión *Savior of Skysteel*, y su base se ubica en la *forja Skysteel* de **Ishgard** encabezado por *Stephanivien de Haillenarte*. Empezarás a jugar la profesión directamente a nivel 30. Es importante indicar que para poder acceder a esta profesión hay que llegar a **Ishgard** que se desbloquea en las misiones de la historia principal (Main Scenario en inglés) de *Heavensward*.
 
-El arma característica de la clase son las **pistolas**.
+El arma característica de la profesión son las **pistolas**.
 
 Los maquinistas son es una profesión con jugabilidad muy frenética que se especializa en abusar de los beneficios del grupo con tiempos de daño explosivo flexibles y la capacidad de mantener este daño de forma ininterrumpida gracias a que la mayoría de sus mecánicas son instántenas y se pueden ***realizar en movimiento*** lo cual le da una ventaja en encuentros que requieran posicionamientos. Es importante recalcar que es la única clase de daño físico a distancia que no da beneficios al grupo.
 
@@ -158,7 +158,7 @@ Los maquinistas son es una profesión con jugabilidad muy frenética que se espe
 
 El **Bailarín** (Dancer en inglés) es una profesión de daño físico a distancia que se introdujo en Final Fantasy XIV en la expansión de **Shadowbringers**. Para poder acceder a la profesión hay que tener activa la expansión y tener una clase/profesión a nivel 60. Después, hay que completar la misión *Shall We Dance* en **Limsa Lominsa**. El Bailarín empezarás a jugarlo directamente a nivel 60.
 
-El arma característica de la clase son los **chakrams**.
+El arma característica de la profesión son los **chakrams**.
 
 El bailarín es una profesión con un daño personal bajo pero una gran contribución al daño de los demás mediante el uso de sus ***Danzas*** pudiendo elegir además a un compañero del grupo como *pareja de baile* que ganará un gran beneficio extra. Estas *Danzas* requieren la ejecución de los pasos de baile correctos para realizar poderosos movimientos finales. Sus principales habilidades con armas giran en torno a un combo simple que tiene la posibilidad de generar procs más fuertes que a su vez tienen la posibilidad de generar plumas. Estas plumas se pueden usar para potenciar las habilidades de daño fuera del GCD.
 
@@ -188,6 +188,6 @@ Los **invocadores**  (Summoner en inglés) basan mucha parte de su daño en sus 
 
 El **Mago Rojo** (Red Mage en inglés) es una profesión de daño mágico que se introdujo en Final Fantasy XIV en la expansión de **Stormblood**. Para poder acceder a la profesión hay que tener activa la expansión y tener una clase/profesión a nivel 50. Después hay que completar la misión *Taking the Red* en **Ul'dah**. El Mago Rojo empezarás a jugarlo directamente a nivel 50.
 
-El arma característica de la clase son las **espadas roperas**.
+El arma característica de la profesión son las **espadas roperas**.
 
 El Mago Rojo es una clase que, al igual que el Mago Negro, es fácil de jugar y difícil de maximizar ya que tiene una gran profundidad que no se ve a simple vista. La gestión de su *maná blanco y su maná negro* es la parte más importante de la rotación. Estos magos ***intercalan hechizos de máximo rango con hechizos a corta distancia***. Para esto utilizan varios tipos distintos de habilidades de movimiento que sirven tanto para acercarse como para alejarse del objetivo. También proporciona un beneficio de aumento de daño físico a todo el grupo. Al ganar la posibilidad de lanzar hechizos instantáneos (algo intrínseco en su rotación) el mago rojo es la profesión más indicada para ejecutar la Resurreción cuando esta se necesite.
