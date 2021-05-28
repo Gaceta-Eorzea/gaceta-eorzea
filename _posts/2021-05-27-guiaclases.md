@@ -12,13 +12,15 @@ hidden: false
 
 ¿Eres nuevo en Final Fantasy XIV y no sabes qué quieres jugar? Pues desde Gaceta Eorzea te vamos a facilitar la vida. Vas a descubrir cuales son las clases y las profesiones que hay dentro del juego.
 
-Lo primero que hay que aclarar es que no todas las profesiones empiezan al comenzar el juego. **Todas las clases son viables** para ejecutar todo el contenido del juego al nivel que quieras hacerlo. Además es importante también remarcar que la elección de una clase no es una decisión crítica ya que, el diseño de Final Fantasy XIV, hace que al mismo tiempo puedas llegar a **tener todas las clases/profesiones en el mismo personaje**. Ahora vamos a aclarar todas las dudas que puedan surgir para que elijas la clase o profesión que más te guste.
+Lo primero que hay queremos aclarar es que **todas las clases son viables** para ejecutar todo el contenido del juego al nivel que quieras hacerlo. Además es importante también remarcar que la elección de una clase no es una decisión crítica ya que, el diseño de Final Fantasy XIV, hace que al mismo tiempo puedas llegar a **tener todas las clases/profesiones en el mismo personaje**. Ahora vamos a aclarar todas las dudas que puedan surgir para que elijas la clase o profesión que más te guste.
 
-# ![LogoTanque](/assets/images/articles/guias/guiaclases/tankrole.png){: width="75" } Tanques
+Veamos las distintas clases disponible pero tenemos antes que decir que no todas las profesiones se pueden elegir al comenzar el juego, pero esto lo aclararemos segun hablemos de ellas.
+
+# ![LogoTanque](/assets/images/articles/guias/guiaclases/tankrole.png) Tanques
 
 ### ![LogoGladiador](/assets/images/articles/guias/guiaclases/logogladiador.png) Gladiador > > > ![LogoPaladin](/assets/images/articles/guias/guiaclases/logopaladin.png) Paladín
 
-![Gladiador](/assets/images/articles/guias/guiaclases/gladiador.jpg){: width="60%" }
+![Gladiador](/assets/images/articles/guias/guiaclases/gladiador.jpg)
 
 El **Gladiador** (Gladiator en inglés) es una clase de guerra que se especializa en el rol de tanque. Si quieres iniciarte en esta clase como secundaria, hay que ir al Coliseo de **Ul'dah** y hablar con *Mylia Swordsong*.
 
@@ -28,7 +30,7 @@ A nivel 30, el Gladiador evoluciona a la profesión de **Paladín** (Paladin en 
 
 ### ![LogoMerodeador](/assets/images/articles/guias/guiaclases/logomerodeador.png) Merodeador > > > ![Logoguerrero](/assets/images/articles/guias/guiaclases/logoguerrero.png) Guerrero
 
-![Merodeador](/assets/images/articles/guias/guiaclases/merodeador.jpg){: width="60%" }
+![Merodeador](/assets/images/articles/guias/guiaclases/merodeador.jpg)
 
 Otra clase especializada como tanque en la creación de tu personaje es el **Merodeador** (Marauder en inglés). Para iniciarse como clase secundaria, debes ir la Torre Coral de **Limsa Lominsa** y hablar con *Wyrnzoen Saelsmyndsyn*.
 
@@ -38,9 +40,9 @@ A nivel 30, el Merodeador consigue la profesión de **Guerrero** (Warrior en ing
 
 ### ![LogoDK](/assets/images/articles/guias/guiaclases/logodk.png) Caballero Oscuro
 
-![DK](/assets/images/articles/guias/guiaclases/dk.jpg){: width="60%" }
+![DK](/assets/images/articles/guias/guiaclases/dk.jpg)
 
-Los **Caballeros Oscuros** (Dark Knight en inglés) son una profesión de tanque  que se introdujo en Final Fantasy XIV en la expansión de **Heavensward**. Para conseguir esta profesión, hay que completar la misión *Our End* en  **Ishgard**. Es importante indicar que para poder acceder a esta profesión hay que llegar a **Ishgard** que se desbloquea en las misiones de la historia principal (Main Scenario en inglés) de *Heavensward*. Cuando desbloqueas al astrólogo empezarás a jugar desde nivel 30.
+Los **Caballeros Oscuros** (Dark Knight en inglés) son una profesión de tanque  que se introdujo en Final Fantasy XIV en la expansión de **Heavensward**. Para conseguir esta profesión, hay que completar la misión *Our End* en  **Ishgard**. Es importante indicar que para poder acceder a esta profesión hay que llegar a **Ishgard** que se desbloquea en las misiones de la historia principal (Main Scenario en inglés) de *Heavensward*. Cuando desbloqueas al caballero oscuro empezarás a jugar desde nivel 30.
 
 El arma característica de la profesión es el **mandoble a 2 manos**.
 
@@ -48,7 +50,7 @@ El caballero oscuro es un tanque orientado a hacer el mayor daño posible de for
 
 ### ![LogoSablepistolero](/assets/images/articles/guias/guiaclases/logosablepistolero.png) Sablepistolero
 
-![SablePistolero](/assets/images/articles/guias/guiaclases/sablepistolero.jpg){: width="60%" }
+![SablePistolero](/assets/images/articles/guias/guiaclases/sablepistolero.jpg)
 
 El **SablePistolero** (Gunbreaker en inglés) es una profesión de tanque que se introdujo en Final Fantasy XIV en la expansión de **Shadowbringers**. Para poder acceder a la profesión hay que tener activa la expansión y tener una clase/profesión a nivel 60. Después, hay que completar la misión *The Makings of a Gunbreaker* en **Gridania**. El SablePistolero empezarás a jugarlo directamente a nivel 60.
 
@@ -56,11 +58,11 @@ El arma característica de la profesión es el **sable pistola**.
 
 Los SablePistoleros combinan daño sólido, mitigación y utilidad en un estilo de juego sencillo. Poseen combos consistentes que generan cartuchos, que pueden usarse para aumentar aún más su daño o para apuntar habilidades especiales (como escudos o regeneración) a los miembros del grupo.
 
-# ![LogoSanador](/assets/images/articles/guias/guiaclases/healerrole.png){: width="75" } Sanadores
+# ![LogoSanador](/assets/images/articles/guias/guiaclases/healerrole.png) Sanadores
 
 ### ![LogoConjurador](/assets/images/articles/guias/guiaclases/logoconjurador.png) Conjurador > > > ![LogoMagoBlanco](/assets/images/articles/guias/guiaclases/logomagoblanco.png) Mago Blanco
 
-![MagoBlanco](/assets/images/articles/guias/guiaclases/magoblanco.jpg){: width="60%" }
+![MagoBlanco](/assets/images/articles/guias/guiaclases/magoblanco.jpg)
 
 El **Conjurador** (Conjurer en inglés) es la única clase que encontrarás puramente *Sanadora* a la hora de crearte tu personaje. Si deseas iniciarte en ella como clase secundaria, tienes que ir al puerto Mealvaan's Gate de **Limsa Lominsa** y hablar con *Thubyrgeim Guldweitzwyn*.
 
@@ -70,7 +72,7 @@ Al alcanzar nivel 30, el Conjurador consigue la profesión de **Mago Blanco** (W
 
 ### ![LogoArcanista](/assets/images/articles/guias/guiaclases/logoarcanista.png) Arcanista > > > ![LogoErudito](/assets/images/articles/guias/guiaclases/logoerudito.png) Erudito
 
-![Erudito](/assets/images/articles/guias/guiaclases/erudito.jpg){: width="60%" }
+![Erudito](/assets/images/articles/guias/guiaclases/erudito.jpg)
 
 El **Arcanista** (Arcanist en inglés) es una clase de daño mágico que tiene su potencial en la invocación de distintos *Primordiales*. Es una clase especial ya que a nivel 30 podrás elegir entre ser dañador mágico y sanador. Si deseas iniciarte en esta clase como secundaria tienes que ir al puerto Mealvaan's Gate de **Limsa Lominsa** y hablar con *Thubyrgeim Guldweitzwyn*.
 
@@ -80,7 +82,7 @@ Al llegar a nivel 30 conseguirás la profesión de **Erudito** (Scholar en ingl�
 
 ### ![LogoAstrologo](/assets/images/articles/guias/guiaclases/logoastrologo.png) Astrólogo
 
-![Astrologo](/assets/images/articles/guias/guiaclases/astrologo.jpg){: width="60%" }
+![Astrologo](/assets/images/articles/guias/guiaclases/astrologo.jpg)
 
 Los **Astrólogos** (Astrologian en inglés) son una profesión de sanador que se introdujo en Final Fantasy XIV en la expansión de **Heavensward**. Para conseguir esta clase, hay que ir al observatorio Athenaeum Astrologicum de **Ishgard** y hablar con *Jannequinard de Durendaire*. Es importante indicar que para poder acceder a esta profesión hay que llegar a **Ishgard** que se desbloquea en las misiones de la historia principal (Main Scenario en inglés) de *Heavensward*. Cuando desbloqueas al astrólogo empezarás a jugar desde nivel 30.
 
@@ -88,11 +90,11 @@ El arma característica de la profesión son los **globos astronómicos**.
 
 Los astrólogos son maestros del destino que brindan escudos y regeneración a los aliados en un área grande, y también pueden usar Cartas para proporcionar beneficios de daño a los miembros del grupo mediante el uso de su *Star Globe*. Siendo su daño propio inferior al resto de los sanadores los astrólogos lo compensan al dar beneficios extras al grupo mediante el uso de sus Cartas pasando a ser el sanador que aporta más daño global al grupo. Gracias a su versatilidad ***puede elegir entre potenciar sus curas o mitigaciones*** siendo así la única profesión que puede cambiar su rol entre sanador reactivo o sanador preventivo.
 
-# ![LogoMeleeDPS](/assets/images/articles/guias/guiaclases/meleedps.png){: width="75" } Combatientes cuerpo a cuerpo.
+# ![LogoMeleeDPS](/assets/images/articles/guias/guiaclases/meleedps.png) Combatientes cuerpo a cuerpo.
 
 ### ![LogoPujil](/assets/images/articles/guias/guiaclases/logopugilista.png) Pugilista > > > ![LogoMonje](/assets/images/articles/guias/guiaclases/logomonje.png) Monje
 
-![Pugil](/assets/images/articles/guias/guiaclases/pugil.jpg){: width="60%" }
+![Pugil](/assets/images/articles/guias/guiaclases/pugil.jpg)
 
 El **Pugilista** (Pugilist en inglés) es una clase combatiente cuerpo a cuerpo para la cual el posicionamiento es muy importante. Para conseguir esta clase como secundaria debes ir a la ciudad de **Ul'dah** y conseguir la misión **Way of the Pugilist** hablando con *Hamon Holyfist* en el casino Platinum Mirage.
 
@@ -102,7 +104,7 @@ A nivel 30, el pugilista consigue la profesión de **Monje** (Monk en inglés). 
 
 ### ![LogoLancero](/assets/images/articles/guias/guiaclases/logolancero.png) Lancero > > > ![LogoMonje](/assets/images/articles/guias/guiaclases/logocaballerodragon.png) Caballero Dragon
 
-![CaballeroDragon](/assets/images/articles/guias/guiaclases/caballerodragon.jpg){: width="60%" }
+![CaballeroDragon](/assets/images/articles/guias/guiaclases/caballerodragon.jpg)
 
 Los **Lanceros** (Lancers en inglés) con combatientes cuerpo a cuerpo con potentes combos para hacer mucho daño explosivo. Para conseguir esta clase como secundaria hay que completar la misión "Way of the Lancer", y su gremio se ubica en la *barraca Wailing* de **Gridania** encabezado por *Ywain Deepwell*.
 
@@ -112,7 +114,7 @@ A nivel 30, los lanceros consiguen la profesión de **Caballero Dragón** (Drago
 
 ### ![LogoPicaro](/assets/images/articles/guias/guiaclases/logopicaro.png) Picaro > > > ![LogoNinja](/assets/images/articles/guias/guiaclases/logoninja.png) Ninja
 
-![Ninja](/assets/images/articles/guias/guiaclases/ninja.jpg){: width="60%" }
+![Ninja](/assets/images/articles/guias/guiaclases/ninja.jpg)
 
 Los **Pícaros** (Rogue en inglés) son una clase de daño cuerpo a cuerpo con una rotación muy flexible. Esta clase no está disponible en la creación del personaje. Tendrás que tener una clase nivel 10 y después  completar la misión "My First Daggers", y su gremio se ubica en el *convento de las Hermanas Dutiful de Edelweiss* en **Limsa Lominsa**, encabezado por *Jacke Swallow*. Los pícaros además aplicarán un perjuicio a los enemigos de un aumento del 5% del daño recibido.
 
@@ -122,7 +124,7 @@ Cuando llegues a nivel 30 con el pícaro accederás a la profesión **Ninja** (N
 
 ### ![LogoSamurai](/assets/images/articles/guias/guiaclases/logosamurai.png) Samurai
 
-![Samurai](/assets/images/articles/guias/guiaclases/samurai.jpg){: width="60%" }
+![Samurai](/assets/images/articles/guias/guiaclases/samurai.jpg)
 
 El **Samurai** (Samurai en inglés) es una profesión de daño cuerpo a cuerpo que se introdujo en Final Fantasy XIV en la expansión de **Stormblood**. Para poder acceder a la profesión hay que tener activa la expansión y tener una clase/profesión a nivel 50. Después hay que completar la misión *The Way of the Samurai* en **Ul'dah**. El Samurai empezarás a jugarlo directamente a nivel 50.
 
@@ -130,11 +132,11 @@ El arma característica de la profesión son las **katanas**.
 
 Los **Samurais** son una profesión con una ***fase de alto daño de 60 segundos*** y habilidades que dotan de auto beneficios duraderos que hacen que perdonen errores en la rotación. Tiene pocos ataques posicionales y mucha movilidad gracias a sus habilidades de salto. Son una clase que no dan ningún beneficio al grupo sino más que bien se aprovechan de éste para aumentar su propio daño. 
 
-# ![LogoRPDPS](/assets/images/articles/guias/guiaclases/fisicodps.png){: width="75" } Combatientes daño Físico a Distancia.
+# ![LogoRPDPS](/assets/images/articles/guias/guiaclases/fisicodps.png) Combatientes daño Físico a Distancia.
 
 ### ![LogoArquero](/assets/images/articles/guias/guiaclases/logoarquero.png) Arquero > > > ![LogoBardo](/assets/images/articles/guias/guiaclases/logobardo.png) Bardo
 
-![Bardo](/assets/images/articles/guias/guiaclases/bardo.jpg){: width="60%" }
+![Bardo](/assets/images/articles/guias/guiaclases/bardo.jpg)
 
 El **Arquero** (Archer en inglés) es una clase de daño físico a distancia con muchos hechizos instantáneos. Si quieres desbloquear esta clase como secundaria deberás completar la misión *Way of the Archer*, y su gremio se ubica en la barraca *Quiver's Hold* de **Gridania** encabezado por *Luciane Corne*.
 
@@ -144,7 +146,7 @@ A nivel 30, el arquero evoluciona a **Bardo** (Bard en inglés). El bardo es una
 
 ### ![LogoMaquinista](/assets/images/articles/guias/guiaclases/logomaquinista.png) Maquinista
 
-![Maquinista](/assets/images/articles/guias/guiaclases/maquinista.jpg){: width="60%" }
+![Maquinista](/assets/images/articles/guias/guiaclases/maquinista.jpg)
 
 El **Maquinista** (Machinist en inglés) son una profesión de daño físico a distancia que se introdujo en Final Fantasy XIV en la expansión de **Heavensward**. Esta profesión la desbloquearás cuando completes la misión *Savior of Skysteel*, y su base se ubica en la *forja Skysteel* de **Ishgard** encabezado por *Stephanivien de Haillenarte*. Empezarás a jugar la profesión directamente a nivel 30. Es importante indicar que para poder acceder a esta profesión hay que llegar a **Ishgard** que se desbloquea en las misiones de la historia principal (Main Scenario en inglés) de *Heavensward*.
 
@@ -154,7 +156,7 @@ Los maquinistas son es una profesión con jugabilidad muy frenética que se espe
 
 ### ![LogoBailarin](/assets/images/articles/guias/guiaclases/logobailarin.png) Bailarín
 
-![Bailarin](/assets/images/articles/guias/guiaclases/bailarin.jpg){: width="60%" }
+![Bailarin](/assets/images/articles/guias/guiaclases/bailarin.jpg)
 
 El **Bailarín** (Dancer en inglés) es una profesión de daño físico a distancia que se introdujo en Final Fantasy XIV en la expansión de **Shadowbringers**. Para poder acceder a la profesión hay que tener activa la expansión y tener una clase/profesión a nivel 60. Después, hay que completar la misión *Shall We Dance* en **Limsa Lominsa**. El Bailarín empezarás a jugarlo directamente a nivel 60.
 
@@ -162,11 +164,11 @@ El arma característica de la profesión son los **chakrams**.
 
 El bailarín es una profesión con un daño personal bajo pero una gran contribución al daño de los demás mediante el uso de sus ***Danzas*** pudiendo elegir además a un compañero del grupo como *pareja de baile* que ganará un gran beneficio extra. Estas *Danzas* requieren la ejecución de los pasos de baile correctos para realizar poderosos movimientos finales. Sus principales habilidades con armas giran en torno a un combo simple que tiene la posibilidad de generar procs más fuertes que a su vez tienen la posibilidad de generar plumas. Estas plumas se pueden usar para potenciar las habilidades de daño fuera del GCD.
 
-# ![LogoMagicalDPS](/assets/images/articles/guias/guiaclases/magicaldps.png){: width="75" } Combatientes daño Mágico.
+# ![LogoMagicalDPS](/assets/images/articles/guias/guiaclases/magicaldps.png) Combatientes daño Mágico.
 
 ### ![LogoTaumaturgo](/assets/images/articles/guias/guiaclases/logotaumaturgo.png) Taumaturgo > > > ![LogoMagoNegro](/assets/images/articles/guias/guiaclases/logomagonegro.png) Mago Negro
 
-![MagoNegro](/assets/images/articles/guias/guiaclases/magonegro.jpg){: width="60%" }
+![MagoNegro](/assets/images/articles/guias/guiaclases/magonegro.jpg)
 
 El **Taumaturgo** es un potente ejecutor de daño mágico utilizando el fuego para destruir a sus enemigos y el hielo para la recuperación de maná. Si deseas conseguir esta clase como una secundaria, deberas completar a misión *Way of the Thaumaturge*, y su gremio se ubica en la *biblioteca Arrzaneth Ossuary* de **Ul'dah** encabezado por *Cocobuki Lolobuki*.
 
@@ -176,7 +178,7 @@ A nivel 30, el taumaturgo consigue la profesión de **Mago Negro**. Con una rota
 
 ### ![LogoArcanista](/assets/images/articles/guias/guiaclases/logoarcanista.png) Arcanista > > > ![LogoInvocador](/assets/images/articles/guias/guiaclases/logoinvocador.png) Invocador
 
-![Invocador](/assets/images/articles/guias/guiaclases/invocador.jpg){: width="60%" }
+![Invocador](/assets/images/articles/guias/guiaclases/invocador.jpg)
 
 Los **Arcanistas** ya los conocimos cuando vimos las clases de sanadores. Hay que poner muy en valor su dualidad. Ya que, a nivel 30, no solo conseguiras al *Erudito* sino que además conseguirás al **Invocador**.
 
@@ -184,7 +186,7 @@ Los **invocadores**  (Summoner en inglés) basan mucha parte de su daño en sus 
 
 ### ![LogoMagoRojo](/assets/images/articles/guias/guiaclases/logomagorojo.png) Mago Rojo
 
-![MagoRojo](/assets/images/articles/guias/guiaclases/magorojo.jpg){: width="60%" }
+![MagoRojo](/assets/images/articles/guias/guiaclases/magorojo.jpg)
 
 El **Mago Rojo** (Red Mage en inglés) es una profesión de daño mágico que se introdujo en Final Fantasy XIV en la expansión de **Stormblood**. Para poder acceder a la profesión hay que tener activa la expansión y tener una clase/profesión a nivel 50. Después hay que completar la misión *Taking the Red* en **Ul'dah**. El Mago Rojo empezarás a jugarlo directamente a nivel 50.
 
