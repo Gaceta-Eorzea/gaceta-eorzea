@@ -5,9 +5,99 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 May 2021 13:34:40 +0100</pubDate>
-    <lastBuildDate>Fri, 28 May 2021 13:34:40 +0100</lastBuildDate>
+    <pubDate>Sat, 29 May 2021 11:05:05 +0200</pubDate>
+    <lastBuildDate>Sat, 29 May 2021 11:05:05 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Guía sobre creación de personajes en Final Fantasy XIV.</title>
+        <description>&lt;p&gt;El primer paso es muy importante a la hora de jugar donde quieres jugar. En la pantalla de inicio del juego tendrás que elegir el &lt;strong&gt;Data Center&lt;/strong&gt; donde va a estar tu personaje alojado. La comunidad española se divide en varios pero la mayoría de ella se encuentra en el Data Center &lt;strong&gt;Chaos&lt;/strong&gt; y el servidor &lt;strong&gt;Ragnarok&lt;/strong&gt;. En este paso solo vas a elegir el Data Center. Si quieres jugar con la comunidad española, &lt;strong&gt;Chaos&lt;/strong&gt; es tu mejor opción.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/pantallainicial.png&quot; alt=&quot;pantallainicial&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/datacenter.png&quot; alt=&quot;datacenter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El consejo principal a la hora en la creación de tu personaje es: Créate lo que visualmente más te guste. Cada raza tiene unas Estadísticas distintas pero, conforme vayas ganando niveles, esas diferencias entre estas estadísticas iniciales pasan a ser imperceptibles.&lt;/p&gt;
+
+&lt;p&gt;Lo primero que nos van a pedir es que elijamos la &lt;a href=&quot;/guia-razas/&quot;&gt;raza&lt;/a&gt; del personaje.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/razas.png&quot; alt=&quot;Raza&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tras esto, tendremos que elegir el clan del personaje. Cada raza tiene 2 clanes. La única diferencia entre cada clan son bastantes aspectos visuales.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/clanes.png&quot; alt=&quot;Clanes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora viene una de las partes más divertidas. La customización del personaje. Podrás elegir todo. Desde altura, a color y estilo del pelo, tatuajes, pinturas faciales o la voz de tu personaje. Tu personaje va a ser visualmente exactamente como tú quieras que sea.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/customizacion.png&quot; alt=&quot;Customizacion&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cuando hayas terminado la customización se te va a dar la opción de guardar la apariencia. Esto es importante, como luego veremos, ya que te va a ahorrar tiempo si por algún problema no puedes terminar de crear tu personaje en el servidor &lt;strong&gt;Ragnarok&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/salvarapariencia.png&quot; alt=&quot;salvarapariencia&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En este momento vas a elegir el cumpleaños de tu personaje. ¿Qué día naciste?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/cumple.png&quot; alt=&quot;Cumple&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora elegirás la deidad de tu personaje. Esta decisión no es importante a la hora de jugar. Elije el que más te guste. Son las siguientes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Althyk: dios de tiempo y espacio&lt;/li&gt;
+  &lt;li&gt;Azeyma: diosa del sol y de la curiosidad&lt;/li&gt;
+  &lt;li&gt;Byregot: Dios de la arquitectura, la industria, y las artes&lt;/li&gt;
+  &lt;li&gt;Halone: Diosa de la guerra&lt;/li&gt;
+  &lt;li&gt;Llymlaen: Diosa de los mares y la navegación&lt;/li&gt;
+  &lt;li&gt;Menphina: Diosa de la luna y el amor&lt;/li&gt;
+  &lt;li&gt;Nald’thal: Dios del inframundo y el comercio&lt;/li&gt;
+  &lt;li&gt;Nophica: Diosa de la tierra, la cosecha y la abundancia&lt;/li&gt;
+  &lt;li&gt;Nymeia: Diosa del destino&lt;/li&gt;
+  &lt;li&gt;Oschon: Dios de las montañas, los viajeros, y los vagos&lt;/li&gt;
+  &lt;li&gt;Rhalgr: Dios de la destrucción&lt;/li&gt;
+  &lt;li&gt;Thaliak: Dios de los ríos, la sabiduría y el conocimiento&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/deidad.png&quot; alt=&quot;Deidad&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora viene cuando elegimos la &lt;a href=&quot;/guiaclases/&quot;&gt;clase&lt;/a&gt; inicial de nuestro personaje. Las clases se diferencian entre Disciplinas de Guerra (gladiador, pugilista, merodeador, lancero y arquero) y Disciplinas de la Magia (conjurador, taumaturgo y arcanista).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/clasewar.png&quot; alt=&quot;clasewar&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/clasemagic.png&quot; alt=&quot;clasemagic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora vamos a elegir el Servidor donde vamos a jugar. La gran mayoría de la comunidad española esta en el servidor Ragnarok (no aceptes el servidor que te recomiendan). Es posible que al crearte tu personaje no te deje y que te diga que el servidor está lleno. Si esto te pasa, tendrás que esperar para creártelo en un momento cuando haya menos jugadores conectados (de madrugada o primera hora de la mañana os podemos recomendar). Como antes aconsejábamos, el haber guardado vuestra apariencia os ahorra en este paso mucho tiempo ya que podréis cargarla y llegar rapidamente a los pasos finales de la creación del personaje. Os dejamos una página web donde podrás comprobar el estado de los servidores y si se puede crear o no personajes nuevos &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/worldstatus/&quot;&gt;Estado de los servidores&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/servidor.png&quot; alt=&quot;servidor&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/ragnarok.png&quot; alt=&quot;ragnarok&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora tendrás que ponerle nombre a tu personaje. En Final Fantasy XIV siempre vas a ponder poner el nombre que más te guste ya que, tendrás que elegir también un apellido. Es obligatorio elegir nombre y apellido. Además hay un dado (abajo a la izquierda) en el cuadro de diálogo donde te pondrá nombres y apellidos aleatorios, si así lo decides.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/nombre.png&quot; alt=&quot;nombre&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Y ya por último tendrás que aceptar crear al personaje, llegando así al final de todo este proceso.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/ultimopaso.png&quot; alt=&quot;ultimopaso&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ya has creado tu personaje en &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt; y solo te queda empezar a vivir sus aventuras.&lt;/p&gt;
+
+&lt;p&gt;¡¡¡ Bienvenid@ a &lt;strong&gt;Eorzea&lt;/strong&gt; !!!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 May 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/creacionpersonajes/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/creacionpersonajes/</guid>
+        
+        <category>nuevos jugadores</category>
+        
+        <category>guias</category>
+        
+        <category>clases</category>
+        
+        <category>profesiones</category>
+        
+        
+        <category>guias</category>
+        
+      </item>
     
       <item>
         <title>Fashion Report 28 Mayo 2021</title>
@@ -34,7 +124,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 28 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210528/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210528/</guid>
         
@@ -235,7 +325,7 @@
 
 &lt;p&gt;El Mago Rojo es una clase que, al igual que el Mago Negro, es fácil de jugar y difícil de maximizar ya que tiene una gran profundidad que no se ve a simple vista. La gestión de su &lt;em&gt;maná blanco y su maná negro&lt;/em&gt; es la parte más importante de la rotación. Estos magos &lt;strong&gt;&lt;em&gt;intercalan hechizos de máximo rango con hechizos a corta distancia&lt;/em&gt;&lt;/strong&gt;. Para esto utilizan varios tipos distintos de habilidades de movimiento que sirven tanto para acercarse como para alejarse del objetivo. También proporciona un beneficio de aumento de daño físico a todo el grupo. Al ganar la posibilidad de lanzar hechizos instantáneos (algo intrínseco en su rotación) el mago rojo es la profesión más indicada para ejecutar la Resurreción cuando esta se necesite.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 27 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guiaclases/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guiaclases/</guid>
         
@@ -264,7 +354,7 @@
 
 &lt;p&gt;Si quieres empezar a descubrir el mundo de Final Fantasy XIV en tu PS5, este es el momento.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/versionps5/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/versionps5/</guid>
         
@@ -345,7 +435,7 @@
   &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/ala_mhigo_2.jpg&quot; /&gt;
 &lt;/img-comparison-slider&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/hydaelyn-zodiak-1/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/hydaelyn-zodiak-1/</guid>
         
@@ -382,7 +472,7 @@
 
 &lt;p&gt;¡Sin duda este es el momento de la llegada masiva de nuevos héroes a Eorzea!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/descuento/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/descuento/</guid>
         
@@ -413,7 +503,7 @@
 
 &lt;p&gt;Recordamos que para conseguirlas debemos preseguir con la mision “What Dreams Are Made Of” que nos dara Gerolt en Gangos (X:6.2 Y:5.0), debemos haber completado anteriormente “A New Playing Field”.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/znuevas_relics/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/znuevas_relics/</guid>
         
@@ -520,7 +610,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche5_55/5_55_14.png&quot; alt=&quot;5.55 image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/resumen-5-55/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/resumen-5-55/</guid>
         
@@ -613,7 +703,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;¡Un saludo y nos vemos por Eorzea!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guia-razas/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-razas/</guid>
         
@@ -654,7 +744,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 22 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 22 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210521/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210521/</guid>
         
@@ -666,49 +756,6 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
         
         
         <category>gold saucer</category>
-        
-      </item>
-    
-      <item>
-        <title>Traducir los diálogos y cinemáticas</title>
-        <description>&lt;p&gt;En este artículo voy a explicar como poder traducir los diálogos y las cinemáticas de Final Fantasy XIV Online al Español (o cualquier idioma) que queráis.&lt;/p&gt;
-
-&lt;p&gt;Para que os hagáis una idea, lo que vamos a hacer es superponer una pantalla encima de nuestro juego. Para esto, tenemos que configurarlo en Borderless Windowed (Venta completa maximizada)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/traduccion/tataru_1.jpg&quot; alt=&quot;Venta completa maximizada&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;El siguiente paso es que vamos a permitir ver en el Chat los diálogos de los NPCs. Nos vamos al menú Character Configuration y en la pestaña General, nos vamos a Log Windows Settings, bajamos y clickeamos sobre General.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/traduccion/tataru_2.jpg&quot; alt=&quot;Opciones del chat&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Se nos abrirá una ventana que tenemos que buscar las opciones: NPC Dialogue y NPC Dialogue (Announcemets) Las activamos las dos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/traduccion/tataru_3.jpg&quot; alt=&quot;Dialogos de NPC&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ya hemos hecho los cambios necesarios dentro del juego. Ahora vamos a bajar el programa de traducción. Se llama &lt;a href=&quot;https://github.com/NightlyRevenger/TataruHelper&quot; target=&quot;_blank&quot;&gt;TataruHelper&lt;/a&gt; y lo podeis bajar desde &lt;a href=&quot;https://github.com/NightlyRevenger/TataruHelper/releases/latest/download/Setup.exe&quot; target=&quot;_blank&quot;&gt;este enlance&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Este programa nos va a dar muchas opciones y nos va a crear una ventanita que irá traduciendo las Strings (líneas de texto). Se puede cambiar el fondo, cambiar el tamaño, etc. Os dejo unas imágenes con mi propia configuración.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/traduccion/tataru_4.png&quot; alt=&quot;Opciones tataru 1&quot; /&gt;
-&lt;img src=&quot;/assets/images/articles/guias/traduccion/tataru_5.png&quot; alt=&quot;Opciones tataru 1&quot; /&gt;
-&lt;img src=&quot;/assets/images/articles/guias/traduccion/tataru_6.png&quot; alt=&quot;Opciones tataru 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ya, tras esto, en vuestro juego os saldrá más o menos la ventana que os voy a enseñar en la siguiente Screen. Y veréis como se traducen, en esa ventana, las distintas Strings que vayan apareciendo en el juego. Este programa no traduce skills ni interface.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/traduccion/tataru_7.jpg&quot; alt=&quot;Ventana de tataru sobre el juego&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Espero que os haya ayudado el hilo para conseguir traducir el Final Fantasy XIV al Español y que disfrutéis aún más de este fantástico MMO. Un saludo!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 21 May 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/traducir/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/traducir/</guid>
-        
-        <category>nuevos jugadores</category>
-        
-        <category>herramientas</category>
-        
-        
-        <category>herramientas</category>
         
       </item>
     
