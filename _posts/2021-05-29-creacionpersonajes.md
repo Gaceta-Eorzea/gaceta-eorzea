@@ -16,7 +16,7 @@ El primer paso es muy importante a la hora de jugar donde quieres jugar. En la p
 
 ![datacenter](/assets/images/articles/guias/guiacreacionpersonajes/datacenter.jpg)
 
-El consejo principal a la hora en la creación de tu personaje es: Créate lo que visualmente más te guste. Cada raza tiene unas Estadísticas distintas pero, conforme vayas ganando niveles, esas diferencias entre estas estadísticas iniciales pasan a ser imperceptibles. 
+El consejo principal a la hora en la creación de tu personaje es: Créate lo que visualmente más te guste. Cada raza tiene unas Estadísticas distintas pero, conforme vayas ganando niveles, esas diferencias entre estas estadísticas iniciales pasan a ser imperceptibles. Las razas **Hrothgar** y **Viera** solo estarán disponibles si tienes comprada la expansión **Shadowbringers**.
 
 Lo primero que nos van a pedir es que elijamos la [raza](/guia-razas/) del personaje. 
 
