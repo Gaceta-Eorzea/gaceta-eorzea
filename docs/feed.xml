@@ -5,9 +5,37 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 May 2021 21:08:12 +0200</pubDate>
-    <lastBuildDate>Sat, 29 May 2021 21:08:12 +0200</lastBuildDate>
+    <pubDate>Sun, 30 May 2021 09:07:34 +0100</pubDate>
+    <lastBuildDate>Sun, 30 May 2021 09:07:34 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>El Juglar Errante - Juega Eorzea</title>
+        <description>&lt;p&gt;En nuestras aventuras en Eorzea conocemos al Juglar Errante, el cual se encarga de relatar y cantar las historias mas importantes que pasan en nuestras aventuras por todo el reino.&lt;/p&gt;
+
+&lt;p&gt;En gaceta Eorzea hemos decidido tener nuestro propio Juglar el cual compartira con nosotros las historias que nuestros adventureros han compartido.&lt;/p&gt;
+
+&lt;p&gt;Empezaremos con el increible  video ‘Juega Eorzea’ que la creadora de contenido &lt;a href=&quot;https://twitter.com/zanekonpu&quot; target=&quot;_blank&quot;&gt;Zaneko&lt;/a&gt; compartio en su &lt;a href=&quot;https://www.youtube.com/c/ZANEKONPU/featured&quot; target=&quot;_blank&quot;&gt;canal&lt;/a&gt;. Este video es un corto mezclando imagen real y captura del juego que nos cuenta algo que la mayoria de jugadores compartimos.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;nota: el video deberia aparecer con subtitulos en Español, sino podeis cambiarlo en los controles del video.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/skjA25At-Uc?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 30 May 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/juglar-01/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-01/</guid>
+        
+        <category>multimedia</category>
+        
+        <category>video</category>
+        
+        
+        <category>multimedia</category>
+        
+      </item>
     
       <item>
         <title>Guía sobre creación de personajes en Final Fantasy XIV.</title>
@@ -82,7 +110,7 @@
 
 &lt;p&gt;¡¡¡ Bienvenid@ a &lt;strong&gt;Eorzea&lt;/strong&gt; !!!&lt;/p&gt;
 </description>
-        <pubDate>Sat, 29 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 29 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/creacionpersonajes/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/creacionpersonajes/</guid>
         
@@ -124,7 +152,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Fri, 28 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/fashion210528/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210528/</guid>
         
@@ -325,7 +353,7 @@
 
 &lt;p&gt;El Mago Rojo es una clase que, al igual que el Mago Negro, es fácil de jugar y difícil de maximizar ya que tiene una gran profundidad que no se ve a simple vista. La gestión de su &lt;em&gt;maná blanco y su maná negro&lt;/em&gt; es la parte más importante de la rotación. Estos magos &lt;strong&gt;&lt;em&gt;intercalan hechizos de máximo rango con hechizos a corta distancia&lt;/em&gt;&lt;/strong&gt;. Para esto utilizan varios tipos distintos de habilidades de movimiento que sirven tanto para acercarse como para alejarse del objetivo. También proporciona un beneficio de aumento de daño físico a todo el grupo. Al ganar la posibilidad de lanzar hechizos instantáneos (algo intrínseco en su rotación) el mago rojo es la profesión más indicada para ejecutar la Resurreción cuando esta se necesite.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 27 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/guiaclases/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guiaclases/</guid>
         
@@ -354,7 +382,7 @@
 
 &lt;p&gt;Si quieres empezar a descubrir el mundo de Final Fantasy XIV en tu PS5, este es el momento.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/versionps5/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/versionps5/</guid>
         
@@ -435,7 +463,7 @@
   &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/ala_mhigo_2.jpg&quot; /&gt;
 &lt;/img-comparison-slider&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/hydaelyn-zodiak-1/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/hydaelyn-zodiak-1/</guid>
         
@@ -472,7 +500,7 @@
 
 &lt;p&gt;¡Sin duda este es el momento de la llegada masiva de nuevos héroes a Eorzea!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/descuento/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/descuento/</guid>
         
@@ -498,12 +526,12 @@
         <description>&lt;p&gt;El creador de contenido &lt;a href=&quot;https://www.youtube.com/channel/UCthOhLPb1MBA20e56F2bnFQ&quot;&gt;The Fashionista&lt;/a&gt; ha publico un video con una preview de las armas reliquias de Zadnor.&lt;/p&gt;
 
 &lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/rUDBIgk0jSA&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/rUDBIgk0jSA?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Recordamos que para conseguirlas debemos preseguir con la mision “What Dreams Are Made Of” que nos dara Gerolt en Gangos (X:6.2 Y:5.0), debemos haber completado anteriormente “A New Playing Field”.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/znuevas_relics/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/znuevas_relics/</guid>
         
@@ -610,7 +638,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche5_55/5_55_14.png&quot; alt=&quot;5.55 image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/resumen-5-55/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/resumen-5-55/</guid>
         
@@ -703,7 +731,7 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
 
 &lt;p&gt;¡Un saludo y nos vemos por Eorzea!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/guia-razas/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-razas/</guid>
         
@@ -713,49 +741,6 @@ Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;st
         
         
         <category>guias</category>
-        
-      </item>
-    
-      <item>
-        <title>Fashion Report 21 Mayo 2021</title>
-        <description>&lt;p&gt;Una semana mas &lt;a href=&quot;https://twitter.com/kaiyokostar&quot; target=&quot;_blank&quot;&gt;Kaiyoko Star&lt;/a&gt; ha publicado la solucion para el Fashion Report, la cual podeis veir a continuacion.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/freport_173.jpg&quot; alt=&quot;Fashion Report 173&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Para hacer los 80 puntos y ganar 60,000 MGP necesitareis :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;En la pechera &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/f07e64641c4&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;The Emperor’s New Robe&lt;/a&gt; la cual se la podeis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/e94d4aa84ec/?item=f07e64641c4&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Tataroga&lt;/a&gt; en Mor Dhona (X:22.1 Y:6.7), sino lo podeis comprar porque no teneis desbloqueada la opcion cualquier jugador os lo puede comprar y vale solo 71 gil.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;En guantes el tinte &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/73f7ac282d9&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Hunter Green Dye &lt;/a&gt; el cual se lo podeis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/82cc59ae4c7/?item=73f7ac282d9&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Ixali Vendor&lt;/a&gt; en North Shroud (X:24.9 Y:22.7) si teneis la reputacion de los Ixali subida o sino comprarlo en el Market Board ya que no suele ser muy caro.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;En pantalones el tinte &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/b036656bfda&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Ceruleum Blue Dye &lt;/a&gt; el cual se lo podeis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/f82f6515efe/?item=b036656bfda&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Unsynrael&lt;/a&gt; en Limsa Lominsa Lower Decks (X:6.0 Y:12.3), &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/a28cf0441f4/?item=b036656bfda&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Alaric&lt;/a&gt; en Old Gridania (X:14.3 Y:8.8) o &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/8cf85c5ad7b/?item=b036656bfda&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Nanabe&lt;/a&gt; en Ul’dah - Steps of Thal (X:14.2 Y:11.0).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Recordar que teneis ademas que tener equipado un item en cada slot del equipo, a excepcion de off-hand.&lt;/p&gt;
-
-&lt;p&gt;Sino teneis desbloqueados el fashion report lo podeis hacer mediante la quest &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/bd8144d7d23&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Passion for Fashion&lt;/a&gt; la cual os la da &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/bfd5ce76f91/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Lewena&lt;/a&gt; en The Gold Saucer (X: 4.8 Y: 6.1).&lt;/p&gt;
-
-&lt;p&gt;Por ultimo recordar que este año tenemos de nuevo el evento del Final Fantasy XV con el que podeis conseguir el coche Regalia Type-G, el cual es para 4 jugadores, y os costara 200,000 MGP por lo cual hacer el fashion report es una manera facil de conseguirlo.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 22 May 2021 00:00:00 +0200</pubDate>
-        <link>https://gaceta-eorzea.com/fashion210521/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210521/</guid>
-        
-        <category>gold saucer</category>
-        
-        <category>eventos</category>
-        
-        <category>semanales</category>
-        
-        
-        <category>gold saucer</category>
         
       </item>
     
