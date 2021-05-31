@@ -5,9 +5,37 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 May 2021 14:23:49 +0100</pubDate>
-    <lastBuildDate>Sun, 30 May 2021 14:23:49 +0100</lastBuildDate>
+    <pubDate>Mon, 31 May 2021 12:29:35 +0200</pubDate>
+    <lastBuildDate>Mon, 31 May 2021 12:29:35 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>El viaje sin fin - Parte 1</title>
+        <description>&lt;p&gt;El viaje sin fin del guerrero de la luz nos ha llevado a múltiples aventuras, sin embargo puede que no las recordemos todas, bien porque han pasado muchos años o bien porque hasta &lt;a href=&quot;/traducir&quot; target=&quot;_blank&quot;&gt;hace poco&lt;/a&gt; no podíamos disfrutar de estas historias en nuestro idioma.&lt;/p&gt;
+
+&lt;p&gt;El creador de contenido &lt;a href=&quot;https://www.youtube.com/c/Khrey_Oficial&quot; target=&quot;_blank&quot;&gt;Khrey&lt;/a&gt; ha creado una increíble lista de reproducción en su &lt;a href=&quot;https://www.youtube.com/c/Khrey_Oficial&quot; target=&quot;_blank&quot;&gt;canal&lt;/a&gt; donde nos va contando la historia del juego, hasta la fecha.&lt;/p&gt;
+
+&lt;p&gt;Os dejamos aquí la primera entrega de esta serie para que podáis verla, si os ha gustado no dudeis en subscribiros a su canal.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/V8ZZGQABYL0?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 31 May 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/viaje-sin-fin-1/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-1/</guid>
+        
+        <category>multimedia</category>
+        
+        <category>video</category>
+        
+        <category>lore</category>
+        
+        
+        <category>lore</category>
+        
+      </item>
     
       <item>
         <title>El Juglar Errante - Juega Eorzea</title>
@@ -24,7 +52,7 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 30 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 30 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/juglar-01/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-01/</guid>
         
@@ -110,7 +138,7 @@
 
 &lt;p&gt;¡¡¡ Bienvenid@ a &lt;strong&gt;Eorzea&lt;/strong&gt; !!!&lt;/p&gt;
 </description>
-        <pubDate>Sat, 29 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 29 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/creacionpersonajes/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/creacionpersonajes/</guid>
         
@@ -152,7 +180,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 28 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210528/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210528/</guid>
         
@@ -353,7 +381,7 @@
 
 &lt;p&gt;El Mago Rojo es una clase que, al igual que el Mago Negro, es fácil de jugar y difícil de maximizar ya que tiene una gran profundidad que no se ve a simple vista. La gestión de su &lt;em&gt;maná blanco y su maná negro&lt;/em&gt; es la parte más importante de la rotación. Estos magos &lt;strong&gt;&lt;em&gt;intercalan hechizos de máximo rango con hechizos a corta distancia&lt;/em&gt;&lt;/strong&gt;. Para esto utilizan varios tipos distintos de habilidades de movimiento que sirven tanto para acercarse como para alejarse del objetivo. También proporciona un beneficio de aumento de daño físico a todo el grupo. Al ganar la posibilidad de lanzar hechizos instantáneos (algo intrínseco en su rotación) el mago rojo es la profesión más indicada para ejecutar la Resurreción cuando esta se necesite.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 27 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guiaclases/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guiaclases/</guid>
         
@@ -382,7 +410,7 @@
 
 &lt;p&gt;Si quieres empezar a descubrir el mundo de Final Fantasy XIV en tu PS5, este es el momento.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/versionps5/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/versionps5/</guid>
         
@@ -463,7 +491,7 @@
   &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak/ala_mhigo_2.jpg&quot; /&gt;
 &lt;/img-comparison-slider&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/hydaelyn-zodiak-1/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/hydaelyn-zodiak-1/</guid>
         
@@ -500,7 +528,7 @@
 
 &lt;p&gt;¡Sin duda este es el momento de la llegada masiva de nuevos héroes a Eorzea!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/descuento/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/descuento/</guid>
         
@@ -531,7 +559,7 @@
 
 &lt;p&gt;Recordamos que para conseguirlas debemos preseguir con la mision “What Dreams Are Made Of” que nos dara Gerolt en Gangos (X:6.2 Y:5.0), debemos haber completado anteriormente “A New Playing Field”.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/znuevas_relics/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/znuevas_relics/</guid>
         
@@ -638,7 +666,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche5_55/5_55_14.png&quot; alt=&quot;5.55 image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/resumen-5-55/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/resumen-5-55/</guid>
         
@@ -650,97 +678,6 @@
         
         
         <category>parches</category>
-        
-      </item>
-    
-      <item>
-        <title>Guía de Razas de Final Fantasy XIV</title>
-        <description>&lt;p&gt;Si eres nuevo en Final Fantasy XIV en este artículo te vamos a enseñar todas las razas jugables que vas a encontrar dentro del juego.&lt;/p&gt;
-
-&lt;h2 id=&quot;razas-jugables&quot;&gt;Razas jugables.&lt;/h2&gt;
-
-&lt;p&gt;Final Fantasy XIV tiene ocho razas jugables: &lt;strong&gt;Hyur&lt;/strong&gt;, &lt;strong&gt;Elezen&lt;/strong&gt;, &lt;strong&gt;Lalafell&lt;/strong&gt;, &lt;strong&gt;Miqo’te&lt;/strong&gt;, &lt;strong&gt;Roegadyn&lt;/strong&gt;, &lt;strong&gt;Au’Ra&lt;/strong&gt;, &lt;strong&gt;Viera&lt;/strong&gt; y &lt;strong&gt;Hrothgar&lt;/strong&gt;. Además cada raza tiene dos clanes que los diferencian sobre todo visualmente.&lt;/p&gt;
-
-&lt;h4 id=&quot;hyur&quot;&gt;Hyur&lt;/h4&gt;
-
-&lt;p&gt;Los &lt;em&gt;Hyur&lt;/em&gt; son una raza parecida a los humanos. Los Hyur además soy una de las razas más jugadas en el juego.&lt;/p&gt;
-
-&lt;p&gt;Los clanes de los Hyur son &lt;strong&gt;Midlanders&lt;/strong&gt; y &lt;strong&gt;Highlanders&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiarazas2/hyur.jpg&quot; alt=&quot;Hyur&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;elezen&quot;&gt;Elezen&lt;/h4&gt;
-
-&lt;p&gt;Los &lt;em&gt;Elezen&lt;/em&gt; son una raza de Elfos. Son algo más altos que la media de las otras razas. Se cree que es una raza proveniente de la propia Eorzea y que antaño tuvieron un gran imperio.&lt;/p&gt;
-
-&lt;p&gt;Los clanes de los Elezen se dividen en &lt;strong&gt;Wildwood&lt;/strong&gt; y &lt;strong&gt;Duskwight&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiarazas2/elezen.png&quot; alt=&quot;Elezen&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;lalafell&quot;&gt;Lalafell&lt;/h4&gt;
-
-&lt;p&gt;Los &lt;em&gt;Lalafell&lt;/em&gt; son una raza pequeña que proviene de los mares del sur de Eorzea. Los Lalafell tienen actitudes y apariencia de niños con actitudes muy divertidas.&lt;/p&gt;
-
-&lt;p&gt;Los clanes de los Lalafell se dividen en &lt;strong&gt;Plainsfolk&lt;/strong&gt; y &lt;strong&gt;Dunesfolk&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiarazas2/lalafell.jpg&quot; alt=&quot;Lalafell&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;miqote&quot;&gt;Miqo’te&lt;/h4&gt;
-
-&lt;p&gt;La raza con apariencia de gatos son los &lt;em&gt;Miqo’te&lt;/em&gt;. Tienen grandes orejas y colas felinas. Durante la Era de la Escarcha Infinita emigraron a Eorzea al final de la Quinta Era.&lt;/p&gt;
-
-&lt;p&gt;Los clanes de los Miqo’te se dividen en &lt;strong&gt;Seekers of the Sun&lt;/strong&gt; y &lt;strong&gt;Keepers of the Moon&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiarazas2/miqote.png&quot; alt=&quot;Miqote&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;roegadyn&quot;&gt;Roegadyn&lt;/h4&gt;
-&lt;p&gt;Los &lt;em&gt;Roegadyn&lt;/em&gt; son fornidos humanoides que se les distinguen desde lejos. Son descendientes de los marineros de los duros mares del norte. Muchas de las otras razas los consideran una raza de bárbaros.&lt;/p&gt;
-
-&lt;p&gt;Los Roegadyn se dividen en &lt;strong&gt;Sea Wolves&lt;/strong&gt; y &lt;strong&gt;Hellsguard&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiarazas2/roegadyn.png&quot; alt=&quot;Roegadyn&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;aura&quot;&gt;Au’Ra&lt;/h4&gt;
-
-&lt;p&gt;Los &lt;em&gt;Au’Ra&lt;/em&gt; se introdujeron en Final Fantasy XIV en la Expansión de Heavensward. Son una raza basada en dragons con cuernos, escamas y colas.
-Los clanes de los Au’Ra son los &lt;strong&gt;Raen&lt;/strong&gt; y los &lt;strong&gt;Xaela&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiarazas2/aura.png&quot; alt=&quot;AuRa&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;viera&quot;&gt;Viera&lt;/h4&gt;
-
-&lt;p&gt;Los &lt;em&gt;Viera&lt;/em&gt; se introdujeron en Shadowbringers. Esta raza solo puede jugarse actualmente en su versión femenina. Son una raza leporina distinguida por sus grandes orejas&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;La versión masculina de los Viera se introducirá en la expansión de Endwalker.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Los clanes de los Viera se dividen en &lt;strong&gt;Rava&lt;/strong&gt; y &lt;strong&gt;Veena&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiarazas2/viera.jpg&quot; alt=&quot;Viera&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;hrothgar&quot;&gt;Hrothgar&lt;/h4&gt;
-
-&lt;p&gt;Los &lt;em&gt;Hrothgar&lt;/em&gt; también se introdujeron en Shadowbringers. Esta raza solo puede jugarse actualmente en su versión masculina. Los Hrothgar son una raza felina, animal y corpulenta.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;La versión femenina de los Hrothgar se podrá jugar en la expansión Endwalker.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Los Hrothgar se dividen en los clanes &lt;strong&gt;Helions&lt;/strong&gt; y &lt;strong&gt;The Lost&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiarazas2/hrothgar.png&quot; alt=&quot;Hrothgar&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Y con esto ya estarían descritas todas las razas jugables. Lo más importante a la hora de crearte tu personaje es elegir la raza que más te guste por pura estética. Siéntete agusto jugando y jugarás mucho.&lt;/p&gt;
-
-&lt;p&gt;¡Un saludo y nos vemos por Eorzea!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/guia-razas/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/guia-razas/</guid>
-        
-        <category>nuevos jugadores</category>
-        
-        <category>guias</category>
-        
-        
-        <category>guias</category>
         
       </item>
     

@@ -9,10 +9,10 @@ description: "El viaje sin fin - parte 1."
 featured: false
 hidden: false
 ---
-El viaje sin fin del guerrero de la luz nos ha llevado a multiples aventuras, sin embargo puede que no las recordemos todas, bien porque han pasado muchos años o bien porque hasta [hace poco](/traducir){:target="_blank"} no podiamos disfrutar de estas historias en nuestro idioma.
+El viaje sin fin del guerrero de la luz nos ha llevado a múltiples aventuras, sin embargo puede que no las recordemos todas, bien porque han pasado muchos años o bien porque hasta [hace poco](/traducir){:target="_blank"} no podíamos disfrutar de estas historias en nuestro idioma.
 
-El creador de contenido [Khrey](https://www.youtube.com/c/Khrey_Oficial){:target="_blank"} ha creado una increible lista de reproduccion en su [canal](https://www.youtube.com/c/Khrey_Oficial){:target="_blank"} donde nos va contando la historia del juego, hasta la fecha.
+El creador de contenido [Khrey](https://www.youtube.com/c/Khrey_Oficial){:target="_blank"} ha creado una increíble lista de reproducción en su [canal](https://www.youtube.com/c/Khrey_Oficial){:target="_blank"} donde nos va contando la historia del juego, hasta la fecha.
 
-Os dejamos aqui la primera entrega de esta serie para que podais verla, si os ha gustado no dudeis en subscribiros a su canal.
+Os dejamos aquí la primera entrega de esta serie para que podáis verla, si os ha gustado no dudeis en subscribiros a su canal.
 
 {% include youtube.html id='V8ZZGQABYL0' %}
