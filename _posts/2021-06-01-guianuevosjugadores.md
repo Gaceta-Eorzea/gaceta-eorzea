@@ -72,6 +72,8 @@ De entre todas las Aetherytes vamos a poder elegir 4 (+1 extra) que van a ser m�
 
 Cuando llegas al nivel 10 de Main Scenario se desbloquearán un sistema de **Aviones** entre las ciudades más importantes (New Grindania, Ul'dah y Limsa Lominsa). Estos Aviones te llevarán una ciudad a la otra a un coste reducido. 
 
+A nivel 17 de la Main Scenario como recompensa de misión te darán unos sobres llamados **Vesper Bay Aetheryte Ticket**. Usando este item te teletransportarás a Vesper Bay, el lugar de la base de los Scions.
+
 Para moverte dentro de los mapas mientras haces misiones, a nivel 20 de la Main Scenario desbloquearas tu primera montura: **El Chocobo**. Hay cientos de monturas distintas en Final Fantasy XIV y coleccionarlas todas puede ser un reto muy gratificante. 
 
 Hay más medios de transporte como barcos, chocobos porters (taxis), etc. Son medios no tan utilizados y que te dejamos que los descubras mientras avanzas en tu aventura.
