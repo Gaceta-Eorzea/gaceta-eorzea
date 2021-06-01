@@ -6,7 +6,7 @@ categories: [ guias ]
 tags: [nuevos jugadores, guias, clases, profesiones]
 image: assets/images/articles/guias/guiaclases/jobs1.jpg
 description: "Descripción general de cada clase y profesión enfocada en nuevos jugadores."
-featured: true
+featured: false
 hidden: false
 ---
 
