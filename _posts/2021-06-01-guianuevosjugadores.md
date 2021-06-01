@@ -40,15 +40,15 @@ Una vez hayas entrado al juego, podrás ver al personaje que has creado. A la iz
 
 También te darás cuenta que estás en una ciudad grande. Te harán un tour por ella y te enseñarán los puntos mas importantes de esta ciudad. Te vas a encontrar distintos iconos sobre los NPCs. Cada icono quiere decir que te da una Misión. La misión más importante, siempre, se denomina Main Scenario. Esta misión es la que marca el nivel al que llevas el juego. Es importante recalcar que Final Fantasy XIV se estructura al rededor de la Main Scenario. A través de estas misiones será cuando vayas desbloqueando los distintos tipos de juego y lo que marcará el nivel real de la partida.
 
-![Mainq](/assets/images/articles/guias/guianuevosjugadores/mainq.jpg)
+![Mainq](/assets/images/articles/guias/guianuevosjugadores/mainq2.jpg)
 
 Otras misiones importantes tienen el fondo azul. Son misiones que desbloquean mecánicas dentro del juego como mazmorras, por ejemplo. Estas misiones también hay que hacerlas siempre que las tengas activas. 
 
-![azulesQ](/assets/images/articles/guias/guianuevosjugadores/azulesQ.jpg)
+![azulesQ](/assets/images/articles/guias/guianuevosjugadores/azulesq2.jpg)
 
 Las misiones secundarias de fondo blanco, como consejo general, no son necesarias hacerlas y puedes obviarlas. La razón principal es que en el juego hay demasiada experiencia y completar estas misiones te puede ralentizar a la hora de completar el Main Scenario. A partir de este consejo, cada cual puede decidir hacer o no hacer estas misiones.
 
-![normalQ](/assets/images/articles/guias/guianuevosjugadores/normalQ.jpg)
+![normalQ](/assets/images/articles/guias/guianuevosjugadores/normalq2.jpg)
 
 # Combate
 
