@@ -96,7 +96,7 @@ Cada **5 niveles de tu personaje**, se te desbloqueará una misión de clase. Es
 
 Cuando estés completando misiones, comprobarás que algunos NPCs tienen un símbolo distinto sobre el nombre. Este símbolo quiere decir que pertenece al denominado **Hunting Log**. Este método de juego nos pide matar cierta cantidad de un tipo de NPC. Es importante hacerlo conforme vayas subiendo su personaje ya que los primeros niveles del Hunting Log suelen estar en las zonas de las misiones de inicio.
 
-![huntinglog](/assets/images/articles/guias/guianuevosjugadores/huntinglog.jpg)
+![huntinglog3](/assets/images/articles/guias/guianuevosjugadores/huntinglog3.jpg)
 
 ![huntinglog2](/assets/images/articles/guias/guianuevosjugadores/huntinglog2.jpg)
 
