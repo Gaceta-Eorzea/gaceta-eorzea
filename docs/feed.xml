@@ -5,9 +5,232 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Jun 2021 21:42:45 +0200</pubDate>
-    <lastBuildDate>Tue, 01 Jun 2021 21:42:45 +0200</lastBuildDate>
+    <pubDate>Thu, 03 Jun 2021 17:57:11 +0200</pubDate>
+    <lastBuildDate>Thu, 03 Jun 2021 17:57:11 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Guía de introduccion a los tipos de instancia en PvE.</title>
+        <description>&lt;p&gt;En esta guía vamos a dar una instrodución a los multiple tipos de contenido que instanciandos en PvE para nuevos jugadores para que podáis conocer cuales son y como podeis disfrutar de ellos.&lt;/p&gt;
+
+&lt;h3 id=&quot;tipos-de-grupo&quot;&gt;Tipos de Grupo&lt;/h3&gt;
+&lt;p&gt;Para empezar tenemos que entender que existen varios tipos de grupos en el juego para hacer contenido instanciado.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Grupo Ligero&lt;/strong&gt;, Light Party en inglés, es un grupo de &lt;strong&gt;4 jugadores&lt;/strong&gt; que seran 1 tanke, 1 sanador y 2 combatientes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Grupo Completo&lt;/strong&gt;, Full Party en inglés, esta formado por &lt;strong&gt;8 jugadores&lt;/strong&gt; siendo 2 tankes, 2 sanadores y 4 combatientes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Alianza&lt;/strong&gt;, Alliance en inglés, esta formada por &lt;strong&gt;3 Grupos Completos&lt;/strong&gt; con 1 tanke, 2 sanadores y 5 combatientes cada uno siendo en conjunto de &lt;strong&gt;24 jugadores&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sincronizacion-de-nivel&quot;&gt;Sincronizacion de Nivel&lt;/h3&gt;
+
+&lt;p&gt;En final Fantasy XIV el contenido instanciado esta sincronizado, lo cual quiere decir que si entramos por encima del nivel de ese contenido nuestro personaje, acciones y equipo se sincronizaran al nivel de la instancia. Así que si somos nivel 40 pero entramos en una instancia de nivel 25 tendremos disponibles solo las habilidades del nivel de la instancia. De esta forma siempre podemos jugar con nuestros amigos haciendo las instancia a su nivel.&lt;/p&gt;
+
+&lt;p&gt;Cabe destacar que la instancia proporcionara experiencia relativa a nuestro nivel, no el de la instancia, y que a maximo nivel nos daran recompensas como los puntos necesarios para el equipo de maximo nivel, por lo cual es facil encontrar gente haciendo contenido de todo tipo de nivel constantemente.&lt;/p&gt;
+
+&lt;h3 id=&quot;tipos-de-instancias&quot;&gt;Tipos de instancias&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/instancias/ancients.jpg&quot; alt=&quot;ancients&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora que conocemos los tipos de grupo y como nos sincronizamos veamos que tipo de instancias tenemos.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Mandatos de Gremio&lt;/strong&gt;, Guildhest en inglés, consiste en un encuentro para Grupos Ligeros contra un par de oleadas de enemigos y un miniboss final. Estaran disponibles a partir de nivel 10 de la historia principal, son muy rapidas de hacer pero otorgan muy poca experiencia aunque seran el primer contenido instanciado a poder hacer en grupo. Estas instancias no otorgan equipo. La mayoría de jugadores &lt;strong&gt;&lt;em&gt;no suelen hacerlas&lt;/em&gt;&lt;/strong&gt; una vez desbloqueadas las mazmorras.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Mazmorras&lt;/strong&gt;, Dungeons en inglés, consiste en una instancia para Grupo Ligeros donde nos enfrentaremos a diversos jefes con las clasicas patrullas de enemigos alrededor del recorrido de la mazmorra. Cada jefe tendra uno o dos cofres que contendra equipo y armas. La primera sera desbloqueda a nivel 15 de la historia principal y hay decenas de ellas durante el juego. Algunas seran en dificultad Normal y otras en Hard que cambiaran tanto enemigos, jefes y incluso el mapa de la instancia.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Desafíos&lt;/strong&gt;, Trials en inglés, son encuentros de proporciones epicas contra un solo Jefe, normalmente para Grupos Completos, aunque los 3 primeros seran para Grupos Ligeros ya que forman parte del leveo inicial. Suelen ser parte importante en la trama del juego y cada uno posee su tema musical propio. Estos desafíos serán en modalidad &lt;em&gt;Normal&lt;/em&gt;, &lt;em&gt;Hard&lt;/em&gt; y &lt;em&gt;Extreme&lt;/em&gt;. Inicialmente no suele dar equipo pero según avancemos en el juego podremos obtener algunas piezas o monturas en la dificultad Extreme. Cabe destacar que las monturas suele tener de musica el tema épico del jefe que hemos derrotado. El primero lo desbloquearemos a nivel 20 de la historia principal.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Incursión&lt;/strong&gt;, Raid en inglés, son un contenido para Grupos Completos, donde nos enfrentaremos a un enemigo poderoso, suelen tener varias fases y mecanicas complejas. Exiten dos modos de difcultad &lt;em&gt;Normal&lt;/em&gt; y &lt;em&gt;Salvaje&lt;/em&gt;, Savage en inglés, el cual es el modo mas complicado del juego y el que otorga el mejor nivel de equipo. Suelen tener 4 partes que se pueden hacer de forma independiente. Cada jefe proporciona piezas canjeables de equipo o armas en su cofre. A nivel máximo podemos obtener un objeto por cada parte de la incursión a la semana, pero las que no son contenido actual no tienen esa restricción. Aunque la primera que podemos desbloquear es de nivel 50 esta se considera opcional y la mayoría de jugadores hacen las de nivel 60 o superior.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Incursion de Alianzas&lt;/strong&gt;, Alliance Raid en ingles, son incursiones para 24 jugadores donde nos enfrentaremos a multiples jefes en localizaciones majestuosas. Sulen estar compuestas por 3 partes y podremos hacerla de forma independiente. Suelen tener un transfondo de historia muy importante en cada expansion. La primera la podremos desbloquear a nivel 50. Suelen ser de una dificultad simple, aún así es fácil que muramos en mecanicas las primeras veces que las hagamos. Cada jefe proporciona piezas de un set y cada Grupo Completo tiene su propio cofre. A nivel máximo podemos obtener una pieza por cada parte a la semana, pero las que no son contenido actual no tienen esa restricción.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Última&lt;/strong&gt;, Ultimate en inglés, son un contenido especial en el juego donde los desarolladores habilitan ciertos encuentros del pasado, Incursiones o Desafios, a realizar a maximo nivel, 80 ahora mismo. Suelen ser muy dificiles de hacer pero la recompensa es sólo estética con las armaduras y armas más expectaculares del juego. Solo algunos encuentros Ultima estan disponibles durante un tiempo haciendolos aún más un contenido especial a hacer.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;recompensas&quot;&gt;Recompensas&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/instancias/roll.jpg&quot; alt=&quot;ragnarok&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En las instancias los cofres que podemos abrir son los que darán los objetos de la misma, con que una persona del grupo abra el cofre a todos nos saldrá una notificación para decidir si queremos :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Necesidad&lt;/strong&gt;, Need en inglés.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Codicia&lt;/strong&gt;, Greed en inglés.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pasar&lt;/strong&gt;, Pass en inglés.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Solo podemos dar necesidad a los objetos que podemos usar con nuestro trabajo o profesion y ademas suelen ser unico por lo cual tampoco podremos si ya lo tenemos en nuestras bolsas o el armario de equipo.&lt;/p&gt;
+
+&lt;p&gt;Cuando seleccionemos que queremos veremos en el chat un mensaje con una tirada del 1 al 100 sobre lo que hemos elegido. El objeto se repartirá primeramente si hay alguien que dio a necesidad al rol mas alto, sino al mas alto de codicia y sino se perdera en el vacío.&lt;/p&gt;
+
+&lt;p&gt;Tenemos 6 minutos para elegir que queremos, si alguien se sale de la instancia al final sin haber roleado el juego considera que ha pasado, y si somos el último en salir y nadie habia dado a nada nos llevaremos todo lo que se estaba roleando.&lt;/p&gt;
+
+&lt;p&gt;Adicionalmente el loot las instancias a partir de cierto nivel empezaran a otorgar tomos de distintos tipos, estos tomos son los que se usan para comprar equipo, dependiendo del tipo de tomo nos permite comprar equipo de distintas expansiones por lo cual de distinto nivel.&lt;/p&gt;
+
+&lt;p&gt;A máximo nivel podremos obtener los tomos que nos permiten llegar a un nivel de objeto un poco inferior a las incursiones salvajes.&lt;/p&gt;
+
+&lt;h2 id=&quot;elogios&quot;&gt;Elogios&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/instancias/comendation.jpg&quot; alt=&quot;elogio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Al finalizar de una instancia nos saldrá una ventana para repartir un &lt;strong&gt;Elogio&lt;/strong&gt;, Commendation en inglés, esto es una forma de indicar quien nos ha parecido el mejor jugador del grupo. Suele ser una práctica habitual el otorgarlos. Cuando consigamos cierta cantidad de ellos obtendremos &lt;em&gt;logros y monturas&lt;/em&gt; y son requisito para poder llegar a ser &lt;strong&gt;mentor&lt;/strong&gt; en el juego.&lt;/p&gt;
+
+&lt;p&gt;No podemos dárselo a las personas que formaban parte de nuestro grupo antes de entrar a la instancia, ni tampoco a las personas que ya hayan salido de la misma, por lo cual debemos ser rapidos en darla.&lt;/p&gt;
+
+&lt;h3 id=&quot;buscador-de-instancias&quot;&gt;Buscador de instancias&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/instancias/buscador.jpg&quot; alt=&quot;finder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El juego tiene integrado un &lt;strong&gt;buscador de instancias&lt;/strong&gt;, Dutty Finder en inglés, el cual por defecto se habre con la tecla U. Este nos permite meternos en cola desde cualquier parte del mundo en la instancia que seleccionemos y nos teleportará al interior de la misma una vez se haya formado el grupo.&lt;/p&gt;
+
+&lt;p&gt;Solo podremos meternos en cola en las instancias que tengamos desbloquedas y &lt;em&gt;cumplamos el nivel de jugador y equipo requerido&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Podernos meternos en cola con una trabajo o profesión y seguir jugando con otro, cuando salte la notificacion de que podemos entrar &lt;em&gt;nos pedirá el cambiar al trabajo o profesion que teníamos cuando nos apuntamos&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dentro de la instancia no podemos cambiarnos a otra profesión o trabajo.&lt;/p&gt;
+
+&lt;h3 id=&quot;ruleta&quot;&gt;Ruleta&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/instancias/ruleta.jpg&quot; alt=&quot;ruleta&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Todos los días, con &lt;strong&gt;reseteo a las 17:00 en verano y 16:00 en invierno&lt;/strong&gt;, podemos realizar una ruleta, que es una forma de meternos en instancias aleatorias, las cuales nos dan o bien bonos de experiencia o tomos para equipo. Podemos repetirlas pero no nos daran experiencia o tomos adicionales.&lt;/p&gt;
+
+&lt;p&gt;Adicionalmente a veces hay bono extra en algun tipo de ruleta para un rol especifico, como por ejemplo sanadores o tankes.&lt;/p&gt;
+
+&lt;p&gt;La experiencia y tomo seran relativas a nuestro nivel lo cual hace que todo el mundo las suela hacer, incluso a máximo nivel, y por lo cual bastante fácil encontrar grupos a cualquier nivel del juego.&lt;/p&gt;
+
+&lt;p&gt;Para desbloquear una ruleta de un tipo al menos tenemos que tener &lt;strong&gt;2 instancias del mismo tipo desbloqueda&lt;/strong&gt;, por ejemplo para hacer la de leveling necesitamos al menos haber desbloqueado la mazmorra de nivel 15 y 16.&lt;/p&gt;
+
+&lt;p&gt;Esta son las ruletas disponibles en PvE :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Guildhests&lt;/strong&gt; : Nos permite hacer un mandato del gremio aleatorio. Esta disponible desde nivel 10.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Leveling&lt;/strong&gt; : Nos permite hacer una mazmorra de leveo aleatoria, incluye los 3 primeros desafios ya que son de grupo ligero. Pero no las instancias de final de cada expansion. Se desbloquea al nivel 16.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Level 50/60/70&lt;/strong&gt; : Las mazmorras de final de cada expansion, menos la expansion actual, incluyendo modos normal y hard. Se desbloquea al nivel 50.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Expert&lt;/strong&gt; : Las dos ultimas mamorras de la expansion actual, por lo cual las mas dificiles. Se desbloquea al maximo nivel y con cierto equipo. En cada parche cambiaran al introducir nuevas.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Level 80 Dungeons&lt;/strong&gt; : El resto de las mazmorras de maximo nivel de la expansion actual, no incluyee las que estan en Expert. Se desbloquea al maximo nivel.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Trials&lt;/strong&gt; : Todos los desafios desbloqueados en Normal y Hard a excecion de los 3 primeros.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Alliance Raid&lt;/strong&gt; : Todas las Incursiones de alianza. Se desbloquea al nivel 50.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Normal&lt;/strong&gt; : Cualquier incursion en normal, a excepcion de las de nivel 50. Se desbloquea a nivel 60.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Main Scenario&lt;/strong&gt; : Una cola especial que incluye las dos instancias finales de A Real Reborn, las cuales estan llenas de cinematicas que no pueden ser saltadas. Da muchisima XP y chapas de equipo de leveo pero es algo pesada de repetir. Se desbloquea a nivel 50.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;buscador-de-grupos-personalizados&quot;&gt;Buscador de grupos personalizados&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/instancias/finder.jpg&quot; alt=&quot;ruleta&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Como véis no se incluyen ciertos contenidos en las ruletas, como las Incursiones Savage, los Desafios en Expert o los encuentros Ultima, y aunque algunos si están disponible para buscar con grupo aleatorio la comunidad suele realizar ese contenido usando el &lt;em&gt;Buscador de Grupos personalizados&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Esta herramienta nos permite crear o buscar grupos donde los jugadores &lt;strong&gt;establecen los requerimientos&lt;/strong&gt;, como el haber completado anteriormente el contenido a realizar, o el nivel del equipo requerido. También podemos indicar si es un grupo de práctica o si estamos ayudando a un amigo a completar el encuentro.&lt;/p&gt;
+
+&lt;p&gt;Por ultimo cada recordar que esta herramienta también se puede usar para crear grupos de cualquier tipo de contenido, por ejemplo si queremos entrar a una ruleta pero con un grupo pre establezido, evitando así la aleatoriedad.&lt;/p&gt;
+
+&lt;p&gt;Con esto hemos terminado nuestra Guía y esperemos que hayais aprendido muchas cosas nuevas sobre esta modalidad de juego.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Jun 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/guia-tipo-instancias/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/guia-tipo-instancias/</guid>
+        
+        <category>nuevos jugadores</category>
+        
+        <category>guias</category>
+        
+        <category>instancias</category>
+        
+        
+        <category>guias</category>
+        
+      </item>
+    
+      <item>
+        <title>Guía sobre la prueba gratuita de Final Fantasy XIV.</title>
+        <description>&lt;p&gt;Una de las dudas que tenemos al empezar a jugar es hasta cuando podré jugar sin hacer un desembolso económico. Con este artículo vamos a intentar resolver las dudas que salgan sobre la prueba gratuita de Final Fantasy XIV y la creacion de una cuenta para empezar a utilizar este servicio.&lt;/p&gt;
+
+&lt;h1 id=&quot;creación-de-una-cuenta-square-enix-y-links-para-bajar-el-juego&quot;&gt;Creación de una cuenta Square Enix y links para bajar el juego.&lt;/h1&gt;
+
+&lt;p&gt;Para poder acceder a la &lt;strong&gt;prueba gratuita&lt;/strong&gt; de Final Fantasy XIV, lo primero que tienes que hacer es crearte una &lt;a href=&quot;https://secure.square-enix.com/oauth/oa/registligt?response_type=code&amp;amp;redirect_uri=https%3A%2F%2Fsecure.square-enix.com%2Faccount%2Fapp%2Fsvc%2Ftop%3Frequest%3Dmogstation&amp;amp;client_id=ffxiv_mog&amp;amp;lang=en-us&quot; target=&quot;_blank&quot;&gt;cuenta de Square Enix&lt;/a&gt; Esta es la cuenta que vas a utilizar para descargar el juego. Desde Gaceta Eorzea te vamos a dejar los links para descargar el juego dependiendo de la plataforma que elijas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://freetrial.finalfantasyxiv.com/es/&quot; target=&quot;_blank&quot;&gt;Descarga PC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eu.finalfantasyxiv.com/mac/download/&quot; target=&quot;_blank&quot;&gt;Descarga Mac&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/312060/FINAL_FANTASY_XIV_Online_Free_Trial/&quot; target=&quot;_blank&quot;&gt;Descarga Steam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://store.playstation.com/es-es/product/EP0082-PPSA02955_00-FFXIVFREETRIAL01&quot; target=&quot;_blank&quot;&gt;Descarga PlayStation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Una vez descargado el juego, tendrás que introducir de nuevo los datos de la cuenta de Square Enix que has creado y ya podrás empezar a jugar a Final Fantasy XIV.&lt;/p&gt;
+
+&lt;h1 id=&quot;términos-y-condiciones-de-la-prueba-gratuita-de-final-fantasy-xiv&quot;&gt;Términos y condiciones de la prueba gratuita de Final Fantasy XIV.&lt;/h1&gt;
+
+&lt;p&gt;Vamos a detallar punto por punto cuales son los términos y condiciones al jugar con un personaje en una cuenta con la prueba gratuita de Final Fantasy XIV.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Los jugadores no están obligados a comprar software con licencia para utilizar la prueba gratuita.&lt;/li&gt;
+  &lt;li&gt;Se puede registrar una (1) cuenta de prueba gratuita en una cuenta de Square Enix siempre que esa cuenta de Square Enix no se haya registrado previamente con ninguna versión del juego.&lt;/li&gt;
+  &lt;li&gt;Los jugadores pueden comprar artículos seleccionados del juego en la tienda en línea de FINAL FANTASY® XIV durante la prueba gratuita. No todos los artículos del juego están disponibles para que los jugadores de prueba gratuita los compren (p. Ej., Códigos de regalo de artículos del juego).&lt;/li&gt;
+  &lt;li&gt;Los jugadores pueden crear hasta ocho (8) personajes jugables, restringidos a un (1) personaje jugable por mundo.&lt;/li&gt;
+  &lt;li&gt;Los personajes de la cuenta de prueba gratuita tienen todos sus niveles limitados al nivel sesenta (60).&lt;/li&gt;
+  &lt;li&gt;Los personajes de la cuenta de prueba gratuita pueden poseer un máximo de 300.000 gil (moneda del juego).&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden utilizar las opciones de chat “gritar”, “gritar” o “decir” en el juego durante la Prueba gratuita.&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden acceder al tablero del mercado (casa de subastas) del juego durante la prueba gratuita.&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden comerciar con otros jugadores durante la prueba gratuita.&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden enviar cartas dentro del juego mediante el servicio de entrega de moogle durante la prueba gratuita. Tampoco podrán enviar susurros a otros jugadores.&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden contratar retenedores (&lt;em&gt;retainers&lt;/em&gt; en inglés) durante la prueba gratuita.&lt;/li&gt;
+  &lt;li&gt;Los jugadores pueden unirse a un Linkshell o Cross-World Linkshell si están invitados, pero no pueden crear un nuevo Linkshell o Cross-World Linkshell durante la prueba gratuita.&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden crear ni unirse a una hermandad gratuita (&lt;em&gt;free company&lt;/em&gt; en inglés) durante la prueba gratuita.&lt;/li&gt;
+  &lt;li&gt;Los jugadores pueden unirse a un grupo si están invitados o mediante el buscador de tareas, pero no pueden formar un grupo durante la prueba gratuita. (no pueden invitar)&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden crear o unirse a un equipo PvP o participar en The Feast (Partida igualada) o The Feast (Partida igualada por equipos) durante la Prueba gratuita.&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden iniciar sesión en Lodestone, el foro oficial o la aplicación complementaria durante la prueba gratuita.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 03 Jun 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/guia-free-trial/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/guia-free-trial/</guid>
+        
+        <category>nuevos jugadores</category>
+        
+        <category>guias</category>
+        
+        <category>free trial</category>
+        
+        <category>prueba gratuita</category>
+        
+        
+        <category>guias</category>
+        
+      </item>
     
       <item>
         <title>Guía para nuevos jugadores de Final Fantasy XIV.</title>
@@ -646,72 +869,6 @@
         <category>luz</category>
         
         <category>oscuridad</category>
-        
-        
-        <category>multimedia</category>
-        
-      </item>
-    
-      <item>
-        <title>Descuento del 60% en The Complete Edition - Final Fantasy XIV tanto en PC como en las versiones de PlayStation.</title>
-        <description>&lt;p&gt;Con motivo de la salida del parche &lt;em&gt;5.55&lt;/em&gt; de &lt;strong&gt;Shadowbringers&lt;/strong&gt; desde Square Enix nos quieren facilitar la llegada a Final Fantasy XIV.&lt;/p&gt;
-
-&lt;p&gt;Desde ayer mismo y hasta el 6 de junio, The Complete Edition de Final Fantasy XIV está rebajada a un 60%. Costando así &lt;strong&gt;15.99€ para PC&lt;/strong&gt; y &lt;strong&gt;21.99€ para PS4&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Hay que recordar que la Complete Edition viene con todas las expansiones hasta la actualidad (A Realm Reborn, Heavensward, Stormblood y Shadowbringers) y con 30 días de juego.&lt;/p&gt;
-
-&lt;p&gt;Podrás acceder a la oferta de PC a traves de &lt;a href=&quot;https://store.eu.square-enix-games.com/en_EU/product/565219/final-fantasy-xiv-online-complete-edition-pc-download&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;este enlace&lt;/a&gt; y si lo quieres para PS4, lo puedes comprar en la misma Store PS4 o también a través de &lt;a href=&quot;https://store.playstation.com/es-es/product/EP0082-PPSA02955_00-COMPLETE20190000&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;este otro enlace&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Actualización&lt;/em&gt;&lt;/strong&gt;: Si juegas en PC y aún estás con el &lt;em&gt;free trial&lt;/em&gt; también recomendamos acceder a la oferta con la opción &lt;em&gt;PC Download&lt;/em&gt; en &lt;em&gt;Your Platform&lt;/em&gt; pero &lt;strong&gt;&lt;em&gt;NO ACTIVAR el código que te dan&lt;/em&gt;&lt;/strong&gt;. Mientras estés en &lt;em&gt;free trial&lt;/em&gt; tienes el juego de forma totalmnete gratuita hasta nivel 60 de la línea de misiones del escenario principal (Main Scenario en inglés). Una vez llegado a nivel 60, es el momento de introducir el código en tu cuenta de &lt;strong&gt;Mog Station&lt;/strong&gt;. Si juegas en PlayStation no tendrás esta posibilidad y al comprar la oferta se te activarán las expansiones y el primer mes de suscripción haciendo obligatoria el pago de ésta cada 30 días.&lt;/p&gt;
-
-&lt;p&gt;¡Sin duda este es el momento de la llegada masiva de nuevos héroes a Eorzea!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
-        <link>https://gaceta-eorzea.com/descuento/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/descuento/</guid>
-        
-        <category>nuevos jugadores</category>
-        
-        <category>noticias</category>
-        
-        <category>descuento</category>
-        
-        <category>rebajas</category>
-        
-        <category>pc</category>
-        
-        <category>playstation</category>
-        
-        
-        <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Preview de las reliquias de Zadnor</title>
-        <description>&lt;p&gt;El creador de contenido &lt;a href=&quot;https://www.youtube.com/channel/UCthOhLPb1MBA20e56F2bnFQ&quot;&gt;The Fashionista&lt;/a&gt; ha publico un video con una preview de las armas reliquias de Zadnor.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/rUDBIgk0jSA?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Recordamos que para conseguirlas debemos preseguir con la mision “What Dreams Are Made Of” que nos dara Gerolt en Gangos (X:6.2 Y:5.0), debemos haber completado anteriormente “A New Playing Field”.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
-        <link>https://gaceta-eorzea.com/znuevas_relics/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/znuevas_relics/</guid>
-        
-        <category>shadowbringers</category>
-        
-        <category>5.55</category>
-        
-        <category>multimedia</category>
-        
-        <category>video</category>
-        
-        <category>videos</category>
-        
-        <category>reliquias</category>
         
         
         <category>multimedia</category>

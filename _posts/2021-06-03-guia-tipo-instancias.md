@@ -6,7 +6,7 @@ categories: [ guias ]
 tags: [nuevos jugadores, guias, instancias]
 image: assets/images/articles/guias/instancias/dungeon.jpg
 description: "Guía de introduccion a los tipos de instancia en PvE para nuevos jugadores de Final Fantasy XIV."
-featured: false
+featured: true
 hidden: false
 ---
 En esta guía vamos a dar una instrodución a los multiple tipos de contenido que instanciandos en PvE para nuevos jugadores para que podáis conocer cuales son y como podeis disfrutar de ellos.
@@ -60,9 +60,9 @@ Cuando seleccionemos que queremos veremos en el chat un mensaje con una tirada d
 
 Tenemos 6 minutos para elegir que queremos, si alguien se sale de la instancia al final sin haber roleado el juego considera que ha pasado, y si somos el último en salir y nadie habia dado a nada nos llevaremos todo lo que se estaba roleando.
 
-Addicionalmente el loot las instancias a partir de cierto nivel empezaran a otorgar tomos de distintos tipos, estos tomos son los que se usan para comprar equipo, dependiendo del tipo de tomo nos permite comprar equipo de distintas expansiones por lo cual de distinto nivel.
+Adicionalmente el loot las instancias a partir de cierto nivel empezaran a otorgar tomos de distintos tipos, estos tomos son los que se usan para comprar equipo, dependiendo del tipo de tomo nos permite comprar equipo de distintas expansiones por lo cual de distinto nivel.
 
-A maximo nivel podremos obtener los tomos que nos permiten llegar a un nivel de objeto un poco inferior a las incursiones salvajes.
+A máximo nivel podremos obtener los tomos que nos permiten llegar a un nivel de objeto un poco inferior a las incursiones salvajes.
 
 ## Elogios
 
@@ -88,13 +88,13 @@ Dentro de la instancia no podemos cambiarnos a otra profesión o trabajo.
 
 ![ruleta](/assets/images/articles/guias/instancias/ruleta.jpg)
 
-Todos los dias, con reseteo a las 17:00 en verano y 16:00 en invierno, podemos realizar una ruleta, que es una forma de meternos en instancias aleatorias, las cuales nos dan o bien bonos de experiencia o tomos para equipo. Podemos repetirlas pero no nos daran experiencia o tomos adicionales.
+Todos los días, con **reseteo a las 17:00 en verano y 16:00 en invierno**, podemos realizar una ruleta, que es una forma de meternos en instancias aleatorias, las cuales nos dan o bien bonos de experiencia o tomos para equipo. Podemos repetirlas pero no nos daran experiencia o tomos adicionales.
 
-Addicionalmente a veces hay bono en algun tipo de ruleta para un rol especifico, como por ejemplo sanadores o tankes.
+Adicionalmente a veces hay bono extra en algun tipo de ruleta para un rol especifico, como por ejemplo sanadores o tankes.
 
-La experiencia y tomo seran relativas a nuestro nivel lo cual hace que todo el mundo las suela hacer, incluso a maximo nivel, y por lo cual bastante facil encontrar grupos a cualquier nivel del juego.
+La experiencia y tomo seran relativas a nuestro nivel lo cual hace que todo el mundo las suela hacer, incluso a máximo nivel, y por lo cual bastante fácil encontrar grupos a cualquier nivel del juego.
 
-Para desbloquear una ruleta de un tipo al menos tenemos que tener 2 instancias del mismo tipo desbloqueda, por ejemplo para hacer la de leveling necesitamos al menos haber desbloqueado la mazmorra de nivel 15 y 16.
+Para desbloquear una ruleta de un tipo al menos tenemos que tener **2 instancias del mismo tipo desbloqueda**, por ejemplo para hacer la de leveling necesitamos al menos haber desbloqueado la mazmorra de nivel 15 y 16.
 
 Esta son las ruletas disponibles en PvE :
 
@@ -117,16 +117,16 @@ Esta son las ruletas disponibles en PvE :
 - **Main Scenario** : Una cola especial que incluye las dos instancias finales de A Real Reborn, las cuales estan llenas de cinematicas que no pueden ser saltadas. Da muchisima XP y chapas de equipo de leveo pero es algo pesada de repetir. Se desbloquea a nivel 50.
 
 
-### Buscador de grupos pre-hechos
+### Buscador de grupos personalizados
 
 ![ruleta](/assets/images/articles/guias/instancias/finder.jpg)
 
 
-Como veeis no se incluyer ciertos contenidos en las ruletas, como los Incursiones Savage, los Desafios en Expert o los encuentros Ultima, y aunque alguno si esta disponible a buscar con grupo aleatorio la comunidad suele realizar ese contenido usando el Buscador de Grupos pre-hechos.
+Como véis no se incluyen ciertos contenidos en las ruletas, como las Incursiones Savage, los Desafios en Expert o los encuentros Ultima, y aunque algunos si están disponible para buscar con grupo aleatorio la comunidad suele realizar ese contenido usando el *Buscador de Grupos personalizados*.
 
-Esta herramienta nos permite crear o buscar grupos donde los jugadores establecen los requerimientos, como el haber completado anteriormente el contenido a realizar, o el nivel del equipo requerido. Tambien podemos indicar si es un grupo de practica o si estamos ayudando a un amigo a completar el encuentro.
+Esta herramienta nos permite crear o buscar grupos donde los jugadores **establecen los requerimientos**, como el haber completado anteriormente el contenido a realizar, o el nivel del equipo requerido. También podemos indicar si es un grupo de práctica o si estamos ayudando a un amigo a completar el encuentro.
 
-Por ultimo cada recordar que esta herramienta tambien se puede usar para crear grupos de cualquier tipo de contenido, por ejemplo si queremos entrar a una ruleta pero con un grupo pre-hecho.
+Por ultimo cada recordar que esta herramienta también se puede usar para crear grupos de cualquier tipo de contenido, por ejemplo si queremos entrar a una ruleta pero con un grupo pre establezido, evitando así la aleatoriedad.
 
-Con esto hemos terminado nuestra Guia y esperemos que hayais aprendido muchas cosas nuevas sobre esta modalidad de juego.
+Con esto hemos terminado nuestra Guía y esperemos que hayais aprendido muchas cosas nuevas sobre esta modalidad de juego.
 
