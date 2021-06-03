@@ -46,24 +46,24 @@ Ahora que conocemos los tipos de grupo y como nos sincronizamos veamos que tipo 
 
 En las instancias los cofres que podemos abrir son los nos darán los objetos de la misma, con que una persona del grupo abra el cofre a todos nos saldrá una notificación para decidir si queremos :
 
-- Pasar, pass en inglés.
-- Necesidad, need en inglés.
-- Codicia, greed en inglés. 
+- **Pasar**, Pass en inglés.
+- **Necesidad**, Need en inglés.
+- **Codicia**, Greed en inglés. 
 
 Cuando seleccionemso que queremos veremos en el chat un mensaje con una tirada del 1 al 100 sobre lo que hemos elegido. El objeto se repartirá primeramente si hay alguien que dio a necesidad con el rol mas alto, sino al mas alto de codicia y sino se perdera en el vacío. Tenemos 6 minutos para elegir que queremos, si alguien se sale de la instancia al final sin haber roleado el juego considera que ha pasado, y si somos el último en salir y nadie habia dado a nada nos llevaremos todo lo que ese estaba roleando.
 
 ## Elogios
 
-Al finalizar una instancia nos saldrá una ventana para repartir un Elogio, commendation en ingles, esto es una forma de indicar quien nos ha parecido el mejor jugador del grupo. Suele ser una practica habitual el otorgarlos. Cuando consigamos cierta cantidad de ellos obtendremos logros y monturas y son requisito para poder llegar a ser mentor en el juego. 
+Al finalizar una instancia nos saldrá una ventana para repartir un **Elogio**, Commendation en inglés, esto es una forma de indicar quien nos ha parecido el mejor jugador del grupo. Suele ser una práctica habitual el otorgarlos. Cuando consigamos cierta cantidad de ellos obtendremos *logros y monturas* y son requisito para poder llegar a ser **mentor** en el juego. 
 
 No podemos dárselo a las personas que estuvieran en nuestro grupo antes de entrar a la instancia, ni tampoco a las personas que ya haya salido de la instancia.
 
 ### Buscador de instancias
 
-El juego tiene integrado un buscador de instancias, dutty finder en inglés, el cual por defecto se hable con la tecla U. Este nos permite meternos en cola desde cualquier parte del mundo en la que seleccionemos y nos teleportará al interior de la misma una vez se haya formado el grupo.
+El juego tiene integrado un **buscador de instancias**, Dutty Finder en inglés, el cual por defecto se hable con la tecla U. Este nos permite meternos en cola desde cualquier parte del mundo en la que seleccionemos y nos teleportará al interior de la misma una vez se haya formado el grupo.
 
-Solo podremos meternos en cola en las instancias que tengamos desbloqueda y cumplamos el nivel de jugador y equipo requerido.
+Solo podremos meternos en cola en las instancias que tengamos desbloquedas y *cumplamos el nivel de jugador y equipo requerido*.
 
-Podernos meternos en cola con una trabajo o profesión y seguir jugando con otro, cuando salte la notificacion de que podemos entrar nos pedirá el cambiar al trabajo o profesion que teníamos cuando nos apuntamos.
+Podernos meternos en cola con una trabajo o profesión y seguir jugando con otro, cuando salte la notificacion de que podemos entrar *nos pedirá el cambiar al trabajo o profesion que teníamos cuando nos apuntamos*.
 
 Dentro de la instancia no podemos cambiarnos a otra profesión o trabajo.
