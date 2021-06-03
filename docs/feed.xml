@@ -5,12 +5,12 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Jun 2021 17:57:11 +0200</pubDate>
-    <lastBuildDate>Thu, 03 Jun 2021 17:57:11 +0200</lastBuildDate>
+    <pubDate>Thu, 03 Jun 2021 18:01:35 +0200</pubDate>
+    <lastBuildDate>Thu, 03 Jun 2021 18:01:35 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Guía de introduccion a los tipos de instancia en PvE.</title>
+        <title>Guía de introducción a los tipos de instancia en PvE.</title>
         <description>&lt;p&gt;En esta guía vamos a dar una instrodución a los multiple tipos de contenido que instanciandos en PvE para nuevos jugadores para que podáis conocer cuales son y como podeis disfrutar de ellos.&lt;/p&gt;
 
 &lt;h3 id=&quot;tipos-de-grupo&quot;&gt;Tipos de Grupo&lt;/h3&gt;
@@ -28,7 +28,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;sincronizacion-de-nivel&quot;&gt;Sincronizacion de Nivel&lt;/h3&gt;
+&lt;h3 id=&quot;sincronización-de-nivel&quot;&gt;Sincronización de Nivel&lt;/h3&gt;
 
 &lt;p&gt;En final Fantasy XIV el contenido instanciado esta sincronizado, lo cual quiere decir que si entramos por encima del nivel de ese contenido nuestro personaje, acciones y equipo se sincronizaran al nivel de la instancia. Así que si somos nivel 40 pero entramos en una instancia de nivel 25 tendremos disponibles solo las habilidades del nivel de la instancia. De esta forma siempre podemos jugar con nuestros amigos haciendo las instancia a su nivel.&lt;/p&gt;
 
@@ -54,7 +54,7 @@
     &lt;p&gt;&lt;strong&gt;Incursión&lt;/strong&gt;, Raid en inglés, son un contenido para Grupos Completos, donde nos enfrentaremos a un enemigo poderoso, suelen tener varias fases y mecanicas complejas. Exiten dos modos de difcultad &lt;em&gt;Normal&lt;/em&gt; y &lt;em&gt;Salvaje&lt;/em&gt;, Savage en inglés, el cual es el modo mas complicado del juego y el que otorga el mejor nivel de equipo. Suelen tener 4 partes que se pueden hacer de forma independiente. Cada jefe proporciona piezas canjeables de equipo o armas en su cofre. A nivel máximo podemos obtener un objeto por cada parte de la incursión a la semana, pero las que no son contenido actual no tienen esa restricción. Aunque la primera que podemos desbloquear es de nivel 50 esta se considera opcional y la mayoría de jugadores hacen las de nivel 60 o superior.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Incursion de Alianzas&lt;/strong&gt;, Alliance Raid en ingles, son incursiones para 24 jugadores donde nos enfrentaremos a multiples jefes en localizaciones majestuosas. Sulen estar compuestas por 3 partes y podremos hacerla de forma independiente. Suelen tener un transfondo de historia muy importante en cada expansion. La primera la podremos desbloquear a nivel 50. Suelen ser de una dificultad simple, aún así es fácil que muramos en mecanicas las primeras veces que las hagamos. Cada jefe proporciona piezas de un set y cada Grupo Completo tiene su propio cofre. A nivel máximo podemos obtener una pieza por cada parte a la semana, pero las que no son contenido actual no tienen esa restricción.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Incursión de Alianzas&lt;/strong&gt;, Alliance Raid en ingles, son incursiones para 24 jugadores donde nos enfrentaremos a multiples jefes en localizaciones majestuosas. Sulen estar compuestas por 3 partes y podremos hacerla de forma independiente. Suelen tener un transfondo de historia muy importante en cada expansion. La primera la podremos desbloquear a nivel 50. Suelen ser de una dificultad simple, aún así es fácil que muramos en mecanicas las primeras veces que las hagamos. Cada jefe proporciona piezas de un set y cada Grupo Completo tiene su propio cofre. A nivel máximo podemos obtener una pieza por cada parte a la semana, pero las que no son contenido actual no tienen esa restricción.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Última&lt;/strong&gt;, Ultimate en inglés, son un contenido especial en el juego donde los desarolladores habilitan ciertos encuentros del pasado, Incursiones o Desafios, a realizar a maximo nivel, 80 ahora mismo. Suelen ser muy dificiles de hacer pero la recompensa es sólo estética con las armaduras y armas más expectaculares del juego. Solo algunos encuentros Ultima estan disponibles durante un tiempo haciendolos aún más un contenido especial a hacer.&lt;/p&gt;

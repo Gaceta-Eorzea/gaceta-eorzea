@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Guía de introduccion a los tipos de instancia en PvE."
+title:  "Guía de introducción a los tipos de instancia en PvE."
 author: cecile
 categories: [ guias ]
 tags: [nuevos jugadores, guias, instancias]
 image: assets/images/articles/guias/instancias/dungeon.jpg
-description: "Guía de introduccion a los tipos de instancia en PvE para nuevos jugadores de Final Fantasy XIV."
+description: "Guía de introducción a los tipos de instancia en PvE para nuevos jugadores de Final Fantasy XIV."
 featured: true
 hidden: false
 ---
@@ -20,7 +20,7 @@ Para empezar tenemos que entender que existen varios tipos de grupos en el juego
 
 - **Alianza**, Alliance en inglés, esta formada por **3 Grupos Completos** con 1 tanke, 2 sanadores y 5 combatientes cada uno siendo en conjunto de **24 jugadores**.
 
-### Sincronizacion de Nivel
+### Sincronización de Nivel
 
 En final Fantasy XIV el contenido instanciado esta sincronizado, lo cual quiere decir que si entramos por encima del nivel de ese contenido nuestro personaje, acciones y equipo se sincronizaran al nivel de la instancia. Así que si somos nivel 40 pero entramos en una instancia de nivel 25 tendremos disponibles solo las habilidades del nivel de la instancia. De esta forma siempre podemos jugar con nuestros amigos haciendo las instancia a su nivel.
 
@@ -40,7 +40,7 @@ Ahora que conocemos los tipos de grupo y como nos sincronizamos veamos que tipo 
 
 - **Incursión**, Raid en inglés, son un contenido para Grupos Completos, donde nos enfrentaremos a un enemigo poderoso, suelen tener varias fases y mecanicas complejas. Exiten dos modos de difcultad *Normal* y *Salvaje*, Savage en inglés, el cual es el modo mas complicado del juego y el que otorga el mejor nivel de equipo. Suelen tener 4 partes que se pueden hacer de forma independiente. Cada jefe proporciona piezas canjeables de equipo o armas en su cofre. A nivel máximo podemos obtener un objeto por cada parte de la incursión a la semana, pero las que no son contenido actual no tienen esa restricción. Aunque la primera que podemos desbloquear es de nivel 50 esta se considera opcional y la mayoría de jugadores hacen las de nivel 60 o superior.
 
-- **Incursion de Alianzas**, Alliance Raid en ingles, son incursiones para 24 jugadores donde nos enfrentaremos a multiples jefes en localizaciones majestuosas. Sulen estar compuestas por 3 partes y podremos hacerla de forma independiente. Suelen tener un transfondo de historia muy importante en cada expansion. La primera la podremos desbloquear a nivel 50. Suelen ser de una dificultad simple, aún así es fácil que muramos en mecanicas las primeras veces que las hagamos. Cada jefe proporciona piezas de un set y cada Grupo Completo tiene su propio cofre. A nivel máximo podemos obtener una pieza por cada parte a la semana, pero las que no son contenido actual no tienen esa restricción.
+- **Incursión de Alianzas**, Alliance Raid en ingles, son incursiones para 24 jugadores donde nos enfrentaremos a multiples jefes en localizaciones majestuosas. Sulen estar compuestas por 3 partes y podremos hacerla de forma independiente. Suelen tener un transfondo de historia muy importante en cada expansion. La primera la podremos desbloquear a nivel 50. Suelen ser de una dificultad simple, aún así es fácil que muramos en mecanicas las primeras veces que las hagamos. Cada jefe proporciona piezas de un set y cada Grupo Completo tiene su propio cofre. A nivel máximo podemos obtener una pieza por cada parte a la semana, pero las que no son contenido actual no tienen esa restricción.
 
 - **Última**, Ultimate en inglés, son un contenido especial en el juego donde los desarolladores habilitan ciertos encuentros del pasado, Incursiones o Desafios, a realizar a maximo nivel, 80 ahora mismo. Suelen ser muy dificiles de hacer pero la recompensa es sólo estética con las armaduras y armas más expectaculares del juego. Solo algunos encuentros Ultima estan disponibles durante un tiempo haciendolos aún más un contenido especial a hacer.
 
