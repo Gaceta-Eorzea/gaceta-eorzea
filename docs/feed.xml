@@ -5,9 +5,74 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Jun 2021 10:10:08 +0100</pubDate>
-    <lastBuildDate>Fri, 04 Jun 2021 10:10:08 +0100</lastBuildDate>
+    <pubDate>Fri, 04 Jun 2021 13:02:09 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Jun 2021 13:02:09 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Guía sobre la prueba gratuita de Final Fantasy XIV.</title>
+        <description>&lt;p&gt;Una de las dudas que tenemos al empezar a jugar es hasta cuando podré jugar sin hacer un desembolso económico. Con este artículo vamos a intentar resolver las dudas que salgan sobre la prueba gratuita de Final Fantasy XIV y la creacion de una cuenta para empezar a utilizar este servicio.&lt;/p&gt;
+
+&lt;h1 id=&quot;creación-de-una-cuenta-square-enix-y-links-para-bajar-el-juego&quot;&gt;Creación de una cuenta Square Enix y links para bajar el juego.&lt;/h1&gt;
+
+&lt;p&gt;Para poder acceder a la &lt;strong&gt;prueba gratuita&lt;/strong&gt; de Final Fantasy XIV, lo primero que tienes que hacer es crearte una &lt;a href=&quot;https://secure.square-enix.com/oauth/oa/registligt?response_type=code&amp;amp;redirect_uri=https%3A%2F%2Fsecure.square-enix.com%2Faccount%2Fapp%2Fsvc%2Ftop%3Frequest%3Dmogstation&amp;amp;client_id=ffxiv_mog&amp;amp;lang=en-us&quot; target=&quot;_blank&quot;&gt;cuenta de Square Enix&lt;/a&gt; Esta es la cuenta que vas a utilizar para descargar el juego. Desde Gaceta Eorzea te vamos a dejar los links para descargar el juego dependiendo de la plataforma que elijas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://freetrial.finalfantasyxiv.com/es/&quot; target=&quot;_blank&quot;&gt;Descarga PC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eu.finalfantasyxiv.com/mac/download/&quot; target=&quot;_blank&quot;&gt;Descarga Mac&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/312060/FINAL_FANTASY_XIV_Online_Free_Trial/&quot; target=&quot;_blank&quot;&gt;Descarga Steam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://store.playstation.com/es-es/product/EP0082-PPSA02955_00-FFXIVFREETRIAL01&quot; target=&quot;_blank&quot;&gt;Descarga PlayStation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Una vez descargado el juego, tendrás que introducir de nuevo los datos de la cuenta de Square Enix que has creado y ya podrás empezar a jugar a Final Fantasy XIV.&lt;/p&gt;
+
+&lt;h1 id=&quot;términos-y-condiciones-de-la-prueba-gratuita-de-final-fantasy-xiv&quot;&gt;Términos y condiciones de la prueba gratuita de Final Fantasy XIV.&lt;/h1&gt;
+
+&lt;p&gt;El resumen de estos términos sería que un jugador nuevo puede llegar a vivir todos los acontecimientos hasta la primera expansión &lt;em&gt;Heavensward&lt;/em&gt; llegando como máximo a &lt;strong&gt;nivel 60&lt;/strong&gt;. Además tendrán acceso a las &lt;strong&gt;clases y profesiones que requieran menos de nivel 60&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/freetrial/heavensward.jpeg&quot; alt=&quot;heavensward&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora vamos a detallar punto por punto cuales son los términos y condiciones al jugar con un personaje en una cuenta con la prueba gratuita de Final Fantasy XIV.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Los jugadores no están obligados a comprar software con licencia para utilizar la prueba gratuita.&lt;/li&gt;
+  &lt;li&gt;Se puede registrar una (1) cuenta de prueba gratuita en una cuenta de Square Enix siempre que esa cuenta de Square Enix no se haya registrado previamente con ninguna versión del juego.&lt;/li&gt;
+  &lt;li&gt;Los jugadores pueden comprar artículos seleccionados del juego en la &lt;strong&gt;tienda en línea de FINAL FANTASY® XIV&lt;/strong&gt; durante la prueba gratuita. No todos los artículos del juego están disponibles para que los jugadores de prueba gratuita los compren (p. Ej., Códigos de regalo de artículos del juego).&lt;/li&gt;
+  &lt;li&gt;Los jugadores pueden crear hasta ocho (8) personajes, restringidos a un (1) personaje por servidor.&lt;/li&gt;
+  &lt;li&gt;Con la cuenta de prueba no podrás crearte el personaje con las razas &lt;em&gt;Viera&lt;/em&gt; ni &lt;em&gt;Hrothgar&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;No tendrás acceso a las profesiones &lt;em&gt;Mago Rojo&lt;/em&gt;, &lt;em&gt;Samurai&lt;/em&gt;, &lt;em&gt;Bailarín&lt;/em&gt; ni &lt;em&gt;Sable Pistolero&lt;/em&gt; (&lt;em&gt;Red Mage&lt;/em&gt;, &lt;em&gt;Samurai&lt;/em&gt;, &lt;em&gt;Dancer&lt;/em&gt; y &lt;em&gt;GunBreaker&lt;/em&gt; en inglés).&lt;/li&gt;
+  &lt;li&gt;Los personajes de la cuenta de prueba gratuita pueden llegar como máximo al &lt;strong&gt;nivel sesenta (60)&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Los personajes de la cuenta de prueba gratuita pueden poseer un máximo de &lt;strong&gt;300.000 gils&lt;/strong&gt; (moneda del juego).&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden utilizar las opciones de chat “gritar” (&lt;em&gt;Shout&lt;/em&gt;) o “decir” (&lt;em&gt;say&lt;/em&gt;) en el juego durante la cuenta de prueba.&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden acceder al &lt;strong&gt;tablón del mercado&lt;/strong&gt; (casa de subastas) del juego.&lt;/li&gt;
+  &lt;li&gt;Los jugadores no podrán &lt;strong&gt;comerciar con otros jugadores&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden enviar cartas dentro del juego mediante el servicio de entrega de &lt;em&gt;moogle&lt;/em&gt;. Tampoco podrán enviar &lt;strong&gt;susurros&lt;/strong&gt; a otros jugadores.&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden &lt;strong&gt;contratar intendentes&lt;/strong&gt; (&lt;em&gt;retainers&lt;/em&gt; en inglés) durante la prueba gratuita.&lt;/li&gt;
+  &lt;li&gt;Los jugadores pueden unirse a un &lt;em&gt;Linkshell&lt;/em&gt; o &lt;em&gt;Cross-World Linkshell&lt;/em&gt; si están invitados, pero no pueden crear un nuevo &lt;em&gt;Linkshell&lt;/em&gt; o &lt;em&gt;Cross-World Linkshell&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden crear ni unirse a una &lt;strong&gt;compañia libre&lt;/strong&gt; (&lt;em&gt;Free Company&lt;/em&gt; en inglés. Es el término que se le da a las hermandades en Final Fantasy XIV).&lt;/li&gt;
+  &lt;li&gt;Los jugadores pueden unirse a un grupo si están invitados o mediante el buscador de tareas, pero &lt;strong&gt;no pueden formar un grupo&lt;/strong&gt; durante la prueba gratuita (no pueden invitar).&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden crear o unirse a un equipo PvP o participar en &lt;em&gt;The Feast&lt;/em&gt; (Partida igualada individual o por equipos).&lt;/li&gt;
+  &lt;li&gt;Los jugadores no pueden iniciar sesión en &lt;em&gt;Lodestone&lt;/em&gt;, el foro oficial o la aplicación complementaria durante la cuenta de prueba.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y con esto estaría todo lo relacionado con la prueba gratuita de Final Fantasy XIV. Son muchas las horas que podréis disfrutar de Eorzea sin necesidad de hacer el primer desembolso económico inicial.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Jun 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/guia-free-trial/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/guia-free-trial/</guid>
+        
+        <category>nuevos jugadores</category>
+        
+        <category>guias</category>
+        
+        <category>free trial</category>
+        
+        <category>prueba gratuita</category>
+        
+        
+        <category>guias</category>
+        
+      </item>
     
       <item>
         <title>Fashion Report 4 Junio 2021</title>
@@ -40,7 +105,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 04 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 04 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210604/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210604/</guid>
         
@@ -206,7 +271,7 @@
 &lt;p&gt;Con esto hemos terminado nuestra Guía y esperemos que hayais aprendido muchas cosas nuevas sobre esta modalidad de juego.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 03 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 03 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guia-tipo-instancias/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-tipo-instancias/</guid>
         
@@ -215,63 +280,6 @@
         <category>guias</category>
         
         <category>instancias</category>
-        
-        
-        <category>guias</category>
-        
-      </item>
-    
-      <item>
-        <title>Guía sobre la prueba gratuita de Final Fantasy XIV.</title>
-        <description>&lt;p&gt;Una de las dudas que tenemos al empezar a jugar es hasta cuando podré jugar sin hacer un desembolso económico. Con este artículo vamos a intentar resolver las dudas que salgan sobre la prueba gratuita de Final Fantasy XIV y la creacion de una cuenta para empezar a utilizar este servicio.&lt;/p&gt;
-
-&lt;h1 id=&quot;creación-de-una-cuenta-square-enix-y-links-para-bajar-el-juego&quot;&gt;Creación de una cuenta Square Enix y links para bajar el juego.&lt;/h1&gt;
-
-&lt;p&gt;Para poder acceder a la &lt;strong&gt;prueba gratuita&lt;/strong&gt; de Final Fantasy XIV, lo primero que tienes que hacer es crearte una &lt;a href=&quot;https://secure.square-enix.com/oauth/oa/registligt?response_type=code&amp;amp;redirect_uri=https%3A%2F%2Fsecure.square-enix.com%2Faccount%2Fapp%2Fsvc%2Ftop%3Frequest%3Dmogstation&amp;amp;client_id=ffxiv_mog&amp;amp;lang=en-us&quot; target=&quot;_blank&quot;&gt;cuenta de Square Enix&lt;/a&gt; Esta es la cuenta que vas a utilizar para descargar el juego. Desde Gaceta Eorzea te vamos a dejar los links para descargar el juego dependiendo de la plataforma que elijas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://freetrial.finalfantasyxiv.com/es/&quot; target=&quot;_blank&quot;&gt;Descarga PC&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eu.finalfantasyxiv.com/mac/download/&quot; target=&quot;_blank&quot;&gt;Descarga Mac&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/312060/FINAL_FANTASY_XIV_Online_Free_Trial/&quot; target=&quot;_blank&quot;&gt;Descarga Steam&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://store.playstation.com/es-es/product/EP0082-PPSA02955_00-FFXIVFREETRIAL01&quot; target=&quot;_blank&quot;&gt;Descarga PlayStation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Una vez descargado el juego, tendrás que introducir de nuevo los datos de la cuenta de Square Enix que has creado y ya podrás empezar a jugar a Final Fantasy XIV.&lt;/p&gt;
-
-&lt;h1 id=&quot;términos-y-condiciones-de-la-prueba-gratuita-de-final-fantasy-xiv&quot;&gt;Términos y condiciones de la prueba gratuita de Final Fantasy XIV.&lt;/h1&gt;
-
-&lt;p&gt;Vamos a detallar punto por punto cuales son los términos y condiciones al jugar con un personaje en una cuenta con la prueba gratuita de Final Fantasy XIV.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Los jugadores no están obligados a comprar software con licencia para utilizar la prueba gratuita.&lt;/li&gt;
-  &lt;li&gt;Se puede registrar una (1) cuenta de prueba gratuita en una cuenta de Square Enix siempre que esa cuenta de Square Enix no se haya registrado previamente con ninguna versión del juego.&lt;/li&gt;
-  &lt;li&gt;Los jugadores pueden comprar artículos seleccionados del juego en la tienda en línea de FINAL FANTASY® XIV durante la prueba gratuita. No todos los artículos del juego están disponibles para que los jugadores de prueba gratuita los compren (p. Ej., Códigos de regalo de artículos del juego).&lt;/li&gt;
-  &lt;li&gt;Los jugadores pueden crear hasta ocho (8) personajes jugables, restringidos a un (1) personaje jugable por mundo.&lt;/li&gt;
-  &lt;li&gt;Los personajes de la cuenta de prueba gratuita tienen todos sus niveles limitados al nivel sesenta (60).&lt;/li&gt;
-  &lt;li&gt;Los personajes de la cuenta de prueba gratuita pueden poseer un máximo de 300.000 gil (moneda del juego).&lt;/li&gt;
-  &lt;li&gt;Los jugadores no pueden utilizar las opciones de chat “gritar”, “gritar” o “decir” en el juego durante la Prueba gratuita.&lt;/li&gt;
-  &lt;li&gt;Los jugadores no pueden acceder al tablero del mercado (casa de subastas) del juego durante la prueba gratuita.&lt;/li&gt;
-  &lt;li&gt;Los jugadores no pueden comerciar con otros jugadores durante la prueba gratuita.&lt;/li&gt;
-  &lt;li&gt;Los jugadores no pueden enviar cartas dentro del juego mediante el servicio de entrega de moogle durante la prueba gratuita. Tampoco podrán enviar susurros a otros jugadores.&lt;/li&gt;
-  &lt;li&gt;Los jugadores no pueden contratar retenedores (&lt;em&gt;retainers&lt;/em&gt; en inglés) durante la prueba gratuita.&lt;/li&gt;
-  &lt;li&gt;Los jugadores pueden unirse a un Linkshell o Cross-World Linkshell si están invitados, pero no pueden crear un nuevo Linkshell o Cross-World Linkshell durante la prueba gratuita.&lt;/li&gt;
-  &lt;li&gt;Los jugadores no pueden crear ni unirse a una hermandad gratuita (&lt;em&gt;free company&lt;/em&gt; en inglés) durante la prueba gratuita.&lt;/li&gt;
-  &lt;li&gt;Los jugadores pueden unirse a un grupo si están invitados o mediante el buscador de tareas, pero no pueden formar un grupo durante la prueba gratuita. (no pueden invitar)&lt;/li&gt;
-  &lt;li&gt;Los jugadores no pueden crear o unirse a un equipo PvP o participar en The Feast (Partida igualada) o The Feast (Partida igualada por equipos) durante la Prueba gratuita.&lt;/li&gt;
-  &lt;li&gt;Los jugadores no pueden iniciar sesión en Lodestone, el foro oficial o la aplicación complementaria durante la prueba gratuita.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 03 Jun 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/guia-free-trial/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/guia-free-trial/</guid>
-        
-        <category>nuevos jugadores</category>
-        
-        <category>guias</category>
-        
-        <category>free trial</category>
-        
-        <category>prueba gratuita</category>
         
         
         <category>guias</category>
@@ -399,7 +407,7 @@
 
 &lt;p&gt;¡Bienvenid@ a Eorzea!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 01 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guianuevosjugadores/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guianuevosjugadores/</guid>
         
@@ -429,7 +437,7 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Mon, 31 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 31 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/viaje-sin-fin-1/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-1/</guid>
         
@@ -459,7 +467,7 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 30 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 30 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/juglar-01/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-01/</guid>
         
@@ -545,7 +553,7 @@
 
 &lt;p&gt;¡¡¡ Bienvenid@ a &lt;strong&gt;Eorzea&lt;/strong&gt; !!!&lt;/p&gt;
 </description>
-        <pubDate>Sat, 29 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 29 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/creacionpersonajes/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/creacionpersonajes/</guid>
         
@@ -587,7 +595,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 28 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210528/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210528/</guid>
         
@@ -788,7 +796,7 @@
 
 &lt;p&gt;El Mago Rojo es una clase que, al igual que el Mago Negro, es fácil de jugar y difícil de maximizar ya que tiene una gran profundidad que no se ve a simple vista. La gestión de su &lt;em&gt;maná blanco y su maná negro&lt;/em&gt; es la parte más importante de la rotación. Estos magos &lt;strong&gt;&lt;em&gt;intercalan hechizos de máximo rango con hechizos a corta distancia&lt;/em&gt;&lt;/strong&gt;. Para esto utilizan varios tipos distintos de habilidades de movimiento que sirven tanto para acercarse como para alejarse del objetivo. También proporciona un beneficio de aumento de daño físico a todo el grupo. Al ganar la posibilidad de lanzar hechizos instantáneos (algo intrínseco en su rotación) el mago rojo es la profesión más indicada para ejecutar la Resurreción cuando esta se necesite.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 27 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guiaclases/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guiaclases/</guid>
         
@@ -817,7 +825,7 @@
 
 &lt;p&gt;Si quieres empezar a descubrir el mundo de Final Fantasy XIV en tu PS5, este es el momento.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/versionps5/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/versionps5/</guid>
         
