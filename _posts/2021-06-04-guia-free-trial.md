@@ -25,7 +25,7 @@ Una vez descargado el juego, tendrás que introducir de nuevo los datos de la cu
 
 # Términos y condiciones de la prueba gratuita de Final Fantasy XIV.
 
-El resumen de estos términos sería que un jugador nuevo puede llegar a vivir todos los acontecimientos hasta la primera expansión *Heavensward* llegando como máximo a **nivel 60**. Además tendrán acceso a las **clases y profesiones que requieran menos de nivel 60**. 
+El resumen de estos términos sería que un jugador nuevo puede llegar a vivir todos los acontecimientos hasta la primera expansión *Heavensward* llegando como máximo a **nivel 60**. Además no tendrán acceso a las **razas, clases y profesiones que requieran expansiones posteriores a *Heavensward***. 
 
 ![heavensward](/assets/images/articles/guias/freetrial/heavensward.jpeg)
 
