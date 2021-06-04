@@ -15,7 +15,7 @@ En esta guía vamos a tratar de resolver muchas dudas que puedan tener los jugad
 
 Está sería la primera pregunta que te harás al informarte por el juego. Final Fantasy XIV es un videojuego **MMo RPG**. Esto quiere decir que es un videojuego de mundo abierto donde podrás jugar tú solo o con más gente. El apartado RPG indica que te vas a crear un personaje el cual va a ir creciendo, ganando experiencia, cada vez que entres al juego a completar misiones o ir a mazmorras. Así mismo, Final Fantasy XIV tiene una ventaja muy grande con respecto a otros Mmos del mercado. El juego lo puedes jugar desde **varias plataformas**: PS4/PS5, PC desde launcher propio, desde la plataforma de STEAM o desde Machintosh. Todos los jugadores pueden jugar juntos indepedientemente de la plataforma en la que juegen. Y si, también podrás elegir entre jugar con mando o ratón/teclado sea cual sea la plataforma que elijas.
 
-Para empezar a jugar a Final Fantasy XIV **no necesitas pagar nada**. Solo necesitas bajar el juego en la plataforma que prefieras. No necesitas hacer ningún desembolso económico inicial. Al empezar a jugar activarás el Free Trial, que es una modalidad F2P del juego. Esta versión incluye todo el juego inicial y su primera expansión. Esto quiere decir que podrás jugar A Realm Reborn y Heavensward. Y el nivel de personaje será 60. Hasta este momento, no tendrás que pagar nada y tienes cientos de horas de juego. A partir de aquí, tendrás que comprarte el juego y pagar una mensualidad.
+Para empezar a jugar a Final Fantasy XIV [no necesitas pagar nada](/guia-free-trial){:target="_blank"}. Solo necesitas bajar el juego en la plataforma que prefieras. No necesitas hacer ningún desembolso económico inicial. Al empezar a jugar activarás el Free Trial, que es una modalidad F2P del juego. Esta versión incluye todo el juego inicial y su primera expansión. Esto quiere decir que podrás jugar A Realm Reborn y Heavensward. Y el nivel de personaje será 60. Hasta este momento, no tendrás que pagar nada y tienes cientos de horas de juego. A partir de aquí, tendrás que comprarte el juego y pagar una mensualidad.
 
 ## ¿En qué servidor juego?
 
@@ -123,6 +123,8 @@ Cuando llegues a nivel 15 con cada clase desbloquearás un tutorial sobre mazmor
 Uno de los contenidos que más nos gustan a los jugadores de MMos son las mazmorras. Estas mazmorras se desbloquean cuando la historia así lo requiere (¡o por completar misiones azules!). Las primeras mazmorras se empiezan a desbloquear a **nivel 16 de la Main Scenario**. Cuando tengas las dos primeras mazmorras desbloqueadas, podrás completar al día la **Duty Roulette: Leveling**. Esto es el buscador de mazmorras dando experiencia y giles extras la primera vez que la completas al día. Una forma de ir gestionando las clases puede ser hacer las misiones con una clase y hacer la Leveling con otra clase. Como siempre, pensando en que tu clase principal no se escape de nivel con respecto a la Main Scenario y que aprovechando todas las herramientas que tiene el juego puedas subir varias clases y así se te haga más divertido y ameno el juego.
 
 ![leveling](/assets/images/articles/guias/guianuevosjugadores/leveling.jpg)
+
+Además de estas mazmorras hay más tipos de [contenido cooperativo](/guia-tipo-instancias/){:target="_blank"} en Final Fantasy XIV que irás desbloqueando poco a poco.
 
 Ya solo falta que recorras tu destino y avances en la historia de Final Fantasy XIV. Una historia rica y profunda, con personajes carismáticos y que para que todo avance solo falta una cosa: ¡Tú!
 

@@ -7,7 +7,7 @@ tags: [nuevos jugadores, guias, free trial, prueba gratuita]
 image: assets/images/articles/guias/freetrial/portada.jpg
 description: "Explicación sobre el registro de la cuenta y la prueba gratuita de FFXIV."
 featured: false
-hidden: true
+hidden: false
 ---
 
 Una de las dudas que tenemos al empezar a jugar es hasta cuando podré jugar sin hacer un desembolso económico. Con este artículo vamos a intentar resolver las dudas que salgan sobre la prueba gratuita de Final Fantasy XIV y la creacion de una cuenta para empezar a utilizar este servicio.
