@@ -12,7 +12,7 @@ hidden: false
 
 Con motivo de la salida del parche *5.55* de **Shadowbringers** desde Square Enix nos quieren facilitar la llegada a Final Fantasy XIV.
 
-Desde ayer mismo y hasta el 6 de junio, The Complete Edition de Final Fantasy XIV está rebajada a un 60%. Costando así **15.99€ para PC** y **21.99€ para PS4**.
+Desde ayer mismo y hasta el 9 de junio, The Complete Edition de Final Fantasy XIV está rebajada a un 60%. Costando así **15.99€ para PC** y **21.99€ para PS4**.
 
 Hay que recordar que la Complete Edition viene con todas las expansiones hasta la actualidad (A Realm Reborn, Heavensward, Stormblood y Shadowbringers) y con 30 días de juego.
 
