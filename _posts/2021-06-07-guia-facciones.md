@@ -28,7 +28,7 @@ Otra cosa a tener en cuenta al elegir una Gran Compañía es la estética, ya qu
 
 Una vez que decidas con qué gran compañía alinearte, recibirás una versión específica de la misión llamada **The Company You Keep.**. Completa esa misión y te unirás a la Gran Compañía. Una de las primeras misiones que tendrás cuando te unas a la Gran Compañía, te dará acceso a tu **Chocobo**, consiguiendo así tu primera montura en Final Fantasy XIV.
 
-### Cómo conseguir sello de la Compañía y subir de rango
+### Cómo conseguir sellos de la Compañía y subir de rango
 
 Cada una de las Grandes Compañías ofrece numerosos rangos, como una organización o un ejército. Puede aumentar su rango a través de una Gran Compañía al realizar misiones y eventos que ofrecen **Sellos de Compañía**. Además estos sellos se pueden intercambiar por equipo o materiales. 
 
