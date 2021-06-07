@@ -14,7 +14,7 @@ Cuando llegues a nivel 20 de la historia principal de *A Realm Reborn* tienes qu
 
 - **Las Llamas Inmortales** (*The Immortal Flames* en inglés) son un grupo de soldados endurecidos por la batalla liderados por **Raubahn Aldynn** y tiene su sede en **Ul'dah**.
 
-- **El Maelstrom** (*The Maelstrom* en inglés) es una poderosa fuerza naval liderada por **Merlwyb Bloefhiswyn** y tiene su sede en **Limsa Lominsa**.
+- **La Vorágine** (*The Maelstrom* en inglés) es una poderosa fuerza naval liderada por **Merlwyb Bloefhiswyn** y tiene su sede en **Limsa Lominsa**.
 
 - **La Orden de las Víboras Gemelas** (*The Order of the Twin Adder* en inglés) es un grupo de orgullosos magos y arqueros liderados por **Kan-E-Senna** y tiene su sede en **New Grindania**.
 
