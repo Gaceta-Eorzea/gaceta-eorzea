@@ -26,9 +26,9 @@ Otra cosa a tener en cuenta al elegir una Gran Compañía es la estética, ya qu
 
 [![estetica](/assets/images/articles/guias/facciones/estetica.jpg)](https://ffxiv.eorzeacollection.com/gearsets?filter%5BorderBy%5D=patch&filter%5BshowGear%5D=set&filter%5BshowFemale%5D=0&search=&filter%5BcontentType%5D%5B%5D=grand-company&filter%5BmaximumLvl%5D=80&filter%5Bsave%5D=&page=1){:target="_blank"}
 
-Una vez que decidas con qué gran empresa alinearte, recibirás una versión específica de la misión llamada **The Company You Keep.**. Completa esa misión y te unirás a la Gran Compañía. Una de las primeras misiones que tendrás cuando te unas a la Gran Compañía, te dará acceso a tu **Chocobo**, consiguiendo así tu primera montura en Final Fantasy XIV.
+Una vez que decidas con qué gran compañía alinearte, recibirás una versión específica de la misión llamada **The Company You Keep.**. Completa esa misión y te unirás a la Gran Compañía. Una de las primeras misiones que tendrás cuando te unas a la Gran Compañía, te dará acceso a tu **Chocobo**, consiguiendo así tu primera montura en Final Fantasy XIV.
 
-# CÓMO CONSEGUIR SELLOS DE EMPRESA Y SUBIR DE RANGO
+### Cómo conseguir sello de la Compañía y subir de rango
 
 Cada una de las Grandes Compañías ofrece numerosos rangos, como una organización o un ejército. Puede aumentar su rango a través de una Gran Compañía al realizar misiones y eventos que ofrecen **Sellos de Compañía**. Además estos sellos se pueden intercambiar por equipo o materiales. 
 
@@ -60,7 +60,7 @@ Como resumen, para obtener Sellos de Compañía tienes las siguientes opciones:
 - Entregando equipo que no uses o necesites.
 - Completando Ruletas (*Duty Roulettes* en inglés)
 
-# Rangos de la Gran Compañía.
+### Rangos de la Gran Compañía.
 
 Para ascender de **Rango** en la Gran Compañía como regla general tendrás que entregar sellos al *Personnel Officer* a través de la opción **Apply for a promotion**.
 
