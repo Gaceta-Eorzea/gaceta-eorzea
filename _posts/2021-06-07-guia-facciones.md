@@ -24,7 +24,7 @@ Si bien cada Gran Compañía tiene una estética, un espíritu y una base de ope
 
 Otra cosa a tener en cuenta al elegir una Gran Compañía es la estética, ya que las armas y el equipo que te ofrecen coincidirán con los colores y la temática de ese grupo.
 
-![estetica](/assets/images/articles/guias/facciones/estetica.jpg)
+[![estetica](/assets/images/articles/guias/facciones/estetica.jpg)](https://ffxiv.eorzeacollection.com/gearsets?filter%5BorderBy%5D=patch&filter%5BshowGear%5D=set&filter%5BshowFemale%5D=0&search=&filter%5BcontentType%5D%5B%5D=grand-company&filter%5BmaximumLvl%5D=80&filter%5Bsave%5D=&page=1){:target="_blank"}
 
 Una vez que decidas con qué gran empresa alinearte, recibirás una versión específica de la misión llamada **The Company You Keep.**. Completa esa misión y te unirás a la Gran Compañía. Una de las primeras misiones que tendrás cuando te unas a la Gran Compañía, te dará acceso a tu **Chocobo**, consiguiendo así tu primera montura en Final Fantasy XIV.
 
