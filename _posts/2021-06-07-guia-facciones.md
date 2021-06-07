@@ -10,7 +10,7 @@ featured: false
 hidden: false
 ---
 
-Sobre el nivel 10 de la MSQ te dieron a conocer las 3 facciones principales. Estas son:
+Cuando llegues a nivel 20 de la historia principal de *A Realm Reborn* tienes que tomar una decisión: A qué facción voy a pertenecer. Debes elegir una de las tres Grandes Compañías con la que alinearte. Sobre el nivel 10 de la MSQ te dieron a conocer las 3 facciones principales. Estas son:
 
 - **Las Llamas Inmortales** (*The Immortal Flames* en inglés) son un grupo de soldados endurecidos por la batalla liderados por **Raubahn Aldynn** y tiene su sede en **Ul'dah**.
 
@@ -18,7 +18,7 @@ Sobre el nivel 10 de la MSQ te dieron a conocer las 3 facciones principales. Est
 
 - **La Orden de las Víboras Gemelas** (*The Order of the Twin Adder* en inglés) es un grupo de orgullosos magos y arqueros liderados por **Kan-E-Senna** y tiene su sede en **New Grindania**.
 
-Cuando llegues a nivel 20 de la historia principal de *A Realm Reborn* tienes que tomar una decisión: A qué facción voy a pertenecer. Debes elegir una de las tres Grandes Compañías con la que alinearte. Si bien cada Gran Compañía tiene una estética, un espíritu y una base de operaciones específicas, no hay diferencia técnica entre ellas. No existe una Gran Compañía objetivamente mejor. Tampoco tienes por qué elegir la compañía que está instalada en la ciudad donde empezaste el juego. Es una elección 100% pura por gustos y afinidades.
+Si bien cada Gran Compañía tiene una estética, un espíritu y una base de operaciones específicas, no hay diferencia técnica entre ellas. No existe una Gran Compañía objetivamente mejor. Tampoco tienes por qué elegir la compañía que está instalada en la ciudad donde empezaste el juego. Es una elección 100% pura por gustos y afinidades.
 
 ![estandartes](/assets/images/articles/guias/facciones/estandartes.jpg)
 
