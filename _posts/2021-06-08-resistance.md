@@ -76,11 +76,7 @@ Antes de proceder a mejorar nuestra arma tenemos primero que aumentar nuestro **
 
  Una vez completada esta parte tenemos que realizar las misiones [A Sign of What's to Come](https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/85f5dca1ba9/){:target="_blank" class="eorzeadb_link"} y [Fit for a Queen](https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/248f168eb15/){:target="_blank" class="eorzeadb_link"} y completar el encuentro a gran escala, hasta *48 jugadores*, de **Delubrum Reginae**.
 
-Para el próximo paso tenemos que completar la misión [Change of Arms](https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/39fc3e4a86a/){:target="_blank" class="eorzeadb_link"}. Necesitarás 15 
-
-[▲volver a contenido](#contenido)
-
-**Loathsome Memory of the Dying**, las cuales las puedes obtener de: 
+Para el próximo paso tenemos que completar la misión [Change of Arms](https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/39fc3e4a86a/){:target="_blank" class="eorzeadb_link"}. Necesitarás 15 **Loathsome Memory of the Dying**, las cuales las puedes obtener de: 
 
 - Derrotar el último jefe de **Castrum Lacus Litore** proporciona **5 memorias**.
 - Completar cualquier inclusión de alianza de la torre de Cristal proporciona **1 memoria**.
