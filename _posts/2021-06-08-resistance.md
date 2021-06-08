@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guía de Reliquias de Shadowbringers."
+title:  "Guía de Armas Reliquias de Shadowbringers."
 author: cecile
 categories: [ guias ]
 tags: [guias, relic, shadowbringers]
