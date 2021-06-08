@@ -6,7 +6,7 @@ categories: [ guias ]
 tags: [nuevos jugadores, guias, instancias]
 image: assets/images/articles/guias/instancias/dungeon.jpg
 description: "Guía de introducción a los tipos de instancia en PvE para nuevos jugadores de Final Fantasy XIV."
-featured: true
+featured: false
 hidden: false
 ---
 En esta guía vamos a dar una instrodución a los multiple tipos de contenido que instanciandos en PvE para nuevos jugadores para que podáis conocer cuales son y como podeis disfrutar de ellos.

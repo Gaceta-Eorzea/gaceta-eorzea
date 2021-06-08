@@ -5,9 +5,178 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Jun 2021 13:51:17 +0100</pubDate>
-    <lastBuildDate>Mon, 07 Jun 2021 13:51:17 +0100</lastBuildDate>
+    <pubDate>Tue, 08 Jun 2021 13:27:43 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Jun 2021 13:27:43 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Guía de Reliquias de Shadowbringers.</title>
+        <description>&lt;p&gt;Las armas reliquia son las mejores armas que podremos obtener en el juego que además poseen apariencias expectaculares. Cada expansión nos trae un conjunto de estas armas y en esta guía vamos a hablar de como obtener la de Shadowbringers y daros consejos de la forma mas eficiente de conseguirlas.&lt;/p&gt;
+
+&lt;h3 id=&quot;contenido&quot;&gt;Contenido&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#antes-de-empezar&quot;&gt;Antes de empezar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#resistance-weapons-nivel-485&quot;&gt;Resistance Weapons (nivel 485)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#augmented-resistance-weapons-nivel-500&quot;&gt;Augmented Resistance Weapons (nivel 500)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#recollection-weapons-nivel-500-con-efectos&quot;&gt;Recollection Weapons (nivel 500) con efectos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#laws-order-weapons-nivel-510&quot;&gt;Law’s Order Weapons (nivel 510)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#augmented-laws-order-weapons-nivel-515&quot;&gt;Augmented Law’s Order Weapons (nivel 515)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#blades-weapons-nivel-535&quot;&gt;Blade’s Weapons (nivel 535)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;antes-de-empezar&quot;&gt;Antes de empezar&lt;/h3&gt;
+
+&lt;p&gt;Debemos haber completado la saga de incursiones de alianza &lt;strong&gt;Vuelta a Ivalice&lt;/strong&gt; (&lt;em&gt;Return to Ivalice&lt;/em&gt; en inglés) de Stormblood. Sino las hemos echo podemos desbloquearlas en la misión &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/14847bc8932/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Dramatis Personae&lt;/a&gt; la cual nos la dará &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/d806c07ea90/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Keiten&lt;/a&gt; en Kugane X: 12.2 Y: 12.3.&lt;/p&gt;
+
+&lt;p&gt;También debemos hablar completado la historia principal de &lt;strong&gt;Shadowbringers&lt;/strong&gt; incluyendo la misión &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/4ed1668d377/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Shadowbringers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Aunque las misiones de las armas las tenemos que obtener con un personaje nivel 80 y de la profesión que queremos desbloquear el arma o mejora la recolección de los distintos elementos que nos piden lo podemos hacer con personajes de cualquier nivel y profesión que pueda acceder al contenido donde se obtiene, aunque no sea con el que iniciamos la misión.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Al contrario que en otras expansiones las misiones que requiren objetos de mazmorras o incursiones anteriores no podemos hacerlos desincronizados, eso si podemos usar Magos Azules para completar algunos de esos contenidos de forma muy rapida.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#contenido&quot;&gt;▲volver a contenido&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;resistance-weapons-nivel-485&quot;&gt;Resistance Weapons (nivel 485)&lt;/h3&gt;
+
+&lt;p&gt;Para obtener nuestra primera arma debemos de seguir las misión &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/6404990a3da/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Hail to the Queen&lt;/a&gt; la cual nos la dará también &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/d806c07ea90/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Keiten&lt;/a&gt; en Kugane X: 12.2 Y: 12.3.&lt;/p&gt;
+
+&lt;p&gt;Esta saga de misiones nos desbloqueará el acceso a &lt;strong&gt;The Bozjan Southern Front&lt;/strong&gt; donde deberemos progresar en la zona y su historia mientras desbloqueamos nuevos rangos de la resistencia los cuales son requeridos para distintos pasos de la mejora de nuestra arma. A esta zona podemos entrar desde &lt;strong&gt;nivel 71&lt;/strong&gt; y seremos &lt;strong&gt;sincronizados a nivel 80&lt;/strong&gt; con 430 de nivel de equipo, lo cual nos puede venir genial para &lt;strong&gt;subir otras profesiones&lt;/strong&gt; alternativas.&lt;/p&gt;
+
+&lt;p&gt;Realizaremos una serie de misiones secundarias: &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/0cb41fcce8c/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Path to the Past&lt;/a&gt;, &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/66ddcfbca45/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;The Bozja Incident&lt;/a&gt; y &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/b8f5286c6eb/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Fire in the Forge&lt;/a&gt; la cual nos dará nuestra primera arma 485.&lt;/p&gt;
+
+&lt;p&gt;Para obtener esta arma con otras profesiones podemos hacer la misión repetible &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/4bd506e3dcb/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Resistance Is (Not) Futile &lt;/a&gt; que nos pedirá 4 &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/b54fd199c84/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt; Thavnairian Scalepowder&lt;/a&gt;, los cuales podremos comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/27773b8b4a7/?item=b54fd199c84&amp;amp;type=currency&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Auriana&lt;/a&gt; en Mor Dhona (X:22.7 Y:6.6) por 250 Allagan Tomestone of Poetics cada uno.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#contenido&quot;&gt;▲volver a contenido&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;augmented-resistance-weapons-nivel-500&quot;&gt;Augmented Resistance Weapons (nivel 500)&lt;/h3&gt;
+
+&lt;p&gt;Para continuar con la mejora de nuestra arma debemos haber completado la historia principal hasta la misión &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/fc70298b76f/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Wows of Virtue, Deeds of Cruelty&lt;/a&gt; y las misiones secundarias &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/65a6b7eec0a/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;A Sober Proposal&lt;/a&gt; y &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/20ecde94d22/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Where Eagles Nest&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ahora debemos realizar la misión &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/9673c789ba9/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;For Want of a Memory&lt;/a&gt;, la cual nos pedirá:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;20 &lt;strong&gt;Tortured Memory of the Dying&lt;/strong&gt; : Garantizado en fates en &lt;strong&gt;Coerthas Western Highlands&lt;/strong&gt; o &lt;strong&gt;Sea of Clouds&lt;/strong&gt; y aleatorio en la &lt;strong&gt;primera zona de Bozjan&lt;/strong&gt; Southern Front.&lt;/li&gt;
+  &lt;li&gt;20 &lt;strong&gt;Sorrowful Memory of the Dying&lt;/strong&gt; : Garantizado en fates en &lt;strong&gt;The Dravanian Forelands&lt;/strong&gt; y &lt;strong&gt;The Churning Mists&lt;/strong&gt; y aleatorio en la &lt;strong&gt;segunda zona de Bozjan&lt;/strong&gt; Southern Front.&lt;/li&gt;
+  &lt;li&gt;20 &lt;strong&gt;Harrowing Memory of the Dying&lt;/strong&gt; : Garantizado en fates en &lt;strong&gt;The Dravanian Hinterlands&lt;/strong&gt; y &lt;strong&gt;Azys Lla&lt;/strong&gt; y aleatorio en la &lt;strong&gt;tercera zona de Bozjan&lt;/strong&gt; Southern Front.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Obtener estas memorias es mas óptimo en Fates, recomendamos &lt;strong&gt;Coerthas Western Highlands, Dravanian Forelands and Dravanian Hinterlands&lt;/strong&gt;. Sin embargo hay que decir que posteriormente debemos tener al menos &lt;strong&gt;rango 10&lt;/strong&gt; de la resistencia, así que quizás nos interese el hacer parte de ellas hasta ese nivel de resistencia en &lt;strong&gt;Bozjan Southern Front&lt;/strong&gt; y de paso podemos aprovechar para subir de nivel un profesión alternativa que tengamos al 71 o mas.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Con esto habremos obtenido nuestra arma nivel 500.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#contenido&quot;&gt;▲volver a contenido&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;recollection-weapons-nivel-500-con-efectos&quot;&gt;Recollection Weapons (nivel 500) con efectos&lt;/h3&gt;
+
+&lt;p&gt;Para obtener una nueva versión del arma con brillos y efectos visuales debemos aceptar la misión &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/f267d4d0aac/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;The Will to Resist&lt;/a&gt; la cual nos pedirá 6 &lt;strong&gt;Bitter Memory of the Dying&lt;/strong&gt; las cuales podemos obtener de forma garantizada en &lt;strong&gt;mazmorras de nivel 60&lt;/strong&gt; y &lt;strong&gt;ruleta de Leveling&lt;/strong&gt; o de forma aleatoria en encuentros críticos en &lt;strong&gt;Bozjan Southern Front&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Para este paso recomendamos hacer la mazmorra &lt;strong&gt;The Antitower&lt;/strong&gt; que podemos realizarla en unos 10 minutos, menos aun si vamos con algun Mago Azul en nuestro grupo&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#contenido&quot;&gt;▲volver a contenido&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;laws-order-weapons-nivel-510&quot;&gt;Law’s Order Weapons (nivel 510)&lt;/h3&gt;
+
+&lt;p&gt;Antes de proceder a mejorar nuestra arma tenemos primero que aumentar nuestro &lt;strong&gt;nivel de la resistencia a 10&lt;/strong&gt;, completar el encuentro a gran escala, hasta &lt;em&gt;48 jugadores&lt;/em&gt;, de &lt;strong&gt;Castrum Lacus Litore&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Una vez completada esta parte tenemos que realizar las misiones &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/85f5dca1ba9/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;A Sign of What’s to Come&lt;/a&gt; y &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/248f168eb15/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Fit for a Queen&lt;/a&gt; y completar el encuentro a gran escala, hasta &lt;em&gt;48 jugadores&lt;/em&gt;, de &lt;strong&gt;Delubrum Reginae&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para el próximo paso tenemos que completar la misión &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/39fc3e4a86a/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Change of Arms&lt;/a&gt;. Necesitarás 15&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#contenido&quot;&gt;▲volver a contenido&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Loathsome Memory of the Dying&lt;/strong&gt;, las cuales las puedes obtener de:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Derrotar el último jefe de &lt;strong&gt;Castrum Lacus Litore&lt;/strong&gt; proporciona &lt;strong&gt;5 memorias&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Completar cualquier inclusión de alianza de la torre de Cristal proporciona &lt;strong&gt;1 memoria&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Completar encuentros críticos en &lt;strong&gt;Bozjan Southern Front&lt;/strong&gt; tiene una probabilidad &lt;strong&gt;aleatoria de 1 memoria&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Para este paso recomendamos hacer la incursión de alianza &lt;strong&gt;Syrcus tower&lt;/strong&gt; que podemos limpiar en poco mas de 10/15 minutos. Aunque &lt;strong&gt;Castrum Lacus Litore&lt;/strong&gt; nos otorga 5 memorias el tiempo que tendremos que esperar a que este activo, sumado al tiempo que tardamos en hacerla puede llegar a ser mas lento, aunque para nada menos óptimo.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#contenido&quot;&gt;▲volver a contenido&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;augmented-laws-order-weapons-nivel-515&quot;&gt;Augmented Law’s Order Weapons (nivel 515)&lt;/h3&gt;
+
+&lt;p&gt;Para continuar con la mejora de nuestra arma, la cual tendra brillos y efectos visuales, tendremos que proseguir con la misión &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/17861306223/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;The Resistance Remembers&lt;/a&gt;, &lt;em&gt;esta misión no necesitaremos repetirla para otras armas que queramos obtener&lt;/em&gt;. La misión nos pedira :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;18 &lt;strong&gt;Haunting Memories of the Dying&lt;/strong&gt; garantizadas en la incursiones de alianza de &lt;strong&gt;La Sombra de Mhach&lt;/strong&gt;, Heavensward, o de Fates en la zona de &lt;strong&gt;Gyr Abania&lt;/strong&gt; de forma aleatoria.&lt;/li&gt;
+  &lt;li&gt;18 &lt;strong&gt;Vexatious Memories of the Dying&lt;/strong&gt; garantizadas en la incursiones de alianza de &lt;strong&gt;Retorno a Ivalice&lt;/strong&gt;, Stormblood, o de Fates en la zona de &lt;strong&gt;Far East&lt;/strong&gt; de forma aleatoria.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Para este paso recomendamos hacer &lt;strong&gt;The Void Ark&lt;/strong&gt; para las &lt;strong&gt;Haunting Memories of the Dying&lt;/strong&gt; y &lt;strong&gt;The Royal City of Rabanastre&lt;/strong&gt; para las &lt;strong&gt;Vexatious Memories of the Dying&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez completado este paso debemos continuar con la misión &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/f49e076d1e1/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;A New Path of Resistance&lt;/a&gt;, que nos pedirá que obtegamos 15 &lt;strong&gt;Timeworn Artifact&lt;/strong&gt;, los cuales podremos obtener de :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Palace of the Dead&lt;/strong&gt; de forma aleatoria, la posibilidad aumenta segun la planta empezando a 10%, aumentando a 20% por encima del piso 50, 80% por encima del 100 y 100% por encima del 150.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Delubrum Reginae&lt;/strong&gt; encuentro a gran escala, hasta &lt;em&gt;48 jugadores&lt;/em&gt;, de forma garantizada.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;En este paso recomendamos &lt;strong&gt;Delubrum Reginae&lt;/strong&gt;, aunque alternando con &lt;strong&gt;Palace of the Dead&lt;/strong&gt; si nos cansamos de repetir el encuentro dado la longitud del mismo.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cabe destacar que esta arma permite que &lt;strong&gt;distribuyamos sus estadísticas secundarias&lt;/strong&gt; de la forma que mas nos apetezca.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#contenido&quot;&gt;▲volver a contenido&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;blades-weapons-nivel-535&quot;&gt;Blade’s Weapons (nivel 535)&lt;/h3&gt;
+
+&lt;p&gt;Para continuar con el aumento de nuestra arma primero tendremos que completar la misión &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/2a048a18b6a/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;What Dreams Are Made Of&lt;/a&gt;, tras lo cual nos daran 3 misiones en paralelo que solo tendremos que hacer para la primera arma que hagamos y no para las de los trabajos alternativos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/a3323888517/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Spare Parts&lt;/a&gt;, esta misión nos pedirá :
+    &lt;ul&gt;
+      &lt;li&gt;30 &lt;strong&gt;Compact Axle&lt;/strong&gt;, las cuales podremos obtener 1 por &lt;strong&gt;fate en Zadnor (Zona 1)&lt;/strong&gt;, 1 por incursión de &lt;strong&gt;Alexander&lt;/strong&gt;, encuentros &lt;strong&gt;1, 2, 5, 6, 9, 10&lt;/strong&gt;.&lt;/li&gt;
+      &lt;li&gt;30 &lt;strong&gt;Compact Spring&lt;/strong&gt;, las cuales podemos obtener 2 por &lt;strong&gt;encuentro critico en Zadnor (Zona 1)&lt;/strong&gt;, 1 por incursión de &lt;strong&gt;Alexander&lt;/strong&gt;, encuentros &lt;strong&gt;3, 4, 7, 8, 11, 12&lt;/strong&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/bc4087254f5/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Tell Me a Story&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;30 &lt;strong&gt;A Day in the Life: Battles for the Realm&lt;/strong&gt;, las cuales podremos obtener 1 por &lt;strong&gt;fate en Zadnor (Zona 2)&lt;/strong&gt;, 1 por incursión de &lt;strong&gt;Omega&lt;/strong&gt;, encuentros &lt;strong&gt;1, 2, 5, 6, 9, 10&lt;/strong&gt;.&lt;/li&gt;
+      &lt;li&gt;30 &lt;strong&gt;A Day in the Life: Beyond the Rift&lt;/strong&gt;, las cuales podemos obtener 2 por &lt;strong&gt;encuentro critico en Zadnor (Zona 2)&lt;/strong&gt;, 1 por incursión de &lt;strong&gt;Omega&lt;/strong&gt;, encuentros &lt;strong&gt;3, 4, 7, 8, 11, 12&lt;/strong&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/f342e232a32/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;A Fond Memory&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;30 &lt;strong&gt;Bleak Memory of the Dying&lt;/strong&gt;, las cuales podremos obtener 1 por &lt;strong&gt;fate en Zadnor (Zona 3)&lt;/strong&gt;, 1 por incursión de &lt;strong&gt;Eden&lt;/strong&gt;, encuentros &lt;strong&gt;1, 2, 5, 6, 9, 10&lt;/strong&gt;.&lt;/li&gt;
+      &lt;li&gt;30 &lt;strong&gt;Lurid Memory of the Dying&lt;/strong&gt;, las cuales podemos obtener 2 por &lt;strong&gt;encuentro critico en Zadnor (Zona 3)&lt;/strong&gt;, 1 por incursión de &lt;strong&gt;Eden&lt;/strong&gt;, encuentros &lt;strong&gt;3, 4, 7, 8, 11, 12&lt;/strong&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;En este caso recomendamos que subas primero tu rango de la resistencia en &lt;strong&gt;Zadnor hasta nivel 25&lt;/strong&gt;, y así tener &lt;strong&gt;desbloqueado Dalriada&lt;/strong&gt;, y mientras hagas las &lt;strong&gt;Fates y encuentros criticos&lt;/strong&gt; que encuentres por el camino. Los objetos que te falten es recomendable el hacerlos en &lt;strong&gt;incursiones en normal&lt;/strong&gt; ya que suelen ser bastante rapidas&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;El paso final empieza en la misión &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/a0f4270b30f/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Irresistible&lt;/a&gt;, la cual nos pedirá 15 Raw Emotions que podremos obtener en:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3 garantizadas por completar el encuentro a gran escala, hasta &lt;em&gt;48 jugadores&lt;/em&gt;, de &lt;strong&gt;Dalriada&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;2 garantizadas por completar el encuentro a gran escala, hasta &lt;em&gt;48 jugadores&lt;/em&gt;, de &lt;strong&gt;Delubrum Reginae&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;1 garantizada para cualquier &lt;strong&gt;mazmorra del nivel 70&lt;/strong&gt; de Stormblood.&lt;/li&gt;
+  &lt;li&gt;1 aleatoriamente al completar 10 pisos de &lt;strong&gt;Heaven-on-High&lt;/strong&gt;. Incrementando segun el nivel de la planta.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;En este último paso recomendamos &lt;strong&gt;mazmorras de nivel 70&lt;/strong&gt;, especialmente &lt;strong&gt;Hells’ Lid&lt;/strong&gt; ya que es muy rapida de completar.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Con esto hemos &lt;strong&gt;conseguido nuestra arma 535&lt;/strong&gt;, &lt;strong&gt;superior&lt;/strong&gt; al nivel 530 de incursiones &lt;strong&gt;salvajes&lt;/strong&gt; que nos permite &lt;strong&gt;reajustar las estadísticas&lt;/strong&gt; secundarias y además posee unos &lt;strong&gt;efectos visuales impresionantes&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#contenido&quot;&gt;▲volver a contenido&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Jun 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/resistance/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/resistance/</guid>
+        
+        <category>guias</category>
+        
+        <category>relic</category>
+        
+        <category>shadowbringers</category>
+        
+        
+        <category>guias</category>
+        
+      </item>
     
       <item>
         <title>Guía sobre las 3 Grandes Compañías.</title>
@@ -79,7 +248,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/rangogc.jpg&quot; alt=&quot;rangogc&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 07 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 07 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guia-facciones/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-facciones/</guid>
         
@@ -109,7 +278,7 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 06 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 06 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/viaje-sin-fin-2/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-2/</guid>
         
@@ -151,7 +320,7 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 05 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 05 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/juglar-02/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-02/</guid>
         
@@ -212,7 +381,7 @@
 
 &lt;p&gt;Y con esto estaría todo lo relacionado con la prueba gratuita de Final Fantasy XIV. Son muchas las horas que podréis disfrutar de Eorzea sin necesidad de hacer el primer desembolso económico inicial.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 04 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 04 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guia-free-trial/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-free-trial/</guid>
         
@@ -260,7 +429,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 04 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 04 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210604/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210604/</guid>
         
@@ -426,7 +595,7 @@
 &lt;p&gt;Con esto hemos terminado nuestra Guía y esperemos que hayais aprendido muchas cosas nuevas sobre esta modalidad de juego.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 03 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 03 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guia-tipo-instancias/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-tipo-instancias/</guid>
         
@@ -564,7 +733,7 @@
 
 &lt;p&gt;¡Bienvenid@ a Eorzea!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 01 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guianuevosjugadores/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guianuevosjugadores/</guid>
         
@@ -594,7 +763,7 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Mon, 31 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 31 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/viaje-sin-fin-1/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-1/</guid>
         
@@ -624,7 +793,7 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 30 May 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 30 May 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/juglar-01/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-01/</guid>
         
@@ -634,96 +803,6 @@
         
         
         <category>multimedia</category>
-        
-      </item>
-    
-      <item>
-        <title>Guía sobre creación de personajes en Final Fantasy XIV.</title>
-        <description>&lt;p&gt;El primer paso es muy importante a la hora de jugar donde quieres jugar. En la pantalla de inicio del juego tendrás que elegir el &lt;strong&gt;Data Center&lt;/strong&gt; donde va a estar tu personaje alojado. La comunidad española se divide en varios pero la mayoría de ella se encuentra en el Data Center &lt;strong&gt;Chaos&lt;/strong&gt; y el servidor &lt;strong&gt;Ragnarok&lt;/strong&gt;. En este paso solo vas a elegir el Data Center. Si quieres jugar con la comunidad española, &lt;strong&gt;Chaos&lt;/strong&gt; es tu mejor opción.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/pantallainicial.jpg&quot; alt=&quot;pantallainicial&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/datacenter.jpg&quot; alt=&quot;datacenter&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;El consejo principal a la hora en la creación de tu personaje es: Créate lo que visualmente más te guste. Cada raza tiene unas Estadísticas distintas pero, conforme vayas ganando niveles, esas diferencias entre estas estadísticas iniciales pasan a ser imperceptibles. A nivel 50 os van a dar un item llamado &lt;strong&gt;Fantasia&lt;/strong&gt;. Este item os va a dar la posibildad de cambiar entero vuestro personaje, cambiar la raza, customización, etc. Las razas &lt;strong&gt;Hrothgar&lt;/strong&gt; y &lt;strong&gt;Viera&lt;/strong&gt; solo estarán disponibles si tienes comprada la expansión &lt;strong&gt;Shadowbringers&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Lo primero que nos van a pedir es que elijamos la &lt;a href=&quot;/guia-razas/&quot;&gt;raza&lt;/a&gt; del personaje.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/razas.jpg&quot; alt=&quot;Raza&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tras esto, tendremos que elegir el clan del personaje. Cada raza tiene 2 clanes. La única diferencia entre cada clan son bastantes aspectos visuales.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/clanes.jpg&quot; alt=&quot;Clanes&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ahora viene una de las partes más divertidas. La customización del personaje. Podrás elegir todo. Desde altura, a color y estilo del pelo, tatuajes, pinturas faciales o la voz de tu personaje. Tu personaje va a ser visualmente exactamente como tú quieras que sea.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/customizacion.jpg&quot; alt=&quot;Customizacion&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Cuando hayas terminado la customización se te va a dar la opción de guardar la apariencia. Esto es importante, como luego veremos, ya que te va a ahorrar tiempo si por algún problema no puedes terminar de crear tu personaje en el servidor &lt;strong&gt;Ragnarok&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/salvarapariencia.jpg&quot; alt=&quot;salvarapariencia&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;En este momento vas a elegir el cumpleaños de tu personaje. ¿Qué día naciste?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/cumple.jpg&quot; alt=&quot;Cumple&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ahora elegirás la deidad de tu personaje. Esta decisión no es importante a la hora de jugar. Elije el que más te guste. Son las siguientes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Althyk: dios de tiempo y espacio&lt;/li&gt;
-  &lt;li&gt;Azeyma: diosa del sol y de la curiosidad&lt;/li&gt;
-  &lt;li&gt;Byregot: Dios de la arquitectura, la industria, y las artes&lt;/li&gt;
-  &lt;li&gt;Halone: Diosa de la guerra&lt;/li&gt;
-  &lt;li&gt;Llymlaen: Diosa de los mares y la navegación&lt;/li&gt;
-  &lt;li&gt;Menphina: Diosa de la luna y el amor&lt;/li&gt;
-  &lt;li&gt;Nald’thal: Dios del inframundo y el comercio&lt;/li&gt;
-  &lt;li&gt;Nophica: Diosa de la tierra, la cosecha y la abundancia&lt;/li&gt;
-  &lt;li&gt;Nymeia: Diosa del destino&lt;/li&gt;
-  &lt;li&gt;Oschon: Dios de las montañas, los viajeros, y los vagos&lt;/li&gt;
-  &lt;li&gt;Rhalgr: Dios de la destrucción&lt;/li&gt;
-  &lt;li&gt;Thaliak: Dios de los ríos, la sabiduría y el conocimiento&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/deidad.jpg&quot; alt=&quot;Deidad&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ahora viene cuando elegimos la &lt;a href=&quot;/guiaclases/&quot;&gt;clase&lt;/a&gt; inicial de nuestro personaje. Las clases se diferencian entre Disciplinas de Guerra (gladiador, pugilista, merodeador, lancero y arquero) y Disciplinas de la Magia (conjurador, taumaturgo y arcanista).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/clasewar.jpg&quot; alt=&quot;clasewar&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/clasemagic.jpg&quot; alt=&quot;clasemagic&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ahora vamos a elegir el Servidor donde vamos a jugar. La gran mayoría de la comunidad española esta en el servidor Ragnarok (no aceptes el servidor que te recomiendan). Es posible que al crearte tu personaje no te deje y que te diga que el servidor está lleno. Si esto te pasa, tendrás que esperar para creártelo en un momento cuando haya menos jugadores conectados (de madrugada o primera hora de la mañana os podemos recomendar). Como antes aconsejábamos, el haber guardado vuestra apariencia os ahorra en este paso mucho tiempo ya que podréis cargarla y llegar rapidamente a los pasos finales de la creación del personaje. Os dejamos una página web donde podrás comprobar el estado de los servidores y si se puede crear o no personajes nuevos &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/worldstatus/&quot;&gt;Estado de los servidores&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/servidor.jpg&quot; alt=&quot;servidor&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/ragnarok.jpg&quot; alt=&quot;ragnarok&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ahora tendrás que ponerle nombre a tu personaje. En Final Fantasy XIV siempre vas a ponder poner el nombre que más te guste ya que, tendrás que elegir también un apellido. Es obligatorio elegir nombre y apellido. Además hay un dado (abajo a la izquierda) en el cuadro de diálogo donde te pondrá nombres y apellidos aleatorios, si así lo decides.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/nombre.jpg&quot; alt=&quot;nombre&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Y ya por último tendrás que aceptar crear al personaje, llegando así al final de todo este proceso.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/guiacreacionpersonajes/ultimopaso.jpg&quot; alt=&quot;ultimopaso&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ya has creado tu personaje en &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt; y solo te queda empezar a vivir sus aventuras.&lt;/p&gt;
-
-&lt;p&gt;¡¡¡ Bienvenid@ a &lt;strong&gt;Eorzea&lt;/strong&gt; !!!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 29 May 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/creacionpersonajes/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/creacionpersonajes/</guid>
-        
-        <category>nuevos jugadores</category>
-        
-        <category>guias</category>
-        
-        <category>clases</category>
-        
-        <category>profesiones</category>
-        
-        
-        <category>guias</category>
         
       </item>
     
