@@ -5,8 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Jun 2021 13:36:14 +0200</pubDate>
-    <lastBuildDate>Wed, 09 Jun 2021 13:36:14 +0200</lastBuildDate>
+    <pubDate>Wed, 09 Jun 2021 13:51:23 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Jun 2021 13:51:23 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -24,6 +24,10 @@
 &lt;p&gt;Tras haber conseguido el objeto, la misión nos mandará a un NPC. Le entregamos el objeto y éste nos entragará nuestro chocobo con accesorios y motivos de la Gran Compañía que hayamos elegido. Entonces, tendremos que darle un nombre a nuestro chocobo.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/nombre.jpg&quot; alt=&quot;nombre&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El nombre del chocobo se puede cambiar siempre que queramos. Hablando con el &lt;em&gt;Chocobokeep&lt;/em&gt; nos dará la opción de renombrar a nuestro chocobo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/renombrar.jpg&quot; alt=&quot;renombrar&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ahora ya terminamos la misión y nos dará el artículo &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/85f78cb2a87/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Chocobo Whistle&lt;/a&gt; que tendremos que usarlo. Al hacerlo se nos añadirá nuestro chocobo como montura. Este icono lo podremos arrastrar hacia un botón de las barras para tener acceso rápido.&lt;/p&gt;
 
@@ -63,6 +67,10 @@
 &lt;p&gt;Para cambiar la armadura del chocobo hay que conseguir unos objetos denominados &lt;strong&gt;Bardas&lt;/strong&gt; (&lt;em&gt;Bardings&lt;/em&gt; en inglés). Estos objetos se colocan en la cabeza, cuerpo y piernas del chocobo. Podrás conseguir las bardas mediante misiones, fabricación de objetos, logros, etc. Las bardas están diseñadas con una temática relacionada al contenido con la que la consigues. Por ejemplo, si consigues la barda con objetos que se obtienen en un jefe ésta tendrá una apariencia relacionada con el jefe.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/barda.jpg&quot; alt=&quot;barda&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cuando ya tengamos desbloqueado nuestro compañero de batalla, tendremos acceso a la opción del menú &lt;em&gt;Character&lt;/em&gt; de &lt;strong&gt;Chocobo Saddlebag&lt;/strong&gt; (Ctrl+Shift+i por defecto). Estas alforjas nos dan 70 huecos más de inventario que podemos usar para guardar lo que nosotros queramos. Estas alforjas se puede abrir en todas las zonas, incluso cuando no podamos sacar a nuestro compañero de batalla.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/alforjas.jpg&quot; alt=&quot;alforjas&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/chocobo/</link>
