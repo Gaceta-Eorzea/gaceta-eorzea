@@ -116,7 +116,7 @@ A nivel 30, los lanceros consiguen la profesión de **Caballero Dragón** (Drago
 
 ![Ninja](/assets/images/articles/guias/guiaclases/ninja.jpg)
 
-Los **Pícaros** (Rogue en inglés) son una clase de daño cuerpo a cuerpo con una rotación muy flexible. Esta clase no está disponible en la creación del personaje. Tendrás que tener una clase nivel 10 y después  completar la misión "My First Daggers", y su gremio se ubica en el *convento de las Hermanas Dutiful de Edelweiss* en **Limsa Lominsa**, encabezado por *Jacke Swallow*. Los pícaros además aplicarán un perjuicio a los enemigos de un aumento del 5% del daño recibido.
+Los **Pícaros** (Rogue en inglés) son una clase de daño cuerpo a cuerpo con una rotación muy flexible. Esta clase no está disponible en la creación del personaje. Tendrás que haber completado la misión de nivel 10 con otra clase para desbloquear el **Armoury System** y después  completar la misión [My First Daggers](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/206f120e683/){:target="_blank" class="eorzeadb_link"}. Esta misión te la entrega [Lonwoerd](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/1d8868370bc/){:target="_blank" class="eorzeadb_link"} que se encuentra en el *convento de las Hermanas Dutiful de Edelweiss* en **Limsa Lominsa**. Si tu clase inicial no empieza en Limsa Lominsa, deberás esperar a poder ir de una ciudad a otra. Esto se consigue a nivel 16 de la historia principal. Los pícaros además aplicarán un perjuicio a los enemigos de un aumento del 5% del daño recibido.
 
 El arma característica de la clase son las **dagas**.
 
