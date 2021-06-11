@@ -68,7 +68,7 @@ El **Conjurador** (*Conjurer* en inglés) es la única clase que encontrarás pu
 
 El arma característica de la clase son los **bastones**.
 
-Al alcanzar nivel 30, el Conjurador consigue la profesión de **Mago Blanco** (White Mage en inglés). El Mago Blanco cuenta con la ***curación en AoE más poderosa del juego***. Es increíblemente potente y eficaz en la gesitón del maná curando en área. Además también tiene muchas curaciones fuera del GCD (Global Cooldown). Como beneficio extra es el sanador que te va a aportar más daño, tanto en AoE como a un único objetivo. Como punto débil, es el sanador con menos mitigación de daño por lo que sus curaciones son reactivas en detrimento de las preventivas.
+Al alcanzar nivel 30, el Conjurador consigue la profesión de **Mago Blanco** (*White Mage* en inglés). El Mago Blanco cuenta con la ***curación en AoE más poderosa del juego***. Es increíblemente potente y eficaz en la gesitón del maná curando en área. Además también tiene muchas curaciones fuera del GCD (Global Cooldown). Como beneficio extra es el sanador que te va a aportar más daño, tanto en AoE como a un único objetivo. Como punto débil, es el sanador con menos mitigación de daño por lo que sus curaciones son reactivas en detrimento de las preventivas.
 
 ### ![LogoArcanista](/assets/images/articles/guias/guiaclases/logoarcanista.png) Arcanista > > > ![LogoErudito](/assets/images/articles/guias/guiaclases/logoerudito.png) Erudito
 
