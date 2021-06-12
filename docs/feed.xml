@@ -5,8 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Jun 2021 20:00:44 +0200</pubDate>
-    <lastBuildDate>Fri, 11 Jun 2021 20:00:44 +0200</lastBuildDate>
+    <pubDate>Sat, 12 Jun 2021 11:44:51 +0200</pubDate>
+    <lastBuildDate>Sat, 12 Jun 2021 11:44:51 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -291,7 +291,7 @@
     
       <item>
         <title>Guía sobre las 3 Grandes Compañías.</title>
-        <description>&lt;p&gt;Cuando llegues a nivel 20 de la historia principal de &lt;em&gt;A Realm Reborn&lt;/em&gt; tienes que tomar una decisión: A qué facción voy a pertenecer. Debes elegir una de las tres Grandes Compañías con la que alinearte. Sobre el nivel 10 de la MSQ te dieron a conocer las 3 facciones principales. Estas son:&lt;/p&gt;
+        <description>&lt;p&gt;Cuando llegues a nivel 20 de la historia principal de &lt;em&gt;A Realm Reborn&lt;/em&gt; tienes que tomar una decisión: &lt;strong&gt;A qué facción voy a pertenecer&lt;/strong&gt;. Debes elegir una de las tres &lt;strong&gt;Grandes Compañías&lt;/strong&gt; con la que alinearte. Sobre el nivel 10 de la MSQ te dieron a conocer las 3 facciones principales. Estas son:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -307,37 +307,37 @@
 
 &lt;p&gt;Si bien cada Gran Compañía tiene una estética, un espíritu y una base de operaciones específicas, no hay diferencia técnica entre ellas. No existe una Gran Compañía objetivamente mejor. Tampoco tienes por qué elegir la compañía que está instalada en la ciudad donde empezaste el juego. Es una elección 100% pura por gustos y afinidades.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/estandartes.jpg&quot; alt=&quot;estandartes&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/estandartes.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Otra cosa a tener en cuenta al elegir una Gran Compañía es la estética, ya que las armas y el equipo que te ofrecen coincidirán con los colores y la temática de ese grupo.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://ffxiv.eorzeacollection.com/gearsets?filter%5BorderBy%5D=patch&amp;amp;filter%5BshowGear%5D=set&amp;amp;filter%5BshowFemale%5D=0&amp;amp;search=&amp;amp;filter%5BcontentType%5D%5B%5D=grand-company&amp;amp;filter%5BmaximumLvl%5D=80&amp;amp;filter%5Bsave%5D=&amp;amp;page=1&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/estetica.jpg&quot; alt=&quot;estetica&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Una vez que decidas con qué gran compañía alinearte, recibirás una versión específica de la misión llamada &lt;strong&gt;The Company You Keep.&lt;/strong&gt;. Completa esa misión y te unirás a la Gran Compañía. Una de las primeras misiones que tendrás cuando te unas a la Gran Compañía, te dará acceso a tu &lt;strong&gt;Chocobo&lt;/strong&gt;, consiguiendo así tu primera montura en Final Fantasy XIV.&lt;/p&gt;
+&lt;p&gt;Una vez que decidas con qué Gran Compañía alinearte, recibirás una versión específica de la misión llamada &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/92c9f600c93/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;The Company You Keep&lt;/a&gt;. La versión dependerá de la Gran Compañía que hayas elegido. Completa esa misión y te &lt;strong&gt;unirás a la Gran Compañía&lt;/strong&gt;. Una de las primeras misiones que tendrás cuando te unas a la Gran Compañía, te dará acceso a tu &lt;a href=&quot;/chocobo/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Chocobo&lt;/a&gt;, consiguiendo así tu primera montura en Final Fantasy XIV.&lt;/p&gt;
 
 &lt;h3 id=&quot;cómo-conseguir-sellos-de-la-compañía-y-subir-de-rango&quot;&gt;Cómo conseguir sellos de la Compañía y subir de rango&lt;/h3&gt;
 
 &lt;p&gt;Cada una de las Grandes Compañías ofrece numerosos rangos, como una organización o un ejército. Puede aumentar su rango a través de una Gran Compañía al realizar misiones y eventos que ofrecen &lt;strong&gt;Sellos de Compañía&lt;/strong&gt;. Además estos sellos se pueden intercambiar por equipo o materiales.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/sellos.jpg&quot; alt=&quot;sellos&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/sellos.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Podras comprobar la cantidad de Sellos de Compañía que tienes desde la ventana de &lt;em&gt;Currency&lt;/em&gt; (Ctrl + C)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/currency.jpg&quot; alt=&quot;currency&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/currency.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;También es importante indicar que al acceder a una Gran Compañía tendrás acceso a un &lt;strong&gt;nuevo Hunting Log&lt;/strong&gt;. Este Hunting Log no te dará Giles ni experiencia sino que te dará muchos Sellos de Compañía. Además, para ascender en ciertos niveles en la organización, te pedirá que tengas &lt;strong&gt;completado el nivel requerido de este Hunting Log&lt;/strong&gt;. Otra cosa importante es que este Hunting Log es a &lt;strong&gt;nivel de cuenta&lt;/strong&gt;. No tendrás que repetirlo si decides subir una nueva clase (como si ocurre con los Hunting Logs normales).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/hlgc.jpg&quot; alt=&quot;hlgc&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/hlgc.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cuando consigas el rango &lt;strong&gt;Sargento de Segunda Clase&lt;/strong&gt; podrás donar equipo a la Gran Compañía. El equipo que consigas en las mazmorras y que no uses será el equipo que entregarás y a cambio te darán Sellos de Compañía. Cuanto más alto es el nivel del equipo donando, más sellos conseguirás. El NPC que cambia el equipo por sellos es el &lt;strong&gt;Personnel Officer&lt;/strong&gt; en la pestaña de &lt;strong&gt;Expert Delibery&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/equipo.jpg&quot; alt=&quot;equipo&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/equipo.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Además, el Personnel Officer te da la posibilidad de conseguir Sellos con las profesiones de &lt;strong&gt;fabricación de objetos&lt;/strong&gt;, en la pestaña de &lt;em&gt;Supply&lt;/em&gt; y de &lt;strong&gt;recolección&lt;/strong&gt; en la pestaña de &lt;em&gt;Provisioning&lt;/em&gt;. El NPC cada día te pedirá una cantidad exacta de algunos artículos fabricados o recolectados. Al entregarlos, además de conseguir Sellos, conseguirás experiencia para subir la profesión de los artículos que estés entregando. Como extra, si los artículos fabridos tienen alta calidad, conseguirás más experiencia y sellos. Es una actividad que se resetea diariamente.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/suply.jpg&quot; alt=&quot;suply&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/suply.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/provisioning.jpg&quot; alt=&quot;provisioning&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/provisioning.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Como resumen, para obtener Sellos de Compañía tienes las siguientes opciones:&lt;/p&gt;
 
@@ -353,11 +353,11 @@
 
 &lt;p&gt;Para ascender de &lt;strong&gt;Rango&lt;/strong&gt; en la Gran Compañía como regla general tendrás que entregar sellos al &lt;em&gt;Personnel Officer&lt;/em&gt; a través de la opción &lt;strong&gt;Apply for a promotion&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/promotion.jpg&quot; alt=&quot;promotion&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/promotion.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Habrá rangos que para ascender, además de entregar los sellos necesarios, tendrás que tener completado el nivel de &lt;strong&gt;Hunting Log&lt;/strong&gt; de la Gran Compañía que te pida el &lt;em&gt;Personnel Officer&lt;/em&gt;. Así mismo, para ascender los dos últimos rangos en la Gran Compañía, necesitarás ayuda de tu &lt;strong&gt;Escuadrón&lt;/strong&gt;. El rango máximo al que se puede acceder es el de Capitán (&lt;em&gt;Captain&lt;/em&gt; en inglés).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/rangogc.jpg&quot; alt=&quot;rangogc&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/rangogc.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guia-facciones/</link>
