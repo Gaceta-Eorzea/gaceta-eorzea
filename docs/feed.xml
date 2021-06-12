@@ -5,8 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Jun 2021 11:46:26 +0200</pubDate>
-    <lastBuildDate>Sat, 12 Jun 2021 11:46:26 +0200</lastBuildDate>
+    <pubDate>Sat, 12 Jun 2021 11:55:27 +0200</pubDate>
+    <lastBuildDate>Sat, 12 Jun 2021 11:55:27 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -82,19 +82,19 @@
 
 &lt;p&gt;Para completar la misión lo primero que debemos hacer es comprar un artículo al Oficial &lt;em&gt;Quatermaster&lt;/em&gt; de nuestra Gran Compañía llamado &lt;em&gt;Chocobo Issuance&lt;/em&gt;. Este artículo esta en la pestaña &lt;em&gt;Materiel&lt;/em&gt; y es distinto dependiendo de la Gran Compañía a la que nos hayamos unido. Este artículo cuesta 200 Sellos de la compañía. En la guía de la &lt;a href=&quot;/guia-facciones/&quot; target=&quot;_blank&quot;&gt;Gran Compañía&lt;/a&gt;. Los más rapido para conseguir estos 200 primeros sellos es completar la misión que te da el oficial de la Gran Compañía nada más unirte a ellos.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/chocoboissuance.jpg&quot; alt=&quot;chocoboissuance&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/chocoboissuance.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Tras haber conseguido el objeto, la misión nos mandará a un NPC. Le entregamos el objeto y éste nos entragará nuestro chocobo con accesorios y motivos de la Gran Compañía que hayamos elegido. Entonces, tendremos que darle un nombre a nuestro chocobo.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/nombre.jpg&quot; alt=&quot;nombre&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/nombre.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;El nombre del chocobo se puede cambiar siempre que queramos. Hablando con el &lt;em&gt;Chocobokeep&lt;/em&gt; nos dará la opción de renombrar a nuestro chocobo.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/renombrar.jpg&quot; alt=&quot;renombrar&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/renombrar.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ahora ya terminamos la misión y nos dará el artículo &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/85f78cb2a87/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Chocobo Whistle&lt;/a&gt; que tendremos que usarlo. Al hacerlo se nos añadirá nuestro chocobo como montura. Este icono lo podremos arrastrar hacia un botón de las barras para tener acceso rápido.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/montura.jpg&quot; alt=&quot;montura&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/montura.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;chocobo-como-compañero-de-batalla&quot;&gt;Chocobo como compañero de batalla.&lt;/h3&gt;
 
@@ -102,7 +102,7 @@
 
 &lt;p&gt;Como te enseñan a hacerlo en la misión, para invocar al chocobo tendrás que usar &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/eeca86f98cc/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Gysahl Greens&lt;/a&gt;. Tras usarlo el chocobo estará contigo durante 30 min y podrás usar 2 &lt;em&gt;Gyshal Greens&lt;/em&gt; para que esté 1h en total (las &lt;em&gt;Gyshal Greens&lt;/em&gt; pueden ser arrastradas hasta sition en la barra de botones y agilizar el proceso de invocación del chocobo). Este tiempo no avanza si estas en montura, has entrado en Dutys de las misiones, haces mazmorras, etc. Conforme el chocobo vaya matando enemigos contigo, éste irá ganando experiencia y subiendo de nivel. Este nivel lo puedes comprobar en el menú Companion que está en el menú rojo de Character.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/companion.jpg&quot; alt=&quot;companion&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/companion.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cuando llegues a nivel 10, para seguir subiendo de nivel necestiarás dar a tu chocobo una &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/cd8f0584d92/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Thavnairian Onion&lt;/a&gt; por cada nivel que quieras subir. Estas cebollas se pueden cultivar en jardines de tu casa o comprarlas en la subasta (&lt;em&gt;Marquet board&lt;/em&gt; en inglés). El nivel máximo al que llegará tu chocobo es nivel 20.&lt;/p&gt;
 
@@ -121,19 +121,19 @@
 
 &lt;p&gt;Cada vez que el chocobo sube de nivel consigue puntos de habilidades que podrás administrar como tú quieras especializando así a tu chocobo. Estos puntos están distribuidos en 3 familias: &lt;em&gt;Defensor&lt;/em&gt;, &lt;em&gt;Sanador&lt;/em&gt; o &lt;em&gt;Atacante&lt;/em&gt;. Cuando llegues a nivel 10 del nivel del chocobo, podrás completar una especialización completa. Cuando llegues a nivel 20, podrás completar 2 especializacions completas. Estos puntos de habilidades se pueden resetear con &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/102abc133a5/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Reagan Pepper&lt;/a&gt;. Estos objetos se puede comprar por 20 Allied Seals o 48.000 Sellos de la Gran Compañía.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/habilidades.jpg&quot; alt=&quot;habilidades&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/habilidades.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Por último, en la pestaña &lt;em&gt;Appearence&lt;/em&gt; del menú Companion podrás cambiar la armadura de tu chocobo así como el color de sus plumas. Para cambiar el color deberás darle frutas cuando el chocobo esté en el establo con la opción Alimentar (&lt;em&gt;Feed&lt;/em&gt; en inglés). Dependiendo de las frutas que le des y orden en que se las suministres el chocobo conseguirá un color y otro. Puedes darle todas las frutas en un solo paso y pasadas 24h desde que le alimentaste con la última fruta, el chocobo conseguirá el cambio de color. Estas 24h el chocobo debe estar en el establo. Para facilitar este proceso puedes usar la web &lt;a href=&quot;https://ffxivchocobo.com/en&quot; target=&quot;_blank&quot;&gt;FFXIV Chocobo&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/apariencia.jpg&quot; alt=&quot;apariencia&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/apariencia.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Para cambiar la armadura del chocobo hay que conseguir unos objetos denominados &lt;strong&gt;Bardas&lt;/strong&gt; (&lt;em&gt;Bardings&lt;/em&gt; en inglés). Estos objetos se colocan en la cabeza, cuerpo y piernas del chocobo. Podrás conseguir las bardas mediante misiones, fabricación de objetos, logros, etc. Las bardas están diseñadas con una temática relacionada al contenido con la que la consigues. Por ejemplo, si consigues la barda con objetos que se obtienen en un jefe ésta tendrá una apariencia relacionada con el jefe.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/barda.jpg&quot; alt=&quot;barda&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/barda.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cuando ya tengamos desbloqueado nuestro compañero de batalla, tendremos acceso a la opción del menú &lt;em&gt;Character&lt;/em&gt; de &lt;strong&gt;Chocobo Saddlebag&lt;/strong&gt; (Ctrl+Shift+i por defecto). Estas alforjas nos dan 70 huecos más de inventario que podemos usar para guardar lo que nosotros queramos. Estas alforjas se puede abrir en todas las zonas, incluso cuando no podamos sacar a nuestro compañero de batalla.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/alforjas.jpg&quot; alt=&quot;alforjas&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/alforjas.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/chocobo/</link>
