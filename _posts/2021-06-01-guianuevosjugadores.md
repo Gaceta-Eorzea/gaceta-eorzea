@@ -92,7 +92,7 @@ Cada **5 niveles de tu personaje**, se te desbloqueará una misión de clase. Es
 
 <p align="center"><img src="/assets/images/articles/guias/guianuevosjugadores/habilidades.jpg"></p>
 
-## Hunting Log.
+## Historial del Cazador (*Hunting Log* en inglés).
 
 Cuando estés completando misiones, comprobarás que algunos NPCs tienen un símbolo distinto sobre el nombre. Este símbolo quiere decir que pertenece al denominado **Hunting Log**. Este método de juego nos pide matar cierta cantidad de un tipo de NPC. Es importante hacerlo conforme vayas subiendo su personaje ya que los primeros niveles del Hunting Log suelen estar en las zonas de las misiones de inicio.
 
@@ -102,9 +102,9 @@ Cuando estés completando misiones, comprobarás que algunos NPCs tienen un sím
 
 El Hunting Log pertenece a la clase que estés jugando. Si juegas con un Arcanista, tendrás un Hunting Log. Si luego juegas con el Arquero, tendrás otro Hunting Log. Si no encuentras donde están los NPCs que forman parte del Hunting Log que estás haciendo, te dejamos una [web de ayuda](http://dimensionaldeath.com/index.php?page=huntinglogs){:target="_blank"}. Esta web te ayudará ya que te marcara con una zona morada donde se encuentran los NPCs a "cazar".
 
-## ¿Subo más de una clase/job a la vez?
+## ¿Subo más de una clase/profesión a la vez?
 
-Como hemos indicado, hay mucha experiencia repartida en distintas actividades o mecánicas a lo largo de tu aventura en Final Fantasy XIV. Cuando llegues al nivel 10 del Main Scenario, verás que podrás moverte entre las 3 primeras Ciudades importantes del juego, desbloqueando así el acceso a todas las clases/profesiones. Una vez hecho esto recomendamos que cada jugador elija una segunda clase que subir. Así, si tu clase inicial la tienes, por ejemplo, a nivel 17 y la Main Scenario está a nivel 15, esta segunda clase deberás subirla a nivel de la Main Scenario, o sea, 15 y continuar con ella hasta alcanzar el nivel de la primera clase, 17. Una vez aquí, tendrás la Main Scenario y 2 clases al mismo nivel. 
+Como hemos indicado, hay mucha experiencia repartida en distintas actividades o mecánicas a lo largo de tu aventura en *Final Fantasy XIV*. Cuando llegues al nivel 10 del Main Scenario Quest, verás que podrás moverte entre las 3 primeras Ciudades importantes del juego, desbloqueando así el acceso a todas las clases/profesiones. Una vez hecho esto recomendamos que cada jugador elija una segunda clase que subir. Así, si tu clase inicial la tienes, por ejemplo, a nivel 17 y la Main Scenario está a nivel 15, esta segunda clase deberás subirla a nivel de la Main Scenario, o sea, 15 y continuar con ella hasta alcanzar el nivel de la primera clase, 17. Una vez aquí, tendrás la Main Scenario y 2 clases al mismo nivel. 
 
 Lo realmente óptimo es que vayas subiendo una clase, haciendo su hunting log, sus misiones de clase y mazmorra de Leveling (Las mazmorras se desbloquean a nivel 16 de cada clase). Luego pasar a la segunda clase, y repetir el proceso. Verás que no subes más lento ya que, **lo más importante en Final Fantasy XIV no es subir tu clase sino subir la Main Scenario**. Hay experiencia de sobra para subir 2 clases a la vez. En la imagen de ejemplo se puede ver que tiene varias clases subidas. Unas al 54, otras al 50, alguna al 30, etc.
 
