@@ -7,7 +7,7 @@ tags: [recluta, amigo, recompensas]
 image: assets/images/articles/guias/reclutaamigo/reclutaamigop.jpg
 description: "Como activar la campaña Recluta a un Amigo y sus futuras recompensas."
 featured: false
-hidden: false
+hidden: true
 ---
 El sistema **Recluta a un Amigo** llegó a Final Fantasy XIV el 19 de junio de 2015 y desde ese momento traer gente a vivir aventuras a Eorzea tiene beneficios tanto para el jugador veterano como para el nuevo aventurero.
 
