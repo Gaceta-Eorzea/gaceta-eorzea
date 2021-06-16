@@ -43,12 +43,14 @@ Los reclutadores reciben recompensas de dos formas distintas. Cuando un amigo re
 
 Cuando el primero de tus amigos reclutados paga su primera suscripción, el reclutador recibe las siguientes recompensas:
 
-- ![plumadorada](/assets/images/articles/guias/reclutaamigo/plumadorada.jpg) 5 x [Plumas de Chocobo Dorado](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/1b65ee4f5c8/){:target="_blank" class="eorzeadb_link"}
-- ![brofist](/assets/images/articles/guias/reclutaamigo/brofist.jpg) Un nuevo emote que podrás hacer con amigos con el comando **/fistbump** o **/brofist**
+- ![plumadorada](/assets/images/articles/guias/reclutaamigo/plumadorada.jpg){:width="32"} 5 x [Plumas de Chocobo Dorado](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/1b65ee4f5c8/){:target="_blank" class="eorzeadb_link"}
+- Un nuevo emote que podrás hacer con amigos con el comando **/fistbump** o **/brofist**
 
-Como hemos dicho antes, podrás reclutar a más amigos (hasta un máximo de 5 amigos). En este caso la primera recompensa solo serán las 5 x [Plumas de Chocobo Dorado](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/1b65ee4f5c8/){:target="_blank" class="eorzeadb_link"}.
+<p align="center"><img src="/assets/images/articles/guias/reclutaamigo/brofist.jpg"></p>
 
-##### * Recompensas al cambiar las plumas doradas.
+Como hemos dicho antes, podrás reclutar a más amigos (hasta un máximo de 5 amigos). Al hacerlo la primera recompensa solo serán las 5 x [Plumas de Chocobo Dorado](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/1b65ee4f5c8/){:target="_blank" class="eorzeadb_link"}.
+
+##### *Recompensas al cambiar las plumas doradas*.
 
 Para cambiar las **plumas doradas** por recompensas deberás buscar un NPC que se llama **Calamity Salvager**. Este NPC se puede encontrar en cada una de las 3 ciudades principales en las siguientes ubicaciones:
 

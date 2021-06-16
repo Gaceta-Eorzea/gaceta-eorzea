@@ -92,7 +92,7 @@ Alguno de estos iconos se activan automáticamente en los nombres del jugador qu
 
 #### Iconos Manuales
 
-Otros iconos podemos activarlos **cuando queramos**, mientras los tengamos **disponibles**, desde la **información de busqueda** (*Search Info* en inglés).
+Otros iconos podemos activarlos **cuando queramos**, mientras los tengamos **disponibles**, desde la **información de búsqueda** (*Search Info* en inglés).
 
 - ![pve mentor]({{ site.baseurl }}/assets/images/articles/iconos/mentor-pve.png){:width="32"} **Mentor de PvE**, jugador que **guía** a los jugadores en temas de **PvE**.
 - ![trade mentor]({{ site.baseurl }}/assets/images/articles/iconos/mentor-trade.png){:width="32"} **Mentor de Comercio**, jugador que **guía** a los jugadores en temas de **profesiones de recolección y fabricación**.
