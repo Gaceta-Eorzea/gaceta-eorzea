@@ -109,3 +109,95 @@ Además de la opción de suscripción, *Square Enix* nos permite comprar las **T
 </table>
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/metodospago/tabla.jpg" alt="tabla"/></p>
+
+#### Tipo
+
+<div class="container">
+<div class="span2">
+  <div class="row">    
+    <div class="col-4 border bg-dark">
+      <font color="white"><b>Tipo</b></font>
+    </div>        
+    <div class="col-8 border bg-dark">
+      <div class="row">    
+        <font color="white"><b>&nbsp;Max Personajes</b></font>
+      </div>
+      <div class="row">    
+        <div class="col-6 border bg-secondary">
+          <font color="white"><b>servidor</b></font>
+        </div>    
+        <div class="col-6 border bg-secondary">
+          <font color="white"><b>total</b></font>
+        </div>    
+      </div>      
+    </div>    
+  </div>
+  </div>
+  <div class="row">
+    <div class="col-4 border bg-light">
+      Entry
+    </div>    
+    <div class="col-4 border bg-light">
+      1
+    </div>    
+    <div class="col-4 border bg-light">
+      1
+    </div>        
+  </div>  
+  <div class="row">
+    <div class="col-4 border bg-light">
+      Standard
+    </div>    
+    <div class="col-4 border bg-light">
+      8
+    </div>    
+    <div class="col-4 border bg-light">
+      40
+    </div>    
+  </div>   
+</div>
+
+#### Precio
+
+<div class="container">
+<div class="span2">
+  <div class="row">    
+    <div class="col-4 border bg-dark">
+      <font color="white"><b>Tipo</b></font>
+    </div>        
+    <div class="col-4 border bg-dark">
+        <font color="white"><b>&nbsp;Duracion</b></font>
+    </div>     
+    <div class="col-4 border bg-dark">
+        <font color="white"><b>&nbsp;Precio</b></font>
+    </div>    
+  </div>
+  </div>
+  <div class="row">
+    <div class="col-4 border bg-light">
+      Entry
+    </div>    
+    <div class="col-4 border bg-light">
+      30 dias
+    </div>    
+    <div class="col-4 border bg-light">
+      10.99 €
+    </div>        
+  </div>  
+  <div class="row">
+    <div class="col-4 border bg-light">
+      Standard
+    </div>
+    <div class="col-4 border bg-light">
+      30 dias
+    <div class="col-4 border bg-light">
+      10.99 €
+    </div>
+    <div class="col-4 border bg-light">
+      30 dias
+    </div>    
+    <div class="col-4 border bg-light">
+      10.99 €
+    </div>
+  </div>
+</div>
