@@ -202,3 +202,120 @@ Texto y imagenes, la columna de la imagen es extra larga por eso en movil ocupa 
     </div>
   </div>
 </div>
+
+### Sub Final
+
+#### Tipo
+
+<div class="container">
+<div class="span2">
+  <div class="row">    
+    <div class="col-4 border bg-dark">
+      <font color="white"><b>Tipo</b></font>
+    </div>        
+    <div class="col-8 border bg-dark">
+      <div class="row">    
+        <font color="white"><b>&nbsp;Max Personajes</b></font>
+      </div>
+      <div class="row">    
+        <div class="col-6 border bg-secondary">
+          <font color="white"><b>servidor</b></font>
+        </div>    
+        <div class="col-6 border bg-secondary">
+          <font color="white"><b>total</b></font>
+        </div>    
+      </div>      
+    </div>    
+  </div>
+  </div>
+  <div class="row">
+    <div class="col-4 border bg-light">
+      Entry
+    </div>    
+    <div class="col-4 border bg-light">
+      1
+    </div>    
+    <div class="col-4 border bg-light">
+      1
+    </div>        
+  </div>  
+  <div class="row">
+    <div class="col-4 border bg-light">
+      Standard
+    </div>    
+    <div class="col-4 border bg-light">
+      8
+    </div>    
+    <div class="col-4 border bg-light">
+      40
+    </div>    
+  </div>   
+</div>
+
+#### Precio
+
+<div class="container">
+<div class="span2">
+  <div class="row">    
+    <div class="col-4 border bg-dark">
+      <font color="white"><b>Tipo</b></font>
+    </div>        
+    <div class="col-4 border bg-dark">
+        <font color="white"><b>&nbsp;Duracion</b></font>
+    </div>     
+    <div class="col-4 border bg-dark">
+        <font color="white"><b>&nbsp;Precio</b></font>
+    </div>    
+  </div>
+  </div>
+  <div class="row">
+    <div class="col-4 border bg-light">
+      Entry
+    </div>    
+    <div class="col-4 border bg-light">
+      30 dias
+    </div>    
+    <div class="col-4 border bg-light">
+      10.99 €
+    </div>        
+  </div>  
+  <div class="row">
+    <div class="col-4 border bg-light">
+      Standard
+    </div>    
+    <div class="col-4 border bg-light">      
+      <div class="row">
+        <div class="col">
+        30 dias
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+        90 dias
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+        180 dias
+        </div>
+      </div>            
+    </div>    
+    <div class="col-4 border bg-light">
+      <div class="row">
+        <div class="col">
+        12.99 €
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+        11.99 €
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+        10.99 €
+        </div>
+      </div>  
+    </div>    
+  </div>   
+</div>
