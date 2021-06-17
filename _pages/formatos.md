@@ -284,35 +284,35 @@ Texto y imagenes, la columna de la imagen es extra larga por eso en movil ocupa 
       Standard
     </div>    
     <div class="col-4 border bg-light">      
-      <div class="row">
-        <div class="col">
+      <div class="row border">
+        <div class="col border">
         30 dias
         </div>
       </div>
       <div class="row">
-        <div class="col">
+        <div class="col border">
         90 dias
         </div>
       </div>
       <div class="row">
-        <div class="col">
+        <div class="col border">
         180 dias
         </div>
       </div>            
     </div>    
     <div class="col-4 border bg-light">
       <div class="row">
-        <div class="col">
+        <div class="col border">
         12.99 €
         </div>
       </div>
       <div class="row">
-        <div class="col">
+        <div class="col border">
         11.99 €
         </div>
       </div>
       <div class="row">
-        <div class="col">
+        <div class="col border">
         10.99 €
         </div>
       </div>  
