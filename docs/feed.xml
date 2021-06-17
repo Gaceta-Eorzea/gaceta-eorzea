@@ -5,9 +5,198 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Jun 2021 14:40:11 +0100</pubDate>
-    <lastBuildDate>Thu, 17 Jun 2021 14:40:11 +0100</lastBuildDate>
+    <pubDate>Thu, 17 Jun 2021 19:02:59 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Jun 2021 19:02:59 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Formas de añadir tiempo de juego a Final Fantasy XIV.</title>
+        <description>&lt;p&gt;En &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt; hay dos formas de añadir tiempo de juego. Mediante &lt;strong&gt;suscripción&lt;/strong&gt; y &lt;strong&gt;tarjeta de tiempo de juego&lt;/strong&gt;. Estas formas de añadir tiempo de juego son válidas para las plataformas PC, MacOS y PlayStation.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;b&gt;Si decides comprar el pack de expansiones que incluye 30 días de juego, y decides añadir suscripción o tiempo de juego adicional, este no empezará a contar hasta que no pasen los 30 días que te incluye la compra.&lt;/b&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;suscripción&quot;&gt;Suscripción.&lt;/h3&gt;
+
+&lt;p&gt;El método de suscripción en Final Fantasy XIV sirve para que cada cierto tiempo se te cobrará una couta a cambio de tiempo de tiempo de juego. Hay dos tipos de suscripciones que se amoldan a las necesidades de cada jugador.&lt;/p&gt;
+
+&lt;h4 id=&quot;suscripción-básica&quot;&gt;Suscripción Básica.&lt;/h4&gt;
+
+&lt;p&gt;Es un tipo de suscripción que añade &lt;strong&gt;30 días&lt;/strong&gt; de tiempo de juego. Esta suscripción limita a &lt;strong&gt;1&lt;/strong&gt; personaje por &lt;strong&gt;servidor&lt;/strong&gt; y un máximo de 8 personajes en distintos servidores.&lt;/p&gt;
+
+&lt;h4 id=&quot;suscripción-estándar&quot;&gt;Suscripción Estándar.&lt;/h4&gt;
+
+&lt;p&gt;Con esta suscripción puedes añadir &lt;strong&gt;30 // 60 // 180 días&lt;/strong&gt; al tiempo de juego. Con esta suscripción podrás tener hasta &lt;strong&gt;8&lt;/strong&gt; personajes por &lt;strong&gt;servidor&lt;/strong&gt; y un total de 40 personajes como máximo.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;span2&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;    
+    &lt;div class=&quot;col-4 border bg-dark&quot; align=&quot;center&quot;&gt;
+      &lt;font color=&quot;white&quot;&gt;&lt;b&gt;Tipo&lt;/b&gt;&lt;/font&gt;
+    &lt;/div&gt;        
+    &lt;div class=&quot;col-8 border bg-dark&quot; align=&quot;center&quot;&gt;
+      &lt;div class=&quot;row&quot;&gt;    
+        &lt;font color=&quot;white&quot;&gt;&lt;b&gt;&amp;nbsp;Personajes máximos&lt;/b&gt;&lt;/font&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;row&quot;&gt;    
+        &lt;div class=&quot;col-6 border bg-secondary&quot; align=&quot;center&quot;&gt;
+          &lt;font color=&quot;white&quot;&gt;&lt;b&gt;Servidor&lt;/b&gt;&lt;/font&gt;
+        &lt;/div&gt;    
+        &lt;div class=&quot;col-6 border bg-secondary&quot; align=&quot;center&quot;&gt;
+          &lt;font color=&quot;white&quot;&gt;&lt;b&gt;Total&lt;/b&gt;&lt;/font&gt;
+        &lt;/div&gt;    
+      &lt;/div&gt;      
+    &lt;/div&gt;    
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
+        Básica
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-4 border bg-light&quot; align=&quot;center&quot;&gt;
+        1
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-4 border bg-light&quot; align=&quot;center&quot;&gt;
+        8
+    &lt;/div&gt;        
+  &lt;/div&gt;  
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
+        Estándar
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-4 border bg-light&quot; align=&quot;center&quot;&gt;
+        8
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-4 border bg-light&quot; align=&quot;center&quot;&gt;
+        40
+    &lt;/div&gt;    
+  &lt;/div&gt;   
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+La suscripción tienen un precio que varía depndiendo del tipo y duración.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;span2&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;    
+    &lt;div class=&quot;col-4 border bg-dark&quot; align=&quot;center&quot;&gt;
+      &lt;font color=&quot;white&quot;&gt;&lt;b&gt;Tipo&lt;/b&gt;&lt;/font&gt;
+    &lt;/div&gt;        
+    &lt;div class=&quot;col-4 border bg-dark&quot; align=&quot;center&quot;&gt;
+        &lt;font color=&quot;white&quot;&gt;&lt;b&gt;Días&lt;/b&gt;&lt;/font&gt;
+    &lt;/div&gt;     
+    &lt;div class=&quot;col-4 border bg-dark&quot; align=&quot;center&quot;&gt;
+        &lt;font color=&quot;white&quot;&gt;&lt;b&gt;Precio&lt;/b&gt;&lt;/font&gt;
+    &lt;/div&gt;    
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
+      Básica
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-4 border bg-light&quot; align=&quot;center&quot;&gt;
+      30
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-4 border bg-light&quot; align=&quot;center&quot;&gt;
+      10.99 €
+    &lt;/div&gt;        
+  &lt;/div&gt;  
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
+    Estándar
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-4 border bg-light&quot;&gt;      
+      &lt;div class=&quot;row border&quot;&gt;
+        &lt;div class=&quot;col border&quot; align=&quot;center&quot;&gt;
+        30 
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col border&quot; align=&quot;center&quot;&gt;
+        90 
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col border&quot; align=&quot;center&quot;&gt;
+        180 
+        &lt;/div&gt;
+      &lt;/div&gt;            
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col border&quot; align=&quot;center&quot;&gt;
+        12.99 €
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col border&quot; align=&quot;center&quot;&gt;
+        11.99 €
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col border&quot; align=&quot;center&quot;&gt;
+        10.99 €
+        &lt;/div&gt;
+      &lt;/div&gt;  
+    &lt;/div&gt;    
+  &lt;/div&gt;   
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;métodos-de-pago-de-la-suscripción&quot;&gt;Métodos de pago de la Suscripción.&lt;/h3&gt;
+
+&lt;p&gt;Hay dos formas de pagar la suscripción.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mediante &lt;strong&gt;Tarjeta de Crédito&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mediante &lt;strong&gt;&lt;em&gt;Square Enix Crysta&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/metodospago/crysta.jpg&quot; alt=&quot;crysta&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Desde la cuenta de &lt;em&gt;Mog Station&lt;/em&gt; en la pestaña &lt;em&gt;Service Fees&lt;/em&gt; podemos comprar &lt;em&gt;Square Enix Crysta&lt;/em&gt;. Esta moneda se puede comprar al cambio de &lt;strong&gt;100 Crystas = 1 Euro&lt;/strong&gt; y se puede acumular un máximo de 50.000 Crystas por cuenta. Para saber más sobre esta moneda, te dejamos el siguiente &lt;a href=&quot;https://square-enix-games.com/en_eu/seaccount/crysta&quot; target=&quot;_blank&quot;&gt;enlace&lt;/a&gt; para informarte más.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;b&gt;Además de pagar la suscripción, con Crystas también puedes comprar en la &lt;a href=&quot;https://store.finalfantasyxiv.com/ffxivstore/en-gb/&quot; target=&quot;_blank&quot;&gt;tienda oficial de Final Fantasy XIV&lt;/a&gt; artículos y servicios.&lt;/b&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;tarjeta-de-tiempo-de-juego&quot;&gt;Tarjeta de tiempo de juego.&lt;/h3&gt;
+
+&lt;p&gt;Además de la opción de suscripción, &lt;em&gt;Square Enix&lt;/em&gt; nos permite comprar las &lt;strong&gt;Tarjetas de tiempo de juego&lt;/strong&gt; desde su propia &lt;a href=&quot;https://store.eu.square-enix-games.com/es_EU/product/307018/final-fantasy-xiv-60-days-game-time-card-other&quot; target=&quot;_blank&quot;&gt;web&lt;/a&gt;. Con estás Tarjetas de tiempo de juego siempre añadirás &lt;strong&gt;60 días de tiempo de juego&lt;/strong&gt; con el tipo de suscripción &lt;strong&gt;estándar&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Al comprar esta tarjeta se te enviará un código al correo electrónico que tengas vinculado el juego. Este código podrás conajearlo en tu cuenta de &lt;em&gt;Mog Station&lt;/em&gt; cuando tú quieras.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/metodospago/tarjeta.jpg&quot; width=&quot;300&quot; alt=&quot;tarjeta&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;steam&quot;&gt;Steam.&lt;/h3&gt;
+
+&lt;p&gt;Si juegas a &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt; desde el cliente de &lt;strong&gt;Steam&lt;/strong&gt; el único método de pago disponible es mediante &lt;em&gt;Steam Payment&lt;/em&gt; el cual requiere que tengas saldo en tu cuenta de Steam.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/metodospago/pagosteam.jpg&quot; alt=&quot;pagosteam&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Jun 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/metodospago/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/metodospago/</guid>
+        
+        <category>suscripciones</category>
+        
+        <category>tarjeta</category>
+        
+        <category>pago</category>
+        
+        <category>tiempo de juego</category>
+        
+        <category>añadir</category>
+        
+        
+        <category>guias</category>
+        
+      </item>
     
       <item>
         <title>Recompensas reclutando a un amigo.</title>
@@ -415,7 +604,7 @@ En la siguiente imagen mostramos el equipo que se consigue con las &lt;em&gt;Sil
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/reclutaamigo/equipoplateado.jpg&quot; alt=&quot;equipo plateado&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 16 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/reclutaamigo/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/reclutaamigo/</guid>
         
@@ -535,7 +724,7 @@ En la siguiente imagen mostramos el equipo que se consigue con las &lt;em&gt;Sil
 
 &lt;p&gt;Esperamos que esta guía os haya sido útil y os sirva para reconocer los iconos que veáis mientras os adventuráis por Eorzea.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 15 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 15 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/iconos-nombre/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/iconos-nombre/</guid>
         
@@ -595,7 +784,7 @@ En la siguiente imagen mostramos el equipo que se consigue con las &lt;em&gt;Sil
 
 &lt;p&gt;(Imágenes e información obtenidas del &lt;a href=&quot;https://na.finalfantasyxiv.com/blog/003163.html&quot; target=&quot;_blank&quot;&gt;Blog Oficial de Square Enix&lt;/a&gt;)&lt;/p&gt;
 </description>
-        <pubDate>Mon, 14 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 14 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/libro-arte-sb/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/libro-arte-sb/</guid>
         
@@ -623,7 +812,7 @@ En la siguiente imagen mostramos el equipo que se consigue con las &lt;em&gt;Sil
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 13 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 13 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/viaje-sin-fin-3/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-3/</guid>
         
@@ -651,7 +840,7 @@ En la siguiente imagen mostramos el equipo que se consigue con las &lt;em&gt;Sil
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 12 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 12 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/juglar-03/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-03/</guid>
         
@@ -686,7 +875,7 @@ En la siguiente imagen mostramos el equipo que se consigue con las &lt;em&gt;Sil
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 11 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210611/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210611/</guid>
         
@@ -764,7 +953,7 @@ En la siguiente imagen mostramos el equipo que se consigue con las &lt;em&gt;Sil
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/chocobo/alforjas.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 09 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 09 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/chocobo/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/chocobo/</guid>
         
@@ -929,7 +1118,7 @@ En la siguiente imagen mostramos el equipo que se consigue con las &lt;em&gt;Sil
 
 &lt;p&gt;&lt;a href=&quot;#contenido&quot;&gt;▲volver a contenido&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 08 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 08 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/resistance/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/resistance/</guid>
         
@@ -1014,7 +1203,7 @@ En la siguiente imagen mostramos el equipo que se consigue con las &lt;em&gt;Sil
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/facciones/rangogc.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 07 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 07 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guia-facciones/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-facciones/</guid>
         
@@ -1028,34 +1217,6 @@ En la siguiente imagen mostramos el equipo que se consigue con las &lt;em&gt;Sil
         
         
         <category>guias</category>
-        
-      </item>
-    
-      <item>
-        <title>El viaje sin fin - Parte 2</title>
-        <description>&lt;p&gt;El viaje sin fin del guerrero de la luz nos ha llevado a múltiples aventuras, sin embargo puede que no las recordemos todas, bien porque han pasado muchos años o bien porque hasta &lt;a href=&quot;/traducir&quot; target=&quot;_blank&quot;&gt;hace poco&lt;/a&gt; no podíamos disfrutar de estas historias en nuestro idioma.&lt;/p&gt;
-
-&lt;p&gt;El creador de contenido &lt;a href=&quot;https://www.youtube.com/c/Khrey_Oficial&quot; target=&quot;_blank&quot;&gt;Khrey&lt;/a&gt; ha creado una increíble lista de reproducción en su &lt;a href=&quot;https://www.youtube.com/c/Khrey_Oficial&quot; target=&quot;_blank&quot;&gt;canal&lt;/a&gt; donde nos va contando la historia del juego, hasta la fecha.&lt;/p&gt;
-
-&lt;p&gt;Os dejamos aquí la segunda entrega de esta serie para que podáis verla, si os ha gustado no dudeis en subscribiros a su canal.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/dFfV9tO5jjQ?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sun, 06 Jun 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/viaje-sin-fin-2/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-2/</guid>
-        
-        <category>multimedia</category>
-        
-        <category>video</category>
-        
-        <category>lore</category>
-        
-        
-        <category>lore</category>
         
       </item>
     
