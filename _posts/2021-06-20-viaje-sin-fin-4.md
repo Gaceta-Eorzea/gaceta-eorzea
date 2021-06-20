@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "El viaje sin fin - Parte 3"
+title:  "El viaje sin fin - Parte 4"
 author: cecile
 categories: [ lore ]
 tags: [multimedia, video, lore]
 image: assets/images/articles/lore/lore.jpg
-description: "El viaje sin fin - parte 3."
+description: "El viaje sin fin - parte 4."
 featured: false
 hidden: false
 ---
@@ -13,6 +13,6 @@ El viaje sin fin del guerrero de la luz nos ha llevado a múltiples aventuras, s
 
 El creador de contenido [Khrey](https://www.youtube.com/c/Khrey_Oficial){:target="_blank"} ha creado una increíble lista de reproducción en su [canal](https://www.youtube.com/c/Khrey_Oficial){:target="_blank"} donde nos va contando la historia del juego, hasta la fecha.
 
-Os dejamos aquí la tercera entrega de esta serie para que podáis verla, si os ha gustado no dudeis en subscribiros a su canal.
+Os dejamos aquí la cuarta entrega de esta serie para que podáis verla, si os ha gustado no dudeis en subscribiros a su canal.
 
-{% include youtube.html id='WrIAuf86jqA' %}
+{% include youtube.html id='ptLyEIgILOA' %}
