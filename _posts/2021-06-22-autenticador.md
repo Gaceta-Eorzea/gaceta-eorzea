@@ -14,7 +14,7 @@ Activar la protección de **Contraseña de 1 solo uso** en Final Fantasy XIV es 
 Esta contraseña es un conjunto de 6 dígitos numéricos que tendrás que introducir cada vez que quieras entrar en tu cuenta de *Square Enix* ya sea para entrar a Final Fantasy XIV o para entrar en tu cuenta vía web.
 
 <blockquote>
-<b>Además, al activar la Contraseña de 1 solo uso, ganarás un <span class="badge bg-primary text-light">Teletransporte GRATUITO al Aetheryte que tú elijas</span>. Este <i>Aetheryte</i> podrás cambiarlo todas las veces que quieras y, al ser un teletransporte, no tiene tiempo de uso.</b>
+<b>Además, al activar la Contraseña de 1 solo uso, ganarás un <span class="badge bg-primary text-light">Teletransporte GRATUITO</span>  al <i>Aetheryte</i> que tú elijas. Este <i>Aetheryte</i> podrás cambiarlo todas las veces que quieras y, al ser un teletransporte, no tiene tiempo de uso.</b>
 </blockquote>
 
 ### ¿Qué se necesita para activar la Contraseña de 1 solo uso?
