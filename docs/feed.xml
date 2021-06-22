@@ -5,8 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Jun 2021 11:03:19 +0200</pubDate>
-    <lastBuildDate>Tue, 22 Jun 2021 11:03:19 +0200</lastBuildDate>
+    <pubDate>Tue, 22 Jun 2021 12:08:29 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Jun 2021 12:08:29 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -105,9 +105,9 @@ Para conseguir este autenticador, deberás dirigirte a la &lt;a href=&quot;https
 &lt;p&gt;Si dispones de un móvil o una tablet puedes instalar un &lt;strong&gt;Autenticador Digital&lt;/strong&gt;. Es una aplicación que cada vez que la abres te dará los digitos necesarios para introducir la contraseña de 1 solo uso. Se pueden utilizar varias aplicaciones distintas. Las más usadas son:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;SQUARE ENIX Software Token&lt;/strong&gt; - Es la aplicación oficial de Square Enix.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Google Authenticator&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Microsoft Authenticator&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;SQUARE ENIX Software Token&lt;/em&gt;&lt;/strong&gt; - Es la aplicación oficial de Square Enix.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Google Authenticator&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Microsoft Authenticator&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
@@ -139,23 +139,126 @@ Para conseguir este autenticador, deberás dirigirte a la &lt;a href=&quot;https
 &lt;ul&gt;
   &lt;li&gt;Pulsamos en &lt;em&gt;Adjust Security Token (key ring tipe) settings&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/pass1uso/fisico1.jpg&quot; alt=&quot;fisico1&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/pass1uso/fisico1.jpg&quot; width=&quot;700&quot; alt=&quot;fisico1&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Pulsamos en &lt;em&gt;Security Token Registration&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/pass1uso/fisico2.jpg&quot; alt=&quot;fisico2&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/pass1uso/fisico2.jpg&quot; width=&quot;700&quot; alt=&quot;fisico2&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Aceptamos &lt;em&gt;SQUARE ENIX Security Token Terms of Use&lt;/em&gt;.&lt;/li&gt;
   &lt;li&gt;Seguimos los pasos necesarios para completar el registro del autenticador físico.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;autenticador-digital-1&quot;&gt;Autenticador Digital.&lt;/h4&gt;
+&lt;h4 id=&quot;autenticador-digital-oficial-de-square-enix&quot;&gt;Autenticador Digital Oficial de &lt;em&gt;Square Enix&lt;/em&gt;.&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pulsamos en &lt;em&gt;Adjust Software Token (key ring tipe) settings&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/pass1uso/digital1.jpg&quot; width=&quot;700&quot; alt=&quot;digital1&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pulsamos en &lt;em&gt;Software Token Registration&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/pass1uso/digital2.jpg&quot; width=&quot;700&quot; alt=&quot;digital2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ahora nos pedirá que nos bajemos la aplicación para el móvil. Si ya la tienes, le das a &lt;em&gt;Next&lt;/em&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;El siguiente paso será añadir una pregunta de seguridad. Y aquí tendremos que aceptar &lt;em&gt;SQUARE ENIX Software Token Terms of Use&lt;/em&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/pass1uso/digital3.jpg&quot; width=&quot;700&quot; alt=&quot;digital3&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ahora, en el móvil, entramos en la Aplicación &lt;strong&gt;&lt;em&gt;SQUARE ENIX Software Token&lt;/em&gt;&lt;/strong&gt;. Para completar aquí el registro nos pedirá la siguiente información:
+    &lt;ol&gt;
+      &lt;li&gt;Su ID de Square Enix (el ID que se usó al generar la contraseña de registro)&lt;/li&gt;
+      &lt;li&gt;Su fecha de nacimiento (el año y la fecha de nacimiento registrados en su cuenta de Square Enix)&lt;/li&gt;
+      &lt;li&gt;La contraseña de registro (Esto se habrá enviado a su correo electrónico registrado habla a)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tras completar esto, ya se mostrará la contraseña de 1 solo uso.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/pass1uso/digital5.jpg&quot; width=&quot;700&quot; alt=&quot;digital5&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;otros-autenticadores-digitales&quot;&gt;Otros Autenticadores Digitales.&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pulsamos en &lt;em&gt;Adjust Software Token (key ring tipe) settings&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/pass1uso/digital1.jpg&quot; width=&quot;700&quot; alt=&quot;digital1&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pulsamos en &lt;em&gt;Software Token Registration&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/pass1uso/digital2.jpg&quot; width=&quot;700&quot; alt=&quot;digital2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;En la pantalla se nos mostrará un &lt;strong&gt;Código QR&lt;/strong&gt; que tendremos que escanear con la aplicación del móvil que vayamos a utilizar para generar la contraseña de 1 solo uso. Si Por lo que sea no puedes escanear el código QR, pulsarás la línea roja &lt;em&gt;Unable to Scan QR Code&lt;/em&gt;. Entonces te darán un código numérico.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/pass1uso/digital4.jpg&quot; width=&quot;700&quot; alt=&quot;digital4&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ahora abrimos nuestra aplicación en el móvil y tendremos que registrar Final Fatansy XIV. Para esto podremos hacerlo tanto escaneando el código QR como metiendo el código numérico.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Registro con la lectura de código QR.
+        &lt;ol&gt;
+          &lt;li&gt;Después de iniciar la aplicación, seleccione &lt;strong&gt;Escanear un código QR&lt;/strong&gt;.&lt;/li&gt;
+          &lt;li&gt;Con la cámara de su teléfono, escanea el código QR.&lt;/li&gt;
+          &lt;li&gt;Cuando se complete el escaneo, seleccione “Next” en la página de la cuenta de Square Enix.&lt;/li&gt;
+          &lt;li&gt;Se te pedirá que ingreses la contraseña de 1 solo uso. Ingresa el código de 6 dígitos que aparece en la aplicación para completar el registro.&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Registro introdución el código numérico.
+        &lt;ol&gt;
+          &lt;li&gt;Después de iniciar la aplicación, seleccione &lt;strong&gt;Ingresar una clave de configuración&lt;/strong&gt;.&lt;/li&gt;
+          &lt;li&gt;Ingrese su ID de cuenta de Square Enix en el campo &lt;strong&gt;Cuenta&lt;/strong&gt; y la clave de autenticación que se muestra en la página de la cuenta de Square Enix en el campo &lt;strong&gt;Clave&lt;/strong&gt;, luego seleccione &lt;strong&gt;Contraseña 1 solo uso&lt;/strong&gt; y presione &lt;strong&gt;Agregar&lt;/strong&gt;.&lt;/li&gt;
+          &lt;li&gt;Una vez registrado en la aplicación, seleccione &lt;em&gt;Next&lt;/em&gt; en la páginade la cuenta de Square Enix.&lt;/li&gt;
+          &lt;li&gt;Se te pedirá que ingreses la contraseña de 1 solo uso. Ingresa el código de 6 dígitos que aparece en la aplicación para completar el registro.&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;petición-de-contraseña-de-1-solo-uso&quot;&gt;Petición de Contraseña de 1 solo uso&lt;/h3&gt;
+
+&lt;p&gt;Una vez has añadido el &lt;strong&gt;Autenticador&lt;/strong&gt; a tu cuenta de Final Fantasy XIV, siempre que quieras entrar en el juego o en tu cuenta de &lt;em&gt;Mog Station&lt;/em&gt; se te pedirá que ingreses la contraseña de 1 solo uso que se generará en tu Autenticador Físico o Digital.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/guias/pass1uso/juego.jpg&quot; width=&quot;500&quot; alt=&quot;juego&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;/assets/images/articles/guias/pass1uso/web.jpg&quot; width=&quot;500&quot; alt=&quot;web&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;beneficio-dentro-del-juego-teletransporte-gratuito&quot;&gt;Beneficio dentro del juego: Teletransporte gratuito.&lt;/h3&gt;
+
+&lt;p&gt;Cuando inicies sesión en el juego con una contraseña de 1 solo uso, tendrás la opción de designar un &lt;strong&gt;&lt;em&gt;Aetheryte&lt;/em&gt; de tu elección como destino gratuito&lt;/strong&gt;. Teletransportarse a este destino no te costará gils. Además, puedes cambiar tu destino gratuito tantas veces como quieras.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;b&gt;Si desactivas el Autenticador, ya no podrás entrar con la contraseña de 1 solo uso. Así, el destino gratuito dentro del juego quedará anulado. &lt;/b&gt;
+&lt;/blockquote&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/pass1uso/free.jpg&quot; alt=&quot;free&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 21 Jun 2021 00:00:00 +0200</pubDate>
-        <link>https://gaceta-eorzea.com/pass1uso/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/pass1uso/</guid>
+        <pubDate>Tue, 22 Jun 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/autenticador/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/autenticador/</guid>
         
         <category>suscripciones</category>
         
