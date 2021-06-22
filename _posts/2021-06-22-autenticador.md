@@ -109,18 +109,18 @@ Tras completar esto, ya se mostrará la contraseña de 1 solo uso.
 
 - Ahora abrimos nuestra aplicación en el móvil y tendremos que registrar Final Fatansy XIV. Para esto podremos hacerlo tanto escaneando el código QR como metiendo el código numérico.
 
-    - Registro con la lectura de código QR.
-      1. Después de iniciar la aplicación, seleccione **Escanear un código QR**.
-      2. Con la cámara de su teléfono, escanea el código QR.
-      3. Cuando se complete el escaneo, seleccione "Next" en la página de la cuenta de Square Enix.
-      4. Se te pedirá que ingreses la contraseña de 1 solo uso. Ingresa el código de 6 dígitos que aparece en la aplicación para completar el registro.
+  - Registro con la lectura de código QR.
+    1. Después de iniciar la aplicación, seleccione **Escanear un código QR**.
+    2. Con la cámara de su teléfono, escanea el código QR.
+    3. Cuando se complete el escaneo, seleccione "Next" en la página de la cuenta de Square Enix.
+    4. Se te pedirá que ingreses la contraseña de 1 solo uso. Ingresa el código de 6 dígitos que aparece en la aplicación para completar el registro.
 
 
-    - Registro introdución el código numérico.
-      1. Después de iniciar la aplicación, seleccione **Ingresar una clave de configuración**.
-      2. Ingrese su ID de cuenta de Square Enix en el campo **Cuenta** y la clave de autenticación que se muestra en la página de la cuenta de Square Enix en el campo **Clave**, luego seleccione **Contraseña 1 solo uso** y presione **Agregar**.
-      3. Una vez registrado en la aplicación, seleccione *Next* en la páginade la cuenta de Square Enix.
-      4. Se te pedirá que ingreses la contraseña de 1 solo uso. Ingresa el código de 6 dígitos que aparece en la aplicación para completar el registro.
+  - Registro introdución el código numérico.
+    1. Después de iniciar la aplicación, seleccione **Ingresar una clave de configuración**.
+    2. Ingrese su ID de cuenta de Square Enix en el campo **Cuenta** y la clave de autenticación que se muestra en la página de la cuenta de Square Enix en el campo **Clave**, luego seleccione **Contraseña 1 solo uso** y presione **Agregar**.
+    3. Una vez registrado en la aplicación, seleccione *Next* en la páginade la cuenta de Square Enix.
+    4. Se te pedirá que ingreses la contraseña de 1 solo uso. Ingresa el código de 6 dígitos que aparece en la aplicación para completar el registro.
 
 ### Petición de Contraseña de 1 solo uso
 
