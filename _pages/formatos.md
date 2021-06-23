@@ -203,6 +203,10 @@ Texto y imagenes, la columna de la imagen es extra larga por eso en movil ocupa 
   </div>
 </div>
 
+Para añadir comentarios
+<!---
+-->
+
 ### Sub Final
 
 #### Tipo
