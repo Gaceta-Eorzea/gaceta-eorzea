@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Colaboración de FFXIV y Twitch."
-author: sharn
+author: cecile
 categories: [ noticias ]
 tags: [noticias, twitch]
 image: assets/images/articles/noticias/ffxiv_twitch/ffxiv_twitch.jpg
