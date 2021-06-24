@@ -102,10 +102,10 @@ Cada misión tiene unos **atributos requeridos**. Para **asegurarte** que tu mis
 Cuando hayas mandado la misión del escuadrón puedes ver el tiempo que le falta para que vuelvan con el a través de la opción *Timers* del menú principal *Duty* (o accediendo mediante Ctrl+U)
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/mision6.jpg" width="500" alt="mision6"/></p>
 
-Cuando la misión haya acabado, interactuas con el ***Regimen Board*** (Tablero del Régimen) para recoger la misión y verás la cantidad de experiencia que han ganado tus reclutas.
+Cuando la misión haya acabado, interactuas con el ***Regimen Board*** (Tablero del Régimen) o con el ***Squadron Sergeant*** (Sargento del Escuadrón) para recogerla y verás la cantidad de experiencia que han ganado tus reclutas.
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/mision7.jpg" alt="mision7"/></p>
 
-Si tienes los 8 reclutas, podrás mandar hasta 2 misiones a la vez (No podrás mandar 2 *Priority Missions*).
+Aunque tengas los 8 reclutas, podrás mandar solo 1 misión a la vez y si quieres poner a trabajar al resto de los reclutas, pues los entrenas.
 
 ##### Química del escuadrón.
 
