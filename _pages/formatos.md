@@ -4,6 +4,8 @@ title: Formatos para la web.
 permalink: /formatos
 comments: false
 ---
+Imagen y link mog station
+<a href="https://sqex.to/Msp?utm_source=lodestone&utm_medium=pc_banner&utm_campaign=na_mogstation" target="_blank"><img src="/assets/images/articles/noticias/ffxiv_twitch/mog.png" height="50"></a>
 
 En esta pagina vamos a ver los formatos que se pueden usar para los articulos.
 
@@ -320,6 +322,51 @@ Para añadir comentarios
         10.99 €
         </div>
       </div>  
+    </div>    
+  </div>   
+</div>
+
+<div class="container">
+<div class="span2">
+  <div class="row">    
+    <div class="col-4 border bg-dark" align="center">
+      <font color="white"><b>Tipo</b></font>
+    </div>        
+    <div class="col-8 border bg-dark" align="center">
+      <div class="row">    
+        <font color="white"><b>&nbsp;Personajes máximos</b></font>
+      </div>
+      <div class="row">    
+        <div class="col-6 border bg-secondary" align="center">
+          <font color="white"><b>Servidor</b></font>
+        </div>    
+        <div class="col-6 border bg-secondary" align="center">
+          <font color="white"><b>Total</b></font>
+        </div>    
+      </div>      
+    </div>    
+  </div>
+  </div>
+  <div class="row">
+    <div class="col-4 border bg-light">
+        Básica
+    </div>    
+    <div class="col-4 border bg-light" align="center">
+        1
+    </div>    
+    <div class="col-4 border bg-light" align="center">
+        8
+    </div>        
+  </div>  
+  <div class="row">
+    <div class="col-4 border bg-light">
+        Estándar
+    </div>    
+    <div class="col-4 border bg-light" align="center">
+        8
+    </div>    
+    <div class="col-4 border bg-light" align="center">
+        40
     </div>    
   </div>   
 </div>
