@@ -44,14 +44,10 @@ Hay muchos reclutas, de todas las clases y razas. Os dejamos esta <a href="https
 
 Cuando consigas 4 reclutas podrás mandarlos de misión hablando con el **Sargento del Escuadrón** (*Squadron Sergeant* en inglés) mediante la opción **Misiones de Squadron** (*Squadron Missions* en inglés). Así tus reclutas ganarán experiencia y subirán de nivel.
 
-Dándole al botón **Miembros del Escuadrón** (*Squadron Members* en inglés) podrás elegir los 4 reclutas que querrás mandar de misión.
-<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/mision2.jpg" alt="mision2"/></p>
-
-Una vez tengas los 4 reclutas que vas a mandar de misión, pulsas el botón *Deplay* y te saldrá un cuadro de diálogo donde te informará la hora a la que este escuadrón volverá de la misión.
-<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/mision3.jpg" alt="mision3"/></p>
+Dándole al botón **Miembros del Escuadrón** (*Squadron Members* en inglés) podrás elegir los 4 reclutas que querrás mandar de misión. Pulsando el botón *Deplay* mandarás la misión a cumplir su objetivo.
 
 Cada misión tiene unos **atributos requeridos**. Para asegurarte que tu misión tiene éxito, tienen que estar todos los atributos en verde. Cuantos más atributos en rojo tengas, menos posibilidades tendrás de completar la misión. Estos atributos de las misiones es la suma de los atributos de cada uno de los reclutas que vayan a ir a la misión.
-<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/mision11.jpg" alt="mision11"/></p>
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/mision2.jpg" alt="mision2"/></p>
 
 Cuando hayas mandado la misión del escuadrón puedes ver el tiempo que le falta para que vuelvan con el a través de la opción *Timers* del menú principal *Duty*.
 <div class="container">
@@ -95,9 +91,20 @@ Los atributos de escuadrón son los puntos de estadísticas que tiene tu escuadr
 
 Según el rango del escuadrón, los puntos de atributos son los siguientes:
 
-- Rango 1 - 200 puntos.
-- Rango 2 - 280 puntos.
-- Ranto 3 - 400 puntos.
+<div class="container">
+  <div class="row">
+    <div class="col-xl">
+      * Rango 1 - 200 puntos.
+    </div>
+    <div class="col-xl">
+      * Rango 2 - 280 puntos.
+    </div>
+    <div class="col-xl">
+      * Rango 3 - 400 puntos.
+    </div>
+  </div>
+</div>
+<br/>
 
 <!---
 <div class="container" style="font-size:13px">
@@ -131,9 +138,13 @@ Según el rango del escuadrón, los puntos de atributos son los siguientes:
   <div class="row">
     <div class="col-xl">
       <img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/entrenamiento1.jpg" width="400" alt="entrenamiento1">
+      <br/>
+      <sub><sup>Ejemplo de como aumentar 1 atributo.</sup></sub>
     </div>
     <div class="col-xl">
       <img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/entrenamiento2.jpg" width="600" alt="entrenamiento2">
+      <br/>
+      <sub><sup>Ejemplo de como aumentar 2 atributos.</sup></sub>
     </div>
   </div>
 </div>
@@ -372,3 +383,22 @@ Las **Misiones Prioritarias** (*Priority Missions* en inglés) son las misions q
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/prioritaria1.jpg" alt="prioritaria1"/></p>
 
 Estas misiones requieren muchos puntos de atributo con lo que es importante que el grupo de reclutas que vaya a hacer la misión esté muy equilibrado. En estas misiones gana mucha importancia la **Química** de los reclutas así como que éstos tengan **Afinidad** con la misión.
+
+### Glamour del Escuadrón.
+
+Para acabar la guía vamos a comentar que a los miembros del escuadrón le puedes cambiar el **Glamour**. Debes tener el equipo en tu inventario para poder ponerlo como glamour a un miembro de tu escuadrón.
+
+<div class="container">
+  <div class="row">
+    <div class="col-xl">
+      <img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/glamour1.jpg" width="380" alt="glamour1">
+      <br/>
+      <sub><sup>Botón para acceder al Glamour del recluta.</sup></sub>
+    </div>
+    <div class="col-xl">
+      <img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/glamour2.jpg" alt="glamour2">
+      <br/>
+      <sub><sup>Interfaz del Glamour del recluta.</sup></sub>
+    </div>
+  </div>
+</div>
