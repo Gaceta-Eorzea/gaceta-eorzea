@@ -44,7 +44,7 @@ Según el rango del escuadrón, los puntos de atributos son los siguientes:
 
 <div class="container">
   <div class="row">
-    <div class="col-xl border bg-secundary">
+    <div class="col-xl border bg-secondary">
       <font color="white"><b>&nbsp;Rango 1&nbsp;</b></font>
     </div>
     <div class="col-xl border bg-light">
@@ -52,7 +52,7 @@ Según el rango del escuadrón, los puntos de atributos son los siguientes:
     </div>
   </div>
   <div class="row">
-    <div class="col-xl border bg-secundary">
+    <div class="col-xl border bg-secondary">
       <font color="white"><b>&nbsp;Rango 2&nbsp;</b></font>
     </div>
     <div class="col-xl border bg-light">
@@ -60,7 +60,7 @@ Según el rango del escuadrón, los puntos de atributos son los siguientes:
     </div>
   </div>
   <div class="row">
-    <div class="col-xl border bg-secundary">
+    <div class="col-xl border bg-secondary">
       <font color="white"><b>&nbsp;Rango 3&nbsp;</b></font>
     </div>
     <div class="col-xl border bg-light">

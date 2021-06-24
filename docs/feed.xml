@@ -5,8 +5,8 @@
     <description>Articulos y guias de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Jun 2021 13:07:11 +0200</pubDate>
-    <lastBuildDate>Thu, 24 Jun 2021 13:07:11 +0200</lastBuildDate>
+    <pubDate>Thu, 24 Jun 2021 13:18:15 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Jun 2021 13:18:15 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -46,7 +46,7 @@ Capitán (&lt;i&gt;Captain&lt;/i&gt; en inglés) es el máximo rango al que podr
 
 &lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl border bg-secundary&quot;&gt;
+    &lt;div class=&quot;col-xl border bg-secondary&quot;&gt;
       &lt;font color=&quot;white&quot;&gt;&lt;b&gt;&amp;nbsp;Rango 1&amp;nbsp;&lt;/b&gt;&lt;/font&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-xl border bg-light&quot;&gt;
@@ -54,7 +54,7 @@ Capitán (&lt;i&gt;Captain&lt;/i&gt; en inglés) es el máximo rango al que podr
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl border bg-secundary&quot;&gt;
+    &lt;div class=&quot;col-xl border bg-secondary&quot;&gt;
       &lt;font color=&quot;white&quot;&gt;&lt;b&gt;&amp;nbsp;Rango 2&amp;nbsp;&lt;/b&gt;&lt;/font&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-xl border bg-light&quot;&gt;
@@ -62,7 +62,7 @@ Capitán (&lt;i&gt;Captain&lt;/i&gt; en inglés) es el máximo rango al que podr
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl border bg-secundary&quot;&gt;
+    &lt;div class=&quot;col-xl border bg-secondary&quot;&gt;
       &lt;font color=&quot;white&quot;&gt;&lt;b&gt;&amp;nbsp;Rango 3&amp;nbsp;&lt;/b&gt;&lt;/font&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-xl border bg-light&quot;&gt;
