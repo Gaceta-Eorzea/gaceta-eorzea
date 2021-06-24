@@ -12,10 +12,10 @@ hidden: false
 El **Escuadrón** es una característica del juego que te permitirá conseguir suculentas recompensas y te ayudará a subir profesiones. Además es necesario para ascender los dos últimos rangos de tu **Gran Compañía**.
 
 <blockquote>
-Captain (Capitán) es el máximo rango al que podrás ascender en tu Gran Compañía y para llegar necesitarás ayuda de tu escuadrón.
+Capitán (<i>Captain</i> en inglés) es el máximo rango al que podrás ascender en tu Gran Compañía y para llegar necesitarás ayuda de tu escuadrón.
 </blockquote>
 
-Para acceder al escuadrón tendrás que tener hecha la misión <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/4d8d2ee0f69/" target="_blank" class="eorzeadb_link">Rising to the Challenge</a>. Además necesitas tener una profesión a nivel 47 y tener el rango de *Second Lieutenant* (Teniente Segundo) en tu Gran Compañía. Cuando tengas todos los requisitos, el *Personnel Officer* de tu **Gran Compañía** te dará acceso a la misión *Squadron and Commander.* la cual te dará acceso a *Barracks* (Cuartel).
+Para acceder al escuadrón tendrás que tener hecha la misión <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/4d8d2ee0f69/" target="_blank" class="eorzeadb_link">Rising to the Challenge</a>. Además necesitas tener una profesión a nivel 47 y tener el rango de  **Teniente Segundo** (*Second Lieutenant* en inglés) en tu Gran Compañía. Cuando tengas todos los requisitos, el *Personnel Officer* de tu **Gran Compañía** te dará acceso a la misión *Squadron and Commander.* la cual te dará acceso a *Barracks* (Cuartel).
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/cuartel.jpg" alt="cuartel"/></p>
 
@@ -34,6 +34,8 @@ Como máximo podrás tener **8 reclutas** activos en tu escuadrón. Si te llega 
 
 Hay muchos reclutas, de todas las clases y razas. Os dejamos esta <a href="https://ffxiv.consolegameswiki.com/wiki/Squadron_Recruits" target="_blank" class="eorzeadb_link">web</a> para que podáis verlos todos ellos.
 
+Los reclutas pueden cambiar de clase usando los libros ***Contemporary Warfare***. Estos libros se puede comprar por 3.000 Sellos de la compañía en el *Quatermaster* de tu facción. Cuando cambias la clase de un recluta, lo cambias por rol y al usar el libro, la clase será aleatoria dentro del rol elegido.
+
 #### Entrenar a los reclutas.
 
 Los **atributos de escuadrón** son los puntos de estadísticas que tiene tu escuadron y se dividen en 3 tipos (como los atributos de los reclutas): físicos, mentales o tácticos. Para equilibrar estos atributos de escuadrón podrás hacer ***Training courses*** (Cursos de Entrenamiento). Los entrenamientos duran 1h (de tiempo real) y se puede entrenar a los reclutas 3 veces al día. Con las misiones de entrenamiento mejoraremos uno o dos de los atributos restando estos puntos de los no entrenados. Además del equilibrio de los atributos, estas misiones darán **2000 puntos de experiencia** a todos los miembros del escuadrón. 
@@ -42,7 +44,7 @@ Según el rango del escuadrón, los puntos de atributos son los siguientes:
 
 <div class="container">
   <div class="row">
-    <div class="col-xl border bg-dark">
+    <div class="col-xl border bg-secundary">
       <font color="white"><b>&nbsp;Rango 1&nbsp;</b></font>
     </div>
     <div class="col-xl border bg-light">
@@ -50,7 +52,7 @@ Según el rango del escuadrón, los puntos de atributos son los siguientes:
     </div>
   </div>
   <div class="row">
-    <div class="col-xl border bg-dark">
+    <div class="col-xl border bg-secundary">
       <font color="white"><b>&nbsp;Rango 2&nbsp;</b></font>
     </div>
     <div class="col-xl border bg-light">
@@ -58,7 +60,7 @@ Según el rango del escuadrón, los puntos de atributos son los siguientes:
     </div>
   </div>
   <div class="row">
-    <div class="col-xl border bg-dark">
+    <div class="col-xl border bg-secundary">
       <font color="white"><b>&nbsp;Rango 3&nbsp;</b></font>
     </div>
     <div class="col-xl border bg-light">
@@ -141,6 +143,10 @@ Cuando hayas hecho 5 Misiones de Mando podrás completar la misión Flagged Miss
 #### *Command Missions* (Misiones de Mando).
 
 Las ***Command Missions*** (Misiones de Mando) permiten a los jugadores ir a Mazmorras (*Dungeons* en inglés) con miembros de tu escuadrón. La primera mazmorra que tendremos acceso mediantes esta mecánica es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/duty/98319325b98/" target="_blank" class="eorzeadb_link">Halatali</a> a nivel 20.
+
+Cuando complentas misiones de mando existe la posibilidad de que algún recluta gane un punto de Mestría. Estas maestrías potencian las tácticas de combate de los reclutas en las misiones de mando. Los puntos de maestría son exclusivos por táctica de combate y sólo podrás tener activa una táctica a la vez pudiendo cambiarla cada vez que quieras.
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/maestria.jpg" alt="maestria"/></p>
+<br/>
 
 Para hacer estas **Misiones de Mando** se habrá que entregar ***Company Seals*** (Sellos de la Compañía) y a partir de nivel 50 pedirá un mínimo de nivel de equipo para afrontar la misión de mando. 
 
