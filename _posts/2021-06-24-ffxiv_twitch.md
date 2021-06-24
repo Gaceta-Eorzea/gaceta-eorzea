@@ -29,7 +29,7 @@ Desde el jueves 24 de Junio, a las 20:00, hasta el 24 de agosto, recibiremos dis
     <div class="col-4 border bg-light" align="center">
       &nbsp;1&nbsp;
     </div>    
-    <div class="col-8 border bg-light" align="center">      
+    <div class="col-8 border bg-light">      
       &nbsp;<a href="https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/b9d0cbc0eca/" target="_blank" class="eorzeadb_link"><img src="/assets/images/articles/noticias/ffxiv_twitch/heaven_cracker.png" height="32"> Deluxe Heavenscracker x100</a>&nbsp;
     </div>          
   </div>   
@@ -37,7 +37,7 @@ Desde el jueves 24 de Junio, a las 20:00, hasta el 24 de agosto, recibiremos dis
     <div class="col-4 border bg-light" align="center">
       &nbsp;4&nbsp;
     </div>    
-    <div class="col-8 border bg-light" align="center">
+    <div class="col-8 border bg-light">
       &nbsp;<a href="https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/6d2e491e854/" target="_blank" class="eorzeadb_link"><img src="/assets/images/articles/noticias/ffxiv_twitch/fatblack_small.png" height="32"> Fat Black Chocobo Whistle</a>&nbsp;   
     </div>          
   </div>    
