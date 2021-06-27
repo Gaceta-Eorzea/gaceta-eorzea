@@ -166,6 +166,30 @@ Tarjetas
   </div>
 </div>
 
+<br/>
+
+<div class="card">
+  <div class="card-header">
+    Esto es una pregunta
+  </div>
+  <div class="card-body">
+    Esto es una respuesta
+  </div>
+</div>
+
+<br/>
+
+<div class="card">
+  <div class="card-header">
+    Esto es otra pregunta
+  </div>
+  <div class="card-body">
+    Esto es otra respuesta
+  </div>
+</div>
+
+<br/>
+
 Otros tipos de listas
 
 <ul class="list-group">
