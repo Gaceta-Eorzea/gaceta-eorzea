@@ -399,7 +399,7 @@ Para añadir comentarios
 
 <div class="container">
     <div class="row">
-        <div class="col-12">
+        <div class="col">
             <div class="card">
                 <div class="card-body">
                     <canvas id="grafica1"></canvas>
@@ -413,7 +413,7 @@ Para añadir comentarios
 
 <div class="container">
     <div class="row">
-        <div class="col-12">
+        <div class="col">
             <div class="card">
                 <div class="card-body">
                     <canvas id="grafica2"></canvas>
@@ -456,15 +456,20 @@ if (grafica2) {
   type: 'bar',
   options: {
     indexAxis: 'y',
+    plugins: {
+      legend: {
+        display: false
+      }
+    },
   },  
   data: {
       labels: [
-        'Red',
-        'Blue',
-        'Yellow'
+        'Red1',
+        'Blue1',
+        'Yellow1'
       ],
       datasets: [{
-        label: 'My First Dataset',
+        label: '',
         data: [300, 50, 100],        
         backgroundColor: [
           'rgb(255, 99, 132)',
