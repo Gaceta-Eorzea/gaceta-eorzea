@@ -394,3 +394,89 @@ Para añadir comentarios
     </div>    
   </div>   
 </div>
+
+<br/>
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <canvas id="grafica1"></canvas>
+                </div>
+            </div>
+        </div>
+     </div>     
+</div>
+
+<br/>
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <canvas id="grafica2"></canvas>
+                </div>
+            </div>
+        </div>
+     </div>     
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+var grafica1 = document.getElementById("grafica1");
+if (grafica1) {
+  new Chart(grafica1, {
+  type: 'doughnut',
+  data: {
+      labels: [
+        'Red',
+        'Blue',
+        'Yellow'
+      ],
+      datasets: [{
+        label: 'My First Dataset',
+        data: [300, 50, 100],
+        backgroundColor: [
+          'rgb(255, 99, 132)',
+          'rgb(54, 162, 235)',
+          'rgb(255, 205, 86)'
+        ],
+        hoverOffset: 4
+      }]
+    },
+  });
+}
+
+var grafica2 = document.getElementById("grafica2");
+if (grafica2) {
+  new Chart(grafica2, {
+  type: 'bar',
+  options: {
+    indexAxis: 'y',
+  },  
+  data: {
+      labels: [
+        'Red',
+        'Blue',
+        'Yellow'
+      ],
+      datasets: [{
+        label: 'My First Dataset',
+        data: [300, 50, 100],        
+        backgroundColor: [
+          'rgb(255, 99, 132)',
+          'rgb(54, 162, 235)',
+          'rgb(255, 205, 86)'
+        ],
+        hoverOffset: 4,
+        axis: 'y',
+      }]
+    },
+  });
+}
+
+
+</script>
