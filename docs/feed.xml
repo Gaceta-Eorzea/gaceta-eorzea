@@ -5,13 +5,13 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Jun 2021 13:52:19 +0200</pubDate>
-    <lastBuildDate>Tue, 29 Jun 2021 13:52:19 +0200</lastBuildDate>
+    <pubDate>Tue, 29 Jun 2021 13:22:42 +0100</pubDate>
+    <lastBuildDate>Tue, 29 Jun 2021 13:22:42 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Encuesta - profesiones preferidas</title>
-        <description>&lt;p&gt;Hace unos días planteamos una &lt;a href=&quot;https://twitter.com/GacetaEorzea/status/1406553074886455297&quot; target=&quot;_blank&quot;&gt;encuesta en twitter&lt;/a&gt; sobre vuestras &lt;strong&gt;profesiones&lt;/strong&gt; preferidas en &lt;strong&gt;Final Fnatasy XIV&lt;/strong&gt;, ahora vamos a compartir los resultados.&lt;/p&gt;
+        <description>&lt;p&gt;Hace unos días planteamos una &lt;a href=&quot;https://twitter.com/GacetaEorzea/status/1406553074886455297&quot; target=&quot;_blank&quot;&gt;encuesta en twitter&lt;/a&gt; sobre vuestras &lt;strong&gt;profesiones&lt;/strong&gt; preferidas en &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt;, ahora vamos a compartir los resultados.&lt;/p&gt;
 
 &lt;script src=&quot;https://cdn.jsdelivr.net/npm/chart.js&quot;&gt;&lt;/script&gt;
 
@@ -70,7 +70,7 @@ if (grTankes) {
 }
 &lt;/script&gt;
 
-&lt;p&gt;El &lt;strong&gt;&lt;em&gt;Paladin&lt;/em&gt;&lt;/strong&gt; y el &lt;strong&gt;&lt;em&gt;DarkKnight&lt;/em&gt;&lt;/strong&gt; son los tanques preferidos por los jugadores aunque el &lt;strong&gt;&lt;em&gt;Gunbreaker&lt;/em&gt;&lt;/strong&gt; es un tanque que también gusta, aunque lleva poco tiempo ya que ha sido introducido en &lt;em&gt;Shadowbringers&lt;/em&gt;. El &lt;strong&gt;&lt;em&gt;Warrior&lt;/em&gt;&lt;/strong&gt; pese a ser una clase nacida desde el inicio de &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt; ha sido la profesión menos votada de toda la encuesta.&lt;/p&gt;
+&lt;p&gt;El &lt;strong&gt;&lt;em&gt;Paladin&lt;/em&gt;&lt;/strong&gt; y el &lt;strong&gt;&lt;em&gt;DarkKnight&lt;/em&gt;&lt;/strong&gt; son los tanques preferidos por los jugadores aunque el &lt;em&gt;Gunbreaker&lt;/em&gt; es un tanque que también gusta, pese a que lleva poco tiempo ya fue introducido en &lt;em&gt;Shadowbringers&lt;/em&gt;. Finalmente el &lt;em&gt;Warrior&lt;/em&gt; pese a ser una clase nacida desde el inicio de &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt; ha sido la profesión menos votada de toda la encuesta.&lt;/p&gt;
 
 &lt;h3 id=&quot;sanadores&quot;&gt;Sanadores.&lt;/h3&gt;
 
@@ -124,7 +124,7 @@ if (grHeal) {
 }
 &lt;/script&gt;
 
-&lt;p&gt;La mayoría de jugadores ha elegido al versátil &lt;strong&gt;&lt;em&gt;Astrologian&lt;/em&gt;&lt;/strong&gt; como su sanador preferido, pese a ser al más nuevo entre ellos. Hay que destacar que el &lt;strong&gt;&lt;em&gt;White Mage&lt;/em&gt;&lt;/strong&gt; le sigue de cerca y desafortunadamente el &lt;strong&gt;&lt;em&gt;Scholar&lt;/em&gt;&lt;/strong&gt; está bastante atrás de los otros dos, cosa que podría cambiar con el cambio en los sanadores para &lt;strong&gt;Endwalker&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;La mayoría de jugadores ha elegido al versátil &lt;strong&gt;&lt;em&gt;Astrologian&lt;/em&gt;&lt;/strong&gt; como su sanador preferido, pese a ser al más nuevo entre ellos. Hay que destacar que el &lt;strong&gt;&lt;em&gt;White Mage&lt;/em&gt;&lt;/strong&gt; le sigue de cerca y desafortunadamente el &lt;strong&gt;&lt;em&gt;Scholar&lt;/em&gt;&lt;/strong&gt; está bastante atrás de los otros dos, cosa que podría cambiar con &lt;strong&gt;Endwalker&lt;/strong&gt; con la introduccion del &lt;em&gt;Sage&lt;/em&gt; y el cambio en el resto de sanadores.&lt;/p&gt;
 
 &lt;h3 id=&quot;combatientes-cuerpo-a-cuerpo&quot;&gt;Combatientes cuerpo a cuerpo.&lt;/h3&gt;
 
@@ -181,7 +181,7 @@ if (gtMelee) {
 }
 &lt;/script&gt;
 
-&lt;p&gt;Para los jugadores las profesiones favoritas, a partes iguales, son  &lt;strong&gt;&lt;em&gt;Samurai&lt;/em&gt;&lt;/strong&gt; y el &lt;strong&gt;&lt;em&gt;Dragoon&lt;/em&gt;&lt;/strong&gt;, dejando en un segundo plano al &lt;strong&gt;&lt;em&gt;Ninja&lt;/em&gt;&lt;/strong&gt; y al &lt;strong&gt;&lt;em&gt;Monk&lt;/em&gt;&lt;/strong&gt; pese a que ambos despiertan interés en muchos jugadores. Es curioso que el rediseño del Monk en los últimos parches no le ha traído más seguidores. Veremos como cambiarán estos datos al introducirse una nueva profesion cuerpo a cuerpo en &lt;strong&gt;Endwalker&lt;/strong&gt;, el &lt;strong&gt;&lt;em&gt;Reaper&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Para los jugadores, las profesiones favoritas de cuerpo a cuerpo, a partes iguales, son  &lt;strong&gt;&lt;em&gt;Samurai&lt;/em&gt;&lt;/strong&gt; y el &lt;strong&gt;&lt;em&gt;Dragoon&lt;/em&gt;&lt;/strong&gt;, dejando en un segundo plano al &lt;em&gt;Ninja&lt;/em&gt; y al &lt;em&gt;Monk&lt;/em&gt; pese a que ambos despiertan interés en muchos jugadores. Es curioso que el rediseño del Monk en los últimos parches no le ha traído más seguidores. Veremos como cambiarán estos datos al introducirse una nueva profesion cuerpo a cuerpo en &lt;strong&gt;Endwalker&lt;/strong&gt;, el &lt;em&gt;Reaper&lt;/em&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;combatientes-físico-a-distancia&quot;&gt;Combatientes físico a distancia.&lt;/h3&gt;
 
@@ -235,7 +235,7 @@ if (grRanged) {
 }
 &lt;/script&gt;
 
-&lt;p&gt;Para este grupo los jugadores han divido su opinión entre las profesiones casi igualmente, siendo solo el &lt;strong&gt;&lt;em&gt;Machinist&lt;/em&gt;&lt;/strong&gt; el que sale adelante por un poco, dejando al &lt;strong&gt;&lt;em&gt;Bard&lt;/em&gt;&lt;/strong&gt; y al &lt;strong&gt;&lt;em&gt;Dancer&lt;/em&gt;&lt;/strong&gt; igualados entre los jugadores. Cabe destacar que pese a que el Machinist suele aportar menos beneficos a un grupo que las otras dos profesiones, los jugadores prefieren su modo de juego indistintamente.&lt;/p&gt;
+&lt;p&gt;Las preferencias sobre los combatientes físico a distancia entre los jugadores ha sido divida  casi igualmente, siendo solo el &lt;strong&gt;&lt;em&gt;Machinist&lt;/em&gt;&lt;/strong&gt; el que sale adelante por un poco, dejando al &lt;em&gt;Bard&lt;/em&gt; y al &lt;em&gt;Dancer&lt;/em&gt; igualados entre los jugadores. Cabe destacar que pese a que el &lt;em&gt;Machinist&lt;/em&gt; suele aportar menos beneficos a un grupo que las otras dos profesiones, los jugadores prefieren su modo de juego indistintamente.&lt;/p&gt;
 
 &lt;h3 id=&quot;combatientes-mágicos&quot;&gt;Combatientes Mágicos.&lt;/h3&gt;
 
@@ -289,15 +289,15 @@ if (grMagic) {
 }
 &lt;/script&gt;
 
-&lt;p&gt;Para el grupo final los jugadores han elegido como su favorito al &lt;strong&gt;&lt;em&gt;Red Mage&lt;/em&gt;&lt;/strong&gt;, siendo la profesián más votada dentro de toda la encuesta, aunque el &lt;strong&gt;&lt;em&gt;Black Mage&lt;/em&gt;&lt;/strong&gt; parece ser también bastante popular. El último puesto recae en el &lt;strong&gt;&lt;em&gt;Summoner&lt;/em&gt;&lt;/strong&gt; que pese a que aún tiene un gran número de jugadores está bastante por detrás de las otras dos profesiones quizás porque su estilo de juego no ha evolucionado tanto como las otras.&lt;/p&gt;
+&lt;p&gt;Para el grupo de los combatientes mágicos los jugadores han elegido como su favorito al &lt;strong&gt;&lt;em&gt;Red Mage&lt;/em&gt;&lt;/strong&gt;, siendo la profesián más votada dentro de toda la encuesta, aunque el &lt;em&gt;Black Mage&lt;/em&gt; parece ser también bastante popular. El último puesto recae en el &lt;em&gt;Summoner&lt;/em&gt; que pese a que aún tiene un gran número de jugadores está bastante por detrás de las otras dos profesiones quizás porque su estilo de juego no ha evolucionado tanto como las otras.&lt;/p&gt;
 
 &lt;h3 id=&quot;conclusiones&quot;&gt;Conclusiones&lt;/h3&gt;
 
 &lt;p&gt;Como vemos los números han estado &lt;strong&gt;muy igualados&lt;/strong&gt; en muchas profesiones, salvo alguna excepción la mayoría tiene un 20% o más de votos entre las profesiones preferidas de los jugadores, lo cual vuelve a mostrar una de las cosas que nos gusta tanto de este juego: &lt;strong&gt;Con cualquier profesión puede completar todo el contenido&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Esperemos que os haya gustado y prometemos repetir esta encuesta unos meses pasados la entrada de &lt;strong&gt;Endwalker&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Esperemos que os haya gustado y prometemos repetir esta encuesta unos meses pasados la entrada de &lt;strong&gt;Endwalker&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 29 Jun 2021 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 29 Jun 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/encuesta/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/encuesta/</guid>
         
@@ -327,7 +327,7 @@ if (grMagic) {
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 27 Jun 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 27 Jun 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/viaje-sin-fin-5/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-5/</guid>
         
@@ -366,7 +366,7 @@ El Pack Complete Edition de Steam incluye 30 días de tiempo de juego. Recordamo
 &lt;p&gt;Además de la versión normal, también podrás comprar &lt;a href=&quot;https://store.steampowered.com/app/1016870/FINAL_FANTASY_XIV_Shadowbringers/&quot; target=&quot;_blank&quot;&gt;Shadowbringers Collector’s Edition&lt;/a&gt; con el descuento del 60% a un precio de &lt;strong&gt;19.99€&lt;/strong&gt;. Esta versión, además de la expansión, te incluye la montura &lt;strong&gt;Grani&lt;/strong&gt;, el compañero &lt;strong&gt;Wind-up Fran&lt;/strong&gt; y una skin para el arma del &lt;em&gt;Gunbreaker&lt;/em&gt;, &lt;strong&gt;Revolver Gunbreaker&lt;/strong&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://store.steampowered.com/app/1016870/FINAL_FANTASY_XIV_Shadowbringers/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/rebajas-steam-260621/items.jpg&quot; alt=&quot;items&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 26 Jun 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 26 Jun 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/rebajas-steam/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/rebajas-steam/</guid>
         
@@ -406,7 +406,7 @@ El Pack Complete Edition de Steam incluye 30 días de tiempo de juego. Recordamo
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 26 Jun 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 26 Jun 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/juglar-04/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-04/</guid>
         
@@ -446,7 +446,7 @@ El Pack Complete Edition de Steam incluye 30 días de tiempo de juego. Recordamo
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Jun 2021 00:00:00 +0200</pubDate>
+        <pubDate>Fri, 25 Jun 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/fashion210625/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210625/</guid>
         
@@ -540,7 +540,7 @@ Las suscripciones cuenta de forma acumulativa durante el tiempo de la promoción
 &lt;p&gt;Para más información os recomendamos que veáis los &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/c490d3de2f2f87b95a0488c0152acaa091904f1e&quot; target=&quot;_blank&quot;&gt;detalles completos de la promoción&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 24 Jun 2021 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 24 Jun 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/ffxiv_twitch/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/ffxiv_twitch/</guid>
         
@@ -917,7 +917,7 @@ A partir de la mazmorra The Wanderer's Palace se pedirá un nivel de equipo mín
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 23 Jun 2021 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 23 Jun 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/escuadron/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/escuadron/</guid>
         
@@ -996,7 +996,7 @@ Esta opción se puede tener en cuenta cuando tengáis problemas para conectar en
   &lt;li&gt;Este sistema no se puede usar en algunas condiciones, como por ejemplo al deslogearse realizando un contenido instanciado.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 22 Jun 2021 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 22 Jun 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/resumen-5-57/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/resumen-5-57/</guid>
         
@@ -1191,7 +1191,7 @@ Para conseguir este autenticador, deberás dirigirte a la &lt;a href=&quot;https
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/pass1uso/free.jpg&quot; alt=&quot;free&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 22 Jun 2021 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 22 Jun 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/autenticador/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/autenticador/</guid>
         
@@ -1223,7 +1223,7 @@ Para conseguir este autenticador, deberás dirigirte a la &lt;a href=&quot;https
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 20 Jun 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 20 Jun 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/viaje-sin-fin-4/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-4/</guid>
         
