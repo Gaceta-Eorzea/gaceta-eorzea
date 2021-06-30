@@ -2,14 +2,14 @@
 layout: post
 title: "Como conseguir la montura The Magicked Card."
 author: sharn
-categories: [ guias ]
-tags: [guias, montura, carta, The Magicked card, Triple Triad, mount, "5.55", ffxiv, español, ffxivesp, final fantasy xiv]
+categories: [ noticias ]
+tags: [montura, carta, The Magicked card, Triple Triad, mount, "5.55", ffxiv, español, ffxivesp, final fantasy xiv]
 image: assets/images/articles/guias/monturacarta/portada.jpg
 description: "La montura The Magicked Card la conseguriás a través del mini juego Triple Triad."
 featured: false
 hidden: false
 ---
-Con la llegada del 5.55 han introducido varias monturas en **Final Fantasy XIV**. Una de ellas es ***The Magicked Card***, que es una montura bastante exclusivas y que para conseguirla vas a nacesitar dedicarle el tiempo necesario.
+Con la llegada del 5.55 han introducido varias monturas en **Final Fantasy XIV**. Una de ellas es ***The Magicked Card***, que es una montura bastante exclusiva y que para conseguirla vas a nacesitar dedicarle el tiempo necesario.
 
 Para conseguir esta montura tendrás que completar mucho contenido del juego ya que las cartas no solo se obtienen en combates de **Triple Triad** o sus torneos, sino también las obtendrás de Mazmorras (*Dungeons* en inglés) , Desafíos (*Trials* en inglés), Incursiones (*Raids* en inglés), Eventos públicos (*Fates* en inglés) o comprándoselas a distintos vendedores por distinto tipos de monedas.
 
