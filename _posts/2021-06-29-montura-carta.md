@@ -30,4 +30,4 @@ La montura ***The Magicked Card*** la conseguriás cuando tengas **todas las car
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/monturacarta/montura.jpg" alt="montura"/></p>
 
-Os dejamos [esta página](https://triad.raelys.com/){:target="_blank"} que, tras logearos, os dirá cuales son las cartas que os faltan y las coordenadas de los NPCs. Tendrás que jugar mucho a ***Triple Triad*** ya que, aunque parezca fácil, no es sencillo conseguir las 312 cartas necesarias. Pero es una montura que merece la pena y no la tendrá mucha gente.
+Os dejamos [esta página](https://triad.raelys.com/){:target="_blank"} que, tras logearos, os dirá cuales son las cartas que os faltan, las coordenadas de los NPCs, etc. Esperamos que pronto consigáis tener esta montura que, aunque el camino es largo hasta llegar a conseguir las 312 cartas, obtendréis una montura que merece la pena y que no la tendrá mucha gente
