@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Como conseguir la montura The Magicked Card."
+title: "Como conseguir la montura Al-Iklil."
 author: sharn
 categories: [ noticias ]
-tags: [montura, carta, The Magicked card, Triple Triad, mount, "5.55", ffxiv, español, ffxivesp, final fantasy xiv]
+tags: [montura, "Al-Iklil", mount, "5.55", "Bozjan Southern Front", "Delubrum Reginae", "Zadnor", ffxiv, español, ffxivesp, final fantasy xiv]
 image: assets/images/articles/noticias/monturaaliklil/portada.jpg
-description: "La montura The Magicked Card la conseguriás a través del mini juego Triple Triad."
+description: "La montura Al-Iklil la conseguriás a través de completar contenido de Save the Queen."
 featured: false
 hidden: false
 ---
@@ -23,7 +23,9 @@ Esta montura la conseguirás cuando completes el logro de exploración [A Comple
 
 ### Notas de Campo.
 
-Las **notas de campo** (*Field Notes* en inglés) son unos items que aparecen en tu inventario de forma aleatoria cuando matas a enemigos jugando en distintos incursiones o cuando completes la línea de misiones ***Save the Queen***. Para la montura **Al-Iklil** nos interesan las notas de campo de las incursiones **frente sur de Bozjan** (*The Bozjan Southern Front* en inglés), ***Delubrum Reginae*** y ***Zadnor*** siendo en total **50 notas de campo**.
+Las **notas de campo** (*Field Notes* en inglés) son unos items que aparecen en tu inventario de forma aleatoria cuando matas a determinados enemigos o cuando completes la línea de misiones el contenido de ***Save the Queen***. 
+
+Para la montura **Al-Iklil** nos interesan las notas de campo de las zonas **frente sur de Bozjan** (*The Bozjan Southern Front* en inglés), ***Delubrum Reginae*** y ***Zadnor*** siendo en total **50 notas de campo**.
 
 #### Frente sur de Bozjan (*The Bozjan Southern Front* en inglés).
 
