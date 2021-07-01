@@ -25,32 +25,40 @@ Esta montura la conseguirás cuando completes el logro de exploración [A Comple
 
 Las **notas de campo** (*Field Notes* en inglés) son unos items que aparecen en tu inventario de forma aleatoria cuando matas a enemigos jugando en distintos incursiones o cuando completes la línea de misiones ***Save the Queen***. Para la montura **Al-Iklil** nos interesan las notas de campo de las incursiones **frente sur de Bozjan** (*The Bozjan Southern Front* en inglés), ***Delubrum Reginae*** y ***Zadnor*** siendo en total **50 notas de campo**.
 
-#### Notas de campo del frente sur de Bozjan (*The Bozjan Southern Front* en inglés).
+#### Frente sur de Bozjan (*The Bozjan Southern Front* en inglés).
 
 Las primeras notas las encontraremos en el frente sur de Bozjan. Habrá que completar distintas actividades y derrotar muchos NPCs. Tras derrotarlos, pueden soltar como recompensa distintas notas de campo. El listado de los encuentros y los NPCs es el siguiente:
 
 ##### Escaramuza (*Skirmishes* en inglés) 
 
+###### Zona 1
+
 - 1: ***More Machine Now than Man***: Bajsaljen Ulgasch
 - 2: ***All Pets are Off***: Marsak Apeslla
 - 3: ***The Beasts Must Die***: Xeven Svanasch
 - 4: ***Conflicting with the First Law***: Isolde Covey
-- 4bis: ***Let Slip the Dogs of War***: Isolde Covey
 - 5: ***Can Carnivorus Plants Bloom***: Stanik Alubov
-- 5bis: ***Supplies Party***: Stanik Alubov
+- 8: ***None of Them Knew They Were Robots***: Aggie Glover
+- 12: ***Brought to Heal***: Dyunbu Pyr Potitus
+
+###### Zona 2
+
 - 6: ***Scavengers of Human Sorrow***: Blaz Azetina
 - 7: ***Pyromancer Supreme***: Velibor Azetina
-- 8: ***None of Them Knew They Were Robots***: Aggie Glover
 - 9: ***The Final Furlong***: Llofii Pyr Potitus
 - 10: ***The Monster Mash***: Hernais Pyr Longus
-- 11: ***Murder Death Kill***: Dabog Aan Inivisch
-- 12: ***Brought to Heal***: Dyunbu Pyr Potitus
-- 12bis: ***For Absent Friends***: Dyunbu Pyr Potitus
 - 13: ***Unicorn Flakes***: Clarricie Quo Priscus
-- 14: ***Of Steel and Flame***: Sartauvoir Quo Soranus
 - 15: ***Heavy Boots of Lead***: Sicinius Mal Vellutus
 
+###### Zona 3
+
+- 4: ***Let Slip the Dogs of War***: Isolde Covey
+- 11: ***Murder Death Kill***: Dabog Aan Inivisch
+- 12: ***For Absent Friends***: Dyunbu Pyr Potitus
+- 14: ***Of Steel and Flame***: Sartauvoir Quo Soranus
+
 ##### Compromiso Crítico (*Critical Engagements* en inglés)
+
 
 - 3: ***The Beasts Must Die***: Xeven Svanasch
 - 9: ***The Final Furlong***: Llofii Pyr Potitus
@@ -97,22 +105,30 @@ En el mapa de ***Zadnor*** podremos encontrar las siguientes notas de campo comp
 
 ##### Escaramuza (*Skirmishes* en inglés) 
 
+###### Zona 1
+
 - 31: ***Of Beasts and Braggadocio***: Atori Moribe
-- 31bis: ***The Beasts are Back***: Atori Moribe
-- 32: ***Sever the Strings***: Kosyu
-- 32bis: ***A Relic Unleashed***: Kosyu
 - 33: ***Parts and Parcel***: Oboro Torioi
-- 34: ***A Just Pursuit***: Tsubame Oshidari
-- 35: ***Attack of the Supersoldiers***: Meryall Miller
-- 36: ***Demented Mentor***: Lovro Aan Slanasch
 - 37: ***An Immoral Dilemma***: Llofii Pyr Potitus
-- 38: ***An End to Atrocities***: Fabineau Quo Soranus
-- 39: ***Mean-spirited***: Yamatsumi Pyr Urabe
-- 40: ***Challenge Accepted***: Pagaga Quo Vochstein
-- 41: ***Seeq and You Will Find***: Daguza Oen Sus
 - 42: ***Meet The Puppetmaster***: Gilbrisbert Quo Buteo
+- 43: ***Hypertuned Havok***: Dabog Aan Inivisch
+
+###### Zona 2
+
+- 32: ***Sever the Strings***: Kosyu
+- 34: ***A Just Pursuit***: Tsubame Oshidari
+- 36: ***Demented Mentor***: Lovro Aan Slanasch
+- 38: ***An End to Atrocities***: Fabineau Quo Soranus
+- 40: ***Challenge Accepted***: Pagaga Quo Vochstein
 - 43: ***Supersoldier Rising***: Dabog Aan Inivisch
-- 43bis: ***Hypertuned Havok***: Dabog Aan Inivisch
+
+###### Zona 3
+
+- 31: ***The Beasts are Back***: Atori Moribe
+- 32: ***A Relic Unleashed***: Kosyu
+- 35: ***Attack of the Supersoldiers***: Meryall Miller
+- 39: ***Mean-spirited***: Yamatsumi Pyr Urabe
+- 41: ***Seeq and You Will Find***: Daguza Oen Sus
 
 ##### Compromiso Crítico (*Critical Engagements* en inglés)
 
