@@ -25,7 +25,7 @@ Esta montura la conseguirás cuando completes el logro de exploración [A Comple
 
 Las **notas de campo** (*Field Notes* en inglés) son unos items que aparecen en tu inventario de forma aleatoria cuando matas a enemigos jugando en distintos incursiones o cuando completes la línea de misiones ***Save the Queen***. Para la montura **Al-Iklil** nos interesan las notas de campo de las incursiones **frente sur de Bozjan** (*The Bozjan Southern Front* en inglés), ***Delubrum Reginae*** y ***Zadnor*** siendo en total **50 notas de campo**.
 
-##### Notas de campo del **frente sur de Bozjan** (*The Bozjan Southern Front* en inglés).
+##### Notas de campo del frente sur de Bozjan (*The Bozjan Southern Front* en inglés).
 
 Las primeras notas las encontraremos en el frente sur de Bozjan. Habrá que completar distintas actividades y derrotar muchos NPCs. Tras derrotarlos, pueden soltar como recompensa distintas notas de campo. El listado de las zonas y los NPCs es el siguiente:
 
@@ -48,7 +48,7 @@ Las primeras notas las encontraremos en el frente sur de Bozjan. Habrá que comp
 - 14: ***Of Steel and Flame***: Sartauvoir Quo Soranus
 - 15: ***Heavy Boots of Lead***: Sicinius Mal Vellutus
 
-##### ***Save the Queen***.
+##### Misiones de historia ***Save the Queen***.
 
 Las siguientes notas de campo nos las darán como recompensas de la línea de mísiones ***Save the Queen***. Las misiones a completar son las siguientes:
 
