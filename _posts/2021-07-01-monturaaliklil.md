@@ -21,13 +21,15 @@ Esta montura la conseguirás cuando completes el logro de exploración [A Comple
 
 - [Annals of Liberation](https://na.finalfantasyxiv.com/lodestone/playguide/db/achievement/c4d43ba5311/){:target="_blank" class="eorzeadb_link"}: Consigue todas las notas de campo de ***Zadnor***.
 
-#### Notas de Campo.
+### Notas de Campo.
 
 Las **notas de campo** (*Field Notes* en inglés) son unos items que aparecen en tu inventario de forma aleatoria cuando matas a enemigos jugando en distintos incursiones o cuando completes la línea de misiones ***Save the Queen***. Para la montura **Al-Iklil** nos interesan las notas de campo de las incursiones **frente sur de Bozjan** (*The Bozjan Southern Front* en inglés), ***Delubrum Reginae*** y ***Zadnor*** siendo en total **50 notas de campo**.
 
-##### Notas de campo del frente sur de Bozjan (*The Bozjan Southern Front* en inglés).
+#### Notas de campo del frente sur de Bozjan (*The Bozjan Southern Front* en inglés).
 
-Las primeras notas las encontraremos en el frente sur de Bozjan. Habrá que completar distintas actividades y derrotar muchos NPCs. Tras derrotarlos, pueden soltar como recompensa distintas notas de campo. El listado de las zonas y los NPCs es el siguiente:
+Las primeras notas las encontraremos en el frente sur de Bozjan. Habrá que completar distintas actividades y derrotar muchos NPCs. Tras derrotarlos, pueden soltar como recompensa distintas notas de campo. El listado de los encuentros y los NPCs es el siguiente:
+
+##### Escaramuza (*Skirmishes* en inglés) 
 
 - 1: ***More Machine Now than Man***: Bajsaljen Ulgasch
 - 2: ***All Pets are Off***: Marsak Apeslla
@@ -48,7 +50,20 @@ Las primeras notas las encontraremos en el frente sur de Bozjan. Habrá que comp
 - 14: ***Of Steel and Flame***: Sartauvoir Quo Soranus
 - 15: ***Heavy Boots of Lead***: Sicinius Mal Vellutus
 
-##### Misiones de historia ***Save the Queen***.
+##### Compromiso Crítico (*Critical Engagements* en inglés)
+
+- 3: ***The Beasts Must Die***: Xeven Svanasch
+- 9: ***The Final Furlong***: Llofii Pyr Potitus
+- 13: ***Unicorn Flakes***: Clarricie Quo Priscus
+- 15: ***Heavy Boots of Lead***: Sicinius Mal Vellutus
+
+##### Duelos (*Duels* en inglés)
+
+- 11: ***Murder Death Kill***: Dabog Aan Inivisch
+- 14: ***Of Steel and Flame***: Sartauvoir Quo Soranus
+- 17: ***Beast of Man***: Lyon Rem Helsos
+
+#### Misiones de historia ***Save the Queen***.
 
 Las siguientes notas de campo nos las darán como recompensas de la línea de mísiones ***Save the Queen***. Las misiones a completar son las siguientes:
 
@@ -60,7 +75,7 @@ Las siguientes notas de campo nos las darán como recompensas de la línea de m�
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/monturaaliklil/m1.jpg" width="750" alt="m1"/></p>
 
-##### Castrum Lacus Litore y Delubrium Reginae.
+#### Castrum Lacus Litore y Delubrium Reginae.
 
 Cuando los jugadores alcancen el rango 10 y completen toda la línea de misiones de ***Save the Queen*** podrán enfrentarse a incursiones a gran escala de 24 y 48 jugadores en ***Castrum Lacus Litore*** y ***Delubrium Reginae***. En estas incursiones, al derrotar a cada jefe conseguiremos un cofre de botín y en cada cofre tendremos la posibilidad de conseguir las siguientes notas de campo:
 
@@ -76,9 +91,11 @@ Los bosses de ***Delubrium Reginae*** podrán soltar las siguientes notas de cam
 - 29: ***Trinity Avowed***
 - 30: ***Save The Queen***
 
-##### Zadnor.
+#### Zadnor.
 
-En la incrusión de ***Zadnor*** podremos encontrar las siguientes notas de campo completando sus distintas actividades y derrotando NPCs. La lista es la siguiente:
+En el mapa de ***Zadnor*** podremos encontrar las siguientes notas de campo completando sus distintas actividades y derrotando NPCs. La lista es la siguiente:
+
+##### Escaramuza (*Skirmishes* en inglés) 
 
 - 31: ***Of Beasts and Braggadocio***: Atori Moribe
 - 31bis: ***The Beasts are Back***: Atori Moribe
@@ -97,6 +114,16 @@ En la incrusión de ***Zadnor*** podremos encontrar las siguientes notas de camp
 - 43: ***Supersoldier Rising***: Dabog Aan Inivisch
 - 43bis: ***Hypertuned Havok***: Dabog Aan Inivisch
 
+##### Compromiso Crítico (*Critical Engagements* en inglés)
+
+- 35: ***Attack of the Supersoldiers***: Meryall Miller
+- 37: ***An Immoral Dilemma***: Llofii Pyr Potitus
+
+##### Duelos (*Duels* en inglés)
+
+- 44: ***Taking the Lyon's Share***: Lyon Quo Helsos
+- 45: ***Head of the Snake***: Menenius Sas Lanatus
+
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/monturaaliklil/m2.jpg" width="750" alt="m2"/></p>
 
 ##### Dalriada.
@@ -114,6 +141,6 @@ Cuando completes **Dalriada** y entregues la misión [March of the Bloody Queen]
 - 49: ***Hien Rijin***
 - 50: ***Noah Van Gabranth***
 
-Os dejamos <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQUtb3fDy5IinXjJ-q61GywYsR4JKqKzpdZBgIsh2mWxr7iV_kXKYsHVXZNeRl2gmtoxP6MBQlz2OtX/pubhtml#" target="_blank">este documento</a> donde están recopiladas todas las notas de campo.
+Os dejamos <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQUtb3fDy5IinXjJ-q61GywYsR4JKqKzpdZBgIsh2mWxr7iV_kXKYsHVXZNeRl2gmtoxP6MBQlz2OtX/pubhtml#" target="_blank">este documento</a> donde están recopiladas todas las notas de campo. En el documento también está indicada la zona de cada mapa donde podrás conseguir la nota de campo.
 
 Y tras conseguir las 50 **notas de campo** conseguirás tu montura **Al-Iklil**. No es una montura fácil de conseguir y vas a necesitar poner todo tu empeño pero seguro que causarás sensación entre tus amigos cuando les enseñes tu bicicleta voladora.
