@@ -59,7 +59,7 @@ Las primeras notas las encontraremos en el frente sur de Bozjan. Habrá que comp
 - 12: ***For Absent Friends***: Dyunbu Pyr Potitus
 - 14: ***Of Steel and Flame***: Sartauvoir Quo Soranus
 
-##### Compromiso Crítico (*Critical Engagements* en inglés)
+##### Enfrentamiento Crítico (*Critical Engagements* en inglés)
 
 
 - 3: ***The Beasts Must Die***: Xeven Svanasch
@@ -132,7 +132,7 @@ En el mapa de ***Zadnor*** podremos encontrar las siguientes notas de campo comp
 - 39: ***Mean-spirited***: Yamatsumi Pyr Urabe
 - 41: ***Seeq and You Will Find***: Daguza Oen Sus
 
-##### Compromiso Crítico (*Critical Engagements* en inglés)
+##### Enfrentamiento Crítico (*Critical Engagements* en inglés)
 
 - 35: ***Attack of the Supersoldiers***: Meryall Miller
 - 37: ***An Immoral Dilemma***: Llofii Pyr Potitus
