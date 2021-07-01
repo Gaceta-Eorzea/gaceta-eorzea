@@ -27,7 +27,7 @@ Las **notas de campo** (*Field Notes* en inglés) son unos items que aparecen en
 
 ##### Notas de campo del **frente sur de Bozjan** (*The Bozjan Southern Front* en inglés).
 
-Las primeras notas las encontraremos en el frente sur de Bozjan y son las siguientes:
+Las primeras notas las encontraremos en el frente sur de Bozjan. Habrá que completar distintas actividades y derrotar muchos NPCs. Tras derrotarlos, pueden soltar como recompensa distintas notas de campo. El listado de las zonas y los NPCs es el siguiente:
 
 - 1: ***More Machine Now than Man***: Bajsaljen Ulgasch
 - 2: ***All Pets are Off***: Marsak Apeslla
@@ -78,7 +78,7 @@ Los bosses de ***Delubrium Reginae*** podrán soltar las siguientes notas de cam
 
 ##### Zadnor.
 
-En la incrusión de ***Zadnor*** podremos encontrar las siguientes notas de campo completando sus distintas actividades:
+En la incrusión de ***Zadnor*** podremos encontrar las siguientes notas de campo completando sus distintas actividades y derrotando NPCs. La lista es la siguiente:
 
 - 31: ***Of Beasts and Braggadocio***: Atori Moribe
 - 31bis: ***The Beasts are Back***: Atori Moribe
