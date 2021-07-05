@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Como conseguir la montura The Magicked Card."
+title: "Como conseguir la montura Al-Iklil."
 author: sharn
-categories: [ noticias ]
-tags: [montura, carta, The Magicked card, Triple Triad, mount, "5.55", ffxiv, español, ffxivesp, final fantasy xiv]
+categories: [ monturas ]
+tags: [montura, doble, al-iklil, delubrum, reginae, zadnor, bozja, mount, "5.55", ffxiv, español, ffxivesp, final fantasy xiv]
 image: assets/images/articles/noticias/monturaaliklil/portada.jpg
-description: "La montura The Magicked Card la conseguriás a través del mini juego Triple Triad."
+description: "La montura Al-Iklil se consigue en Bozja, Delubrum Reginae y Zadnor."
 featured: false
 hidden: false
 ---
