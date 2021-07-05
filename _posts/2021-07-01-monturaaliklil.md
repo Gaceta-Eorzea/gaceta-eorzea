@@ -2,17 +2,10 @@
 layout: post
 title: "Como conseguir la montura Al-Iklil."
 author: sharn
-<<<<<<< HEAD
-categories: [ monturas ]
-tags: [montura, doble, al-iklil, delubrum, reginae, zadnor, bozja, mount, "5.55", ffxiv, español, ffxivesp, final fantasy xiv]
-image: assets/images/articles/noticias/monturaaliklil/portada.jpg
-description: "La montura Al-Iklil se consigue en Bozja, Delubrum Reginae y Zadnor."
-=======
 categories: [ noticias ]
 tags: [montura, "Al-Iklil", mount, "5.55", "Bozjan Southern Front", "Delubrum Reginae", "Zadnor", ffxiv, español, ffxivesp, final fantasy xiv]
 image: assets/images/articles/noticias/monturaaliklil/portada.jpg
 description: "La montura Al-Iklil la conseguriás a través de completar contenido de Save the Queen."
->>>>>>> 50de58320c440431437348c5c44b3fb1bd8f4333
 featured: false
 hidden: false
 ---
