@@ -2,7 +2,7 @@
 layout: post
 title: "Como conseguir la montura Al-Iklil."
 author: sharn
-categories: [ noticias ]
+categories: [ monturas ]
 tags: [montura, "Al-Iklil", mount, "5.55", "Bozjan Southern Front", "Delubrum Reginae", "Zadnor", ffxiv, español, ffxivesp, final fantasy xiv]
 image: assets/images/articles/noticias/monturaaliklil/portada.jpg
 description: "La montura Al-Iklil la conseguriás a través de completar contenido de Save the Queen."
