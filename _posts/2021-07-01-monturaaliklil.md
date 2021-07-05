@@ -2,10 +2,17 @@
 layout: post
 title: "Como conseguir la montura Al-Iklil."
 author: sharn
+<<<<<<< HEAD
 categories: [ monturas ]
 tags: [montura, doble, al-iklil, delubrum, reginae, zadnor, bozja, mount, "5.55", ffxiv, español, ffxivesp, final fantasy xiv]
 image: assets/images/articles/noticias/monturaaliklil/portada.jpg
 description: "La montura Al-Iklil se consigue en Bozja, Delubrum Reginae y Zadnor."
+=======
+categories: [ noticias ]
+tags: [montura, "Al-Iklil", mount, "5.55", "Bozjan Southern Front", "Delubrum Reginae", "Zadnor", ffxiv, español, ffxivesp, final fantasy xiv]
+image: assets/images/articles/noticias/monturaaliklil/portada.jpg
+description: "La montura Al-Iklil la conseguriás a través de completar contenido de Save the Queen."
+>>>>>>> 50de58320c440431437348c5c44b3fb1bd8f4333
 featured: false
 hidden: false
 ---
@@ -23,7 +30,9 @@ Esta montura la conseguirás cuando completes el logro de exploración [A Comple
 
 ### Notas de Campo.
 
-Las **notas de campo** (*Field Notes* en inglés) son unos items que aparecen en tu inventario de forma aleatoria cuando matas a enemigos jugando en distintos incursiones o cuando completes la línea de misiones ***Save the Queen***. Para la montura **Al-Iklil** nos interesan las notas de campo de las incursiones **frente sur de Bozjan** (*The Bozjan Southern Front* en inglés), ***Delubrum Reginae*** y ***Zadnor*** siendo en total **50 notas de campo**.
+Las **notas de campo** (*Field Notes* en inglés) son unos items que aparecen en tu inventario de forma aleatoria cuando matas a determinados enemigos o cuando completes la línea de misiones el contenido de ***Save the Queen***. 
+
+Para la montura **Al-Iklil** nos interesan las notas de campo de las zonas **frente sur de Bozjan** (*The Bozjan Southern Front* en inglés), ***Delubrum Reginae*** y ***Zadnor*** siendo en total **50 notas de campo**.
 
 #### Frente sur de Bozjan (*The Bozjan Southern Front* en inglés).
 
@@ -57,7 +66,7 @@ Las primeras notas las encontraremos en el frente sur de Bozjan. Habrá que comp
 - 12: ***For Absent Friends***: Dyunbu Pyr Potitus
 - 14: ***Of Steel and Flame***: Sartauvoir Quo Soranus
 
-##### Compromiso Crítico (*Critical Engagements* en inglés)
+##### Enfrentamiento Crítico (*Critical Engagements* en inglés)
 
 
 - 3: ***The Beasts Must Die***: Xeven Svanasch
@@ -130,7 +139,7 @@ En el mapa de ***Zadnor*** podremos encontrar las siguientes notas de campo comp
 - 39: ***Mean-spirited***: Yamatsumi Pyr Urabe
 - 41: ***Seeq and You Will Find***: Daguza Oen Sus
 
-##### Compromiso Crítico (*Critical Engagements* en inglés)
+##### Enfrentamiento Crítico (*Critical Engagements* en inglés)
 
 - 35: ***Attack of the Supersoldiers***: Meryall Miller
 - 37: ***An Immoral Dilemma***: Llofii Pyr Potitus
