@@ -19,7 +19,7 @@ El evento sera el **9 de Julio de 15:00 a 19:00** y se realizara  en el **Data C
 
 Este evento lo podréis ver en twitch en el [canal oficial de FFXIV](https://www.twitch.tv/finalfantasyxiv){:target="_blank"}.
 
-Por ultimo cabe destacar que **si se consigue obtener todos** los hechizos se **incluirá** en el próximo evento de **Moogle Treasure Trove** la fantástica **chaqueta Inferno**, aunque aun no hay confirmación de cuando sera este evento.
+Por ultimo cabe destacar que si la comunidad **obtienen todos los hechizos** durante este desafío se **incluirá** en el próximo evento de **Moogle Treasure Trove** la fantástica **chaqueta Inferno**, aunque aun no hay confirmación de cuando sera este evento.
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/evento-blue/inferno.png" alt="inferno"/></p>
 
