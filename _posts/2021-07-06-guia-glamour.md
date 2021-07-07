@@ -41,7 +41,7 @@ En la ventana de probador tendremos las siguientes opciones en forma de botones 
 7. <img src="{{ site.baseurl }}/assets/images/articles/guias/guiaglamour/b7.jpg" alt="b7"/> Alternar la visualización del personaje (solo en Modo Mando).
 8. <img src="{{ site.baseurl }}/assets/images/articles/guias/guiaglamour/b8.jpg" alt="b8"/> Deshacer.
 
-#### Aplicar el Glamour a una pieza de equipo.
+#### Aplicar el *Glamour* a una pieza de equipo.
 
 Tras haber elegido el ***Glamour*** que le vamos a aplicar a una pieza de equipo, tenemos que seleccionar la opción ***Cast Glamour*** (Aplicar Glamour) y entonces se nos abrirá la ventana para aplicar el ***Glamour***.
 
@@ -54,10 +54,85 @@ Al ir a aplicar el ***Glamour*** podrás comprobar que no todas las opciones las
 3. Solo podremos aplicar como ***Glamour*** piezas que se las pudiera equipar nuestra **clase** o **profesión**. Ej: no podremos aplicar un ***Glamour*** de Paladín sobre un equipo de Bardo.
 3. El equipo que usaremos como ***Glamour*** debe cumplir los requisitos de **raza** y **género**
 
-##### Prismas *Glamour*.
+##### *Glamour Prism* y *Glamour Dispeller*.
 
-Cada vez que apliquemos individualmente un ***Glamour*** a una pieza, gastaremos un <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/" target="_blank" class="eorzeadb_link">Prisma Glamour</a> (*Glamour Prism* en inglés). 
+Cada vez que apliquemos individualmente un ***Glamour*** a una pieza, gastaremos 1 x <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/" target="_blank" class="eorzeadb_link">Glamour Prism</a>. 
 
-Podremos también quitar un ***Glamour*** de una pieza. Para esto utilizaremos un <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/" target="_blank" class="eorzeadb_link">Disipador Glamour</a> (*Glamour Dispeller* en inglés).
+Podremos también quitar un ***Glamour*** de una pieza. Para esto utilizaremos 1 x <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/" target="_blank" class="eorzeadb_link">Glamour Dispeller</a>.
 
 Estos objetos se pueden conseguir de muchas maneras distintas. Hay vendedores que los venden por ***Gils***, los podrás comprar por **Sellos de la Gran Compañía**, los puedes conseguir en la **subasta** e incluso los podrás **fabricar**.
+
+### Qué es y como gestionar el *Glamour Dresser*.
+
+El ***Glamour Dresser*** es un armario donde podremos guardar las piezas de equipo que nos gusten. Lo podrás encontrar en las **Habitaciones de las Tabernas** o en las ***Barracks*** (Cuartel) del **Escuadrón**. Además, gestionando bien, podremos crear distintos **conjuntos de equipamiento** que se aplicarán directamente cuando cambiemos de una profesión a otra. Cada vez que introduces una pieza de equipo te costará 1 x <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/" target="_blank" class="eorzeadb_link">Glamour Prism</a>. 
+
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/guiaglamour/glamourdresser.jpg" alt="gd"/></p>
+
+Cuando abrimos el ***Glamour Dresser*** se nos abriran dos ventanas. En la primera veremos todo el equipo que tenemos metido en el armario y en la segunda ventana, llamada ***Glamour Creation*** veremos el equipo que tenemos tanto en nuestro Inventario como en el *Armoury Chest* (usar desplegable). Tras hacer click en la pieza y aceptar las condiciones, la pieza nos desaparecera del inventario y la tendremos en el ***Glamour Dresser***
+
+<div class="container">
+  <div class="row">
+    <div class="col-xl">
+      <img src="{{ site.baseurl }}/assets/images/articles/guias/guiaglamour/gd1.jpg"  alt="gd1">
+      <p align="center"><sub><sup>Glamour Creation.</sup></sub></p>
+    </div>
+    <div class="col-xl">
+      <img src="{{ site.baseurl }}/assets/images/articles/guias/guiaglamour/gd2.jpg"  alt="gd2">
+      <p align="center"><sub><sup>Gear Selection.</sup></sub></p>
+    </div>
+  </div>
+</div>
+
+Como se puede comprobar en la pantalla de ***Gear Selection*** el límite de piezas de equipo que podemos guardar en nuestro ***Glamour Dresser*** es de 400.
+
+#### Crear Conjuntos de Equipamiento.
+
+En la pantalla de ***Gear Selection*** tenemos el botón ***Edit Glamour Plates*** que nos abrirá un probador donde podremos poner y quitar piezas del equipo que tengamos metido en el ***Glamour Dresser***.
+
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/guiaglamour/gd3.jpg" alt="gd3"/></p>
+
+Se pueden tener guardados hasta **15 conjuntos de equipamiento** distintos aunque también podremos aplicar la configuración del *Glamour* que tengamos seleccionado en el probador directamente sin necesidad de guardarlo.
+
+#### Aplicar Conjuntos de Equipamiento de forma automática.
+
+En la pantalla de ***Character*** podemos encontrar el botón ***Glamour Plate***. Al pulsarlo veremos nuestro probador y podremos elegir alguno de los 15 conjuntos que tenemos guardados y aplicarlo a nuestro equipo. Si después pulsamos el botón ***Update Gear Set*** siempre que nos pongamos el equipo correspondiente a esa profesión, se nos aplicará el *Glamour* elegido. 
+
+<div class="container">
+  <div class="row">
+    <div class="col-xl">
+      <img src="{{ site.baseurl }}/assets/images/articles/guias/guiaglamour/gp.jpg"  alt="gp">
+      <p align="center"><sub><sup>Pantalla Character.</sup></sub></p>
+    </div>
+    <div class="col">
+      <img src="{{ site.baseurl }}/assets/images/articles/guias/guiaglamour/ugs.jpg"  alt="ugs">
+      <br/>
+      <sub><sup>Update Gear Set.</sup></sub>
+    </div>
+  </div>
+</div>
+<blockquote>
+Siempre que mediante la Pantalla Character te apliques el Glamour, no te costará ningún Glamour Prism.
+</blockquote>
+
+### Tintes.
+
+A todas las piezas de equipo en Final Fantasy XIV se le pueden aplicar **Tintes** para cambiarle el color de la pieza. Estos tintes se puede conseguir comprándolos en distintos **vendedores**, **creándolos con profesiones**, como objetos de recompensa cuando matas distintos **jefes** del juego o en la **subasta**.
+
+Para aplicar un tinte a una pieza, abrimos el menú contextual sobre la pieza y elegimos la opción ***Dye*** (Teñir). En la ventana que se nos abrirá, podremos probar los distintos tintes y una previsualización de estos.
+
+Si tintamos una pieza para un conjunto de equipamiento y lo guardamos y luego queremos usar esa misma pieza para otro junto con otro tinte distinto en otro conjunto de equipamiento, podremos tener la misma pieza guardada con varios tintes distintos.
+
+<div class="container">
+  <div class="row">
+    <div class="col-xl">
+      <img src="{{ site.baseurl }}/assets/images/articles/guias/guiaglamour/dye1.jpg"  alt="dye1">
+      <p align="center"><sub><sup>Item Dyeing.</sup></sub></p>
+    </div>
+    <div class="col">
+      <img src="{{ site.baseurl }}/assets/images/articles/guias/guiaglamour/dye2.jpg"  alt="dye2">
+      <br/>
+      <sub><sup>Terebinth.</sup></sub>
+    </div>
+  </div>
+</div>
+Para quitar un tinte de una pieza, usaremos 1 x <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/item/f0518ea9f0e/" target="_blank" class="eorzeadb_link">Terebinth</a> que se puede comprar en distintos vendedores en las ciudades principales de Final Fantasy XIV.
