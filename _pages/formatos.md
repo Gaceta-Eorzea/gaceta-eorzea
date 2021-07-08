@@ -577,3 +577,5 @@ if (grafica2) {
 
 
 </script>
+
+El sharn es manco, muy manco.
