@@ -84,7 +84,7 @@ Hace unos días la comunidad española del Final Fantasy XIV consiguió un hito 
 
 <div class="card">
   <div class="card-header">
-     <b><i>Gaceta Eorzea</i>: ¿Tuviste que cantas tú las mecánicas y guiar los grupos y roles del encuentro? (jejeje)</b>
+     <b><i>Gaceta Eorzea</i>: ¿Tuviste que cantar tú las mecánicas y guiar los grupos y roles del encuentro? (jejeje)</b>
   </div>
   <div class="card-body">
     <i><b>Aebon</b></i>: ¡Exacto! Los primeros días intenté guiar yo mismo a los grupos y cantar las mecánicas. Más adelante ciertas personas se interesaron por la mazmorra y aprovecharon su tiempo para participar con otros grupos, coger experiencia y ayudarme con el trabajo. Siempre está bien contar con varias personas para esto, y ahora nos vamos turnando los jefes entre nosotros.
