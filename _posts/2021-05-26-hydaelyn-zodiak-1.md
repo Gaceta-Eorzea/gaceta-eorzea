@@ -3,7 +3,7 @@ layout: post
 title:  "Hydaelyn y Zodiak: alrededor de Eorzea. Parte 1"
 author: cecile
 categories: [ multimedia ]
-tags: [imagenes, multimedia, hydaelyn, zodiak, eorzea, luz, oscuridad]
+tags: [imágenes, multimedia]
 image: assets/images/articles/multimedia/hydaelyn-zodiak/FFXIV_Endwalker_Amano_art.jpg
 description: "Primera entrega de la serie visitando Eorzea de la mano de Hydaelyn y Zodiak."
 featured: false

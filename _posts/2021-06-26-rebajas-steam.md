@@ -3,7 +3,7 @@ layout: post
 title: "Steam pone en oferta Final Fantasy XIV."
 author: sharn
 categories: [ noticias ]
-tags: [noticias, steam, rebajas, oferta, verano, ffxiv, final fantasy xiv]
+tags: [noticias, steam, descuento]
 image: assets/images/articles/noticias/rebajas-steam-260621/portada.jpg
 description: "Steam rebaja FFXIV en sus rebajas de verano."
 featured: false

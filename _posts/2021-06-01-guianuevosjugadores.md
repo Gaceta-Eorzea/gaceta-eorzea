@@ -2,8 +2,8 @@
 layout: post
 title:  "Guía para nuevos jugadores de Final Fantasy XIV."
 author: sharn
-categories: [ guias ]
-tags: [nuevos jugadores, guias, clases, profesiones]
+categories: [ guías ]
+tags: [nuevos jugadores, guías]
 image: assets/images/articles/guias/guianuevosjugadores/portada.jpg
 description: "Guía para nuevos jugadores de Final Fantasy XIV."
 featured: true

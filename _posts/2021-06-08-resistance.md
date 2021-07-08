@@ -2,8 +2,8 @@
 layout: post
 title:  "Guía de Armas Reliquia de Shadowbringers."
 author: cecile
-categories: [ guias ]
-tags: [guias, relic, shadowbringers]
+categories: [ guías ]
+tags: [guías, reliquias, ShB]
 image: assets/images/articles/relics/resistance/resistance.jpg
 description: "Guia completa de Armas Reliquia de Shadowbringers."
 featured: true

@@ -2,8 +2,8 @@
 layout: post
 title: "Recompensas reclutando a un amigo."
 author: sharn
-categories: [ guias ]
-tags: [recluta, amigo, recompensas, guias]
+categories: [ guías ]
+tags: [recluta, guías]
 image: assets/images/articles/guias/reclutaamigo/reclutaamigop.jpg
 description: "Como activar la campaña Recluta a un Amigo y sus futuras recompensas."
 featured: false

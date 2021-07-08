@@ -2,8 +2,8 @@
 layout: post
 title: "Protege tu cuenta añadiendo un Autenticador."
 author: sharn
-categories: [ guias ]
-tags: [suscripciones, tarjeta, pago, tiempo de juego, añadir]
+categories: [ guías ]
+tags: [suscripciones, guías]
 image: assets/images/articles/guias/pass1uso/portada.jpg
 description: "Guía de como añadir un Autenticador a Final Fantasy XIV."
 featured: false

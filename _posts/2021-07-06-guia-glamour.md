@@ -2,12 +2,12 @@
 layout: post
 title: "Como cambiar tu apariencia: El Glamour."
 author: sharn
-categories: [ guias ]
-tags: [glamour, transfiguracion, prisma, armario, conjunto, ffxiv, español, ffxivesp, final fantasy xiv]
+categories: [ guías ]
+tags: [guías, glamour]
 image: assets/images/articles/guias/guiaglamour/portada.jpg
 description: "Como usar el Glamour gestionando bien los recursos."
 featured: false
-hidden: false
+hidden: true
 ---
 El ***Glamour*** es el sistema que ***Final Fantasy XIV*** pone a nuestra disposición para cambiar la apariencia del equipo de nuestro personaje. En esta guía vamos a explicar de una forma concisa y clara la mejor forma de gestionar los recursos. De todos es sabido, lo más importante, siempre, es que nuestro personaje vaya totalmente a la moda y para eso tenemos que tener el ***Glamour*** **perfecto**.
 

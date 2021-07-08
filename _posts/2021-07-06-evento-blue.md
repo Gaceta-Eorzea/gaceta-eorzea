@@ -3,7 +3,7 @@ layout: post
 title:  "Evento : Desafío del mago azul"
 author: cecile
 categories: [ noticias ]
-tags: [noticias, twitch, evento, blue]
+tags: [noticias, twitch]
 image: assets/images/articles/noticias/evento-blue/unending.png
 description: "Evento : Desafio del mago azul."
 featured: false

@@ -2,8 +2,8 @@
 layout: post
 title: "Formas de añadir tiempo de juego a Final Fantasy XIV."
 author: sharn
-categories: [ guias ]
-tags: [suscripciones, tarjeta, pago, tiempo de juego, añadir]
+categories: [ guías ]
+tags: [suscripciones, guías]
 image: assets/images/articles/guias/metodospago/portada.jpg
 description: "Como añadir tiempo de juego a Final Fantasy XIV."
 featured: false

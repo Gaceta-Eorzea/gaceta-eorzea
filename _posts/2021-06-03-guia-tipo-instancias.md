@@ -2,8 +2,8 @@
 layout: post
 title:  "Guía de introducción a los tipos de instancia en PvE."
 author: cecile
-categories: [ guias ]
-tags: [nuevos jugadores, guias, instancias]
+categories: [ guías ]
+tags: [nuevos jugadores, guías, instancias]
 image: assets/images/articles/guias/instancias/dungeon.jpg
 description: "Guía de introducción a los tipos de instancia en PvE para nuevos jugadores de Final Fantasy XIV."
 featured: false

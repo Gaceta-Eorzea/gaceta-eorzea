@@ -2,8 +2,8 @@
 layout: post
 title:  "Guía sobre la prueba gratuita de Final Fantasy XIV."
 author: sharn
-categories: [ guias ]
-tags: [nuevos jugadores, guias, free trial, prueba gratuita]
+categories: [ guías ]
+tags: [nuevos jugadores, guías, prueba gratuita]
 image: assets/images/articles/guias/freetrial/portada.jpg
 description: "Explicación sobre el registro de la cuenta y la prueba gratuita de FFXIV."
 featured: false

@@ -2,8 +2,8 @@
 layout: post
 title:  "Guía introductoria de clases y profesiones."
 author: sharn
-categories: [ guias ]
-tags: [nuevos jugadores, guias, clases, profesiones]
+categories: [ guías ]
+tags: [nuevos jugadores, guías, clases]
 image: assets/images/articles/guias/guiaclases/jobs1.jpg
 description: "Descripción general de cada clase y profesión enfocada en nuevos jugadores."
 featured: false

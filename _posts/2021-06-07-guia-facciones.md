@@ -2,8 +2,8 @@
 layout: post
 title:  "Guía sobre las 3 Grandes Compañías."
 author: sharn
-categories: [ guias ]
-tags: [nuevos jugadores, guias, grandes companias, grand company]
+categories: [ guías ]
+tags: [nuevos jugadores, guías, facciones]
 image: assets/images/articles/guias/facciones/portadafacciones.jpg
 description: "Definición de las Grandes Compañías y primeros pasos en ellas."
 featured: false

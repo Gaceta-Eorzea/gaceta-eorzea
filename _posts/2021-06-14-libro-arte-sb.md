@@ -3,7 +3,7 @@ layout: post
 title:  "Pre visualización el libro de arte de Shadowbringers."
 author: sharn
 categories: [ noticias ]
-tags: [shadowbringers, libro, arte]
+tags: [ShB, libro, arte]
 image: assets/images/articles/noticias/libro-arte-sb/portada.jpg
 description: "Exponiendo el libro de arte de Shadowbringers."
 featured: false

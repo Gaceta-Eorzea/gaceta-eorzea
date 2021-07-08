@@ -2,8 +2,8 @@
 layout: post
 title:  "Iconos en nombres de enemigos y personajes."
 author: cecile
-categories: [ guias ]
-tags: [nuevos jugadores, guias, ui]
+categories: [ guías ]
+tags: [nuevos jugadores, guías, ui]
 image: assets/images/articles/iconos/names.jpg
 description: "Guía sobre los iconos en los nombres de enemigos y personajes."
 featured: false

@@ -2,8 +2,8 @@
 layout: post
 title: "El Escuadrón."
 author: sharn
-categories: [ guias ]
-tags: [escuadron, reclutas, recruit, squadron, guia, guide, ffxiv, final fantasy xiv, command missions]
+categories: [ guías ]
+tags: [guías, escuadron, nuevos jugadores]
 image: assets/images/articles/guias/escuadron/portada.jpg
 description: "Guía sobre que es el escuadrón."
 featured: false

@@ -5,9 +5,175 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Jul 2021 09:11:44 +0100</pubDate>
-    <lastBuildDate>Tue, 06 Jul 2021 09:11:44 +0100</lastBuildDate>
+    <pubDate>Thu, 08 Jul 2021 10:58:00 +0100</pubDate>
+    <lastBuildDate>Thu, 08 Jul 2021 10:58:00 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>entrevista aebon.</title>
+        <description>&lt;p&gt;xxx&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Jul 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/entrevista-delubrum/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/entrevista-delubrum/</guid>
+        
+        <category>entrevistas</category>
+        
+        <category>end game</category>
+        
+        <category>comunidad</category>
+        
+        
+        <category>entrevistas</category>
+        
+      </item>
+    
+      <item>
+        <title>Como cambiar tu apariencia: El Glamour.</title>
+        <description>&lt;p&gt;El &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; es el sistema que &lt;strong&gt;&lt;em&gt;Final Fantasy XIV&lt;/em&gt;&lt;/strong&gt; pone a nuestra disposición para cambiar la apariencia del equipo de nuestro personaje. En esta guía vamos a explicar de una forma concisa y clara la mejor forma de gestionar los recursos. De todos es sabido, lo más importante, siempre, es que nuestro personaje vaya totalmente a la moda y para eso tenemos que tener el &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;perfecto&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;qué-es-el-glamour&quot;&gt;¿Qué es el Glamour?&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/g1.jpg&quot; width=&quot;750&quot; alt=&quot;glamour1&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;sub&gt;&lt;sup&gt;Imagen cedida por Ulthar.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;Como ya hemos indicado, con el &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; vamos a cambiar la apariencia del equipo de nuestro personaje. Y hay varias formas de hacerlo, las cuales iremos viendo en esta guía.&lt;/p&gt;
+
+&lt;p&gt;Es importante indicar que el &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; no cambia las estadísticas de las piezas ni las mejora. Así, podrás aplicar un &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; a una pieza de equipo actual mientras que este sea &lt;strong&gt;del mismo nivel&lt;/strong&gt; o &lt;strong&gt;de un nivel superior&lt;/strong&gt; a la pieza de glamour.&lt;/p&gt;
+
+&lt;p&gt;Para desbloquear el &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; tenemos que tener al menos una clase a &lt;strong&gt;nivel 15&lt;/strong&gt; y completar la misión &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/bb7ebd31069/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;If I Had a Glamour&lt;/a&gt; que nos la entrega &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/2b292ba9a05/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Swyrgeim&lt;/a&gt; en &lt;strong&gt;Western Thalanan&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/g2.jpg&quot; width=&quot;750&quot; alt=&quot;glamour2&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;sub&gt;&lt;sup&gt;Imagen cedida por Cucute Cute.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;como-probarnos-equipo&quot;&gt;Como probarnos equipo.&lt;/h4&gt;
+
+&lt;p&gt;Podremos previsualizar el equipo para ver como nos queda. Para eso tenemos la opción &lt;strong&gt;&lt;em&gt;Try On&lt;/em&gt;&lt;/strong&gt; (Pruébatelo) cuando hacemos click con el botón derecho en cualquier pieza de equipo.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/probador.jpg&quot; alt=&quot;probador&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En la ventana de probador tendremos las siguientes opciones en forma de botones en la parte inferior:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b1.jpg&quot; alt=&quot;b1&quot; /&gt; Podrás ver u ocultar tu arma.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b2.jpg&quot; alt=&quot;b2&quot; /&gt; Podrás ver u ocultar tu casco.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b3.jpg&quot; alt=&quot;b3&quot; /&gt; Ajustar manualmente el visor.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b4.jpg&quot; alt=&quot;b4&quot; /&gt; Mostrar u ocultar el resto del equipo.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b5.jpg&quot; alt=&quot;b5&quot; /&gt; Guardar la configuración para seguir probándote equipo en otros huecos.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b6.jpg&quot; alt=&quot;b6&quot; /&gt; Tener el arma desenvainada o no.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b7.jpg&quot; alt=&quot;b7&quot; /&gt; Alternar la visualización del personaje (solo en Modo Mando).&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b8.jpg&quot; alt=&quot;b8&quot; /&gt; Deshacer.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;aplicar-el-glamour-a-una-pieza-de-equipo&quot;&gt;Aplicar el &lt;em&gt;Glamour&lt;/em&gt; a una pieza de equipo.&lt;/h4&gt;
+
+&lt;p&gt;Tras haber elegido el &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; que le vamos a aplicar a una pieza de equipo, tenemos que seleccionar la opción &lt;strong&gt;&lt;em&gt;Cast Glamour&lt;/em&gt;&lt;/strong&gt; (Aplicar Glamour) y entonces se nos abrirá la ventana para aplicar el &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/cg2.jpg&quot; alt=&quot;cg2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Al ir a aplicar el &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; podrás comprobar que no todas las opciones las puedes usar ya que para aplicar un &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; a una pieza de equipo tenemos que cumplir los siguientes requisitos:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tanto el equipo propio como el equipo que utilizaremos como &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; son del &lt;strong&gt;mismo tipo&lt;/strong&gt;. Ej: podremos aplicar un glamor de botas a una pieza de botas, pero no a unos pantalones.&lt;/li&gt;
+  &lt;li&gt;El &lt;strong&gt;nivel del equipo&lt;/strong&gt; que utilizaremos como &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; será &lt;strong&gt;igual&lt;/strong&gt; o &lt;strong&gt;inferior&lt;/strong&gt; a la pieza de equipo equipada.&lt;/li&gt;
+  &lt;li&gt;Solo podremos aplicar como &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; piezas que se las pudiera equipar nuestra &lt;strong&gt;clase&lt;/strong&gt; o &lt;strong&gt;profesión&lt;/strong&gt;. Ej: no podremos aplicar un &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; de Paladín sobre un equipo de Bardo.&lt;/li&gt;
+  &lt;li&gt;El equipo que usaremos como &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; debe cumplir los requisitos de &lt;strong&gt;raza&lt;/strong&gt; y &lt;strong&gt;género&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;glamour-prism-y-glamour-dispeller&quot;&gt;&lt;em&gt;Glamour Prism&lt;/em&gt; y &lt;em&gt;Glamour Dispeller&lt;/em&gt;.&lt;/h5&gt;
+
+&lt;p&gt;Cada vez que apliquemos individualmente un &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; a una pieza, gastaremos 1 x &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Glamour Prism&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Podremos también quitar un &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; de una pieza. Para esto utilizaremos 1 x &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Glamour Dispeller&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Estos objetos se pueden conseguir de muchas maneras distintas. Hay vendedores que los venden por &lt;strong&gt;&lt;em&gt;Gils&lt;/em&gt;&lt;/strong&gt;, los podrás comprar por &lt;strong&gt;Sellos de la Gran Compañía&lt;/strong&gt;, los puedes conseguir en la &lt;strong&gt;subasta&lt;/strong&gt; e incluso los podrás &lt;strong&gt;fabricar&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;qué-es-y-como-gestionar-el-glamour-dresser&quot;&gt;Qué es y como gestionar el &lt;em&gt;Glamour Dresser&lt;/em&gt;.&lt;/h3&gt;
+
+&lt;p&gt;El &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt; es un armario donde podremos guardar las piezas de equipo que nos gusten. Lo podrás encontrar en las &lt;strong&gt;Habitaciones de las Tabernas&lt;/strong&gt; o en las &lt;strong&gt;&lt;em&gt;Barracks&lt;/em&gt;&lt;/strong&gt; (Cuartel) del &lt;strong&gt;Escuadrón&lt;/strong&gt;. Además, gestionando bien, podremos crear distintos &lt;strong&gt;conjuntos de equipamiento&lt;/strong&gt; que se aplicarán directamente cuando cambiemos de una profesión a otra. Cada vez que introduces una pieza de equipo te costará 1 x &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Glamour Prism&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/glamourdresser.jpg&quot; alt=&quot;gd&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cuando abrimos el &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt; se nos abriran dos ventanas. En la primera veremos todo el equipo que tenemos metido en el armario y en la segunda ventana, llamada &lt;strong&gt;&lt;em&gt;Glamour Creation&lt;/em&gt;&lt;/strong&gt; veremos el equipo que tenemos tanto en nuestro Inventario como en el &lt;em&gt;Armoury Chest&lt;/em&gt; (usar desplegable). Tras hacer click en la pieza y aceptar las condiciones, la pieza nos desaparecera del inventario y la tendremos en el &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/guias/guiaglamour/gd1.jpg&quot; alt=&quot;gd1&quot; /&gt;
+      &lt;p align=&quot;center&quot;&gt;&lt;sub&gt;&lt;sup&gt;Glamour Creation.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/guias/guiaglamour/gd2.jpg&quot; alt=&quot;gd2&quot; /&gt;
+      &lt;p align=&quot;center&quot;&gt;&lt;sub&gt;&lt;sup&gt;Gear Selection.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Como se puede comprobar en la pantalla de &lt;strong&gt;&lt;em&gt;Gear Selection&lt;/em&gt;&lt;/strong&gt; el límite de piezas de equipo que podemos guardar en nuestro &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt; es de 400.&lt;/p&gt;
+
+&lt;h4 id=&quot;crear-conjuntos-de-equipamiento&quot;&gt;Crear Conjuntos de Equipamiento.&lt;/h4&gt;
+
+&lt;p&gt;En la pantalla de &lt;strong&gt;&lt;em&gt;Gear Selection&lt;/em&gt;&lt;/strong&gt; tenemos el botón &lt;strong&gt;&lt;em&gt;Edit Glamour Plates&lt;/em&gt;&lt;/strong&gt; que nos abrirá un probador donde podremos poner y quitar piezas del equipo que tengamos metido en el &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/gd3.jpg&quot; alt=&quot;gd3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Se pueden tener guardados hasta &lt;strong&gt;15 conjuntos de equipamiento&lt;/strong&gt; distintos aunque también podremos aplicar la configuración del &lt;em&gt;Glamour&lt;/em&gt; que tengamos seleccionado en el probador directamente sin necesidad de guardarlo.&lt;/p&gt;
+
+&lt;h4 id=&quot;aplicar-conjuntos-de-equipamiento-de-forma-automática&quot;&gt;Aplicar Conjuntos de Equipamiento de forma automática.&lt;/h4&gt;
+
+&lt;p&gt;En la pantalla de &lt;strong&gt;&lt;em&gt;Character&lt;/em&gt;&lt;/strong&gt; podemos encontrar el botón &lt;strong&gt;&lt;em&gt;Glamour Plate&lt;/em&gt;&lt;/strong&gt;. Al pulsarlo veremos nuestro probador y podremos elegir alguno de los 15 conjuntos que tenemos guardados y aplicarlo a nuestro equipo. Si después pulsamos el botón &lt;strong&gt;&lt;em&gt;Update Gear Set&lt;/em&gt;&lt;/strong&gt; siempre que nos pongamos el equipo correspondiente a esa profesión, se nos aplicará el &lt;em&gt;Glamour&lt;/em&gt; elegido.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/guias/guiaglamour/gp.jpg&quot; alt=&quot;gp&quot; /&gt;
+      &lt;p align=&quot;center&quot;&gt;&lt;sub&gt;&lt;sup&gt;Pantalla Character.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/guias/guiaglamour/ugs.jpg&quot; alt=&quot;ugs&quot; /&gt;
+      &lt;br /&gt;
+      &lt;sub&gt;&lt;sup&gt;Update Gear Set.&lt;/sup&gt;&lt;/sub&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+Siempre que mediante la Pantalla Character te apliques el Glamour, no te costará ningún Glamour Prism.
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;tintes&quot;&gt;Tintes.&lt;/h3&gt;
+
+&lt;p&gt;A todas las piezas de equipo en Final Fantasy XIV se le pueden aplicar &lt;strong&gt;Tintes&lt;/strong&gt; para cambiarle el color de la pieza. Estos tintes se puede conseguir comprándolos en distintos &lt;strong&gt;vendedores&lt;/strong&gt;, &lt;strong&gt;creándolos con profesiones&lt;/strong&gt;, como objetos de recompensa cuando matas distintos &lt;strong&gt;jefes&lt;/strong&gt; del juego o en la &lt;strong&gt;subasta&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para aplicar un tinte a una pieza, abrimos el menú contextual sobre la pieza y elegimos la opción &lt;strong&gt;&lt;em&gt;Dye&lt;/em&gt;&lt;/strong&gt; (Teñir). En la ventana que se nos abrirá, podremos probar los distintos tintes y una previsualización de estos.&lt;/p&gt;
+
+&lt;p&gt;Si tintamos una pieza para un conjunto de equipamiento y lo guardamos y luego queremos usar esa misma pieza para otro junto con otro tinte distinto en otro conjunto de equipamiento, podremos tener la misma pieza guardada con varios tintes distintos.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/guias/guiaglamour/dye1.jpg&quot; alt=&quot;dye1&quot; /&gt;
+      &lt;p align=&quot;center&quot;&gt;&lt;sub&gt;&lt;sup&gt;Item Dyeing.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/guias/guiaglamour/dye2.jpg&quot; alt=&quot;dye2&quot; /&gt;
+      &lt;br /&gt;
+      &lt;sub&gt;&lt;sup&gt;Terebinth.&lt;/sup&gt;&lt;/sub&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Para quitar un tinte de una pieza, usaremos 1 x &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/f0518ea9f0e/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Terebinth&lt;/a&gt; que se puede comprar en distintos vendedores en las ciudades principales de Final Fantasy XIV.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Jul 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/guia-glamour/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/guia-glamour/</guid>
+        
+        <category>guías</category>
+        
+        <category>glamour</category>
+        
+        
+        <category>guías</category>
+        
+      </item>
     
       <item>
         <title>Evento : Desafío del mago azul</title>
@@ -21,7 +187,7 @@
 
 &lt;p&gt;Este evento lo podréis ver en twitch en el &lt;a href=&quot;https://www.twitch.tv/finalfantasyxiv&quot; target=&quot;_blank&quot;&gt;canal oficial de FFXIV&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Por ultimo cabe destacar que si la comunidad &lt;strong&gt;obtienen todos los hechizos&lt;/strong&gt; durante el evento se &lt;strong&gt;incluirá&lt;/strong&gt; en el próximo evento de &lt;strong&gt;Moogle Treasure Trove&lt;/strong&gt; la fantástica &lt;strong&gt;chaqueta Inferno&lt;/strong&gt;, aunque aun no hay confirmación de cuando sera este evento.&lt;/p&gt;
+&lt;p&gt;Por ultimo cabe destacar que si la comunidad &lt;strong&gt;obtienen todos los hechizos&lt;/strong&gt; durante este desafío se &lt;strong&gt;incluirá&lt;/strong&gt; en el próximo evento de &lt;strong&gt;Moogle Treasure Trove&lt;/strong&gt; la fantástica &lt;strong&gt;chaqueta Inferno&lt;/strong&gt;, aunque aun no hay confirmación de cuando sera este evento.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/evento-blue/inferno.png&quot; alt=&quot;inferno&quot; /&gt;&lt;/p&gt;
 
@@ -33,10 +199,6 @@
         <category>noticias</category>
         
         <category>twitch</category>
-        
-        <category>evento</category>
-        
-        <category>blue</category>
         
         
         <category>noticias</category>
@@ -337,25 +499,7 @@
         
         <category>montura</category>
         
-        <category>Al-Iklil</category>
-        
-        <category>mount</category>
-        
-        <category>5.55</category>
-        
-        <category>Bozjan Southern Front</category>
-        
-        <category>Delubrum Reginae</category>
-        
-        <category>Zadnor</category>
-        
-        <category>ffxiv</category>
-        
-        <category>español</category>
-        
-        <category>ffxivesp</category>
-        
-        <category>final fantasy xiv</category>
+        <category>Save the Queen*</category>
         
         
         <category>monturas</category>
@@ -393,23 +537,7 @@
         
         <category>montura</category>
         
-        <category>carta</category>
-        
-        <category>The Magicked card</category>
-        
-        <category>Triple Triad</category>
-        
-        <category>mount</category>
-        
-        <category>5.55</category>
-        
-        <category>ffxiv</category>
-        
-        <category>español</category>
-        
-        <category>ffxivesp</category>
-        
-        <category>final fantasy xiv</category>
+        <category>triple triad</category>
         
         
         <category>monturas</category>
@@ -710,11 +838,7 @@ if (grMagic) {
         
         <category>encuestas</category>
         
-        <category>profesiones</category>
-        
-        <category>votacion</category>
-        
-        <category>twitter</category>
+        <category>clases</category>
         
         
         <category>encuestas</category>
@@ -746,83 +870,6 @@ if (grMagic) {
         
         
         <category>lore</category>
-        
-      </item>
-    
-      <item>
-        <title>Steam pone en oferta Final Fantasy XIV.</title>
-        <description>&lt;p&gt;Son las &lt;strong&gt;Rebajas de Verano de Steam&lt;/strong&gt; y esta a la venta &lt;strong&gt;Final Fantasy XIV rebajado un 60%&lt;/strong&gt; en su plataforma. La oferta finaliza el 8 julio.&lt;/p&gt;
-
-&lt;p&gt;Tenemos varias formas de beneficiarnos de estas rebajas en los productos de Final Fatnasy XIV en Steam.&lt;/p&gt;
-
-&lt;h3 id=&quot;final-fantasy-xiv-online-complete-edition&quot;&gt;Final Fantasy XIV Online Complete Edition.&lt;/h3&gt;
-
-&lt;p&gt;Podremos comprar el &lt;a href=&quot;https://store.steampowered.com/bundle/9957/FINAL_FANTASY_XIV_Online_Complete_Edition/&quot; target=&quot;_blank&quot;&gt;Pack Complete Edition&lt;/a&gt; de &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt; a un precio de &lt;strong&gt;17.26€&lt;/strong&gt;. Este pack incluye FINAL FANTASY XIV: A Realm Reborn y los packs de expansión &lt;strong&gt;Heavensward&lt;/strong&gt;, &lt;strong&gt;Stormblood&lt;/strong&gt; y &lt;strong&gt;Shadowbringers&lt;/strong&gt;.&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://store.steampowered.com/bundle/9957/FINAL_FANTASY_XIV_Online_Complete_Edition/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/rebajas-steam-260621/complete.jpg&quot; alt=&quot;complete&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-El Pack Complete Edition de Steam incluye 30 días de tiempo de juego. Recordamos que aunque incluya este tiempo, podrás beneficiarte de la campaña &lt;a href=&quot;/reclutaamigo&quot; target=&quot;_blank&quot;&gt;Recluta un Amigo&lt;/a&gt; mientras no hayas comprado más tiempo de juego.
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;shadowbringers&quot;&gt;Shadowbringers.&lt;/h3&gt;
-
-&lt;p&gt;Si ya tienes el resto de las expansiones y solo te falta &lt;a href=&quot;https://store.steampowered.com/app/1016870/FINAL_FANTASY_XIV_Shadowbringers/&quot; target=&quot;_blank&quot;&gt;Shadowbringers&lt;/a&gt;, podrás comprar solo esta expansión a un precio de &lt;strong&gt;13.99€&lt;/strong&gt;.&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://store.steampowered.com/app/1016870/FINAL_FANTASY_XIV_Shadowbringers/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/rebajas-steam-260621/shadowbringers.jpg&quot; alt=&quot;shadowbringers&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Además de la versión normal, también podrás comprar &lt;a href=&quot;https://store.steampowered.com/app/1016870/FINAL_FANTASY_XIV_Shadowbringers/&quot; target=&quot;_blank&quot;&gt;Shadowbringers Collector’s Edition&lt;/a&gt; con el descuento del 60% a un precio de &lt;strong&gt;19.99€&lt;/strong&gt;. Esta versión, además de la expansión, te incluye la montura &lt;strong&gt;Grani&lt;/strong&gt;, el compañero &lt;strong&gt;Wind-up Fran&lt;/strong&gt; y una skin para el arma del &lt;em&gt;Gunbreaker&lt;/em&gt;, &lt;strong&gt;Revolver Gunbreaker&lt;/strong&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://store.steampowered.com/app/1016870/FINAL_FANTASY_XIV_Shadowbringers/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/rebajas-steam-260621/items.jpg&quot; alt=&quot;items&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 26 Jun 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/rebajas-steam/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/rebajas-steam/</guid>
-        
-        <category>noticias</category>
-        
-        <category>steam</category>
-        
-        <category>rebajas</category>
-        
-        <category>oferta</category>
-        
-        <category>verano</category>
-        
-        <category>ffxiv</category>
-        
-        <category>final fantasy xiv</category>
-        
-        
-        <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>El Juglar Errante - Furiosa Porque Pequeña</title>
-        <description>&lt;p&gt;En nuestras aventuras en Eorzea conocemos al Juglar Errante, el cual se encarga de relatar y cantar las historias mas importantes que pasan en nuestras aventuras por todo el reino.&lt;/p&gt;
-
-&lt;p&gt;En gaceta Eorzea hemos decidido tener nuestro propio Juglar el cual compartira con nosotros las historias que nuestros adventureros han compartido.&lt;/p&gt;
-
-&lt;p&gt;Esta semana el Juglar Errante nos trae el video &lt;em&gt;Furiosa Porque Pequeña&lt;/em&gt; (Mad Because Small) que  es una creacion original de &lt;a href=&quot;https://www.youtube.com/c/CiderSpider&quot; target=&quot;_blank&quot;&gt;Cider Spider&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;En este divertido video veremos la historia de una Lalafell muy divertida.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Este video incluye &lt;strong&gt;spoilers de A Realm Reborn&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/FDWHs6W8Ew4?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sat, 26 Jun 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/juglar-04/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-04/</guid>
-        
-        <category>multimedia</category>
-        
-        <category>video</category>
-        
-        
-        <category>multimedia</category>
         
       </item>
     

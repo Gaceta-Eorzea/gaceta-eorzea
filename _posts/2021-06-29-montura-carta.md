@@ -3,7 +3,7 @@ layout: post
 title: "Como conseguir la montura The Magicked Card."
 author: sharn
 categories: [ monturas ]
-tags: [montura, carta, The Magicked card, Triple Triad, mount, "5.55", ffxiv, español, ffxivesp, final fantasy xiv]
+tags: [montura, "triple triad"]
 image: assets/images/articles/noticias/monturacarta/portada.jpg
 description: "La montura The Magicked Card la conseguriás a través del mini juego Triple Triad."
 featured: false
