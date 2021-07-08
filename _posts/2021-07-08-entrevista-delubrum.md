@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "Entrevista : Delubrum (Savage) Español."
+title: "Completado Delubrum Savage."
 author: cecile
 categories: [ entrevistas ]
 tags: [entrevistas, "end game", "comunidad"]
 image: assets/images/articles/entrevistas/delubrum/delubrum.jpg
-description: "Entrevista con Aebon sobre el Delubrum Reginae Savage en Español."
+description: "Entrevista con Aebon tras haber completado Delubrum Savage con un grupo Español."
 featured: false
-hidden: true
+hidden: false
 ---
-
-Hace unos días la comunidad española del Final Fantasy XIV consiguió un hito **histórico** al completar **Delubrum Reginae** en modo **Savage** con un grupo completamente **Español**. Hoy os traemos una **entrevista con Aebon**, el creador de la **iniciativa**.
-
+Os traemos una entrevista con **Aebon**, creador de la iniciativa que ha conseguido el hito **histórico** de completar **Delubrum Reginae** en modo **Savage** con un grupo de la comunidad española.
 
 <div class="card">
   <div class="card-header">
@@ -29,7 +27,10 @@ Hace unos días la comunidad española del Final Fantasy XIV consiguió un hito 
      <b><i>Gaceta Eorzea</i>: ¿Qué fue lo que te impulsó a montar el Savage de Delubrum sabiendo que era un contenido de alta dificultad y que necesitaba tantas personas?</b>
   </div>
   <div class="card-body">
-    <i><b>Aebon</b></i>: La historia viene desde Stormblood, la expansión anterior. En la zona final de Eureka, el equivalente a la actual Bozja, añadieron un tipo de mazmorra nueva para 56 jugadores, Baldesion Arsenal. Personalmente me encantó, la completé unas 20 veces y ayudé a mucha gente a pasarla también. En aquél momento se organizaron runs españolas pero nunca conseguimos terminarla. Ahora con Delubrum Reginae, como su sucesora espiritual, tenía claro que me gustaría y desde el primer momento pensé en montar una run nuestra, en parte para volver a intentarlo entre nosotros y vivir la experiencia. Ahora puedo decir que fue una gran idea y la mazmorra no ha decepcionado.
+    <i><b>Aebon</b></i>: La historia viene desde Stormblood, la expansión anterior. En la zona final de Eureka, el equivalente a la actual Bozja, añadieron un tipo de mazmorra nueva para 56 jugadores, Baldesion Arsenal. Personalmente me encantó, la completé unas 20 veces y ayudé a mucha gente a pasarla también. En aquel momento se organizaron runs españolas pero nunca conseguimos terminarla. 
+    <br/>
+    <br/>
+    Ahora con Delubrum Reginae, como su sucesora espiritual, tenía claro que me gustaría y desde el primer momento pensé en montar una run nuestra, en parte para volver a intentarlo entre nosotros y vivir la experiencia. Ahora puedo decir que fue una gran idea y la mazmorra no ha decepcionado.
   </div>
 </div>
 
@@ -54,7 +55,10 @@ Hace unos días la comunidad española del Final Fantasy XIV consiguió un hito 
      <b><i>Gaceta Eorzea</i>: Normalmente un contenido Savage requiere continuidad y perseverancia, ¿Fue este un problema para este esfuerzo?</b>
   </div>
   <div class="card-body">
-    <i><b>Aebon</b></i>: Si bien esta mazmorra en concreto es más difícil que la anterior de Eureka, al ser un contenido donde necesitas tanta gente, no pide la precisión que puedes encontrar en un Savage. La consistencia y la perseverancia son mucho más importantes. Hay que aprender a ser metódicos, ayudarse entre todos y seguir las indicaciones. Los jefes no son excesivamente complicados, pero sí que piden preparación y familiarizarse con las mecánicas de Bozja. Ahora que nos conocemos bien a los jefes es mucho más sencillo porque podemos compartir nuestras experiencias y lo que hemos aprendido con el resto de jugadores.
+    <i><b>Aebon</b></i>: Si bien esta mazmorra en concreto es más difícil que la anterior de Eureka, al ser un contenido donde necesitas tanta gente, no pide la precisión que puedes encontrar en un Savage. La consistencia y la perseverancia son mucho más importantes. Hay que aprender a ser metódicos, ayudarse entre todos y seguir las indicaciones. 
+    <br/>
+    <br/>
+    Los jefes no son excesivamente complicados, pero sí que piden preparación y familiarizarse con las mecánicas de Bozja. Ahora que nos conocemos bien a los jefes es mucho más sencillo porque podemos compartir nuestras experiencias y lo que hemos aprendido con el resto de jugadores.
   </div>
 </div>
 
@@ -65,7 +69,13 @@ Hace unos días la comunidad española del Final Fantasy XIV consiguió un hito 
      <b><i>Gaceta Eorzea</i>: De cara a organizar los distintos roles dentro de los encuentros ¿Tuvisteis problemas para disponer de todos los roles necesarios y con las acciones adecuadas?</b>
   </div>
   <div class="card-body">
-    <i><b>Aebon</b></i>: Siendo tanta gente es normal que falte alguien cada vez, es inevitable. Al principio era problemático encontrar tanques. Más tarde vimos que es un rol bastante sencillo de llevar en Delubrum y sumando que más gente se animaba con nosotros se solucionó gran parte del problema con los jobs. Realmente el número de gente no fue problema en el momento en el que implementaron la posibilidad de entrar con un grupo flexible entre 24 y 48 jugadores. Una vez se tienen suficientes para resolver las primeras salas se puede avanzar con casi cualquier composición. De todas formas intentamos disponer siempre de unos roles específicos para facilitar las cosas más adelante, y no es difícil de cumplir. En cuanto a las acciones nunca hubo grandes problemas, hay que recordar que los fragmentos son intercambiables y ayudarse entre todos es muy interesante.
+    <i><b>Aebon</b></i>: Siendo tanta gente es normal que falte alguien cada vez, es inevitable. Al principio era problemático encontrar tanques. Más tarde vimos que es un rol bastante sencillo de llevar en Delubrum y sumando que más gente se animaba con nosotros se solucionó gran parte del problema con los jobs. 
+    <br/>
+    <br/>
+    Realmente el número de gente no fue problema en el momento en el que implementaron la posibilidad de entrar con un grupo flexible entre 24 y 48 jugadores. Una vez se tienen suficientes para resolver las primeras salas se puede avanzar con casi cualquier composición. 
+    <br/>
+    <br/>
+    De todas formas intentamos disponer siempre de unos roles específicos para facilitar las cosas más adelante, y no es difícil de cumplir. En cuanto a las acciones nunca hubo grandes problemas, hay que recordar que los fragmentos son intercambiables y ayudarse entre todos es muy interesante.
   </div>
 </div>
 
@@ -76,7 +86,10 @@ Hace unos días la comunidad española del Final Fantasy XIV consiguió un hito 
      <b><i>Gaceta Eorzea</i>: ¿Cómo fue la preparación de los participantes a lo largo de este camino? ¿Viste alguna evolución durante el tiempo?</b>
   </div>
   <div class="card-body">
-    <i><b>Aebon</b></i>: Muchos comenzaron desde cero. La verdad es que al principio era estampada tras estampada, pero en general eso fue lo que obligó a la gente a mejorar. Nos familiarizamos con la forma en la que teníamos que jugar, con cómo podíamos ayudar y demás. Como digo, no pide habilidad, sino conocimiento y ser metódicos con los que haces ahí dentro. La mayoría se dió cuenta que para avanzar tenían que aprender a aportar un poco más cada vez. Pasamos de intentar el primer jefe durante varios días a acabar con el final en un par de intentos nada más. Gran mejora en mi opinión y muy contento. Además el contar con tanta gente alrededor hace que sea muy fácil aprender de esas mismas personas, y como jugadores mejoramos un montón.
+    <i><b>Aebon</b></i>: Muchos comenzaron desde cero. La verdad es que al principio era estampada tras estampada, pero en general eso fue lo que obligó a la gente a mejorar. Nos familiarizamos con la forma en la que teníamos que jugar, con cómo podíamos ayudar y demás. Como digo, no pide habilidad, sino conocimiento y ser metódicos con los que haces ahí dentro.
+    <br/>
+    <br/>
+    La mayoría se dió cuenta que para avanzar tenían que aprender a aportar un poco más cada vez. Pasamos de intentar el primer jefe durante varios días a acabar con el final en un par de intentos nada más. Gran mejora en mi opinión y muy contento. Además el contar con tanta gente alrededor hace que sea muy fácil aprender de esas mismas personas, y como jugadores mejoramos un montón.
   </div>
 </div>
 
@@ -101,7 +114,10 @@ Hace unos días la comunidad española del Final Fantasy XIV consiguió un hito 
      <b><i>Gaceta Eorzea</i>: ¿Ya visto en perspectiva, qué piensas de la dificultad de los bosses y en general de la instancia de Delubrum?</b>
   </div>
   <div class="card-body">
-    <i><b>Aebon</b></i>: Creo que la dificultad ha sido acertada. Buen desafío cerca de la salida, y con el tiempo y las actualizaciones de Bozja se ha hecho más fácil. Los que buscaban un desafío lo han encontrado, pero todo el mundo es capaz de tirarlo a día de hoy. La forma de jugar cambia mucho con las acciones de Bozja, da pie a pensar y a crear estrategias, y en general me parece bastante refrescante en comparación con lo que estamos acostumbrados en Savage. En general un gran acierto.
+    <i><b>Aebon</b></i>: Creo que la dificultad ha sido acertada. Buen desafío cerca de la salida, y con el tiempo y las actualizaciones de Bozja se ha hecho más fácil. Los que buscaban un desafío lo han encontrado, pero todo el mundo es capaz de tirarlo a día de hoy. 
+    <br/>
+    <br/>
+    La forma de jugar cambia mucho con las acciones de Bozja, da pie a pensar y a crear estrategias, y en general me parece bastante refrescante en comparación con lo que estamos acostumbrados en Savage. En general un gran acierto.
   </div>
 </div>
 
@@ -137,7 +153,10 @@ Hace unos días la comunidad española del Final Fantasy XIV consiguió un hito 
      <b><i>Gaceta Eorzea</i>: ¿Qué esperas que Endwalker nos traiga para seguir con iniciativas como esta?</b>
   </div>
   <div class="card-body">
-    <i><b>Aebon</b></i>: En mi opinión este tipo de mazmorras a gran escala sigue triunfando y añade al juego una opción de contenido diferente y muy interesante. Creo que en la próxima expansión veremos, como mínimo, otra mazmorra como esta, tanto en savage como en normal. Recuerdo que Baldesion solo tenía modo normal y el savage ha sido una innovación. Si la expansión avanza bien quizá veamos una segunda mazmorra, pero eso menos probable.
+    <i><b>Aebon</b></i>: En mi opinión este tipo de mazmorras a gran escala sigue triunfando y añade al juego una opción de contenido diferente y muy interesante. Creo que en la próxima expansión veremos, como mínimo, otra mazmorra como esta, tanto en savage como en normal. 
+    <br/>
+    <br/>
+    Recuerdo que Baldesion solo tenía modo normal y el savage ha sido una innovación. Si la expansión avanza bien quizá veamos una segunda mazmorra, pero eso menos probable.
   </div>
 </div>
 
@@ -148,7 +167,10 @@ Hace unos días la comunidad española del Final Fantasy XIV consiguió un hito 
      <b><i>Gaceta Eorzea</i>: ¿Si eres un jugador nuevo, como puedes llegar a participar en un evento como este?</b>
   </div>
   <div class="card-body">
-    <i><b>Aebon</b></i>: Primero, llega a nivel 80. Frena un poco y haz las alianzas de Stromblood, las raids de 24 personas. Cuando completes esta campaña aparecerá la quest de Save the Queen en Kugane. Ve a Bozja y avanza por esa trama. Eventualmente acabarás en Delubrum. Empápate bien de cómo se juega en los mapas de Bozja y cuando te apetezca pásate por el <a href="https://discord.gg/cuCKe3V" target="_blank">discord de FFXIV ESP</a> y únete a alguna run. Además aquí no pierdes el tiempo, porque en estas zonas se consigue la Relic Weapon, la mejor arma de la expansión.
+    <i><b>Aebon</b></i>: Primero, llega a nivel 80. Frena un poco y haz las alianzas de Stromblood, las raids de 24 personas. Cuando completes esta campaña aparecerá la quest de Save the Queen en Kugane. Ve a Bozja y avanza por esa trama. Eventualmente acabarás en Delubrum. 
+    <br/>
+    <br/>
+    Empápate bien de cómo se juega en los mapas de Bozja y cuando te apetezca pásate por el <a href="https://discord.gg/cuCKe3V" target="_blank">discord de FFXIV ESP</a> y únete a alguna run. Además aquí no pierdes el tiempo, porque en estas zonas se consigue la Relic Weapon, la mejor arma de la expansión.
   </div>
 </div>
 
@@ -159,7 +181,10 @@ Hace unos días la comunidad española del Final Fantasy XIV consiguió un hito 
      <b><i>Gaceta Eorzea</i>: ¿Finalmente, qué le dirías a los Jugadores que están pensando en jugar a Final Fantasy XIV?</b>
   </div>
   <div class="card-body">
-    <i><b>Aebon</b></i>: Si buscas contenido de nivel máximo que te impresione, este juego te va a encantar. Puedes echarle un vistazo a nuestras runs de Delubrum precisamente y verlo por tí mism@. Es muy recomendable que os involucréis leyendo la historia, porque gran parte de la magia del juego viene del lore que se ha creado con los años, y de verdad que es una de las mejores historias de la saga Final Fantasy. Cualquier clase es buena, asi que juega lo que te guste. La clave es disfrutar del juego, y seguro que os lo pasáis en grande. Y si finalmente dais el paso, no os cortéis y entrad en la comunidad, ¡todo el mundo es bienvenido!
+    <i><b>Aebon</b></i>: Si buscas contenido de nivel máximo que te impresione, este juego te va a encantar. Puedes echarle un vistazo a nuestras runs de Delubrum precisamente y verlo por tí mism@. Es muy recomendable que os involucréis leyendo la historia, porque gran parte de la magia del juego viene del lore que se ha creado con los años, y de verdad que es una de las mejores historias de la saga Final Fantasy. 
+    <br/>
+    <br/>
+    Cualquier clase es buena, asi que juega lo que te guste. La clave es disfrutar del juego, y seguro que os lo pasáis en grande. Y si finalmente dais el paso, no os cortéis y entrad en la comunidad, ¡todo el mundo es bienvenido!
   </div>
 </div>
 

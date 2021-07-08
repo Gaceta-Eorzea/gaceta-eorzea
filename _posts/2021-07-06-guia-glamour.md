@@ -2,7 +2,7 @@
 layout: post
 title: "Como cambiar tu apariencia: El Glamour."
 author: sharn
-categories: [ guías ]
+categories: [  ]
 tags: [guías, glamour]
 image: assets/images/articles/guias/guiaglamour/portada.jpg
 description: "Como usar el Glamour gestionando bien los recursos."

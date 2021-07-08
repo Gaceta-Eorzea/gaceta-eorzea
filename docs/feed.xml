@@ -5,9 +5,219 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Jul 2021 17:16:01 +0100</pubDate>
-    <lastBuildDate>Thu, 08 Jul 2021 17:16:01 +0100</lastBuildDate>
+    <pubDate>Thu, 08 Jul 2021 21:53:56 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Jul 2021 21:53:56 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Completado Delubrum Savage.</title>
+        <description>&lt;p&gt;Os traemos una entrevista con &lt;strong&gt;Aebon&lt;/strong&gt;, creador de la iniciativa que ha conseguido el hito &lt;strong&gt;histórico&lt;/strong&gt; de completar &lt;strong&gt;Delubrum Reginae&lt;/strong&gt; en modo &lt;strong&gt;Savage&lt;/strong&gt; con un grupo de la comunidad española.&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: Antes de nada nos gustaría que nos contaras quién eres, para aquellos que no te conozcan.&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: Hola a tod@s, aquí &lt;a href=&quot;https://twitter.com/IbonMGen&quot; target=&quot;_blank&quot;&gt;Aebon&lt;/a&gt;. Soy creador de contenido para FFXIV en español, raider bastante hardcore y mentor muy conocido en la comunidad española. Soy miembro de Raid de Luz, una static española donde hemos conseguido clasificar muy alto en varios rankings mundiales. Me podéis encontrar en mi &lt;a href=&quot;https://www.twitch.tv/aebon&quot; target=&quot;_blank&quot;&gt;canal de Twitch&lt;/a&gt; tanto ayudando a nuevos jugadores como raideando y montando eventos con la comunidad.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: ¿Qué fue lo que te impulsó a montar el Savage de Delubrum sabiendo que era un contenido de alta dificultad y que necesitaba tantas personas?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: La historia viene desde Stormblood, la expansión anterior. En la zona final de Eureka, el equivalente a la actual Bozja, añadieron un tipo de mazmorra nueva para 56 jugadores, Baldesion Arsenal. Personalmente me encantó, la completé unas 20 veces y ayudé a mucha gente a pasarla también. En aquel momento se organizaron runs españolas pero nunca conseguimos terminarla. 
+    &lt;br /&gt;
+    &lt;br /&gt;
+    Ahora con Delubrum Reginae, como su sucesora espiritual, tenía claro que me gustaría y desde el primer momento pensé en montar una run nuestra, en parte para volver a intentarlo entre nosotros y vivir la experiencia. Ahora puedo decir que fue una gran idea y la mazmorra no ha decepcionado.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/delubrum/baldesion.jpg&quot; alt=&quot;Baldesion&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Baldesion Arsenal&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: ¿Te costó mucho encontrar la gente necesaria? ¿Dónde conseguiste que la comunidad se entera de esta aventura?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: Está claro que ser creador de contenido y conocer a tantísima gente en la comunidad de FFXIV ayuda, pero además contamos con ayuda del &lt;a href=&quot;https://discord.gg/cuCKe3V&quot; target=&quot;_blank&quot;&gt;discord de FFXIV ESP&lt;/a&gt; y desde ahí llegamos a gran parte de la comunidad. Al principio fue cosa de hablar con jugadores y grupos específicos, y más tarde se empezó a animar más gente. Costó porque no estaba en el plan de muchos dedicarle tiempo a este contenido, pero poco a poco montamos un grupo de 48.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: Normalmente un contenido Savage requiere continuidad y perseverancia, ¿Fue este un problema para este esfuerzo?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: Si bien esta mazmorra en concreto es más difícil que la anterior de Eureka, al ser un contenido donde necesitas tanta gente, no pide la precisión que puedes encontrar en un Savage. La consistencia y la perseverancia son mucho más importantes. Hay que aprender a ser metódicos, ayudarse entre todos y seguir las indicaciones. 
+    &lt;br /&gt;
+    &lt;br /&gt;
+    Los jefes no son excesivamente complicados, pero sí que piden preparación y familiarizarse con las mecánicas de Bozja. Ahora que nos conocemos bien a los jefes es mucho más sencillo porque podemos compartir nuestras experiencias y lo que hemos aprendido con el resto de jugadores.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: De cara a organizar los distintos roles dentro de los encuentros ¿Tuvisteis problemas para disponer de todos los roles necesarios y con las acciones adecuadas?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: Siendo tanta gente es normal que falte alguien cada vez, es inevitable. Al principio era problemático encontrar tanques. Más tarde vimos que es un rol bastante sencillo de llevar en Delubrum y sumando que más gente se animaba con nosotros se solucionó gran parte del problema con los jobs. 
+    &lt;br /&gt;
+    &lt;br /&gt;
+    Realmente el número de gente no fue problema en el momento en el que implementaron la posibilidad de entrar con un grupo flexible entre 24 y 48 jugadores. Una vez se tienen suficientes para resolver las primeras salas se puede avanzar con casi cualquier composición. 
+    &lt;br /&gt;
+    &lt;br /&gt;
+    De todas formas intentamos disponer siempre de unos roles específicos para facilitar las cosas más adelante, y no es difícil de cumplir. En cuanto a las acciones nunca hubo grandes problemas, hay que recordar que los fragmentos son intercambiables y ayudarse entre todos es muy interesante.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: ¿Cómo fue la preparación de los participantes a lo largo de este camino? ¿Viste alguna evolución durante el tiempo?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: Muchos comenzaron desde cero. La verdad es que al principio era estampada tras estampada, pero en general eso fue lo que obligó a la gente a mejorar. Nos familiarizamos con la forma en la que teníamos que jugar, con cómo podíamos ayudar y demás. Como digo, no pide habilidad, sino conocimiento y ser metódicos con los que haces ahí dentro.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    La mayoría se dió cuenta que para avanzar tenían que aprender a aportar un poco más cada vez. Pasamos de intentar el primer jefe durante varios días a acabar con el final en un par de intentos nada más. Gran mejora en mi opinión y muy contento. Además el contar con tanta gente alrededor hace que sea muy fácil aprender de esas mismas personas, y como jugadores mejoramos un montón.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: ¿Tuviste que cantar tú las mecánicas y guiar los grupos y roles del encuentro? (jejeje)&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: ¡Exacto! Los primeros días intenté guiar yo mismo a los grupos y cantar las mecánicas. Más adelante ciertas personas se interesaron por la mazmorra y aprovecharon su tiempo para participar con otros grupos, coger experiencia y ayudarme con el trabajo. Siempre está bien contar con varias personas para esto, y ahora nos vamos turnando los jefes entre nosotros.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/delubrum/grupos.jpg&quot; alt=&quot;Baldesion&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Diagrama para los movimiento de Grupos&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: ¿Ya visto en perspectiva, qué piensas de la dificultad de los bosses y en general de la instancia de Delubrum?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: Creo que la dificultad ha sido acertada. Buen desafío cerca de la salida, y con el tiempo y las actualizaciones de Bozja se ha hecho más fácil. Los que buscaban un desafío lo han encontrado, pero todo el mundo es capaz de tirarlo a día de hoy. 
+    &lt;br /&gt;
+    &lt;br /&gt;
+    La forma de jugar cambia mucho con las acciones de Bozja, da pie a pensar y a crear estrategias, y en general me parece bastante refrescante en comparación con lo que estamos acostumbrados en Savage. En general un gran acierto.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: ¿Cuál fue el encuentro o mecánica que más os costó?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: Trinity Avowed sin duda, la mecánica de las temperaturas. La primera es igual que en modo normal, y bien, lo esperable. ¿Cuando empieza a poner dos temperaturas mientras hace otras mecánicas? Horrible. Eso ha matado a mucha gente creedme. Si hay una mecánica que recomendaría entender antes de tiempo es esa.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/delubrum/hot_cold.jpg&quot; alt=&quot;Hot Cold&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Indicador de la Frio y Calor en Trinity Avowed&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: Ahora que habéis acabado Delubrum, ¿qué es lo próximo que tenéis pensado para el próximo futuro?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: De momento seguiremos introduciendo a más gente a Delubrum Savage y montando más runs de progresos diferentes, es decir, gente nueva y avanzar con ellos. Más adelante tenemos pensado volver a Baldesion Arsenal en Eureka e intentarlo de nuevo. Tenemos la espinita clavada desde que lo intentamos en su día. Si os gustaría participar ahora es el momento.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: ¿Qué esperas que Endwalker nos traiga para seguir con iniciativas como esta?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: En mi opinión este tipo de mazmorras a gran escala sigue triunfando y añade al juego una opción de contenido diferente y muy interesante. Creo que en la próxima expansión veremos, como mínimo, otra mazmorra como esta, tanto en savage como en normal. 
+    &lt;br /&gt;
+    &lt;br /&gt;
+    Recuerdo que Baldesion solo tenía modo normal y el savage ha sido una innovación. Si la expansión avanza bien quizá veamos una segunda mazmorra, pero eso menos probable.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: ¿Si eres un jugador nuevo, como puedes llegar a participar en un evento como este?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: Primero, llega a nivel 80. Frena un poco y haz las alianzas de Stromblood, las raids de 24 personas. Cuando completes esta campaña aparecerá la quest de Save the Queen en Kugane. Ve a Bozja y avanza por esa trama. Eventualmente acabarás en Delubrum. 
+    &lt;br /&gt;
+    &lt;br /&gt;
+    Empápate bien de cómo se juega en los mapas de Bozja y cuando te apetezca pásate por el &lt;a href=&quot;https://discord.gg/cuCKe3V&quot; target=&quot;_blank&quot;&gt;discord de FFXIV ESP&lt;/a&gt; y únete a alguna run. Además aquí no pierdes el tiempo, porque en estas zonas se consigue la Relic Weapon, la mejor arma de la expansión.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: ¿Finalmente, qué le dirías a los Jugadores que están pensando en jugar a Final Fantasy XIV?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: Si buscas contenido de nivel máximo que te impresione, este juego te va a encantar. Puedes echarle un vistazo a nuestras runs de Delubrum precisamente y verlo por tí mism@. Es muy recomendable que os involucréis leyendo la historia, porque gran parte de la magia del juego viene del lore que se ha creado con los años, y de verdad que es una de las mejores historias de la saga Final Fantasy. 
+    &lt;br /&gt;
+    &lt;br /&gt;
+    Cualquier clase es buena, asi que juega lo que te guste. La clave es disfrutar del juego, y seguro que os lo pasáis en grande. Y si finalmente dais el paso, no os cortéis y entrad en la comunidad, ¡todo el mundo es bienvenido!
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/delubrum/gpose.jpg&quot; alt=&quot;Baldesion&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Foto de algunos de los participantes del grupo&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;&lt;i&gt;Gaceta Eorzea&lt;/i&gt;: Muchas gracias por el tiempo que nos has podido dedicar Aebon, desde la Gaceta esperamos que consigas montar muchos eventos como este en el futuro.&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;i&gt;&lt;b&gt;Aebon&lt;/b&gt;&lt;/i&gt;: ¡A vosotros por contar conmigo! Un abrazo a la gente de la Gaceta y un saludo a todos los jugadores que os leen. Si acabas de empezar en el juego no te cortes en pasarte a charlar con la comunidad, nos encanta conocer gente nueva. ¡Espero veros a todos más adelante en el juego!
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 08 Jul 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/entrevista-delubrum/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/entrevista-delubrum/</guid>
+        
+        <category>entrevistas</category>
+        
+        <category>end game</category>
+        
+        <category>comunidad</category>
+        
+        
+        <category>entrevistas</category>
+        
+      </item>
     
       <item>
         <title>Como cambiar tu apariencia: El Glamour.</title>
@@ -143,7 +353,7 @@ Siempre que mediante la Pantalla Character te apliques el Glamour, no te costar�
 &lt;/div&gt;
 &lt;p&gt;Para quitar un tinte de una pieza, usaremos 1 x &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/f0518ea9f0e/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Terebinth&lt;/a&gt; que se puede comprar en distintos vendedores en las ciudades principales de Final Fantasy XIV.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 06 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 06 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guia-glamour/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-glamour/</guid>
         
@@ -151,8 +361,6 @@ Siempre que mediante la Pantalla Character te apliques el Glamour, no te costar�
         
         <category>glamour</category>
         
-        
-        <category>guías</category>
         
       </item>
     
@@ -173,7 +381,7 @@ Siempre que mediante la Pantalla Character te apliques el Glamour, no te costar�
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/evento-blue/inferno.png&quot; alt=&quot;inferno&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 06 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 06 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/evento-blue/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/evento-blue/</guid>
         
@@ -199,7 +407,7 @@ Siempre que mediante la Pantalla Character te apliques el Glamour, no te costar�
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 04 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 04 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/viaje-sin-fin-6/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-6/</guid>
         
@@ -227,7 +435,7 @@ Siempre que mediante la Pantalla Character te apliques el Glamour, no te costar�
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 03 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 03 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/juglar-05/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-05/</guid>
         
@@ -264,7 +472,7 @@ Siempre que mediante la Pantalla Character te apliques el Glamour, no te costar�
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 02 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 02 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210702/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210702/</guid>
         
@@ -474,7 +682,7 @@ Siempre que mediante la Pantalla Character te apliques el Glamour, no te costar�
 
 &lt;p&gt;Y tras conseguir las 50 &lt;strong&gt;notas de campo&lt;/strong&gt; conseguirás tu montura &lt;strong&gt;Al-Iklil&lt;/strong&gt;. No es una montura fácil de conseguir y vas a necesitar poner todo tu empeño pero seguro que causarás sensación entre tus amigos cuando les enseñes tu bicicleta voladora.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 01 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/monturaaliklil/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/monturaaliklil/</guid>
         
@@ -512,7 +720,7 @@ Siempre que mediante la Pantalla Character te apliques el Glamour, no te costar�
 
 &lt;p&gt;Os dejamos &lt;a href=&quot;https://triad.raelys.com/&quot; target=&quot;_blank&quot;&gt;esta página&lt;/a&gt; que, tras logearos, os dirá cuales son las cartas que os faltan, las coordenadas de los NPCs, etc. Esperamos que pronto consigáis tener esta montura que, aunque el camino es largo hasta llegar a conseguir las 312 cartas, obtendréis una montura que merece la pena y que no la tendrá mucha gente&lt;/p&gt;
 </description>
-        <pubDate>Tue, 29 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 29 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/montura-carta/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/montura-carta/</guid>
         
@@ -813,7 +1021,7 @@ if (grMagic) {
 
 &lt;p&gt;&lt;em&gt;Esperemos que os haya gustado y prometemos repetir esta encuesta unos meses pasados la entrada de &lt;strong&gt;Endwalker&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 29 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 29 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/encuesta/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/encuesta/</guid>
         
@@ -839,7 +1047,7 @@ if (grMagic) {
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 27 Jun 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 27 Jun 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/viaje-sin-fin-5/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-5/</guid>
         
@@ -851,45 +1059,6 @@ if (grMagic) {
         
         
         <category>lore</category>
-        
-      </item>
-    
-      <item>
-        <title>Steam pone en oferta Final Fantasy XIV.</title>
-        <description>&lt;p&gt;Son las &lt;strong&gt;Rebajas de Verano de Steam&lt;/strong&gt; y esta a la venta &lt;strong&gt;Final Fantasy XIV rebajado un 60%&lt;/strong&gt; en su plataforma. La oferta finaliza el 8 julio.&lt;/p&gt;
-
-&lt;p&gt;Tenemos varias formas de beneficiarnos de estas rebajas en los productos de Final Fatnasy XIV en Steam.&lt;/p&gt;
-
-&lt;h3 id=&quot;final-fantasy-xiv-online-complete-edition&quot;&gt;Final Fantasy XIV Online Complete Edition.&lt;/h3&gt;
-
-&lt;p&gt;Podremos comprar el &lt;a href=&quot;https://store.steampowered.com/bundle/9957/FINAL_FANTASY_XIV_Online_Complete_Edition/&quot; target=&quot;_blank&quot;&gt;Pack Complete Edition&lt;/a&gt; de &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt; a un precio de &lt;strong&gt;17.26€&lt;/strong&gt;. Este pack incluye FINAL FANTASY XIV: A Realm Reborn y los packs de expansión &lt;strong&gt;Heavensward&lt;/strong&gt;, &lt;strong&gt;Stormblood&lt;/strong&gt; y &lt;strong&gt;Shadowbringers&lt;/strong&gt;.&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://store.steampowered.com/bundle/9957/FINAL_FANTASY_XIV_Online_Complete_Edition/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/rebajas-steam-260621/complete.jpg&quot; alt=&quot;complete&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-El Pack Complete Edition de Steam incluye 30 días de tiempo de juego. Recordamos que aunque incluya este tiempo, podrás beneficiarte de la campaña &lt;a href=&quot;/reclutaamigo&quot; target=&quot;_blank&quot;&gt;Recluta un Amigo&lt;/a&gt; mientras no hayas comprado más tiempo de juego.
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;shadowbringers&quot;&gt;Shadowbringers.&lt;/h3&gt;
-
-&lt;p&gt;Si ya tienes el resto de las expansiones y solo te falta &lt;a href=&quot;https://store.steampowered.com/app/1016870/FINAL_FANTASY_XIV_Shadowbringers/&quot; target=&quot;_blank&quot;&gt;Shadowbringers&lt;/a&gt;, podrás comprar solo esta expansión a un precio de &lt;strong&gt;13.99€&lt;/strong&gt;.&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://store.steampowered.com/app/1016870/FINAL_FANTASY_XIV_Shadowbringers/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/rebajas-steam-260621/shadowbringers.jpg&quot; alt=&quot;shadowbringers&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Además de la versión normal, también podrás comprar &lt;a href=&quot;https://store.steampowered.com/app/1016870/FINAL_FANTASY_XIV_Shadowbringers/&quot; target=&quot;_blank&quot;&gt;Shadowbringers Collector’s Edition&lt;/a&gt; con el descuento del 60% a un precio de &lt;strong&gt;19.99€&lt;/strong&gt;. Esta versión, además de la expansión, te incluye la montura &lt;strong&gt;Grani&lt;/strong&gt;, el compañero &lt;strong&gt;Wind-up Fran&lt;/strong&gt; y una skin para el arma del &lt;em&gt;Gunbreaker&lt;/em&gt;, &lt;strong&gt;Revolver Gunbreaker&lt;/strong&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://store.steampowered.com/app/1016870/FINAL_FANTASY_XIV_Shadowbringers/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/rebajas-steam-260621/items.jpg&quot; alt=&quot;items&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 26 Jun 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/rebajas-steam/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/rebajas-steam/</guid>
-        
-        <category>noticias</category>
-        
-        <category>steam</category>
-        
-        <category>descuento</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
