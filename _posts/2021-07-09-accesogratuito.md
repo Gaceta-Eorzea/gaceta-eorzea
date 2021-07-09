@@ -30,7 +30,12 @@ Una vez has comprobado que cumples los requisitos, solo tendrás que acceder des
 <sub><sup>Launcher Final Fantasy XIV</sup></sub>
 </p>
 
-El período de acceso gratuito es de **14 días** y comenzará en el instante en que accedas a tu cuenta desde el *launcher*. En nuestra <a href="/guia-free-trial/" target="_blank">Guía sobre la prueba gratuita</a> encontrarás todos los *links* para descargar el juego y poder beneficiarte de esta campaña.
+El período de acceso gratuito es de **14 días** y comenzará en el instante en que accedas a tu cuenta desde el *launcher*. Para descargar el juego, os dejamos los siguientes enlaces:
+
+- [Descarga PC](https://freetrial.finalfantasyxiv.com/es/){:target="_blank"}
+- [Descarga Mac](https://eu.finalfantasyxiv.com/mac/download/){:target="_blank"}
+- [Descarga Steam](https://store.steampowered.com/app/312060/FINAL_FANTASY_XIV_Online_Free_Trial/){:target="_blank"}
+- [Descarga PlayStation](https://store.playstation.com/es-es/product/EP0082-PPSA02955_00-FFXIVFREETRIAL01){:target="_blank"}
 
 ### Aclaraciones sobre la Campaña de Acceso Gratuito.
 
