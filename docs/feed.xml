@@ -5,9 +5,329 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Jul 2021 12:29:28 +0100</pubDate>
-    <lastBuildDate>Fri, 09 Jul 2021 12:29:28 +0100</lastBuildDate>
+    <pubDate>Sat, 10 Jul 2021 12:23:46 +0100</pubDate>
+    <lastBuildDate>Sat, 10 Jul 2021 12:23:46 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Resumen del 7ª transmisión especial de 14h</title>
+        <description>&lt;p&gt;Este fin de semana ha sido la 7ª retransmisión especial de 14 horas de Final Fantasy XIV, el cual vamos a resumir para los lectores de la gaceta.&lt;/p&gt;
+
+&lt;h3 id=&quot;introducción&quot;&gt;Introducción&lt;/h3&gt;
+
+&lt;p&gt;Durante la introducción pudimos ver a los participantes del evento donde forma distendida&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/7_14_horas_1.jpg&quot; alt=&quot;Equipo de la  7ª transmisión especial de 14h&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Equipo de la  7ª transmisión especial de 14h&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p&gt;En la fila de atrás, de izquierda a derecha:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Takeda del equipo de comunidad.&lt;/li&gt;
+  &lt;li&gt;Odagiri del equipo de interfaz de usuario.&lt;/li&gt;
+  &lt;li&gt;Matsuzawa, director de proyectos.&lt;/li&gt;
+  &lt;li&gt;Mochizuki del equipo de comunidad&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En la fila de delante, de izquierda a derecha:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Morbol disfrazado, jefe del equipo de comunidad.&lt;/li&gt;
+  &lt;li&gt;Yoshi-P el director del juego.&lt;/li&gt;
+  &lt;li&gt;Soken del equipo de sonido y uno de los compositores principales del juego.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;También pudimos a otros miembros del equipo y finalmente al CEO de Square Enix.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/7_14_horas_2.jpg&quot; alt=&quot;CEO de Square Enix&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;CEO de Square Enix&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Del CEO nos enteramos que ya hay &lt;strong&gt;23.2 Millones de jugadores registrados&lt;/strong&gt; en el juego, de los cuales &lt;strong&gt;1.5 Millones han sido en los últimos meses&lt;/strong&gt;, también entre bromas escuchamos que va a invertir mas dinero en aumentar la capacidad de servidores y que le gustaría llegar a 30 Millones de jugadores para Endwalker.&lt;/p&gt;
+
+&lt;p&gt;Fue una introducción bastante divertida que podemos resumir con la frase que dijeron al final de la misma:&lt;/p&gt;
+
+&lt;p&gt;El objetivo principal de la retransmisión es para que los juzgadores disfruten del espectáculo y para que nosotros disfrutemos participando en el.&lt;/p&gt;
+
+&lt;p&gt;Ahora vamos a resumir las cosas que nos contaron en el Live Letter.&lt;/p&gt;
+
+&lt;h3 id=&quot;nuevo-prueba-de-rendimiento&quot;&gt;Nuevo Prueba de rendimiento&lt;/h3&gt;
+
+&lt;p&gt;Se nos presento la nueva prueba de rendimiento (&lt;em&gt;Benchmark en Ingles&lt;/em&gt;), la herramienta que podemos usar para probar los gráficos de la nueva Expansión del juego, el cual podéis ver en el siguiente trailer.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/IkC1r0eJZ-c?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Tenemos que destacar muchas cosas sobre esto:&lt;/p&gt;
+
+&lt;p&gt;Estará disponible para &lt;strong&gt;descargar&lt;/strong&gt; desde el &lt;strong&gt;domingo 11 a las 9:00 a.m&lt;/strong&gt;, desde la gaceta suponemos que sera la ubicación habitual: &lt;a href=&quot;https://eu.finalfantasyxiv.com/benchmark/&quot; target=&quot;_blank&quot;&gt;https://eu.finalfantasyxiv.com/benchmark/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Resumimos lo que hemos encontrado interesante sobre la prueba de rendimiento:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Poder probar si nuestros &lt;strong&gt;equipos&lt;/strong&gt; están &lt;strong&gt;preparados para Endwalker&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Veremos numerosas &lt;strong&gt;nuevas localizaciones&lt;/strong&gt; de la expansión.&lt;/li&gt;
+  &lt;li&gt;Podemos ver algunos de los &lt;strong&gt;nuevas armaduras&lt;/strong&gt; y alguno de los nuevos &lt;strong&gt;enemigos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Escucharemos fragmentos de algunas de las &lt;strong&gt;nuevas canciones&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cambios&lt;/strong&gt; en las &lt;strong&gt;habilidades&lt;/strong&gt; de los jugadores, incluido nuevas habilidades, o incluso la reparación de alguna desaparecida, como parece ser el caso de Protect en los sanadores.&lt;/li&gt;
+  &lt;li&gt;Veremos en &lt;strong&gt;acción&lt;/strong&gt; al &lt;strong&gt;Sabio&lt;/strong&gt; (&lt;em&gt;Sage en Ingles&lt;/em&gt;) y al &lt;strong&gt;Segador&lt;/strong&gt; (&lt;em&gt;Reaper en Ingles&lt;/em&gt;),&lt;/li&gt;
+  &lt;li&gt;Como en el resto de pruebas de rendimiento anteriores podemos &lt;strong&gt;usar el editor de personajes&lt;/strong&gt;, incluyendo a los &lt;strong&gt;Viera masculinos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;En el creador de personajes tendremos** Nuevos peinados** para los &lt;strong&gt;Viera&lt;/strong&gt;, masculino y femenino.&lt;/li&gt;
+  &lt;li&gt;Podremos &lt;strong&gt;guardar las apariencias&lt;/strong&gt; que creemos antes de Endwalker y &lt;strong&gt;usarlas luego en la salida del juego&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;nuevas-historias&quot;&gt;Nuevas Historias&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/7_14_horas_3.jpg&quot; alt=&quot;Nuevas Historias&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Como ya sabíamos, este sera el &lt;strong&gt;final&lt;/strong&gt; de la historia de &lt;strong&gt;Hydaelyn y Zodiark&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Es la expansión en la que se ha creado &lt;strong&gt;mas misiones de historia&lt;/strong&gt; que ninguna otra expansión anterior, la que &lt;strong&gt;mas cinemáticas&lt;/strong&gt; tiene y el &lt;strong&gt;mayor&lt;/strong&gt; numero de &lt;strong&gt;lineas de dialogo habladas&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;nuevas-ciudades&quot;&gt;Nuevas Ciudades&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/7_14_horas_4.jpg&quot; alt=&quot;Nuevas Ciudades&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Old Sharlayan&lt;/strong&gt; sera el equivalente a &lt;strong&gt;Crystarium&lt;/strong&gt; en ShB o Kugane o Isghard en otras expansiones.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Radz-at-Han&lt;/strong&gt; sera como &lt;strong&gt;Eulmore&lt;/strong&gt; en ShB o Raghal’s Reach o Idelshire en otras expansiones.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;nuevas-áreas-masivas&quot;&gt;Nuevas áreas masivas&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/7_14_horas_5.jpg&quot; alt=&quot;Nuevas áreas masivas&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Podemos &lt;strong&gt;ver&lt;/strong&gt; pequeños trozos de ellas en la &lt;strong&gt;prueba de rendimiento&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Algunas&lt;/strong&gt; estarán &lt;strong&gt;bajo tierra&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;En &lt;strong&gt;Garlemald&lt;/strong&gt; tendremos una &lt;strong&gt;restauración&lt;/strong&gt;, porque nuestros Campeones de la Luz son buenas personas y cuando ven una ciudad destruida la quieren reconstruir. Desde la gaceta pensamos que puede ser algo com la restauración de Isghard.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;nuevas-instancias&quot;&gt;Nuevas instancias&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/7_14_horas_6.jpg&quot; alt=&quot;Nuevas instancias&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Disponibles de salida&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Con &lt;strong&gt;modo exploración incluido&lt;/strong&gt;. Este &lt;strong&gt;modo&lt;/strong&gt;, también existente en las &lt;strong&gt;instancias&lt;/strong&gt; de ShB. Este modo nos permite entrar en una instancia donde no habrá enemigos, aunque podemos colocar un maniquí de combate. También podemos usar nuestras &lt;strong&gt;monturas, minions&lt;/strong&gt; y incluso los habilidades de &lt;strong&gt;romper el limite&lt;/strong&gt; para hacer &lt;strong&gt;capturas&lt;/strong&gt; de pantallas en ellas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;nueva-incursión-de-high-end&quot;&gt;Nueva incursión de high-end&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/7_14_horas_7.jpg&quot; alt=&quot;Nueva incursión de high-end&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;El modo &lt;strong&gt;normal&lt;/strong&gt; estará &lt;strong&gt;de salida&lt;/strong&gt; y el modo &lt;strong&gt;salvaje&lt;/strong&gt; sera &lt;strong&gt;2 semanas después&lt;/strong&gt;, como siempre se ha echo.&lt;/li&gt;
+  &lt;li&gt;Por lo cual estarán &lt;strong&gt;disponibles&lt;/strong&gt; para que podamos raidear en las &lt;strong&gt;vacaciones de navidad&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;nueva-incursión-de-alianza&quot;&gt;Nueva incursión de alianza&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/7_14_horas_8.jpg&quot; alt=&quot;Incursión de alianza&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Estará &lt;strong&gt;disponible en la 6.1&lt;/strong&gt;, como siempre han echo.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;nuevas-tribus&quot;&gt;Nuevas tribus&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/7_14_horas_9.jpg&quot; alt=&quot;Nuevas tribus&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tendrán un &lt;strong&gt;papel importante en la historia&lt;/strong&gt;, pero no pueden darnos detalles.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;nuevas-amenazas&quot;&gt;Nuevas amenazas&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/7_14_horas_10.jpg&quot; alt=&quot;Nuevas amenazas&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Las hermanas Magus&lt;/strong&gt; existían en &lt;strong&gt;FF4&lt;/strong&gt;, pero estas serán &lt;strong&gt;diferentes&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Hay mucha gente especulando sobre &lt;strong&gt;Anima&lt;/strong&gt; con &lt;strong&gt;teorías&lt;/strong&gt; muy interesantes. Desde la gaceta pensamos que puede ser una nueva saga de Desafíos (&lt;em&gt;Trials en Ingles&lt;/em&gt;) relacionada con Ivalice.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;nuevas-armaduras--tankes&quot;&gt;Nuevas armaduras : tankes&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/pld.jpg&quot; alt=&quot;Paladín&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Paladín&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/war.jpg&quot; alt=&quot;Guerrero&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Guerrero&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/drk.jpg&quot; alt=&quot;Caballero Oscuro&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Caballero Oscuro&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/gnb.jpg&quot; alt=&quot;Sablepistolero&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Sablepistolero&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;nuevas-armaduras--cuerpo-a-cuerpo&quot;&gt;Nuevas armaduras : cuerpo a cuerpo&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/mnk.jpg&quot; alt=&quot;Monje&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Monje&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/drg.jpg&quot; alt=&quot;Caballero Dragón&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Caballero Dragón&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/nin.jpg&quot; alt=&quot;Ninja&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Ninja&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/sam.jpg&quot; alt=&quot;Samurai&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Samurai, nota: el detalle de los ojos es el casco&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;nuevas-armaduras--físico-a-distancia&quot;&gt;Nuevas armaduras : físico a distancia&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/brd.jpg&quot; alt=&quot;Bardo&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Bardo&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/mch.jpg&quot; alt=&quot;Maquinista&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Maquinista&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/dnc.jpg&quot; alt=&quot;Bailarín&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Bailarín, nota: Introducirán nuevos diseños de armas.&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;nuevas-armaduras--mágico-a-distancia&quot;&gt;Nuevas armaduras : mágico a distancia&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/blm.jpg&quot; alt=&quot;Mago Negro&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Mago Negro&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/smn.jpg&quot; alt=&quot;Invocador&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Invocador&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/rdm.jpg&quot; alt=&quot;Mago Rojo&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Mago Rojo&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;nuevas-armaduras--sanadores&quot;&gt;Nuevas armaduras : sanadores&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/whm.jpg&quot; alt=&quot;Mago Blanco&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Mago Blanco&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/sch.jpg&quot; alt=&quot;Erudito&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Erudito&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/ast.jpg&quot; alt=&quot;Astrólogo&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Astrólogo&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;otras-actualizaciones&quot;&gt;Otras actualizaciones&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;El sistema de &lt;strong&gt;transferencia entre centro de datos&lt;/strong&gt; sera un un principio solo &lt;strong&gt;dentro de la misma region&lt;/strong&gt;, por ejemplo &lt;strong&gt;no&lt;/strong&gt; puedes ir a los de &lt;strong&gt;Japon desde&lt;/strong&gt; los de &lt;strong&gt;Europa&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;El nuevo sistema de &lt;strong&gt;PvP en pequeña escala&lt;/strong&gt; sera &lt;strong&gt;presentado&lt;/strong&gt; en otro &lt;strong&gt;futuro evento&lt;/strong&gt; retransmitido y de momento no dan mas detalles.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cambios-en-el-sistema-de-casas&quot;&gt;Cambios en el sistema de Casas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Se implementara un &lt;strong&gt;sistema de lotería&lt;/strong&gt;, el cual &lt;strong&gt;no&lt;/strong&gt; puedes participar siendo &lt;strong&gt;cuenta de prueba&lt;/strong&gt; y &lt;strong&gt;require un deposito&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Habrá &lt;strong&gt;sectores&lt;/strong&gt; (&lt;em&gt;Ward en Ingles&lt;/em&gt;) en el que &lt;strong&gt;primero que llegue&lt;/strong&gt; se lo lleva y abra &lt;strong&gt;otros&lt;/strong&gt; separados que serán con &lt;strong&gt;lotería&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Tendremos &lt;strong&gt;sectores&lt;/strong&gt; para &lt;strong&gt;individuales o compañías libres&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Estos sectores &lt;strong&gt;cambarían&lt;/strong&gt;, &lt;strong&gt;o eliminaran restricciones&lt;/strong&gt;, según se ocupan las casas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sistema-de-reduccion-de-escala&quot;&gt;Sistema de reduccion de escala&lt;/h3&gt;
+
+&lt;p&gt;Las razones para hacer el cambio han sido, entre otras :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Los &lt;strong&gt;valores&lt;/strong&gt; actuales de &lt;strong&gt;vida&lt;/strong&gt; son demasiados elevados, hay &lt;strong&gt;jefes&lt;/strong&gt; que llegan a &lt;strong&gt;440 millones de vida&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Los cálculos empiezan a producir &lt;strong&gt;fallos en la lógica del juego&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Se esta llegando al &lt;strong&gt;limite&lt;/strong&gt; de los valores usando para el &lt;strong&gt;calculo de la amenaza&lt;/strong&gt; (&lt;em&gt;Emity en Ingles&lt;/em&gt;).&lt;/li&gt;
+  &lt;li&gt;El &lt;strong&gt;texto flotante&lt;/strong&gt; de combaste empieza a ser &lt;strong&gt;demasiado largo&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Como funcionara :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Las estadísticas que nos proporciona el equipo &lt;strong&gt;entre 50 y 80&lt;/strong&gt; sera &lt;strong&gt;reducida&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;La &lt;strong&gt;vida total y atributos&lt;/strong&gt; en general sera &lt;strong&gt;reducida&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;La vida de los &lt;strong&gt;enemigos y jefes&lt;/strong&gt; sera &lt;strong&gt;reducida&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Los puntos de &lt;strong&gt;experiencia&lt;/strong&gt; requeridos sera &lt;strong&gt;reducido&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;El mismo cambio se hará a jugadores y enemigos asi que &lt;strong&gt;no debería haber perdida de poder del jugador&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Para compensar el cambio cuando hagamos encuentros &lt;strong&gt;no sincronizados recibiremos un nuevo beneficio&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;eliminacion-de-cinturones&quot;&gt;Eliminacion de cinturones&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/7_14_horas_11.jpg&quot; alt=&quot;huecos nuevos&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;HUecos nuevos al eliminar cinturones&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;No podremos equiparlos desde la 6.0&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;No se podrán obtener&lt;/strong&gt; en encuentros ni intercambiando objetos.&lt;/li&gt;
+  &lt;li&gt;Se &lt;strong&gt;eliminaran las recetas&lt;/strong&gt; de artesanía que los crean.&lt;/li&gt;
+  &lt;li&gt;Los que estén &lt;strong&gt;equipados&lt;/strong&gt; por nosotros, nuestro &lt;strong&gt;asistentes&lt;/strong&gt; o en el &lt;strong&gt;armario&lt;/strong&gt; de equipo irán al &lt;strong&gt;Calamity Salvager&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Los que tengamos en &lt;strong&gt;nuestro inventario permanecerán en el&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Podemos sacarle la materia&lt;/strong&gt; que tengan puesta, pero &lt;strong&gt;no generar materia&lt;/strong&gt; de ellos.&lt;/li&gt;
+  &lt;li&gt;Si los &lt;strong&gt;sacamos del Calamity Salvager&lt;/strong&gt; tendran las** materias que tenían** originalmente.&lt;/li&gt;
+  &lt;li&gt;Nos &lt;strong&gt;darán 15 huecos&lt;/strong&gt; mas &lt;strong&gt;para armas&lt;/strong&gt; principales y &lt;strong&gt;15 para anillos&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;calendarios-de-próximos-eventos&quot;&gt;Calendarios de próximos eventos&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/7_14_horas_12.jpg&quot; alt=&quot;huecos nuevos&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/7_14_horas/7_14_horas_13.jpg&quot; alt=&quot;huecos nuevos&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;19 de Julio&lt;/strong&gt;: The &lt;strong&gt;Make it Rain&lt;/strong&gt; Campaign, bono &lt;strong&gt;doble de MGP&lt;/strong&gt; y nuevos items en el Gold Saucer.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;20 de Julio&lt;/strong&gt;: &lt;strong&gt;Parche 5.58&lt;/strong&gt;, con algunos cambios y la &lt;strong&gt;temporada 20&lt;/strong&gt; de The Feast, &lt;strong&gt;PvP&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;13 de Agosto&lt;/strong&gt;: The &lt;strong&gt;Moonfire Faire&lt;/strong&gt;, el evento de &lt;strong&gt;verano&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;27 de Agosto&lt;/strong&gt;: &lt;strong&gt;The Rising&lt;/strong&gt;, el evento de &lt;strong&gt;conmemoración&lt;/strong&gt; del la calamidad / salida de &lt;strong&gt;ARR&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;13 de Septiembre&lt;/strong&gt;: Colaboración del &lt;strong&gt;Final Fantasy XV&lt;/strong&gt;, la &lt;strong&gt;restearan&lt;/strong&gt; por lo cual debemos de hacer las &lt;strong&gt;quest de nuevo para tener el vendedor&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Con esto hemos terminado nuestro “Resumen”, espero que os haya gustado, no olvidéis comentar al final de la pagina.&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Jul 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/7_special_14h/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/7_special_14h/</guid>
+        
+        <category>noticias</category>
+        
+        <category>twitch</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Fashion Report 9 Julio 2021</title>
@@ -810,44 +1130,6 @@ Siempre que mediante la Pantalla Character te apliques el Glamour, no te costar�
         <category>montura</category>
         
         <category>Save the Queen*</category>
-        
-        
-        <category>monturas</category>
-        
-      </item>
-    
-      <item>
-        <title>Como conseguir la montura The Magicked Card.</title>
-        <description>&lt;p&gt;Con la llegada del 5.55 han introducido varias monturas en &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt;. Una de ellas es &lt;strong&gt;&lt;em&gt;The Magicked Card&lt;/em&gt;&lt;/strong&gt;, que es una montura bastante exclusiva y que para conseguirla vas a nacesitar dedicarle el tiempo necesario.&lt;/p&gt;
-
-&lt;p&gt;Para conseguir esta montura tendrás que completar mucho contenido del juego ya que las cartas no solo se obtienen en combates de &lt;strong&gt;Triple Triad&lt;/strong&gt; o sus torneos, sino también las obtendrás de Mazmorras (&lt;em&gt;Dungeons&lt;/em&gt; en inglés) , Desafíos (&lt;em&gt;Trials&lt;/em&gt; en inglés), Incursiones (&lt;em&gt;Raids&lt;/em&gt; en inglés), Eventos públicos (&lt;em&gt;Fates&lt;/em&gt; en inglés) o comprándoselas a distintos vendedores por distinto tipos de monedas.&lt;/p&gt;
-
-&lt;h3 id=&quot;triple-triad&quot;&gt;Triple Triad.&lt;/h3&gt;
-
-&lt;p&gt;¿Te gustan los juegos de cartas? En el parche 2.51 se introdujo en &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt; el juego de cartas &lt;strong&gt;&lt;em&gt;Triple Triad&lt;/em&gt;&lt;/strong&gt;. Es un juego de coleccionismo donde tendrás que enfrentarte a distintos NPCs por toda Eorzea e ir completando cada mejores mazos con las cartas que les vayas ganando. &lt;a href=&quot;https://arrtripletriad.com/en/cards-location&quot; target=&quot;_blank&quot;&gt;En esta web&lt;/a&gt; muestran la forma de conseguir todas las cartas necesarias además de su coste o la localización de los NPCs.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/monturacarta/icono.jpg&quot; alt=&quot;icono&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;sub&gt;&lt;sup&gt;NPC con el que podrás jugar a Triple Triad.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Para desbloquear el &lt;strong&gt;&lt;em&gt;Triple Triad&lt;/em&gt;&lt;/strong&gt; primero tendrás que desbloquear el &lt;strong&gt;&lt;em&gt;Gold Saucer&lt;/em&gt;&lt;/strong&gt; mediante la misión &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/0c86b98709e/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;It Could Happen to You&lt;/a&gt;. Una vez aquí, tendrás que habar con el &lt;strong&gt;Maestro de Triple Triad&lt;/strong&gt; que se encuentra en &lt;strong&gt;The Gold Saucer (X:4.1 Y:7.4)&lt;/strong&gt; y tras completar su misión, ya podrás empezar a jugar y a coleccionar tus cartas de &lt;strong&gt;Triple Triad&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/monturacarta/ttriad1.jpg&quot; alt=&quot;tt1&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;como-conseguir-la-montura-the-magicked-card&quot;&gt;Como conseguir la montura &lt;em&gt;The Magicked Card&lt;/em&gt;.&lt;/h3&gt;
-
-&lt;p&gt;La montura &lt;strong&gt;&lt;em&gt;The Magicked Card&lt;/em&gt;&lt;/strong&gt; la conseguriás cuando tengas &lt;strong&gt;todas las cartas entre la 1 y la 312&lt;/strong&gt;. Una vez las tengas tendrás que hablar con &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/c644e9a1b2b/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Gold Saucer Attendant&lt;/a&gt; el cual te dará la misión &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/f6350e134dc/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt; The Adventurer with All the Cards&lt;/a&gt;. El botín de la misión será &lt;strong&gt;&lt;em&gt;The Magicked Card&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/monturacarta/montura.jpg&quot; alt=&quot;montura&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Os dejamos &lt;a href=&quot;https://triad.raelys.com/&quot; target=&quot;_blank&quot;&gt;esta página&lt;/a&gt; que, tras logearos, os dirá cuales son las cartas que os faltan, las coordenadas de los NPCs, etc. Esperamos que pronto consigáis tener esta montura que, aunque el camino es largo hasta llegar a conseguir las 312 cartas, obtendréis una montura que merece la pena y que no la tendrá mucha gente&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Jun 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/montura-carta/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/montura-carta/</guid>
-        
-        <category>montura</category>
-        
-        <category>triple triad</category>
         
         
         <category>monturas</category>
