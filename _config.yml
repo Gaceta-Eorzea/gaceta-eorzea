@@ -37,6 +37,12 @@ authors:
     display_name: Ulthar
     avatar: 'assets/images/avatars/ulthar.jpg'
     description: "Jugador de videojuegos y programador a ratos"   
+  zex:
+    name: Zex Krow
+    display_name: Zex Krow
+    avatar: 'assets/images/avatars/zex.jpg'
+    twitter: https://twitter.com/ensabe95
+    description: "Jugador de ff14 con el objetivo de dar a conocer el juego a mas gente y ayudar a nuevos jugadores"     
 # Plugins
 plugins:
   - jekyll-paginate
