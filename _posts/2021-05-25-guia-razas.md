@@ -56,7 +56,7 @@ Los Roegadyn se dividen en **Sea Wolves** y **Hellsguard**.
 
 #### Au'Ra
 
-Los *Au'Ra* se introdujeron en Final Fantasy XIV en la Expansión de Heavensward. Son una raza basada en dragons con cuernos, escamas y colas.
+Los *Au'Ra* se introdujeron en Final Fantasy XIV en la Expansión de Heavensward. Son una raza basada en dragones con cuernos, escamas y colas.
 Los clanes de los Au'Ra son los **Raen** y los **Xaela**.
 
 ![AuRa](/assets/images/articles/guias/guiarazas2/aura.png)

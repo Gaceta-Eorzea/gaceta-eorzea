@@ -10,7 +10,7 @@ featured: false
 hidden: false
 ---
 
-Una de las dudas que tenemos al empezar a jugar es hasta cuando podré jugar sin hacer un desembolso económico. Con este artículo vamos a intentar resolver las dudas que salgan sobre la prueba gratuita de Final Fantasy XIV y la creacion de una cuenta para empezar a utilizar este servicio.
+Una de las dudas que tenemos al empezar a jugar es hasta cuando podré jugar sin hacer un desembolso económico. Con este artículo vamos a intentar resolver las dudas que salgan sobre la prueba gratuita de Final Fantasy XIV y la creación de una cuenta para empezar a utilizar este servicio.
 
 # Creación de una cuenta Square Enix y links para bajar el juego.
 

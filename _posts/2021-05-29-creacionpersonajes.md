@@ -61,13 +61,13 @@ Ahora viene cuando elegimos la [clase](/guiaclases/) inicial de nuestro personaj
 
 ![clasemagic](/assets/images/articles/guias/guiacreacionpersonajes/clasemagic.jpg)
 
-Ahora vamos a elegir el Servidor donde vamos a jugar. La gran mayoría de la comunidad española esta en el servidor Ragnarok (no aceptes el servidor que te recomiendan). Es posible que al crearte tu personaje no te deje y que te diga que el servidor está lleno. Si esto te pasa, tendrás que esperar para creártelo en un momento cuando haya menos jugadores conectados (de madrugada o primera hora de la mañana os podemos recomendar). Como antes aconsejábamos, el haber guardado vuestra apariencia os ahorra en este paso mucho tiempo ya que podréis cargarla y llegar rapidamente a los pasos finales de la creación del personaje. Os dejamos una página web donde podrás comprobar el estado de los servidores y si se puede crear o no personajes nuevos [Estado de los servidores](https://eu.finalfantasyxiv.com/lodestone/worldstatus/) 
+Ahora vamos a elegir el Servidor donde vamos a jugar. La gran mayoría de la comunidad española esta en el servidor Ragnarok (no aceptes el servidor que te recomiendan). Es posible que al crearte tu personaje no te deje y que te diga que el servidor está lleno. Si esto te pasa, tendrás que esperar para creártelo en un momento cuando haya menos jugadores conectados (de madrugada o primera hora de la mañana os podemos recomendar). Como antes aconsejábamos, el haber guardado vuestra apariencia os ahorra en este paso mucho tiempo ya que podréis cargarla y llegar rápidamente a los pasos finales de la creación del personaje. Os dejamos una página web donde podrás comprobar el estado de los servidores y si se puede crear o no personajes nuevos [Estado de los servidores](https://eu.finalfantasyxiv.com/lodestone/worldstatus/) 
 
 ![servidor](/assets/images/articles/guias/guiacreacionpersonajes/servidor.jpg)
 
 ![ragnarok](/assets/images/articles/guias/guiacreacionpersonajes/ragnarok.jpg)
 
-Ahora tendrás que ponerle nombre a tu personaje. En Final Fantasy XIV siempre vas a ponder poner el nombre que más te guste ya que, tendrás que elegir también un apellido. Es obligatorio elegir nombre y apellido. Además hay un dado (abajo a la izquierda) en el cuadro de diálogo donde te pondrá nombres y apellidos aleatorios, si así lo decides.
+Ahora tendrás que ponerle nombre a tu personaje. En Final Fantasy XIV siempre vas a poder poner el nombre que más te guste ya que, tendrás que elegir también un apellido. Es obligatorio elegir nombre y apellido. Además hay un dado (abajo a la izquierda) en el cuadro de diálogo donde te pondrá nombres y apellidos aleatorios, si así lo decides.
 
 ![nombre](/assets/images/articles/guias/guiacreacionpersonajes/nombre.jpg)
 

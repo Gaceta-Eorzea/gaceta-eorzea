@@ -17,7 +17,7 @@ En **Final Fantasy XIV** hay dos formas de añadir tiempo de juego. Mediante **s
 
 ### Suscripción.
 
-El método de suscripción en Final Fantasy XIV sirve para que cada cierto tiempo se te cobrará una couta a cambio de tiempo de tiempo de juego. Hay dos tipos de suscripciones que se amoldan a las necesidades de cada jugador.
+El método de suscripción en Final Fantasy XIV sirve para que cada cierto tiempo se te cobrará una cuota a cambio de tiempo de tiempo de juego. Hay dos tipos de suscripciones que se amoldan a las necesidades de cada jugador.
 
 #### Suscripción Básica.
 
@@ -73,7 +73,7 @@ Con esta suscripción puedes añadir **30 // 60 // 180 días** al tiempo de jueg
   </div>   
 </div>
 <br/>
-La suscripción tienen un precio que varía depndiendo del tipo y duración. 
+La suscripción tienen un precio que varía dependiendo del tipo y duración. 
 
 <div class="container">
 <div class="span2">
@@ -162,7 +162,7 @@ Desde la cuenta de *Mog Station* en la pestaña *Service Fees* podemos comprar *
 
 Además de la opción de suscripción, *Square Enix* nos permite comprar las **Tarjetas de tiempo de juego** desde su propia [web](https://store.eu.square-enix-games.com/es_EU/product/307018/final-fantasy-xiv-60-days-game-time-card-other){:target="_blank"}. Con estás Tarjetas de tiempo de juego siempre añadirás **60 días de tiempo de juego** con el tipo de suscripción **estándar**. 
 
-Al comprar esta tarjeta se te enviará un código al correo electrónico que tengas vinculado el juego. Este código podrás conajearlo en tu cuenta de *Mog Station* cuando tú quieras.
+Al comprar esta tarjeta se te enviará un código al correo electrónico que tengas vinculado el juego. Este código podrás canjearlo en tu cuenta de *Mog Station* cuando tú quieras.
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/metodospago/tarjeta.jpg" width="300" alt="tarjeta"/></p>
 

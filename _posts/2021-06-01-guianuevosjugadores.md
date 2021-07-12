@@ -13,7 +13,7 @@ En esta guía vamos a tratar de resolver muchas dudas que puedan tener los jugad
 
 ## ¿Qué es Final Fantasy XIV?
 
-Está sería la primera pregunta que te harás al informarte por el juego. Final Fantasy XIV es un videojuego **MMo RPG**. Esto quiere decir que es un videojuego de mundo abierto donde podrás jugar tú solo o con más gente. El apartado RPG indica que te vas a crear un personaje el cual va a ir creciendo, ganando experiencia, cada vez que entres al juego a completar misiones o ir a mazmorras. Así mismo, Final Fantasy XIV tiene una ventaja muy grande con respecto a otros Mmos del mercado. El juego lo puedes jugar desde **varias plataformas**: PS4/PS5, PC desde launcher propio, desde la plataforma de STEAM o desde Machintosh. Todos los jugadores pueden jugar juntos indepedientemente de la plataforma en la que juegen. Y si, también podrás elegir entre jugar con mando o ratón/teclado sea cual sea la plataforma que elijas.
+Está sería la primera pregunta que te harás al informarte por el juego. Final Fantasy XIV es un videojuego **MMo RPG**. Esto quiere decir que es un videojuego de mundo abierto donde podrás jugar tú solo o con más gente. El apartado RPG indica que te vas a crear un personaje el cual va a ir creciendo, ganando experiencia, cada vez que entres al juego a completar misiones o ir a mazmorras. Así mismo, Final Fantasy XIV tiene una ventaja muy grande con respecto a otros Mmos del mercado. El juego lo puedes jugar desde **varias plataformas**: PS4/PS5, PC desde launcher propio, desde la plataforma de STEAM o desde Machintosh. Todos los jugadores pueden jugar juntos independientemente de la plataforma en la que jueguen. Y si, también podrás elegir entre jugar con mando o ratón/teclado sea cual sea la plataforma que elijas.
 
 Para empezar a jugar a Final Fantasy XIV [no necesitas pagar nada](/guia-free-trial){:target="_blank"}. Solo necesitas bajar el juego en la plataforma que prefieras. No necesitas hacer ningún desembolso económico inicial. Al empezar a jugar activarás el Free Trial, que es una modalidad F2P del juego. Esta versión incluye todo el juego inicial y su primera expansión. Esto quiere decir que podrás jugar A Realm Reborn y Heavensward. Y el nivel de personaje será 60. Hasta este momento, no tendrás que pagar nada y tienes cientos de horas de juego. A partir de aquí, tendrás que comprarte el juego y pagar una mensualidad.
 
@@ -88,7 +88,7 @@ El juego tiene sistema de auto looteo. Cuando matas enemigos, los artículos que
 
 Las habilidades se aprenden automáticamente cuando llegas al nivel requerido con tu clase. Además estas nuevas habilidades se colocarán directamente en tus barras de acción.
 
-Cada **5 niveles de tu personaje**, se te desbloqueará una misión de clase. Esta misión te dará de equipo, armaduras de clase, experiencia y además te dará acceso a ciertas nuevas habilidades. El menú de habilidaes se abre con la tecla P. En este menú podrás ver que hay habilidades de tu clase/profesión, habilidades de arquetipo (rol en inglés) y distintas pasivas (traits en inglés)
+Cada **5 niveles de tu personaje**, se te desbloqueará una misión de clase. Esta misión te dará de equipo, armaduras de clase, experiencia y además te dará acceso a ciertas nuevas habilidades. El menú de habilidades se abre con la tecla P. En este menú podrás ver que hay habilidades de tu clase/profesión, habilidades de arquetipo (rol en inglés) y distintas pasivas (traits en inglés)
 
 <p align="center"><img src="/assets/images/articles/guias/guianuevosjugadores/habilidades.jpg"></p>
 

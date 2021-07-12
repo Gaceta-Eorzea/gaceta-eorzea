@@ -26,17 +26,17 @@ El **Gladiador** (*Gladiator* en inglés) es una clase de guerra que se especial
 
 El arma característica de la clase son las **espadas** y **escudos**.
 
-A nivel 30, el Gladiador evoluciona a la profesión de **Paladín** (Paladin en inglés). El Paladín es un tanque poderoso con grandes mitigaciones tanto en AoE como a un único objetivo dándole a los *Sanadores* más flexibilidad comparados con otros tanques. Además el Paladín tiene una cura llamada *Clemency* que se consigue a nivel 58 con la misión [All According to Plan](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/7f095beca39/){:target="_blank" class="eorzeadb_link"}.
+A nivel 30, el Gladiador evoluciona a la profesión de **Paladín** (*Paladin* en inglés). El Paladín es un tanque poderoso con grandes mitigaciones tanto en AoE como a un único objetivo dándole a los *Sanadores* más flexibilidad comparados con otros tanques. Además el Paladín tiene una cura llamada *Clemency* que se consigue a nivel 58 con la misión [All According to Plan](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/7f095beca39/){:target="_blank" class="eorzeadb_link"}.
 
 ### ![LogoMerodeador](/assets/images/articles/guias/guiaclases/logomerodeador.png) Merodeador > > > ![Logoguerrero](/assets/images/articles/guias/guiaclases/logoguerrero.png) Guerrero
 
 ![Merodeador](/assets/images/articles/guias/guiaclases/merodeador.jpg)
 
-Otra clase especializada como tanque en la creación de tu personaje es el **Merodeador** (Marauder en inglés). Para iniciarse como clase secundaria, debes ir la Torre Coral de **Limsa Lominsa** y hablar con [Blauthota](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/7914dc7fb27/){:target="_blank" class="eorzeadb_link"} para que te entregue la misión [Way of the Marauder](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/66d611f22e0/){:target="_blank" class="eorzeadb_link"}.
+Otra clase especializada como tanque en la creación de tu personaje es el **Merodeador** (*Marauder* en inglés). Para iniciarse como clase secundaria, debes ir la Torre Coral de **Limsa Lominsa** y hablar con [Blauthota](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/7914dc7fb27/){:target="_blank" class="eorzeadb_link"} para que te entregue la misión [Way of the Marauder](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/66d611f22e0/){:target="_blank" class="eorzeadb_link"}.
 
 El arma característica de la clase es el **hacha a 2 manos**.
 
-A nivel 30, el Merodeador consigue la profesión de **Guerrero** (Warrior en inglés). El Guerrero es un tanque que se lanza al encuentro sin pensárselo dos veces gracias a su auto mitigación combinada con herramientas poderosas de recuperación de vida. Estas mecánicas permiten al Guerrero adaptarse a situaciones inesperadas como, por ejemplo, la muerte del *Sanador* de tu grupo.
+A nivel 30, el Merodeador consigue la profesión de **Guerrero** (*Warrior* en inglés). El Guerrero es un tanque que se lanza al encuentro sin pensárselo dos veces gracias a su auto mitigación combinada con herramientas poderosas de recuperación de vida. Estas mecánicas permiten al Guerrero adaptarse a situaciones inesperadas como, por ejemplo, la muerte del *Sanador* de tu grupo.
 
 ### ![LogoDK](/assets/images/articles/guias/guiaclases/logodk.png) Caballero Oscuro
 
@@ -68,7 +68,7 @@ El **Conjurador** (*Conjurer* en inglés) es la única clase que encontrarás pu
 
 El arma característica de la clase son los **bastones**.
 
-Al alcanzar nivel 30, el Conjurador consigue la profesión de **Mago Blanco** (*White Mage* en inglés). El Mago Blanco cuenta con la ***curación en AoE más poderosa del juego***. Es increíblemente potente y eficaz en la gesitón del maná curando en área. Además también tiene muchas curaciones fuera del GCD (Global Cooldown). Como beneficio extra es el sanador que te va a aportar más daño, tanto en AoE como a un único objetivo. Como punto débil, es el sanador con menos mitigación de daño por lo que sus curaciones son reactivas en detrimento de las preventivas.
+Al alcanzar nivel 30, el Conjurador consigue la profesión de **Mago Blanco** (*White Mage* en inglés). El Mago Blanco cuenta con la ***curación en AoE más poderosa del juego***. Es increíblemente potente y eficaz en la gestión del maná curando en área. Además también tiene muchas curaciones fuera del GCD (Global Cooldown). Como beneficio extra es el sanador que te va a aportar más daño, tanto en AoE como a un único objetivo. Como punto débil, es el sanador con menos mitigación de daño por lo que sus curaciones son reactivas en detrimento de las preventivas.
 
 ### ![LogoArcanista](/assets/images/articles/guias/guiaclases/logoarcanista.png) Arcanista > > > ![LogoErudito](/assets/images/articles/guias/guiaclases/logoerudito.png) Erudito
 

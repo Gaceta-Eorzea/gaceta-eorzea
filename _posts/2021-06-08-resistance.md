@@ -10,7 +10,7 @@ featured: true
 hidden: false
 ---
 
-Las armas reliquia son las mejores armas que podremos obtener en el juego que además poseen apariencias expectaculares. Cada expansión nos trae un conjunto de estas armas y en esta guía vamos a hablar de como obtener la de Shadowbringers y daros consejos de la forma mas eficiente de conseguirlas.
+Las armas reliquia son las mejores armas que podremos obtener en el juego que además poseen apariencias espectaculares. Cada expansión nos trae un conjunto de estas armas y en esta guía vamos a hablar de como obtener la de Shadowbringers y daros consejos de la forma mas eficiente de conseguirlas.
 
 ### Contenido
 
@@ -30,7 +30,7 @@ También debemos hablar completado la historia principal de **Shadowbringers** i
 
 *Aunque las misiones de las armas las tenemos que obtener con un personaje nivel 80 y de la profesión que queremos desbloquear el arma o mejora la recolección de los distintos elementos que nos piden lo podemos hacer con personajes de cualquier nivel y profesión que pueda acceder al contenido donde se obtiene, aunque no sea con el que iniciamos la misión.*
 
-*Al contrario que en otras expansiones las misiones que requiren objetos de mazmorras o incursiones anteriores no podemos hacerlos desincronizados, eso si podemos usar Magos Azules para completar algunos de esos contenidos de forma muy rapida.*
+*Al contrario que en otras expansiones las misiones que requieren objetos de mazmorras o incursiones anteriores no podemos hacerlos desincronizados, eso si podemos usar Magos Azules para completar algunos de esos contenidos de forma muy rápida.*
 
 [▲volver a contenido](#contenido)
 
@@ -66,7 +66,7 @@ Con esto habremos obtenido nuestra arma nivel 500.
 
 Para obtener una nueva versión del arma con brillos y efectos visuales debemos aceptar la misión [The Will to Resist](https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/f267d4d0aac/){:target="_blank" class="eorzeadb_link"} la cual nos pedirá 6 **Bitter Memory of the Dying** las cuales podemos obtener de forma garantizada en **mazmorras de nivel 60** y **ruleta de Leveling** o de forma aleatoria en encuentros críticos en **Bozjan Southern Front**.
 
-*Para este paso recomendamos hacer la mazmorra **The Antitower** que podemos realizarla en unos 10 minutos, menos aun si vamos con algun Mago Azul en nuestro grupo*.
+*Para este paso recomendamos hacer la mazmorra **The Antitower** que podemos realizarla en unos 10 minutos, menos aun si vamos con algún Mago Azul en nuestro grupo*.
 
 [▲volver a contenido](#contenido)
 

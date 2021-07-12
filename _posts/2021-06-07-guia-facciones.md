@@ -46,7 +46,7 @@ Cuando consigas el rango **Sargento de Segunda Clase** podrás donar equipo a la
 
 <p align="center"><img src="/assets/images/articles/guias/facciones/equipo.jpg"></p>
 
-Además, el Personnel Officer te da la posibilidad de conseguir Sellos con las profesiones de **fabricación de objetos**, en la pestaña de *Supply* y de **recolección** en la pestaña de *Provisioning*. El NPC cada día te pedirá una cantidad exacta de algunos artículos fabricados o recolectados. Al entregarlos, además de conseguir Sellos, conseguirás experiencia para subir la profesión de los artículos que estés entregando. Como extra, si los artículos fabridos tienen alta calidad, conseguirás más experiencia y sellos. Es una actividad que se resetea diariamente.
+Además, el Personnel Officer te da la posibilidad de conseguir Sellos con las profesiones de **fabricación de objetos**, en la pestaña de *Supply* y de **recolección** en la pestaña de *Provisioning*. El NPC cada día te pedirá una cantidad exacta de algunos artículos fabricados o recolectados. Al entregarlos, además de conseguir Sellos, conseguirás experiencia para subir la profesión de los artículos que estés entregando. Como extra, si los artículos fabricados tienen alta calidad, conseguirás más experiencia y sellos. Es una actividad que se resetea diariamente.
 
 <p align="center"><img src="/assets/images/articles/guias/facciones/suply.jpg"></p>
 
