@@ -19,7 +19,7 @@ Primero vamos a ver los iconos que veremos en los nombres de los enemigos que no
 
 Los enemigos en el juego tiene unos iconos que indican si son **<img src="/assets/images/articles/iconos/mob_passive_01.png">pasivos**, los cual **no nos atacaran** a no ser que les ataquemos, o **<img src="/assets/images/articles/iconos/mob_aggressive_1.png">agresivos** que nos **atacaran en cuanto nos vean**, hay que destacar que en este juego **los enemigos no ven por su espalda**, incluso aunque pasemos pegados a ellos.
 
-Dentro de estos tipos los enemigos tienen un **nivel de dificultad**, del **1 al 6**, repesentado por el **icono** que podéis ver en la siguiente tabla.
+Dentro de estos tipos los enemigos tienen un **nivel de dificultad**, del **1 al 6**, representado por el **icono** que podéis ver en la siguiente tabla.
 
 <table border="1">
     <tr>
@@ -61,7 +61,7 @@ Dentro de estos tipos los enemigos tienen un **nivel de dificultad**, del **1 al
 Además de los iconos que hemos visto anteriormente los enemigos pueden tener **otros iconos**.
 
 - ![hunting log]({{ site.baseurl }}/assets/images/articles/iconos/hlog.png){:width="32"} **Historial del Cazador** (*Hunting Log* en inglés), enemigos que nos faltan en nuestro **Historial del Cazador**.
-- ![the hunt]({{ site.baseurl }}/assets/images/articles/iconos/hunt.png) **La Caza** (*The Hunt* en inglés), son los enemigos que forman parte de la **cazeria**.
+- ![the hunt]({{ site.baseurl }}/assets/images/articles/iconos/hunt.png) **La Caza** (*The Hunt* en inglés), son los enemigos que forman parte de la **caceria**.
 - ![main scenario quest]({{ site.baseurl }}/assets/images/articles/iconos/msq.png){:width="32"} **Historia Principal** (*Main Scenario* en inglés), objetivos de una misión de la **historia principal**.
 - ![the hunt]({{ site.baseurl }}/assets/images/articles/iconos/sidequest.png){:width="32"} **Misión Secundaria**, objetivos de las misiones **secundarias**.
 - ![unlock]({{ site.baseurl }}/assets/images/articles/iconos/unlock.png){:width="32"} **Desbloqueo**, son los enemigos que forman parte de una misión de **desbloqueo**.
@@ -82,9 +82,9 @@ Alguno de estos iconos se activan automáticamente en los nombres del jugador qu
 - ![flower]({{ site.baseurl }}/assets/images/articles/iconos/flower.png){:width="32"} **Regresado** (*Returned* en inglés), jugadores que han **vuelto al juego** después de más de 45 días sin jugar.
 - ![party]({{ site.baseurl }}/assets/images/articles/iconos/party.png){:width="32"} **En Grupo**, jugadores que **están en grupo** con otros jugadores.
 - ![party leader]({{ site.baseurl }}/assets/images/articles/iconos/leader.png){:width="32"} **Líder de Grupo**, jugador que es el **líder** de un grupo de jugadores.
-- ![alliance]({{ site.baseurl }}/assets/images/articles/iconos/alliance.png){:width="32"} **Miembo de Alianza**, jugador que es parte de un grupo de **alianza** (*Alliance* en inglés), de hasta 24 jugadores.
+- ![alliance]({{ site.baseurl }}/assets/images/articles/iconos/alliance.png){:width="32"} **Miembro de Alianza**, jugador que es parte de un grupo de **alianza** (*Alliance* en inglés), de hasta 24 jugadores.
 - ![duty finder]({{ site.baseurl }}/assets/images/articles/iconos/duty-finder.png){:width="32"} **En Cola**, jugador que esta en cola en **el buscador de contenido instanciado** (*Duty Finder* en inglés).
-- ![party finder]({{ site.baseurl }}/assets/images/articles/iconos/pf.png){:width="32"} **Busqueda Personalizada**, jugador que es parte de un **grupo de búsqueda personalizado** (*Party Finder* en inglés).
+- ![party finder]({{ site.baseurl }}/assets/images/articles/iconos/pf.png){:width="32"} **Búsqueda Personalizada**, jugador que es parte de un **grupo de búsqueda personalizado** (*Party Finder* en inglés).
 - ![triad]({{ site.baseurl }}/assets/images/articles/iconos/triad.png){:width="32"} **Tríada**, jugador que ha estado en una partida del juego de cartas de la **Tríada Triple** (*Triple Triad* en inglés).
 - ![cutscene]({{ site.baseurl }}/assets/images/articles/iconos/cutscene.png){:width="32"} **En Cinemática**, jugador que esta viendo una **cinemática**.
 - ![away]({{ site.baseurl }}/assets/images/articles/iconos/away.png){:width="32"} **Ausente**, jugador que ha estado **ausente** por más de **10 minutos**.
@@ -103,4 +103,4 @@ Otros iconos podemos activarlos **cuando queramos**, mientras los tengamos **dis
 - ![busy]({{ site.baseurl }}/assets/images/articles/iconos/busy.png){:width="32"} **Ocupado**, jugador que esta **ocupado** y no puede recibir mensajes privados.
 - ![roleplaying]({{ site.baseurl }}/assets/images/articles/iconos/rp.png){:width="32"} **Jugando a Rol**, jugador que esta **jugando a rol** con su personaje.
 
-Esperamos que esta guía os haya sido útil y os sirva para reconocer los iconos que veáis mientras os adventuráis por Eorzea.
+Esperamos que esta guía os haya sido útil y os sirva para reconocer los iconos que veáis mientras vivís vuestras aventuras por Eorzea.
