@@ -61,7 +61,7 @@ Dentro de estos tipos los enemigos tienen un **nivel de dificultad**, del **1 al
 Además de los iconos que hemos visto anteriormente los enemigos pueden tener **otros iconos**.
 
 - ![hunting log]({{ site.baseurl }}/assets/images/articles/iconos/hlog.png){:width="32"} **Historial del Cazador** (*Hunting Log* en inglés), enemigos que nos faltan en nuestro **Historial del Cazador**.
-- ![the hunt]({{ site.baseurl }}/assets/images/articles/iconos/hunt.png) **La Caza** (*The Hunt* en inglés), son los enemigos que forman parte de la **caceria**.
+- ![the hunt]({{ site.baseurl }}/assets/images/articles/iconos/hunt.png) **La Caza** (*The Hunt* en inglés), son los enemigos que forman parte de la **cacería**.
 - ![main scenario quest]({{ site.baseurl }}/assets/images/articles/iconos/msq.png){:width="32"} **Historia Principal** (*Main Scenario* en inglés), objetivos de una misión de la **historia principal**.
 - ![the hunt]({{ site.baseurl }}/assets/images/articles/iconos/sidequest.png){:width="32"} **Misión Secundaria**, objetivos de las misiones **secundarias**.
 - ![unlock]({{ site.baseurl }}/assets/images/articles/iconos/unlock.png){:width="32"} **Desbloqueo**, son los enemigos que forman parte de una misión de **desbloqueo**.
