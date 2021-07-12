@@ -3,7 +3,7 @@ layout: post
 title: "Guía para principiantes de Glamour"
 author: sharn
 categories: [ guías ]
-tags: [guías, glamour]
+tags: [nuevos jugadores, guías]
 image: assets/images/articles/guias/guiaglamour/portada.jpg
 description: "Guía para principiantes de como usar el sistema Glamour."
 featured: false
