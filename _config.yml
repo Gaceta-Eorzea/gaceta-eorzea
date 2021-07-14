@@ -42,7 +42,15 @@ authors:
     display_name: Zex Krow
     avatar: 'assets/images/avatars/zex.jpg'
     twitter: https://twitter.com/ensabe95
-    description: "Jugador de ff14 con el objetivo de dar a conocer el juego a mas gente y ayudar a nuevos jugadores"     
+    description: "Jugador de ff14 con el objetivo de dar a conocer el juego a mas gente y ayudar a nuevos jugadores"
+  Aryn:
+    name: Aryn XIV
+    display_name: Aryn XIV
+    avatar: 'assets/images/avatars/aryn.jpg'
+    email: arynxiv@gmail.com
+    web: https://www.youtube.com/channel/UCLgSQnV6of5-0x568qWilNw
+    twitter: https://twitter.com/Aryn_XIV
+    description: "Creador de contenido de Lore y Teorías de FFXIV en Youtube. Intentando acercar el lore de FFXIV a la comunidad Española."
 # Plugins
 plugins:
   - jekyll-paginate
