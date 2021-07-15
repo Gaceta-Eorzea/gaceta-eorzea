@@ -43,7 +43,7 @@ authors:
     avatar: 'assets/images/avatars/zex.jpg'
     twitter: https://twitter.com/ensabe95
     description: "Jugador de ff14 con el objetivo de dar a conocer el juego a mas gente y ayudar a nuevos jugadores"
-  Aryn:
+  aryn:
     name: Aryn XIV
     display_name: Aryn XIV
     avatar: 'assets/images/avatars/aryn.jpg'
@@ -51,6 +51,14 @@ authors:
     web: https://www.youtube.com/channel/UCLgSQnV6of5-0x568qWilNw
     twitter: https://twitter.com/Aryn_XIV
     description: "Creador de contenido de Lore y Teorías de FFXIV en Youtube. Intentando acercar el lore de FFXIV a la comunidad Española."
+  lia:
+      name: Lia Tales
+      display_name: Lia Tales
+      avatar: 'assets/images/avatars/lia.jpg'
+      email: liatalesffxiv@gmail.com
+      web: https://www.twitch.tv/lia_tales
+      twitter: https://twitter.com/LiaTales_ffxiv
+      description: "Housing Savage FTW"    
 # Plugins
 plugins:
   - jekyll-paginate
