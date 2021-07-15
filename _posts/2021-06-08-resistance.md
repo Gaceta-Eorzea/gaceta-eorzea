@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guía de Armas Reliquia de Shadowbringers."
+title:  "Guía de Armas Reliquia de Shadowbringers"
 author: cecile
 categories: [ guías ]
 tags: [guías, reliquias, ShB]

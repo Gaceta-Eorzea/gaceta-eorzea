@@ -5,9 +5,164 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Jul 2021 11:20:39 +0100</pubDate>
-    <lastBuildDate>Thu, 15 Jul 2021 11:20:39 +0100</lastBuildDate>
+    <pubDate>Fri, 16 Jul 2021 00:45:29 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Jul 2021 00:45:29 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Guía para obtener y gestionar tus Retainers</title>
+        <description>&lt;p&gt;Los &lt;strong&gt;&lt;em&gt;Retainers&lt;/em&gt;&lt;/strong&gt; (Asistentes) son unos NPCs que nos darán un &lt;strong&gt;inventario adicional&lt;/strong&gt;, equivalente a un &lt;strong&gt;banco&lt;/strong&gt; en otros juegos, y que nos servirán para poner objetos en el &lt;strong&gt;tablón del mercado&lt;/strong&gt;, la &lt;strong&gt;subasta&lt;/strong&gt; en FFXIV. Finalmente los podemos usar para enviarlos a &lt;strong&gt;misiones&lt;/strong&gt;, las cuales nos proporcionaran muchos &lt;strong&gt;objetos interesantes&lt;/strong&gt;. Hay que indicar que &lt;strong&gt;no&lt;/strong&gt; pueden ser utilizados por los jugadores que estén con el &lt;strong&gt;&lt;em&gt;Free Trial&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;cómo-desbloquear-nuestros-retainers&quot;&gt;Cómo desbloquear nuestros &lt;em&gt;Retainers&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Para completar la &lt;strong&gt;Historia principal&lt;/strong&gt; hasta que nivel 17 y completar la misión &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/2d43e3d459f/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;The Scions of the Seventh Dawn&lt;/a&gt;, tras la cual tenemos que hablar un &lt;strong&gt;&lt;em&gt;Retainer Vocate&lt;/em&gt;&lt;/strong&gt;, los cuales podrán serán:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/25d62b8e3af/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Chachabi&lt;/a&gt; en Ul’dah - Steps of Thal (X: 13.3 Y: 9.8).&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/d0dd5c6c615/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Parnell&lt;/a&gt; en Old Gridania (X: 14.6 Y: 9.3).&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/d3a350ce0c5/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Frydwyb&lt;/a&gt; en Limsa Lominsa Lower Decks (X: 8.2 Y: 11.5).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tendremos que hablar con ellos y elegir elegir la opción &lt;strong&gt;&lt;em&gt;Hire a Retainer&lt;/em&gt;&lt;/strong&gt;. Tras esto, tendrás que elegir la apariencia, incluyendo la raza, personalidad y nombre de nuestro asistente. Todo esto lo podrás volver a cambiar si usas un &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/d5401289ed4/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Retainer Fantasia&lt;/a&gt; que podrás comprar en el &lt;em&gt;Market board&lt;/em&gt; o te lo traerán los asistentes de sus misiones.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/hire.jpg&quot; alt=&quot;hire&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;De base podemos tener hasta 2 asistentes, pero si queremos podemos pagar en &lt;a href=&quot;https://sqex.to/Msp?utm_source=lodestone&amp;amp;utm_medium=pc_banner&amp;amp;utm_campaign=na_mogstation&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/ffxiv_twitch/mog.png&quot; height=&quot;50&quot; /&gt;&lt;/a&gt; por asistentes adicionales por una cuota extra mensual.&lt;/p&gt;
+
+&lt;p&gt;Para usar nuestro asistente tendremos que utilizar una &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/78f78d18b17/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Summoning Bell&lt;/a&gt; (Campana de invocación), la cual esta disponible en múltiples localizaciones en las ciudades principales y seleccionarlo en la lista de los disponibles.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col&quot;&gt;
+      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/bell.jpg&quot; alt=&quot;bell&quot; /&gt;
+      &lt;br /&gt;
+      &lt;sub&gt;&lt;sup&gt;Summoning Bell.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/resumen.jpg&quot; alt=&quot;resumen&quot; /&gt;
+      &lt;sub&gt;&lt;sup&gt;Lista de asistentes.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;guardar-objetos-en-el-asistente&quot;&gt;Guardar objetos en el Asistente&lt;/h3&gt;
+
+&lt;p&gt;Cada asistente tiene unas bolsas donde podrás guardar equipo. Con la opción &lt;strong&gt;&lt;em&gt;Entrust or withdraw items&lt;/em&gt;&lt;/strong&gt; se te abrirán sus bolsas y podrás guardar allí lo que tú quieras hasta un máximo de 175 objetos.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/menu.jpg&quot; alt=&quot;menu&quot; /&gt;
+      &lt;br /&gt;
+      &lt;sub&gt;&lt;sup&gt;Menú del Asistente.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/175.jpg&quot; alt=&quot;objetos&quot; /&gt;
+      &lt;br /&gt;
+      &lt;sub&gt;&lt;sup&gt;Bolsas del Asistente.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Además podrás vender los objetos a tu asistente por &lt;em&gt;gils&lt;/em&gt; usando la opción &lt;strong&gt;&lt;em&gt;Have retainer sell items&lt;/em&gt;&lt;/strong&gt;. Si has vendido algo por error te saldrá en el menú inicial del asistente la opción &lt;strong&gt;&lt;em&gt;Item buypack&lt;/em&gt;&lt;/strong&gt; para recuperar el objeto.&lt;/p&gt;
+
+&lt;h3 id=&quot;como-vender-objetos-en-el-market-board-tablón-del-mercado-utilizando-tu-asistente&quot;&gt;Como vender objetos en el &lt;em&gt;Market Board&lt;/em&gt; (Tablón del Mercado) utilizando tu Asistente&lt;/h3&gt;
+
+&lt;p&gt;Para vender objetos en el &lt;strong&gt;&lt;em&gt;Market Board&lt;/em&gt;&lt;/strong&gt; podrás elegir &lt;strong&gt;&lt;em&gt;Sell items in your inventory on the market&lt;/em&gt;&lt;/strong&gt; para vender los objetos en tu inventario o &lt;strong&gt;&lt;em&gt;Sell items in your retainer’s inventory on the market&lt;/em&gt;&lt;/strong&gt; para venderlos desde el inventario de tu asistente..&lt;/p&gt;
+
+&lt;p&gt;Cada asistente puede poner hasta &lt;strong&gt;20 objetos&lt;/strong&gt; a la venta. Cuando elijas el objeto a vender y hagas click derecho tendrás que elegir la opción &lt;strong&gt;&lt;em&gt;Put up for sale&lt;/em&gt;&lt;/strong&gt;. Podrás elegir la cantidad de objetos del montón que pones a la venta y el precio individual de cada uno. Con el botón &lt;strong&gt;&lt;em&gt;Compare Prices&lt;/em&gt;&lt;/strong&gt; podrás comprobar por cuanto se vende este objeto.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/ajusteprecio.jpg&quot; alt=&quot;ajuste precio&quot; /&gt;
+      &lt;br /&gt;
+      &lt;sub&gt;&lt;sup&gt;Ajuste de precio del artículo.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/ajusteprecio2.jpg&quot; alt=&quot;precio servidor&quot; /&gt;
+      &lt;br /&gt;
+      &lt;sub&gt;&lt;sup&gt;Precio del artículo en el servidor.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Podrás controlar el precio de los artículos cuando tu quieras volviendo a pulsar sobre &lt;em&gt;Compare prices&lt;/em&gt; y así cambiar el precio para ajustar al mercado. Una vez vendas el artículo, se te cobrará &lt;strong&gt;tarifa&lt;/strong&gt; (aclaro que no se te cobrará al poner el artículo, sino una vez lo vendas).&lt;/p&gt;
+
+&lt;p&gt;El dinero que consigas vendiendo cosas con tu asistente lo podrás ver al elegir la opción del menú &lt;strong&gt;&lt;em&gt;Entrust or withdraw gil&lt;/em&gt;&lt;/strong&gt;. Así cada jugador puede elegir si dejar el dinero en el asistente o cogerlo para su personaje.&lt;/p&gt;
+
+&lt;h3 id=&quot;asignar-una-profesión-a-tu-asistente&quot;&gt;Asignar una profesión a tu asistente&lt;/h3&gt;
+
+&lt;p&gt;Primero tenemos que completar la misión &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3b19b24585a/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;An Ill-conceived Venture&lt;/a&gt; que nos la dara &lt;strong&gt;&lt;em&gt;Troubled Adventurer&lt;/em&gt;&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/7a4cc0252df/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Ul’dah - Steps of Nald (X: 9.3 Y: 8.7)&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/0e1ad807308/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;New Gridania (X: 11.8 Y: 12.2)&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/a88bb7dd143/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Limsa Lominsa Lower Decks (X: 9.0 Y: 11.2)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A continuación al hablar con nuestro asistente podemos usar la opción, &lt;strong&gt;&lt;em&gt;Assign retainer class&lt;/em&gt;&lt;/strong&gt; (Asignar una clase a nuestro asistente). Las clases disponibles serán solo las que tienes desbloqueadas, dentro de las que son las clases básicas de &lt;strong&gt;A Realm Reborn&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/job.jpg&quot; alt=&quot;job&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Clases del Asistente.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;Podrás cambiar la clase del asistente siempre que quieras, teniendo en cuenta que éste pasará a tener nivel 1.&lt;/p&gt;
+
+&lt;p&gt;Cuando el asistente llegue a nivel 30, podrá elegir una profesión, pero esto te pedirá 40 &lt;strong&gt;&lt;em&gt;Venture&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;b&gt;Una Venture es una moneda que se consigue dentro del juego mediante 200 Sellos de la Gran Compañía. También se pueden conseguir a través de misiones de las Tribus Bestias o completando Guildleves.&lt;/b&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;cambiando-el-equipo-de-tu-asistente&quot;&gt;Cambiando el equipo de tu asistente&lt;/h3&gt;
+
+&lt;p&gt;Tras hablar con tu asistente puedes elegir la la opción &lt;strong&gt;&lt;em&gt;View retainer attributes and gear.&lt;/em&gt;&lt;/strong&gt; podrás ponerle equipo que tengas en tu inventario o cofre de equipo y que se ajuste a su nivel y clase o profesión.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/equipo.jpg&quot; alt=&quot;equipo&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Equipo del Asistente.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;mandarlo-de-misiones-a-nuestro-asistente&quot;&gt;Mandarlo de Misiones a nuestro asistente&lt;/h3&gt;
+
+&lt;p&gt;Cuando nuestro asistente tiene una clase o profesión y el equipo requerido, estará preparado para mandarlo de misiones, las cuales nos pedirán &lt;strong&gt;2 Ventures&lt;/strong&gt; cada ves que les enviemos esto lo haremos tras elegir la opción &lt;strong&gt;&lt;em&gt;Assign venture&lt;/em&gt;&lt;/strong&gt; y serán distintas dependiendo la profesión que hayas elegido para tu asistente.&lt;/p&gt;
+
+&lt;p&gt;Existen 3 tipos de misiones :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Exploraciones&lt;/strong&gt; duran 18 horas y proporcionan mucha experiencia, las usaremos para subir de nivel a nuestros asistentes. Estas misiones a ciertos niveles tiene probabilidad de proporcionar ademas objetos especiales como mascotas de acompañamiento.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Field Exploration&lt;/em&gt; - Disciplinas de la guerra o de la magia: &lt;strong&gt;Piezas de plata o Bronze&lt;/strong&gt; y objetos aleatorios.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Highland Exploration&lt;/em&gt; - &lt;em&gt;Minero&lt;/em&gt;: &lt;strong&gt;Piezas de plata o Bronce&lt;/strong&gt; y objetos aleatorios de minería.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Woodland Exploration&lt;/em&gt; - &lt;em&gt;Botánico&lt;/em&gt;: &lt;strong&gt;Piezas de plata o Bronce&lt;/strong&gt; y objetos botánicos aleatorios.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Waterside Exploration&lt;/em&gt; - &lt;em&gt;Pescador&lt;/em&gt;: &lt;strong&gt;Piezas de plata o Bronce&lt;/strong&gt;  y objetos aleatorios de pesca.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Exploraciones rápidas&lt;/strong&gt; duran 1 hora y proporcionan poca experiencia pero traen objetos aleatorios que son mas raros cuanto mas nivel de equipo tiene nuestro asistente:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Quick Exploration&lt;/em&gt;: Traerán un objeto aleatorio, se desbloquean a nivel 10.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Misiones de campo&lt;/strong&gt; duran 1 hora y nos traerán un material en concreto según el tipo que elijamos, limitado a la clase o profesión de nuestro asistente:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Hunting&lt;/em&gt; - Disciplinas de la guerra o de la magia: Te traerán objetos que se obtienen de enemigos.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Mining&lt;/em&gt;: Traerán objetos de minería.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Botany&lt;/em&gt;: Traerán objetos botánicos.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Fishing&lt;/em&gt;: Traerán objetos de pesca.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 15 Jul 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/retainer/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/retainer/</guid>
+        
+        <category>nuevos jugadores</category>
+        
+        <category>guías</category>
+        
+        
+      </item>
     
       <item>
         <title>Relatos de la Calamidad: Bajo la estela de Loisoix</title>
@@ -94,7 +249,7 @@ No eran tan diferentes como querían creer.&lt;/p&gt;
 &lt;p&gt;No, no eran tan diferentes como querían creer.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 15 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 15 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/estela/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/estela/</guid>
         
@@ -104,89 +259,6 @@ No eran tan diferentes como querían creer.&lt;/p&gt;
         
         
         <category>lore</category>
-        
-      </item>
-    
-      <item>
-        <title>Guía para obtener y gestionar tus Retainers.</title>
-        <description>&lt;p&gt;Un &lt;strong&gt;&lt;em&gt;Retainer&lt;/em&gt;&lt;/strong&gt; (Asistente) es un NPC a través del cual podremos gestionar los objetos que queramos poner en subasta. Además nos dará mucho espacio de inventario y lo podremos mandar de misiones que nos traerán distintos objetos.&lt;/p&gt;
-
-&lt;h3 id=&quot;cómo-desbloquear-nuestros-retainers&quot;&gt;Cómo desbloquear nuestros &lt;em&gt;Retainers&lt;/em&gt;.&lt;/h3&gt;
-
-&lt;p&gt;Para desbloquearlo hay que avanzar en la &lt;strong&gt;Historia principal&lt;/strong&gt; hasta que nivel 17 y completar la misión &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/2d43e3d459f/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;The Scions of the Seventh Dawn&lt;/a&gt; que te la entrega &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/3d2ac21ed62/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Momodi&lt;/a&gt; en &lt;strong&gt;Ul’dah&lt;/strong&gt;. Tras esto, tendrás que completar la misión &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3b19b24585a/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;An Ill-conceived Venture&lt;/a&gt; que te la entregará el &lt;strong&gt;&lt;em&gt;Troubled Adventurer&lt;/em&gt;&lt;/strong&gt; en &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/7a4cc0252df/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Ul’dah&lt;/a&gt;, &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/0e1ad807308/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;New Gridania&lt;/a&gt; o &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/a88bb7dd143/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Limsa Lominsa&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Tras haber completado las dos misiones, tenemos que hablar con unos NPCs, los &lt;strong&gt;&lt;em&gt;Retainer Vocate&lt;/em&gt;&lt;/strong&gt;, y son &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/25d62b8e3af/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Chachabi&lt;/a&gt; en Ul’dah, &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/d0dd5c6c615/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Parnell&lt;/a&gt; en Old Grindania o &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/d3a350ce0c5/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Frydwyb&lt;/a&gt; en Limsa Lominsa. Tras hablar con ellos, nos darán la posibilidad de contratar nuestro primer &lt;strong&gt;&lt;em&gt;Retainer&lt;/em&gt;&lt;/strong&gt; tras elegir la opción &lt;strong&gt;&lt;em&gt;Hire a Retainer&lt;/em&gt;&lt;/strong&gt; en su menú.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/hire.jpg&quot; alt=&quot;Hire&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;De base se tienen 2 Retainers como máximo pero puedes llegar a tener más si los contratas a través de tu cuenta &lt;a href=&quot;https://sqex.to/Msp?utm_source=lodestone&amp;amp;utm_medium=pc_banner&amp;amp;utm_campaign=na_mogstation&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/ffxiv_twitch/mog.png&quot; height=&quot;50&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;cómo-usar-nuestros-retainers&quot;&gt;Cómo usar nuestros &lt;em&gt;Retainers&lt;/em&gt;.&lt;/h3&gt;
-
-&lt;p&gt;Para interactuar con nuestro asistente tendremos que utilizar una &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/78f78d18b17/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Summoning Bell&lt;/a&gt; (Campana de invocación) que nos dará acceso a nuestros &lt;strong&gt;&lt;em&gt;Retainers&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col&quot;&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/bell.jpg&quot; alt=&quot;bell&quot; /&gt;
-      &lt;br /&gt;
-      &lt;sub&gt;&lt;sup&gt;Summoning Bell.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/resumen.jpg&quot; alt=&quot;resumen&quot; /&gt;
-      &lt;sub&gt;&lt;sup&gt;Resumen Retainers.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h4 id=&quot;primer-paso-asignar-una-profesión-a-tu-asistente&quot;&gt;Primer paso: Asignar una profesión a tu asistente.&lt;/h4&gt;
-
-&lt;p&gt;Tras hacer click en nuestro asistente la primera vez, tendremos que asignarle una profesión. Estas profesiones para el &lt;em&gt;Retainer&lt;/em&gt; solo se las podrás asignar si las tienes desbloqueadas con tu personaje y, además, están limitadas a las profesiones de &lt;strong&gt;A Realm Reborn&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Tras esto, tendrás que equipar al asistente. Eligiendo la opción &lt;strong&gt;&lt;em&gt;View retainer attributes and gear.&lt;/em&gt;&lt;/strong&gt; podrás ponerle equipo que tengas en tu inventario y que se ajuste a su nivel y su profesión.&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/job.jpg&quot; alt=&quot;job&quot; /&gt;
-      &lt;br /&gt;
-      &lt;sub&gt;&lt;sup&gt;Profesiones del Retainer.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/equipo.jpg&quot; alt=&quot;equipo&quot; /&gt;
-      &lt;sub&gt;&lt;sup&gt;Equipo del Retainer.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Podrás cambiar la profesión del &lt;em&gt;retainer&lt;/em&gt; siempre que quieras teniendo en cuenta que éste pasará a tener nivel 1 de la nueva profesión.&lt;/p&gt;
-
-&lt;h4 id=&quot;mandarlo-de-misiones&quot;&gt;Mandarlo de Misiones.&lt;/h4&gt;
-
-&lt;p&gt;Cuando le has asignado una profesión y equipado a tu asistente, estará preparado para mandarlo de misiones. Las misiones las verás tras elegir la opción &lt;strong&gt;&lt;em&gt;Assign venture&lt;/em&gt;&lt;/strong&gt; y serán distintas dependiendo la profesión que hayas elegido para tu asistente. Las misiones te traerán distintos objetos siendo éstas las misiones elegibles:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Hunting&lt;/em&gt; (1h) - Disciplinas de la guerra o de la magia&lt;/strong&gt;: Te traerán objetos que &lt;em&gt;dropean&lt;/em&gt; los enemigos al matarlos.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Mining&lt;/em&gt; (1h) - &lt;em&gt;Miner&lt;/em&gt;&lt;/strong&gt;: Traerán objetos de minería.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Botany&lt;/em&gt; (1h) - &lt;em&gt;Botanist&lt;/em&gt;&lt;/strong&gt;: Traerá objetos como hiervas, plantas y otros objetos.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Fishing&lt;/em&gt; (1h) - &lt;em&gt;Fisher&lt;/em&gt;&lt;/strong&gt;: Traerá distintas clases de pescado.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Field Exploration&lt;/em&gt; (18h) - Disciplinas de la guerra o de la magia&lt;/strong&gt;: Pueden traer &lt;strong&gt;piezas de plata&lt;/strong&gt; o &lt;strong&gt;&lt;em&gt;Allagan Bronze&lt;/em&gt;&lt;/strong&gt; así como distintos materiales. A niveles altos pueden traer además mascotas, objetos para tu casa y todo tipo de cosas aleatorias.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Highland Exploration&lt;/em&gt; (18h) - &lt;em&gt;Miner&lt;/em&gt;&lt;/strong&gt;: además de las &lt;strong&gt;piezas de plata&lt;/strong&gt; o &lt;strong&gt;&lt;em&gt;Allagan Bronze&lt;/em&gt;&lt;/strong&gt; pueden traer objetos de minería. A niveles altos pueden traer además mascotas, objetos para tu casa y todo tipo de cosas aleatorias.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Woodland Exploration&lt;/em&gt; (18h) - &lt;em&gt;Botanist&lt;/em&gt;&lt;/strong&gt;: además de las &lt;strong&gt;piezas de plata&lt;/strong&gt; o &lt;strong&gt;&lt;em&gt;Allagan Bronze&lt;/em&gt;&lt;/strong&gt; pueden traer distintas plantas, hiervas u otros objetos de fabricación. A niveles altos pueden traer además mascotas, objetos para tu casa y todo tipo de cosas aleatorias.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Waterside Exploration&lt;/em&gt; (18h) - &lt;em&gt;Fisher&lt;/em&gt;&lt;/strong&gt;: además de las &lt;strong&gt;piezas de plata&lt;/strong&gt; o &lt;strong&gt;&lt;em&gt;Allagan Bronze&lt;/em&gt;&lt;/strong&gt; pueden traer distintos pescados. A niveles altos pueden traer además mascotas, objetos para tu casa y todo tipo de cosas aleatorias.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Quick Exploration&lt;/em&gt; (1h) - &lt;em&gt;ALL&lt;/em&gt;&lt;/strong&gt;: Cuando tu &lt;em&gt;Retainer&lt;/em&gt; alcance el nivel 10, se desbloquearán las &lt;em&gt;Quick Exploration&lt;/em&gt;. Cuando vuelven los asistentes te traerán 1 objeto que a niveles altos puede tener mucho valor.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Cuando los &lt;em&gt;Retainers&lt;/em&gt; vuelven de las misiones, además de los objetos que te traigan, ganarán experiencia e irán subiendo de nivel siendo el máximo el que tu personaje tenga de esa profesión.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 14 Jul 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/retainer/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/retainer/</guid>
-        
-        <category>nuevos jugadores</category>
-        
-        <category>guías</category>
-        
         
       </item>
     
@@ -211,7 +283,7 @@ No eran tan diferentes como querían creer.&lt;/p&gt;
 &lt;sub&gt;&lt;sup&gt;Emote Vexed&lt;/sup&gt;&lt;/sub&gt;
 &lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 12 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/make-it-rainn/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/make-it-rainn/</guid>
         
@@ -268,7 +340,7 @@ No eran tan diferentes como querían creer.&lt;/p&gt;
 
 &lt;p&gt;Tanto los &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Glamour Prism&lt;/a&gt; como los &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Glamour Dispeller&lt;/a&gt; se pueden comprar por &lt;strong&gt;Sellos de la Gran Compañía&lt;/strong&gt;, en &lt;strong&gt;tablón del Mercado&lt;/strong&gt; e incluso &lt;strong&gt;fabricándolos&lt;/strong&gt; con los trabajos de artesanía.&lt;/p&gt;
 
-&lt;h3 id=&quot;tintes&quot;&gt;Tintes.&lt;/h3&gt;
+&lt;h3 id=&quot;tintes&quot;&gt;Tintes&lt;/h3&gt;
 
 &lt;p&gt;La mayoría de piezas permiten ser teñidas, para eso podemos usar &lt;strong&gt;Tintes&lt;/strong&gt;. Estos tintes se puede conseguir comprándolos en distintos &lt;strong&gt;vendedores&lt;/strong&gt;, &lt;strong&gt;creándolos con profesiones de artesanía&lt;/strong&gt;, o al realizar contenido dentro del juego como &lt;strong&gt;instancias&lt;/strong&gt; o &lt;strong&gt;misiones&lt;/strong&gt;.&lt;/p&gt;
 
@@ -339,7 +411,7 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
 
 &lt;p&gt;Con esto hemos acabado nuestra primera guía de glamour, espero que os haya gustado.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 12 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guia-glamour/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-glamour/</guid>
         
@@ -365,7 +437,7 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 11 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/zlabyrinth/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/zlabyrinth/</guid>
         
@@ -391,7 +463,7 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 11 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/viaje-sin-fin-7/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-7/</guid>
         
@@ -407,10 +479,10 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
       </item>
     
       <item>
-        <title>Concurso Captura de Pantalla de la Prueba de Rendimiento de Endwalker.</title>
+        <title>Concurso Captura de Pantalla de la Prueba de Rendimiento de Endwalker</title>
         <description>&lt;p&gt;Con la salida de la &lt;strong&gt;Prueba de Rendimiento&lt;/strong&gt;, &lt;em&gt;Square Enix&lt;/em&gt; ha propuesto a la comunidad un &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/2b51b9cf7cd4f5b765c4dbd64c273335bdb5dfa9&quot; target=&quot;_blank&quot;&gt;concurso&lt;/a&gt;  basado en lo que podemos hacer dentro de la prueba. Es muy fácil participar y desde la Gaceta animamos a todos a hacerlo. La fecha límite para participar es el &lt;strong&gt;26 de julio de 2021&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;formas-de-participar&quot;&gt;Formas de Participar.&lt;/h3&gt;
+&lt;h3 id=&quot;formas-de-participar&quot;&gt;Formas de Participar&lt;/h3&gt;
 
 &lt;p&gt;Para participar, sencillamente hay bajarse la &lt;a href=&quot;https://eu.finalfantasyxiv.com/benchmark/&quot; target=&quot;_blank&quot;&gt;Prueba de rendimiento&lt;/a&gt; y sacar una &lt;strong&gt;captura de pantalla&lt;/strong&gt;. La captura tiene que mostrar alguna de las siguientes opciones:&lt;/p&gt;
 
@@ -425,11 +497,11 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/vmale1.jpg&quot; width=&quot;750&quot; alt=&quot;viera male&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;procedimiento-para-participar&quot;&gt;Procedimiento para Participar.&lt;/h4&gt;
+&lt;h4 id=&quot;procedimiento-para-participar&quot;&gt;Procedimiento para Participar&lt;/h4&gt;
 
 &lt;p&gt;Para participar tendrás que hacerlo a través de &lt;strong&gt;Twitter&lt;/strong&gt; poniendo un tweet indicando los siguientes campos dependiendo del tipo de captura que hemos hecho.&lt;/p&gt;
 
-&lt;h5 id=&quot;captura-viera-macho&quot;&gt;Captura Viera Macho.&lt;/h5&gt;
+&lt;h5 id=&quot;captura-viera-macho&quot;&gt;Captura Viera Macho&lt;/h5&gt;
 
 &lt;p&gt;La plantilla para el tweet si tu captura es de un &lt;strong&gt;viera macho&lt;/strong&gt; es la siguiente:&lt;/p&gt;
 
@@ -449,7 +521,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/direccion.jpg&quot; alt=&quot;direccion&quot; /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h5 id=&quot;captura-puntuación&quot;&gt;Captura Puntuación.&lt;/h5&gt;
+&lt;h5 id=&quot;captura-puntuación&quot;&gt;Captura Puntuación&lt;/h5&gt;
 
 &lt;p&gt;La plantilla si la captura elegida es una &lt;strong&gt;puntuación&lt;/strong&gt; es la siguiente:&lt;/p&gt;
 
@@ -513,7 +585,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
 
 &lt;p&gt;Se seleccionarán &lt;strong&gt;1400 ganadores&lt;/strong&gt; y las notificaciones se harán a través de &lt;strong&gt;correo electrónico&lt;/strong&gt; o del &lt;strong&gt;servicio de correo &lt;em&gt;moogle&lt;/em&gt;&lt;/strong&gt; dentro de &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt; más o menos el día &lt;strong&gt;10 de septiembre de 2021&lt;/strong&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 11 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/concurso-captura/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/concurso-captura/</guid>
         
@@ -843,7 +915,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
 
 &lt;p&gt;&lt;strong&gt;Con esto hemos terminado nuestro “Resumen”, espero que os haya gustado, no olvidéis comentar al final de la pagina.&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 10 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 10 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/7_special_14h/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/7_special_14h/</guid>
         
@@ -893,7 +965,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 09 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 09 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210709/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210709/</guid>
         
@@ -909,10 +981,10 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
       </item>
     
       <item>
-        <title>Campaña de Acceso Gratuito.</title>
+        <title>Campaña de Acceso Gratuito</title>
         <description>&lt;p&gt;&lt;strong&gt;Square Enix&lt;/strong&gt; ha activado una &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/special/freelogincampaign/&quot; target=&quot;_blank&quot;&gt;Campaña de Acceso Gratuito&lt;/a&gt; a &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt;. Con esta campaña los jugadores que lleven tengan la cuenta inactiva desde hace más de 30 días podrán conectar de forma gratuita.&lt;/p&gt;
 
-&lt;h3 id=&quot;requisitos-para-acceder-a-la-campaña-de-acceso-gratuito&quot;&gt;Requisitos para acceder a la Campaña de Acceso Gratuito.&lt;/h3&gt;
+&lt;h3 id=&quot;requisitos-para-acceder-a-la-campaña-de-acceso-gratuito&quot;&gt;Requisitos para acceder a la Campaña de Acceso Gratuito&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -927,7 +999,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
 &lt;b&gt;Todos estos Requisitos los puedes comprobar desde tu cuenta&lt;/b&gt; &lt;a href=&quot;https://sqex.to/Msp?utm_source=lodestone&amp;amp;utm_medium=pc_banner&amp;amp;utm_campaign=na_mogstation&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/ffxiv_twitch/mog.png&quot; height=&quot;75&quot; /&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;acceder-a-la-campaña-de-acceso-gratuito&quot;&gt;Acceder a la Campaña de Acceso Gratuito.&lt;/h3&gt;
+&lt;h3 id=&quot;acceder-a-la-campaña-de-acceso-gratuito&quot;&gt;Acceder a la Campaña de Acceso Gratuito&lt;/h3&gt;
 
 &lt;p&gt;Una vez has comprobado que cumples los requisitos, solo tendrás que acceder desde &lt;em&gt;Launcher&lt;/em&gt; del juego. La campaña está activa desde hoy, día 9 de julio de 2021, hasta el 23 de agosto.&lt;/p&gt;
 
@@ -945,7 +1017,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
   &lt;li&gt;&lt;a href=&quot;https://store.playstation.com/es-es/product/EP0082-PPSA02955_00-FFXIVFREETRIAL01&quot; target=&quot;_blank&quot;&gt;Descarga PlayStation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;aclaraciones-sobre-la-campaña-de-acceso-gratuito&quot;&gt;Aclaraciones sobre la Campaña de Acceso Gratuito.&lt;/h3&gt;
+&lt;h3 id=&quot;aclaraciones-sobre-la-campaña-de-acceso-gratuito&quot;&gt;Aclaraciones sobre la Campaña de Acceso Gratuito&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -962,7 +1034,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
   &lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Fri, 09 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 09 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/accesogratuito/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/accesogratuito/</guid>
         

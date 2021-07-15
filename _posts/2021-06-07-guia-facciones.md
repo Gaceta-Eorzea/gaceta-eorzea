@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guía sobre las 3 Grandes Compañías."
+title:  "Guía sobre las 3 Grandes Compañías"
 author: sharn
 categories: [ guías ]
 tags: [nuevos jugadores, guías, facciones]
@@ -60,7 +60,7 @@ Como resumen, para obtener Sellos de Compañía tienes las siguientes opciones:
 - Entregando equipo que no uses o necesites.
 - Completando Ruletas (*Duty Roulettes* en inglés)
 
-### Rangos de la Gran Compañía.
+### Rangos de la Gran Compañía
 
 Para ascender de **Rango** en la Gran Compañía como regla general tendrás que entregar sellos al *Personnel Officer* a través de la opción **Apply for a promotion**.
 

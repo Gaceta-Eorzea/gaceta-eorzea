@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Formas de añadir tiempo de juego a Final Fantasy XIV."
+title: "Formas de añadir tiempo de juego a Final Fantasy XIV"
 author: sharn
 categories: [ guías ]
 tags: [suscripciones, guías]
@@ -15,15 +15,15 @@ En **Final Fantasy XIV** hay dos formas de añadir tiempo de juego. Mediante **s
 <b>Si decides comprar el pack de expansiones que incluye 30 días de juego, y decides añadir suscripción o tiempo de juego adicional, este no empezará a contar hasta que no pasen los 30 días que te incluye la compra.</b>
 </blockquote> 
 
-### Suscripción.
+### Suscripción
 
 El método de suscripción en Final Fantasy XIV sirve para que cada cierto tiempo se te cobrará una cuota a cambio de tiempo de tiempo de juego. Hay dos tipos de suscripciones que se amoldan a las necesidades de cada jugador.
 
-#### Suscripción Básica.
+#### Suscripción Básica
 
 Es un tipo de suscripción que añade **30 días** de tiempo de juego. Esta suscripción limita a **1** personaje por **servidor** y un máximo de 8 personajes en distintos servidores.
 
-#### Suscripción Estándar.
+#### Suscripción Estándar
 
 Con esta suscripción puedes añadir **30 // 60 // 180 días** al tiempo de juego. Con esta suscripción podrás tener hasta **8** personajes por **servidor** y un total de 40 personajes como máximo.
 <br/>
@@ -142,7 +142,7 @@ La suscripción tienen un precio que varía dependiendo del tipo y duración.
 </div>
 <br/>
 
-### Métodos de pago de la Suscripción.
+### Métodos de pago de la Suscripción
 
 Hay dos formas de pagar la suscripción.
 
@@ -158,7 +158,7 @@ Desde la cuenta de *Mog Station* en la pestaña *Service Fees* podemos comprar *
 <b>Además de pagar la suscripción, con Crystas también puedes comprar en la <a href="https://store.finalfantasyxiv.com/ffxivstore/en-gb/" target="_blank">tienda oficial de Final Fantasy XIV</a> artículos y servicios.</b>
 </blockquote> 
 
-### Tarjeta de tiempo de juego.
+### Tarjeta de tiempo de juego
 
 Además de la opción de suscripción, *Square Enix* nos permite comprar las **Tarjetas de tiempo de juego** desde su propia [web](https://store.eu.square-enix-games.com/es_EU/product/307018/final-fantasy-xiv-60-days-game-time-card-other){:target="_blank"}. Con estás Tarjetas de tiempo de juego siempre añadirás **60 días de tiempo de juego** con el tipo de suscripción **estándar**. 
 
@@ -166,7 +166,7 @@ Al comprar esta tarjeta se te enviará un código al correo electrónico que ten
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/metodospago/tarjeta.jpg" width="300" alt="tarjeta"/></p>
 
-### Steam.
+### Steam
 
 Si juegas a **Final Fantasy XIV** desde el cliente de **Steam** el único método de pago disponible es mediante *Steam Payment* el cual requiere que tengas saldo en tu cuenta de Steam.
 

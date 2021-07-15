@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Campaña de Acceso Gratuito."
+title: "Campaña de Acceso Gratuito"
 author: sharn
 categories: [ noticias ]
 tags: [gratis, acceso, campaña]
@@ -11,7 +11,7 @@ hidden: false
 ---
 **Square Enix** ha activado una <a href="https://eu.finalfantasyxiv.com/lodestone/special/freelogincampaign/" target="_blank">Campaña de Acceso Gratuito</a> a **Final Fantasy XIV**. Con esta campaña los jugadores que lleven tengan la cuenta inactiva desde hace más de 30 días podrán conectar de forma gratuita.
 
-### Requisitos para acceder a la Campaña de Acceso Gratuito.
+### Requisitos para acceder a la Campaña de Acceso Gratuito
 
 - Haber tenido el juego comprado y registrado previamente.
 
@@ -21,7 +21,7 @@ hidden: false
 <b>Todos estos Requisitos los puedes comprobar desde tu cuenta</b> <a href="https://sqex.to/Msp?utm_source=lodestone&utm_medium=pc_banner&utm_campaign=na_mogstation" target="_blank"><img src="/assets/images/articles/noticias/ffxiv_twitch/mog.png" height="75"></a>
 </blockquote> 
 
-### Acceder a la Campaña de Acceso Gratuito.
+### Acceder a la Campaña de Acceso Gratuito
 
 Una vez has comprobado que cumples los requisitos, solo tendrás que acceder desde *Launcher* del juego. La campaña está activa desde hoy, día 9 de julio de 2021, hasta el 23 de agosto.
 
@@ -37,7 +37,7 @@ El período de acceso gratuito es de **14 días** y comenzará en el instante en
 - [Descarga Steam](https://store.steampowered.com/app/312060/FINAL_FANTASY_XIV_Online_Free_Trial/){:target="_blank"}
 - [Descarga PlayStation](https://store.playstation.com/es-es/product/EP0082-PPSA02955_00-FFXIVFREETRIAL01){:target="_blank"}
 
-### Aclaraciones sobre la Campaña de Acceso Gratuito.
+### Aclaraciones sobre la Campaña de Acceso Gratuito
 
 1. Los 14 días de acceso gratuito irán gastándose independientemente de si juegas o no juegas.
 

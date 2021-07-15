@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pre visualización el libro de arte de Shadowbringers."
+title:  "Pre visualización el libro de arte de Shadowbringers"
 author: sharn
 categories: [ noticias ]
 tags: [ShB, libro, arte]

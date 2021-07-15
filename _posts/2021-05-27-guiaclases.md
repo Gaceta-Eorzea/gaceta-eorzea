@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guía introductoria de clases y profesiones."
+title:  "Guía introductoria de clases y profesiones"
 author: sharn
 categories: [ guías ]
 tags: [nuevos jugadores, guías, clases]
@@ -90,7 +90,7 @@ El arma característica de la profesión son los **globos astronómicos**.
 
 Los astrólogos son maestros del destino que brindan escudos y regeneración a los aliados en un área grande. Siendo su daño propio inferior al resto de los sanadores los astrólogos lo compensan al dar beneficios de daño extra al grupo mediante el uso de sus Cartas pasando a ser el sanador que aporta más daño global al grupo. Gracias a su versatilidad ***puede elegir entre potenciar sus curas o mitigaciones*** siendo así la única profesión que puede cambiar su rol entre sanador reactivo o sanador preventivo.
 
-# ![LogoMeleeDPS](/assets/images/articles/guias/guiaclases/meleedps.png) Combatientes cuerpo a cuerpo.
+# ![LogoMeleeDPS](/assets/images/articles/guias/guiaclases/meleedps.png) Combatientes cuerpo a cuerpo
 
 ### ![LogoPujil](/assets/images/articles/guias/guiaclases/logopugilista.png) Pugilista > > > ![LogoMonje](/assets/images/articles/guias/guiaclases/logomonje.png) Monje
 
@@ -132,7 +132,7 @@ El arma característica de la profesión son las **katanas**.
 
 Los **Samurais** son una profesión con una ***fase de alto daño de 60 segundos*** y habilidades que dotan de auto beneficios duraderos que hacen que perdonen errores en la rotación. Tiene pocos ataques posicionales y mucha movilidad gracias a sus habilidades de salto. Son una clase que no dan ningún beneficio al grupo sino más que bien se aprovechan de éste para aumentar su propio daño. 
 
-# ![LogoRPDPS](/assets/images/articles/guias/guiaclases/fisicodps.png) Combatientes daño Físico a Distancia.
+# ![LogoRPDPS](/assets/images/articles/guias/guiaclases/fisicodps.png) Combatientes daño Físico a Distancia
 
 ### ![LogoArquero](/assets/images/articles/guias/guiaclases/logoarquero.png) Arquero > > > ![LogoBardo](/assets/images/articles/guias/guiaclases/logobardo.png) Bardo
 
@@ -164,7 +164,7 @@ El arma característica de la profesión son los **chakrams**.
 
 El bailarín es una profesión con un daño personal bajo pero una gran contribución al daño de los demás mediante el uso de sus ***Danzas*** pudiendo elegir además a un compañero del grupo como *pareja de baile* que ganará un gran beneficio extra. Estas *Danzas* requieren la ejecución de los pasos de baile correctos para realizar poderosos movimientos finales. Sus principales habilidades con armas giran en torno a un combo simple que tiene la posibilidad de generar procs más fuertes que a su vez tienen la posibilidad de generar plumas. Estas plumas se pueden usar para potenciar las habilidades de daño fuera del GCD.
 
-# ![LogoMagicalDPS](/assets/images/articles/guias/guiaclases/magicaldps.png) Combatientes daño Mágico.
+# ![LogoMagicalDPS](/assets/images/articles/guias/guiaclases/magicaldps.png) Combatientes daño Mágico
 
 ### ![LogoTaumaturgo](/assets/images/articles/guias/guiaclases/logotaumaturgo.png) Taumaturgo > > > ![LogoMagoNegro](/assets/images/articles/guias/guiaclases/logomagonegro.png) Mago Negro
 

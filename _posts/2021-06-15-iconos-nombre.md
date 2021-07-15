@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Iconos en nombres de enemigos y personajes."
+title:  "Iconos en nombres de enemigos y personajes"
 author: cecile
 categories: [ guías ]
 tags: [nuevos jugadores, guías, ui]

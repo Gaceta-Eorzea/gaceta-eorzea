@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Como conseguir la montura The Magicked Card."
+title: "Como conseguir la montura The Magicked Card"
 author: sharn
 categories: [ monturas ]
 tags: [montura, "triple triad"]
@@ -13,7 +13,7 @@ Con la llegada del 5.55 han introducido varias monturas en **Final Fantasy XIV**
 
 Para conseguir esta montura tendrás que completar mucho contenido del juego ya que las cartas no solo se obtienen en combates de **Triple Triad** o sus torneos, sino también las obtendrás de Mazmorras (*Dungeons* en inglés) , Desafíos (*Trials* en inglés), Incursiones (*Raids* en inglés), Eventos públicos (*Fates* en inglés) o comprándoselas a distintos vendedores por distinto tipos de monedas.
 
-### Triple Triad.
+### Triple Triad
 
 ¿Te gustan los juegos de cartas? En el parche 2.51 se introdujo en **Final Fantasy XIV** el juego de cartas ***Triple Triad***. Es un juego de coleccionismo donde tendrás que enfrentarte a distintos NPCs por toda Eorzea e ir completando cada mejores mazos con las cartas que les vayas ganando. [En esta web](https://arrtripletriad.com/en/cards-location){:target="_blank"} muestran la forma de conseguir todas las cartas necesarias además de su coste o la localización de los NPCs. 
 
@@ -24,7 +24,7 @@ Para desbloquear el ***Triple Triad*** primero tendrás que desbloquear el ***Go
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/monturacarta/ttriad1.jpg" alt="tt1"/></p>
 
-### Como conseguir la montura *The Magicked Card*.
+### Como conseguir la montura *The Magicked Card*
 
 La montura ***The Magicked Card*** la conseguriás cuando tengas **todas las cartas entre la 1 y la 312**. Una vez las tengas tendrás que hablar con [Gold Saucer Attendant](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/c644e9a1b2b/){:target="_blank" class="eorzeadb_link"} el cual te dará la misión [ The Adventurer with All the Cards](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/f6350e134dc/){:target="_blank" class="eorzeadb_link"}. El botín de la misión será ***The Magicked Card***.
 

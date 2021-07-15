@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Protege tu cuenta añadiendo un Autenticador."
+title: "Protege tu cuenta añadiendo un Autenticador"
 author: sharn
 categories: [ guías ]
 tags: [suscripciones, guías]
@@ -21,7 +21,7 @@ Esta contraseña es un conjunto de 6 dígitos numéricos que tendrás que introd
 
 Para activar la contraseña de 1 solo uso se puede hacer a través de un Autenticador electrónico físico o digital.
 
-#### Autenticador Físico.
+#### Autenticador Físico
 
 El Autenticador Físico es un aparato electrónico con un pulsador. Cada vez que activas este pulsador, te dará los 6 dígitos que necesitarás introducir cuando te pidan la contraseña de 1 solo uso. 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/pass1uso/ftoken.jpg" alt="autenticador fisico"/></p>
@@ -31,7 +31,7 @@ Para conseguir este autenticador, deberás dirigirte a la <a href="https://store
 Ha habido ocasiones donde se podía comprar el autenticador físico con un diseño especial. Estas campañas se anuncian de forma oficial por medio de *Square Enix* y en **Gaceta Eorzea** nos haremos eco cuando se activen.
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/pass1uso/tokens.jpg" width="300" alt="autenticador fisico"/></p>
 
-#### Autenticador Digital.
+#### Autenticador Digital
 
 Si dispones de un móvil o una tablet puedes instalar un **Autenticador Digital**. Es una aplicación que cada vez que la abres te dará los digitos necesarios para introducir la contraseña de 1 solo uso. Se pueden utilizar varias aplicaciones distintas. Las más usadas son:
 
@@ -43,7 +43,7 @@ Si dispones de un móvil o una tablet puedes instalar un **Autenticador Digital*
 <b>Estas aplicaciones se tienen que instalar a través de la Play Store si usas Android o de la Apple Store si usas dispositivos Macintosh</b>
 </blockquote>
 
-### Cómo activar el Autenticador.
+### Cómo activar el Autenticador
 
 Una vez que tienes el autenticador, hay que activarlo. Con este paso vamos a vincular el dispositivo (ya sea físico o digital) a nuestra cuenta de *Square Enix*. 
 
@@ -63,7 +63,7 @@ Lo primero que tenemos que hacer es entrar en nuestra cuenta y, una vez dentro, 
 
 Una vez hayamos hecho esto, dependiendo del autenticador seguiremos los siguientes pasos:
 
-#### Autenticador Físico.
+#### Autenticador Físico
 
 - Pulsamos en *Adjust Security Token (key ring tipe) settings*.
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/pass1uso/fisico1.jpg" width="700" alt="fisico1"/></p>
@@ -74,7 +74,7 @@ Una vez hayamos hecho esto, dependiendo del autenticador seguiremos los siguient
 - Aceptamos *SQUARE ENIX Security Token Terms of Use*.
 - Seguimos los pasos necesarios para completar el registro del autenticador físico.
 
-#### Autenticador Digital Oficial de *Square Enix*.
+#### Autenticador Digital Oficial de *Square Enix*
 
 - Pulsamos en *Adjust Software Token (key ring tipe) settings*.
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/pass1uso/digital1.jpg" width="700" alt="digital1"/></p>
@@ -96,7 +96,7 @@ Tras completar esto, ya se mostrará la contraseña de 1 solo uso.
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/pass1uso/digital5.jpg" width="700" alt="digital5"/></p>
 
-#### Otros Autenticadores Digitales.
+#### Otros Autenticadores Digitales
 
 - Pulsamos en *Adjust Software Token (key ring tipe) settings*.
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/pass1uso/digital1.jpg" width="700" alt="digital1"/></p>
@@ -139,7 +139,7 @@ Una vez has añadido el **Autenticador** a tu cuenta de Final Fantasy XIV, siemp
 </div>
 <br/>
 
-### Beneficio dentro del juego: Teletransporte gratuito.
+### Beneficio dentro del juego: Teletransporte gratuito
 
 Cuando inicies sesión en el juego con una contraseña de 1 solo uso, tendrás la opción de designar un ***Aetheryte* de tu elección como destino gratuito**. Teletransportarse a este destino no te costará gils. Además, puedes cambiar tu destino gratuito tantas veces como quieras.
 
