@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El Escuadrón."
+title: "El Escuadrón"
 author: sharn
 categories: [ guías ]
 tags: [guías, escuadron, nuevos jugadores]
@@ -19,11 +19,11 @@ Para acceder al escuadrón tendrás que tener hecha la misión <a href="https://
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/cuartel.jpg" alt="cuartel"/></p>
 
-### Dentro del Cuartel.
+### Dentro del Cuartel
 
 Al entrar en el cuartel encontraremos todo lo necesario para organizar y controlar a nuestro escuadrón. Podremos reclutar distintos miembros los cuales los podremos entrenar o mandar de misiones.
 
-#### Reclutas.
+#### Reclutas
 
 Cuando vayamos jugando y completando objetivos dentro del juego se nos **unirán reclutas a nuestro escuadron**. Utilizando los *Enlistment Papers* (Papeles de Alistamiento) podremos saber cuales son los reclutas interesados y conocer su **raza** y su **clase**. Además podremos ver que cada recluta tiene unos **atributos** específicos que valoran sus cualidades físicas, mentales y tácticas. Hasta que no tengas **4 miembros** reclutados no podrás mandarlos de misión.
 
@@ -36,7 +36,7 @@ Hay muchos reclutas, de todas las clases y razas. Os dejamos esta <a href="https
 
 Los reclutas pueden cambiar de clase usando los libros ***Contemporary Warfare***. Estos libros se puede comprar por 3.000 Sellos de la compañía en el *Quatermaster* de tu facción. Cuando cambias la clase de un recluta, lo cambias por rol y al usar el libro, la clase será aleatoria dentro del rol elegido.
 
-#### Entrenar a los reclutas.
+#### Entrenar a los reclutas
 
 Los **atributos de escuadrón** son los puntos de estadísticas que tiene tu escuadron y se dividen en 3 tipos (como los atributos de los reclutas): físicos, mentales o tácticos. Para equilibrar estos atributos de escuadrón podrás hacer ***Training courses*** (Cursos de Entrenamiento). Los entrenamientos duran 1h (de tiempo real) y se puede entrenar a los reclutas 3 veces al día. Con las misiones de entrenamiento mejoraremos uno o dos de los atributos restando estos puntos de los no entrenados. Además del equilibrio de los atributos, estas misiones darán **2000 puntos de experiencia** a todos los miembros del escuadrón. 
 
@@ -90,7 +90,7 @@ Además de las misiones para equilibrar atributos, hay una séptima opción que 
 
 Cuando organices un entrenamiento, se unirán a este todos los reclutaas que no estén en misiones activas. Cuando el entrenamiento haya acabado, tendrás que interactuar con el **Tablero del Régimen** para completar el entrenamiento.
 
-#### Enviar al escuadrón de misiones.
+#### Enviar al escuadrón de misiones
 
 Cuando consigas 4 reclutas podrás mandarlos de misión hablando con el *Squadron Sergeant* (Sargento del Escuadrón) mediante la opción ***Squadron Missions*** (Misiones del Escuadrón). Así tus reclutas ganarán experiencia y subirán de nivel.
 
@@ -107,7 +107,7 @@ Cuando la misión haya acabado, interactuas con el ***Regimen Board*** (Tablero 
 
 Aunque tengas los 8 reclutas, podrás mandar solo 1 misión a la vez y si quieres poner a trabajar al resto de los reclutas, pues los entrenas.
 
-##### Química del escuadrón.
+##### Química del escuadrón
 
 Cada recluta puede tener una o dos bonificaciones llamadas **Química** (*Chemistry* en inglés). La química le da al recluta una bonificación especial al cumplir cierto requisito. Estos requisitos son muy variados pudiendo ser desde ir de misión con alguna raza o clase específica o llegar a cierto nivel. 
 
@@ -122,7 +122,7 @@ Algunos reclutas ya tienen **Química** cuando solicitan unirse a tu escuadrón.
 Ciertas misiones tienen ***Mission Affinity*** (Afinidad en la Misión). Como ejemplo de afinidad puede ser que hayan unas profesiones o unas razas más adecuadas para completar esta misión. Si envías a un recluta a esa misión que tiene una afinidad aplicable, potenciarás la química de los reclutas.
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/mision10.jpg" alt="mision10"/></p>
 
-### Niveles los reclutas y tipos de misiones.
+### Niveles los reclutas y tipos de misiones
 
 Cada vez que los reclutas vuelven de misiones o completan el entrenamiento, **ganan niveles incrementando además sus atributos**. Los tipos de misiones que podrás mandar al escuadrón son las siguientes:
 
@@ -140,7 +140,7 @@ Para completar las <b>Flagged Missions</b> (Misiones Marcadas) deberás tener lo
 Cuando hayas hecho 5 Misiones de Mando podrás completar la misión Flagged Mission: Sapper Strike que, tras completarla, subirás a Capitán (Captain en inglés) de tu Gran Compañía siendo este el máximo rango que se puede conseguir actualmente.
 </blockquote>
 
-#### *Command Missions* (Misiones de Mando).
+#### *Command Missions* (Misiones de Mando)
 
 Las ***Command Missions*** (Misiones de Mando) permiten a los jugadores ir a Mazmorras (*Dungeons* en inglés) con miembros de tu escuadrón. La primera mazmorra que tendremos acceso mediantes esta mecánica es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/duty/98319325b98/" target="_blank" class="eorzeadb_link">Halatali</a> a nivel 20.
 
@@ -336,7 +336,7 @@ Para hacer estas **Misiones de Mando** se habrá que entregar ***Company Seals**
 A partir de la mazmorra The Wanderer's Palace se pedirá un nivel de equipo mínimo de 110 por parte del jugador, para la mazmorra The Fractal Continuum se pedirá 210 y para Pharos Sirius (Hard) se pedirá 240.
 </blockquote>
 -->
-#### *Priority Missions* (Misiones Prioritarias).
+#### *Priority Missions* (Misiones Prioritarias)
 
 Las ***Priority Missions*** (Misiones Prioritarias) son las misions que se desbloquean cuando un recluta llega a nivel 40 del escuadrón y se completa la **Misión Marcada** *Flagged Mission: Crystal Recovery*. Estas misiones solo se pueden completar **1 vez por semana** y se recomienda que los rangos de los tres atributos estén en verde. El listado de las Misiones Prioritarias se reinicia semanalmente.
 

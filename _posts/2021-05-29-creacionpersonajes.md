@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guía sobre creación de personajes en Final Fantasy XIV."
+title:  "Guía sobre creación de personajes en Final Fantasy XIV"
 author: sharn
 categories: [ guías ]
 tags: [nuevos jugadores, guías]

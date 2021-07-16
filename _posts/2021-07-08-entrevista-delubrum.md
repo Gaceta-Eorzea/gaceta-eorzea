@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Completado Delubrum Savage."
+title: "Completado Delubrum Savage"
 author: cecile
 categories: [ entrevistas ]
 tags: [entrevistas, "end game", "comunidad"]

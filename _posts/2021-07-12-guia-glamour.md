@@ -49,7 +49,7 @@ Podremos también quitar un ***Glamour*** de una pieza en la misma ventana eligi
 
 Tanto los <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/" target="_blank" class="eorzeadb_link">Glamour Prism</a> como los <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/" target="_blank" class="eorzeadb_link">Glamour Dispeller</a> se pueden comprar por **Sellos de la Gran Compañía**, en **tablón del Mercado** e incluso **fabricándolos** con los trabajos de artesanía.
 
-### Tintes.
+### Tintes
 
 La mayoría de piezas permiten ser teñidas, para eso podemos usar **Tintes**. Estos tintes se puede conseguir comprándolos en distintos **vendedores**, **creándolos con profesiones de artesanía**, o al realizar contenido dentro del juego como **instancias** o **misiones**.
 

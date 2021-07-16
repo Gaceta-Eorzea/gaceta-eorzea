@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concurso Captura de Pantalla de la Prueba de Rendimiento de Endwalker."
+title: "Concurso Captura de Pantalla de la Prueba de Rendimiento de Endwalker"
 author: sharn
 categories: [ noticias ]
 tags: [captura pantalla, concurso, benchmark]
@@ -11,7 +11,7 @@ hidden: false
 ---
 Con la salida de la **Prueba de Rendimiento**, *Square Enix* ha propuesto a la comunidad un <a href="https://eu.finalfantasyxiv.com/lodestone/topics/detail/2b51b9cf7cd4f5b765c4dbd64c273335bdb5dfa9" target="_blank">concurso</a>  basado en lo que podemos hacer dentro de la prueba. Es muy fácil participar y desde la Gaceta animamos a todos a hacerlo. La fecha límite para participar es el **26 de julio de 2021**.
 
-### Formas de Participar.
+### Formas de Participar
 
 Para participar, sencillamente hay bajarse la <a href="https://eu.finalfantasyxiv.com/benchmark/" target="_blank">Prueba de rendimiento</a> y sacar una **captura de pantalla**. La captura tiene que mostrar alguna de las siguientes opciones:
 
@@ -21,11 +21,11 @@ Para participar, sencillamente hay bajarse la <a href="https://eu.finalfantasyxi
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/concursocaptura/vmale1.jpg" width="750" alt="viera male"/></p>
 
-#### Procedimiento para Participar.
+#### Procedimiento para Participar
 
 Para participar tendrás que hacerlo a través de **Twitter** poniendo un tweet indicando los siguientes campos dependiendo del tipo de captura que hemos hecho.
 
-##### Captura Viera Macho.
+##### Captura Viera Macho
 
 La plantilla para el tweet si tu captura es de un **viera macho** es la siguiente:
 
@@ -43,7 +43,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/concursocaptura/direccion.jpg" alt="direccion"/></p>
 </blockquote>
 
-##### Captura Puntuación.
+##### Captura Puntuación
 
 La plantilla si la captura elegida es una **puntuación** es la siguiente:
 

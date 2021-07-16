@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guía sobre la prueba gratuita de Final Fantasy XIV."
+title:  "Guía sobre la prueba gratuita de Final Fantasy XIV"
 author: sharn
 categories: [ guías ]
 tags: [nuevos jugadores, guías, prueba gratuita]
@@ -12,7 +12,7 @@ hidden: false
 
 Una de las dudas que tenemos al empezar a jugar es hasta cuando podré jugar sin hacer un desembolso económico. Con este artículo vamos a intentar resolver las dudas que salgan sobre la prueba gratuita de Final Fantasy XIV y la creación de una cuenta para empezar a utilizar este servicio.
 
-# Creación de una cuenta Square Enix y links para bajar el juego.
+# Creación de una cuenta Square Enix y links para bajar el juego
 
 Para poder acceder a la **prueba gratuita** de Final Fantasy XIV, lo primero que tienes que hacer es crearte una [cuenta de Square Enix](https://secure.square-enix.com/oauth/oa/registligt?response_type=code&redirect_uri=https%3A%2F%2Fsecure.square-enix.com%2Faccount%2Fapp%2Fsvc%2Ftop%3Frequest%3Dmogstation&client_id=ffxiv_mog&lang=en-us){:target="_blank"} Esta es la cuenta que vas a utilizar para descargar el juego. Desde Gaceta Eorzea te vamos a dejar los links para descargar el juego dependiendo de la plataforma que elijas:
 
@@ -23,7 +23,7 @@ Para poder acceder a la **prueba gratuita** de Final Fantasy XIV, lo primero que
 
 Una vez descargado el juego, tendrás que introducir de nuevo los datos de la cuenta de Square Enix que has creado y ya podrás empezar a jugar a Final Fantasy XIV.
 
-# Términos y condiciones de la prueba gratuita de Final Fantasy XIV.
+# Términos y condiciones de la prueba gratuita de Final Fantasy XIV
 
 El resumen de estos términos sería que un jugador nuevo puede llegar a vivir todos los acontecimientos hasta la primera expansión *Heavensward* llegando como máximo a **nivel 60**. Además no tendrán acceso a las **razas, clases y profesiones que requieran expansiones posteriores a *Heavensward***. 
 

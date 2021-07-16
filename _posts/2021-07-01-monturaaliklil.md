@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Como conseguir la montura Al-Iklil."
+title: "Como conseguir la montura Al-Iklil"
 author: sharn
 categories: [ monturas ]
 tags: [montura, "Save the Queen*"]
@@ -11,7 +11,7 @@ hidden: false
 ---
 La montura **Al-Iklil** es una montura que se ha introducido en **Final Fantasy XIV** con el parche 5.55. Es una **montura doble** bastante espectacular ya que es una **¡bicicleta voladora!**.
 
-### Como conseguir la montura.
+### Como conseguir la montura
 
 Esta montura la conseguirás cuando completes el logro de exploración [A Complete History](hhttps://na.finalfantasyxiv.com/lodestone/playguide/db/achievement/0fd087a8a89/){:target="_blank" class="eorzeadb_link"}. Para conseguir este logro, tendremos que conseguir otros 3 logros que son los siguientes:
 
@@ -21,13 +21,13 @@ Esta montura la conseguirás cuando completes el logro de exploración [A Comple
 
 - [Annals of Liberation](https://na.finalfantasyxiv.com/lodestone/playguide/db/achievement/c4d43ba5311/){:target="_blank" class="eorzeadb_link"}: Consigue todas las notas de campo de ***Zadnor***.
 
-### Notas de Campo.
+### Notas de Campo
 
 Las **notas de campo** (*Field Notes* en inglés) son unos items que aparecen en tu inventario de forma aleatoria cuando matas a determinados enemigos o cuando completes la línea de misiones el contenido de ***Save the Queen***. 
 
 Para la montura **Al-Iklil** nos interesan las notas de campo de las zonas **frente sur de Bozjan** (*The Bozjan Southern Front* en inglés), ***Delubrum Reginae*** y ***Zadnor*** siendo en total **50 notas de campo**.
 
-#### Frente sur de Bozjan (*The Bozjan Southern Front* en inglés).
+#### Frente sur de Bozjan (*The Bozjan Southern Front* en inglés)
 
 Las primeras notas las encontraremos en el frente sur de Bozjan. Habrá que completar distintas actividades y derrotar muchos NPCs. Tras derrotarlos, pueden soltar como recompensa distintas notas de campo. El listado de los encuentros y los NPCs es el siguiente:
 
@@ -73,7 +73,7 @@ Las primeras notas las encontraremos en el frente sur de Bozjan. Habrá que comp
 - 14: ***Of Steel and Flame***: Sartauvoir Quo Soranus
 - 17: ***Beast of Man***: Lyon Rem Helsos
 
-#### Misiones de historia ***Save the Queen***.
+#### Misiones de historia ***Save the Queen***
 
 Las siguientes notas de campo nos las darán como recompensas de la línea de mísiones ***Save the Queen***. Las misiones a completar son las siguientes:
 
@@ -85,7 +85,7 @@ Las siguientes notas de campo nos las darán como recompensas de la línea de m�
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/monturaaliklil/m1.jpg" width="750" alt="m1"/></p>
 
-#### Castrum Lacus Litore y Delubrium Reginae.
+#### Castrum Lacus Litore y Delubrium Reginae
 
 Cuando los jugadores alcancen el rango 10 y completen toda la línea de misiones de ***Save the Queen*** podrán enfrentarse a incursiones a gran escala de 24 y 48 jugadores en ***Castrum Lacus Litore*** y ***Delubrium Reginae***. En estas incursiones, al derrotar a cada jefe conseguiremos un cofre de botín y en cada cofre tendremos la posibilidad de conseguir las siguientes notas de campo:
 
@@ -101,7 +101,7 @@ Los bosses de ***Delubrium Reginae*** podrán soltar las siguientes notas de cam
 - 29: ***Trinity Avowed***
 - 30: ***Save The Queen***
 
-#### Zadnor.
+#### Zadnor
 
 En el mapa de ***Zadnor*** podremos encontrar las siguientes notas de campo completando sus distintas actividades y derrotando NPCs. La lista es la siguiente:
 
@@ -144,7 +144,7 @@ En el mapa de ***Zadnor*** podremos encontrar las siguientes notas de campo comp
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/monturaaliklil/m2.jpg" width="750" alt="m2"/></p>
 
-##### Dalriada.
+##### Dalriada
 
 **Dalriada** es una incursión a gran escala para aquellos jugadores que hayan conseguido alcanzar el **Rango 25**. En esta incursión, al derrotar los jefes y abrir los cofres de recompensa tendremos la posibilidad de conseguir las siguientes notas de campo:
 

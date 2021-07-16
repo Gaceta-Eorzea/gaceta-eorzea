@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guía de introducción a los tipos de instancia en PvE."
+title:  "Guía de introducción a los tipos de instancia en PvE"
 author: cecile
 categories: [ guías ]
 tags: [nuevos jugadores, guías, instancias]
@@ -40,7 +40,7 @@ Ahora que conocemos los tipos de grupo y como nos sincronizamos veamos que tipo 
 
 - **Incursión**, Raid en inglés, son un contenido para Grupos Completos, donde nos enfrentaremos a un enemigo poderoso, suelen tener varias fases y mecánicas complejas. Existen dos modos de dificultad *Normal* y *Salvaje*, Savage en inglés, el cual es el modo mas complicado del juego y el que otorga el mejor nivel de equipo. Suelen tener 4 partes que se pueden hacer de forma independiente. Cada jefe proporciona piezas canjeables de equipo o armas en su cofre. A nivel máximo podemos obtener un objeto por cada parte de la incursión a la semana, pero las que no son contenido actual no tienen esa restricción. Aunque la primera que podemos desbloquear es de nivel 50 esta se considera opcional y la mayoría de jugadores hacen las de nivel 60 o superior.
 
-- **Incursión de Alianzas**, Alliance Raid en ingles, son incursiones para 24 jugadores donde nos enfrentaremos a múltiples jefes en localizaciones majestuosas. Suelen estar compuestas por 3 partes y podremos hacerla de forma independiente. Suelen tener un trasfondo de historia muy importante en cada expansión. La primera la podremos desbloquear a nivel 50. Suelen ser de una dificultad simple, aún así es fácil que muramos en mecanicas las primeras veces que las hagamos. Cada jefe proporciona piezas de un set y cada Grupo Completo tiene su propio cofre. A nivel máximo podemos obtener una pieza por cada parte a la semana, pero las que no son contenido actual no tienen esa restricción.
+- **Incursión de Alianzas**, Alliance Raid en ingles, son incursiones para 24 jugadores donde nos enfrentaremos a múltiples jefes en localizaciones majestuosas. Suelen estar compuestas por 3 partes y podremos hacerla de forma independiente. Suelen tener un trasfondo de historia muy importante en cada expansión. La primera la podremos desbloquear a nivel 50. Suelen ser de una dificultad simple, aún así es fácil que muramos en mecánicas las primeras veces que las hagamos. Cada jefe proporciona piezas de un set y cada Grupo Completo tiene su propio cofre. A nivel máximo podemos obtener una pieza por cada parte a la semana, pero las que no son contenido actual no tienen esa restricción.
 
 - **Última**, Ultimate en inglés, son un contenido especial en el juego donde los desarrolladores habilitan ciertos encuentros del pasado, Incursiones o Desafíos, a realizar a máximo nivel, 80 ahora mismo. Suelen ser muy difíciles de hacer pero la recompensa es sólo estética con las armaduras y armas más espectaculares del juego. Solo algunos encuentros Ultima están disponibles durante un tiempo haciéndolos aún más un contenido especial a hacer.
 
@@ -64,7 +64,7 @@ Adicionalmente el loot las instancias a partir de cierto nivel empezaran a otorg
 
 A máximo nivel podremos obtener los tomos que nos permiten llegar a un nivel de objeto un poco inferior a las incursiones salvajes.
 
-## Elogios
+### Elogios
 
 ![elogio](/assets/images/articles/guias/instancias/comendation.jpg)
 

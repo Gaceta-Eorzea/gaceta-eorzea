@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Descuento del 60% en The Complete Edition - Final Fantasy XIV tanto en PC como en las versiones de PlayStation."
+title:  "Descuento del 60% en The Complete Edition - Final Fantasy XIV tanto en PC como en las versiones de PlayStation"
 author: sharn
 categories: [ noticias ]
 tags: [noticias, descuento]

@@ -11,7 +11,7 @@ hidden: false
 ---
 Si eres nuevo en Final Fantasy XIV en este artículo te vamos a enseñar todas las razas jugables que vas a encontrar dentro del juego.
 
-## Razas jugables.
+## Razas jugables
 
 Final Fantasy XIV tiene ocho razas jugables: **Hyur**, **Elezen**, **Lalafell**, **Miqo'te**, **Roegadyn**, **Au'Ra**, **Viera** y **Hrothgar**. Además cada raza tiene dos clanes que los diferencian sobre todo visualmente.
 
@@ -48,6 +48,7 @@ Los clanes de los Miqo'te se dividen en **Seekers of the Sun** y **Keepers of th
 ![Miqote](/assets/images/articles/guias/guiarazas2/miqote.png)
 
 #### Roegadyn
+
 Los *Roegadyn* son fornidos humanoides que se les distinguen desde lejos. Son descendientes de los marineros de los duros mares del norte. Muchas de las otras razas los consideran una raza de bárbaros.
 
 Los Roegadyn se dividen en **Sea Wolves** y **Hellsguard**.

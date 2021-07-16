@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Colaboración de FFXIV y Twitch."
+title: "Colaboración de FFXIV y Twitch"
 author: cecile
 categories: [ noticias ]
 tags: [noticias, twitch]
@@ -45,7 +45,7 @@ Desde el jueves 24 de Junio, a las 20:00, hasta el 24 de agosto, recibiremos dis
 
 <p align="center"><img src="/assets/images/articles/noticias/ffxiv_twitch/black_chocobo.png" width="500"></p>
 
-### Como participar.
+### Como participar
 
 - Conéctate con tu cuenta de **Twitch**.
 - **Visita** uno de los canales elegidos.
@@ -55,7 +55,7 @@ Desde el jueves 24 de Junio, a las 20:00, hasta el 24 de agosto, recibiremos dis
 Las suscripciones cuenta de forma acumulativa durante el tiempo de la promoción.
 </blockquote> 
 
-### Como obtener tu recompensa.
+### Como obtener tu recompensa
 
 Tras regalar las suscripciones recibirás un mensaje en la **bandeja de twitch** y este mensaje contendrá el **código** para reclamar el objeto en tu cuenta de **Final Fantasy XIV**.
 

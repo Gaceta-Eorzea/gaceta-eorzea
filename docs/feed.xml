@@ -5,6 +5,7 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Fri, 16 Jul 2021 13:22:54 +0100</pubDate>
     <lastBuildDate>Fri, 16 Jul 2021 13:22:54 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
@@ -50,6 +51,14 @@ Esta semana os recomendamos completar el fashion report el lunes 19 ya que es cu
     
       <item>
         <title>Guía para obtener y gestionar tus Retainers.</title>
+=======
+    <pubDate>Fri, 16 Jul 2021 00:45:29 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Jul 2021 00:45:29 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Guía para obtener y gestionar tus Retainers</title>
+>>>>>>> f55473c3bce281d2f80501b88546f7b933078b7e
         <description>&lt;p&gt;Los &lt;strong&gt;&lt;em&gt;Retainers&lt;/em&gt;&lt;/strong&gt; (Asistentes) son unos NPCs que nos darán un &lt;strong&gt;inventario adicional&lt;/strong&gt;, equivalente a un &lt;strong&gt;banco&lt;/strong&gt; en otros juegos, y que nos servirán para poner objetos en el &lt;strong&gt;tablón del mercado&lt;/strong&gt;, la &lt;strong&gt;subasta&lt;/strong&gt; en FFXIV. Finalmente los podemos usar para enviarlos a &lt;strong&gt;misiones&lt;/strong&gt;, las cuales nos proporcionaran muchos &lt;strong&gt;objetos interesantes&lt;/strong&gt;. Hay que indicar que &lt;strong&gt;no&lt;/strong&gt; pueden ser utilizados por los jugadores que estén con el &lt;strong&gt;&lt;em&gt;Free Trial&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;cómo-desbloquear-nuestros-retainers&quot;&gt;Cómo desbloquear nuestros &lt;em&gt;Retainers&lt;/em&gt;&lt;/h3&gt;
@@ -159,6 +168,10 @@ Esta semana os recomendamos completar el fashion report el lunes 19 ya que es cu
 &lt;p&gt;Tras hablar con tu asistente puedes elegir la la opción &lt;strong&gt;&lt;em&gt;View retainer attributes and gear.&lt;/em&gt;&lt;/strong&gt; podrás ponerle equipo que tengas en tu inventario o cofre de equipo y que se ajuste a su nivel y clase o profesión.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaretainer/equipo.jpg&quot; alt=&quot;equipo&quot; /&gt;
+<<<<<<< HEAD
+=======
+&lt;br /&gt;
+>>>>>>> f55473c3bce281d2f80501b88546f7b933078b7e
 &lt;sub&gt;&lt;sup&gt;Equipo del Asistente.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;mandarlo-de-misiones-a-nuestro-asistente&quot;&gt;Mandarlo de Misiones a nuestro asistente&lt;/h3&gt;
@@ -183,7 +196,11 @@ Esta semana os recomendamos completar el fashion report el lunes 19 ya que es cu
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Misiones de campo&lt;/strong&gt; duran 1 hora y nos traerán un material en concreto según el tipo que elijamos, limitado a la clase o profesión de nuestro asistente:
     &lt;ul&gt;
+<<<<<<< HEAD
       &lt;li&gt;&lt;em&gt;Hunting&lt;/em&gt; - Disciplinas de la guerra o de la magia**: Te traerán objetos que se obtienen de enemigos.&lt;/li&gt;
+=======
+      &lt;li&gt;&lt;em&gt;Hunting&lt;/em&gt; - Disciplinas de la guerra o de la magia: Te traerán objetos que se obtienen de enemigos.&lt;/li&gt;
+>>>>>>> f55473c3bce281d2f80501b88546f7b933078b7e
       &lt;li&gt;&lt;em&gt;Mining&lt;/em&gt;: Traerán objetos de minería.&lt;/li&gt;
       &lt;li&gt;&lt;em&gt;Botany&lt;/em&gt;: Traerán objetos botánicos.&lt;/li&gt;
       &lt;li&gt;&lt;em&gt;Fishing&lt;/em&gt;: Traerán objetos de pesca.&lt;/li&gt;
@@ -191,7 +208,11 @@ Esta semana os recomendamos completar el fashion report el lunes 19 ya que es cu
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
+<<<<<<< HEAD
         <pubDate>Thu, 15 Jul 2021 00:00:00 +0100</pubDate>
+=======
+        <pubDate>Thu, 15 Jul 2021 00:00:00 +0200</pubDate>
+>>>>>>> f55473c3bce281d2f80501b88546f7b933078b7e
         <link>https://gaceta-eorzea.com/retainer/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/retainer/</guid>
         
@@ -287,7 +308,7 @@ No eran tan diferentes como querían creer.&lt;/p&gt;
 &lt;p&gt;No, no eran tan diferentes como querían creer.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 15 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 15 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/estela/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/estela/</guid>
         
@@ -321,7 +342,7 @@ No eran tan diferentes como querían creer.&lt;/p&gt;
 &lt;sub&gt;&lt;sup&gt;Emote Vexed&lt;/sup&gt;&lt;/sub&gt;
 &lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 12 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/make-it-rainn/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/make-it-rainn/</guid>
         
@@ -378,7 +399,7 @@ No eran tan diferentes como querían creer.&lt;/p&gt;
 
 &lt;p&gt;Tanto los &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Glamour Prism&lt;/a&gt; como los &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Glamour Dispeller&lt;/a&gt; se pueden comprar por &lt;strong&gt;Sellos de la Gran Compañía&lt;/strong&gt;, en &lt;strong&gt;tablón del Mercado&lt;/strong&gt; e incluso &lt;strong&gt;fabricándolos&lt;/strong&gt; con los trabajos de artesanía.&lt;/p&gt;
 
-&lt;h3 id=&quot;tintes&quot;&gt;Tintes.&lt;/h3&gt;
+&lt;h3 id=&quot;tintes&quot;&gt;Tintes&lt;/h3&gt;
 
 &lt;p&gt;La mayoría de piezas permiten ser teñidas, para eso podemos usar &lt;strong&gt;Tintes&lt;/strong&gt;. Estos tintes se puede conseguir comprándolos en distintos &lt;strong&gt;vendedores&lt;/strong&gt;, &lt;strong&gt;creándolos con profesiones de artesanía&lt;/strong&gt;, o al realizar contenido dentro del juego como &lt;strong&gt;instancias&lt;/strong&gt; o &lt;strong&gt;misiones&lt;/strong&gt;.&lt;/p&gt;
 
@@ -449,7 +470,7 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
 
 &lt;p&gt;Con esto hemos acabado nuestra primera guía de glamour, espero que os haya gustado.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 12 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guia-glamour/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-glamour/</guid>
         
@@ -475,7 +496,7 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 11 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/zlabyrinth/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/zlabyrinth/</guid>
         
@@ -501,7 +522,7 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 11 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/viaje-sin-fin-7/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-7/</guid>
         
@@ -517,10 +538,10 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
       </item>
     
       <item>
-        <title>Concurso Captura de Pantalla de la Prueba de Rendimiento de Endwalker.</title>
+        <title>Concurso Captura de Pantalla de la Prueba de Rendimiento de Endwalker</title>
         <description>&lt;p&gt;Con la salida de la &lt;strong&gt;Prueba de Rendimiento&lt;/strong&gt;, &lt;em&gt;Square Enix&lt;/em&gt; ha propuesto a la comunidad un &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/2b51b9cf7cd4f5b765c4dbd64c273335bdb5dfa9&quot; target=&quot;_blank&quot;&gt;concurso&lt;/a&gt;  basado en lo que podemos hacer dentro de la prueba. Es muy fácil participar y desde la Gaceta animamos a todos a hacerlo. La fecha límite para participar es el &lt;strong&gt;26 de julio de 2021&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;formas-de-participar&quot;&gt;Formas de Participar.&lt;/h3&gt;
+&lt;h3 id=&quot;formas-de-participar&quot;&gt;Formas de Participar&lt;/h3&gt;
 
 &lt;p&gt;Para participar, sencillamente hay bajarse la &lt;a href=&quot;https://eu.finalfantasyxiv.com/benchmark/&quot; target=&quot;_blank&quot;&gt;Prueba de rendimiento&lt;/a&gt; y sacar una &lt;strong&gt;captura de pantalla&lt;/strong&gt;. La captura tiene que mostrar alguna de las siguientes opciones:&lt;/p&gt;
 
@@ -535,11 +556,11 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/vmale1.jpg&quot; width=&quot;750&quot; alt=&quot;viera male&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;procedimiento-para-participar&quot;&gt;Procedimiento para Participar.&lt;/h4&gt;
+&lt;h4 id=&quot;procedimiento-para-participar&quot;&gt;Procedimiento para Participar&lt;/h4&gt;
 
 &lt;p&gt;Para participar tendrás que hacerlo a través de &lt;strong&gt;Twitter&lt;/strong&gt; poniendo un tweet indicando los siguientes campos dependiendo del tipo de captura que hemos hecho.&lt;/p&gt;
 
-&lt;h5 id=&quot;captura-viera-macho&quot;&gt;Captura Viera Macho.&lt;/h5&gt;
+&lt;h5 id=&quot;captura-viera-macho&quot;&gt;Captura Viera Macho&lt;/h5&gt;
 
 &lt;p&gt;La plantilla para el tweet si tu captura es de un &lt;strong&gt;viera macho&lt;/strong&gt; es la siguiente:&lt;/p&gt;
 
@@ -559,7 +580,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/direccion.jpg&quot; alt=&quot;direccion&quot; /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h5 id=&quot;captura-puntuación&quot;&gt;Captura Puntuación.&lt;/h5&gt;
+&lt;h5 id=&quot;captura-puntuación&quot;&gt;Captura Puntuación&lt;/h5&gt;
 
 &lt;p&gt;La plantilla si la captura elegida es una &lt;strong&gt;puntuación&lt;/strong&gt; es la siguiente:&lt;/p&gt;
 
@@ -623,7 +644,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
 
 &lt;p&gt;Se seleccionarán &lt;strong&gt;1400 ganadores&lt;/strong&gt; y las notificaciones se harán a través de &lt;strong&gt;correo electrónico&lt;/strong&gt; o del &lt;strong&gt;servicio de correo &lt;em&gt;moogle&lt;/em&gt;&lt;/strong&gt; dentro de &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt; más o menos el día &lt;strong&gt;10 de septiembre de 2021&lt;/strong&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 11 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/concurso-captura/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/concurso-captura/</guid>
         
@@ -953,7 +974,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
 
 &lt;p&gt;&lt;strong&gt;Con esto hemos terminado nuestro “Resumen”, espero que os haya gustado, no olvidéis comentar al final de la pagina.&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 10 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 10 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/7_special_14h/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/7_special_14h/</guid>
         
@@ -1003,7 +1024,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 09 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 09 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210709/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210709/</guid>
         
@@ -1018,5 +1039,77 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
         
       </item>
     
+<<<<<<< HEAD
+=======
+      <item>
+        <title>Campaña de Acceso Gratuito</title>
+        <description>&lt;p&gt;&lt;strong&gt;Square Enix&lt;/strong&gt; ha activado una &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/special/freelogincampaign/&quot; target=&quot;_blank&quot;&gt;Campaña de Acceso Gratuito&lt;/a&gt; a &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt;. Con esta campaña los jugadores que lleven tengan la cuenta inactiva desde hace más de 30 días podrán conectar de forma gratuita.&lt;/p&gt;
+
+&lt;h3 id=&quot;requisitos-para-acceder-a-la-campaña-de-acceso-gratuito&quot;&gt;Requisitos para acceder a la Campaña de Acceso Gratuito&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Haber tenido el juego comprado y registrado previamente.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tener la suscripción inactiva desde hace más de 30 días y mantenerla inactiva durante todo el período de la campaña.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;b&gt;Todos estos Requisitos los puedes comprobar desde tu cuenta&lt;/b&gt; &lt;a href=&quot;https://sqex.to/Msp?utm_source=lodestone&amp;amp;utm_medium=pc_banner&amp;amp;utm_campaign=na_mogstation&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/ffxiv_twitch/mog.png&quot; height=&quot;75&quot; /&gt;&lt;/a&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;acceder-a-la-campaña-de-acceso-gratuito&quot;&gt;Acceder a la Campaña de Acceso Gratuito&lt;/h3&gt;
+
+&lt;p&gt;Una vez has comprobado que cumples los requisitos, solo tendrás que acceder desde &lt;em&gt;Launcher&lt;/em&gt; del juego. La campaña está activa desde hoy, día 9 de julio de 2021, hasta el 23 de agosto.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/accesogratuito0721/launcher.jpg&quot; width=&quot;800&quot; alt=&quot;launcher&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Launcher Final Fantasy XIV&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p&gt;El período de acceso gratuito es de &lt;strong&gt;14 días&lt;/strong&gt; y comenzará en el instante en que accedas a tu cuenta desde el &lt;em&gt;launcher&lt;/em&gt;. Para descargar el juego, os dejamos los siguientes enlaces:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://freetrial.finalfantasyxiv.com/es/&quot; target=&quot;_blank&quot;&gt;Descarga PC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eu.finalfantasyxiv.com/mac/download/&quot; target=&quot;_blank&quot;&gt;Descarga Mac&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/312060/FINAL_FANTASY_XIV_Online_Free_Trial/&quot; target=&quot;_blank&quot;&gt;Descarga Steam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://store.playstation.com/es-es/product/EP0082-PPSA02955_00-FFXIVFREETRIAL01&quot; target=&quot;_blank&quot;&gt;Descarga PlayStation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;aclaraciones-sobre-la-campaña-de-acceso-gratuito&quot;&gt;Aclaraciones sobre la Campaña de Acceso Gratuito&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Los 14 días de acceso gratuito irán gastándose independientemente de si juegas o no juegas.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Si un jugador tiene varias cuentas registradas en una &lt;strong&gt;cuenta mog station&lt;/strong&gt; no podrá acceder a la campaña si una sola de esas cuentas está activa.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No podrás beneficiarte si tu cuenta ha sido &lt;strong&gt;cancelada&lt;/strong&gt; o &lt;strong&gt;suspendida&lt;/strong&gt; por una violación del acuerdo de servicio.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Los jugadores que compren una suscripción durante los 14 días de acceso gratuito, &lt;strong&gt;perderán&lt;/strong&gt; los días restantes que le queden.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Fri, 09 Jul 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/accesogratuito/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/accesogratuito/</guid>
+        
+        <category>gratis</category>
+        
+        <category>acceso</category>
+        
+        <category>campaña</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
+    
+>>>>>>> f55473c3bce281d2f80501b88546f7b933078b7e
   </channel>
 </rss>
