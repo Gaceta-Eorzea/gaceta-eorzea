@@ -132,7 +132,7 @@ Cada vez que los reclutas vuelven de misiones o completan el entrenamiento, **ga
 
 - ***Command Missions*** (Misiones de Mando) - Desde nivel 20 a nivel 60. Para desbloquear estas misiones tienes que completar la **Misión Marcada** *Flagged Mission: Voidsent Elimination*.
 
-- ***Priority Missions*** (Misiones Prioritarias) - Desde nivel 40 a nivel 60. Para desbloquear estas misiones tienes que completar la **Misión Marcada** *Flagged Mission: Crystal Recovery*. Tras completar la misión, subirás al escuadrón a **Rango 3** y además subiras a **Teniente Primero** (*First Lieutenant* en inglés) en tu Gran Compañía. 
+- ***Priority Missions*** (Misiones Prioritarias) - Desde nivel 40 a nivel 60. Para desbloquear estas misiones tienes que completar la **Misión Marcada** *Flagged Mission: Crystal Recovery*. Tras completar la misión, subirás al escuadrón a **Rango 3** y además subirás a **Teniente Primero** (*First Lieutenant* en inglés) en tu Gran Compañía. 
 
 Para completar las <b>Flagged Missions</b> (Misiones Marcadas) deberás tener los valores de los 3 atributos en verde.
 
@@ -144,11 +144,11 @@ Cuando hayas hecho 5 Misiones de Mando podrás completar la misión Flagged Miss
 
 Las ***Command Missions*** (Misiones de Mando) permiten a los jugadores ir a Mazmorras (*Dungeons* en inglés) con miembros de tu escuadrón. La primera mazmorra que tendremos acceso mediantes esta mecánica es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/duty/98319325b98/" target="_blank" class="eorzeadb_link">Halatali</a> a nivel 20.
 
-Cuando complentas misiones de mando existe la posibilidad de que algún recluta gane un punto de Mestría. Estas maestrías potencian las tácticas de combate de los reclutas en las misiones de mando. Los puntos de maestría son exclusivos por táctica de combate y sólo podrás tener activa una táctica a la vez pudiendo cambiarla cada vez que quieras.
+Cuando completas misiones de mando existe la posibilidad de que algún recluta gane un punto de Mestría. Estas maestrías potencian las tácticas de combate de los reclutas en las misiones de mando. Los puntos de maestría son exclusivos por táctica de combate y sólo podrás tener activa una táctica a la vez pudiendo cambiarla cada vez que quieras.
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/escuadron/maestria.jpg" alt="maestria"/></p>
 <br/>
 
-Para hacer estas **Misiones de Mando** se habrá que entregar ***Company Seals*** (Sellos de la Compañía) y a partir de nivel 50 pedirá un mínimo de nivel de equipo para afrontar la misión de mando. 
+Para hacer estas **Misiones de Mando** se habrá que entregar ***Company Seals*** (Sellos de la Compañía) y a partir de nivel 50 pedirá un mínimo de nivel de equipo al jugador para afrontar la misión de mando. Como consejo extra, os recomendamos hacer las misiones de mando con 1 o 2 arqueros en vuestro grupo. 
 
 <!---
 <div class="container" style="font-size:13px">
