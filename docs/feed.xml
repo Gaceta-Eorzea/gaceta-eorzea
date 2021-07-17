@@ -5,9 +5,40 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Sat, 17 Jul 2021 21:49:54 +0200</pubDate>
     <lastBuildDate>Sat, 17 Jul 2021 21:49:54 +0200</lastBuildDate>
+=======
+    <pubDate>Sat, 17 Jul 2021 19:08:21 +0100</pubDate>
+    <lastBuildDate>Sat, 17 Jul 2021 19:08:21 +0100</lastBuildDate>
+>>>>>>> 3efe99c92cb6f3dadea232dd7271de6648647564
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>El Juglar Errante - Misión Secundaria</title>
+        <description>&lt;p&gt;En nuestras aventuras en Eorzea conocemos al Juglar Errante, el cual se encarga de relatar y cantar las historias mas importantes que pasan en nuestras aventuras por todo el reino.&lt;/p&gt;
+
+&lt;p&gt;En gaceta Eorzea hemos decidido tener nuestro propio Juglar el cual compartirá con nosotros las historias que nuestros aventureros han compartido.&lt;/p&gt;
+
+&lt;p&gt;Esta semana hemos hemos elegido el  video ‘Misión Secundaria’ que la creadora de contenido &lt;a href=&quot;https://twitter.com/zanekonpu&quot; target=&quot;_blank&quot;&gt;Zaneko&lt;/a&gt; compartió en su &lt;a href=&quot;https://www.youtube.com/c/ZANEKONPU/featured&quot; target=&quot;_blank&quot;&gt;canal&lt;/a&gt;. Este video es una gran historia que esperamos que os guste.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/uPNTicoMF38?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 17 Jul 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/juglar-06/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-06/</guid>
+        
+        <category>multimedia</category>
+        
+        <category>video</category>
+        
+        
+        <category>multimedia</category>
+        
+      </item>
     
       <item>
         <title>Fashion Report 16 Julio 2021</title>
@@ -967,6 +998,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
         
       </item>
     
+<<<<<<< HEAD
       <item>
         <title>Fashion Report 9 Julio 2021</title>
         <description>&lt;p&gt;Una semana mas &lt;a href=&quot;https://twitter.com/kaiyokostar&quot; target=&quot;_blank&quot;&gt;Kaiyoko Star&lt;/a&gt; ha publicado la solución para el Fashion Report, la cual podeis ver a continuacion.&lt;/p&gt;
@@ -1019,5 +1051,7 @@ Para conseguir la dirección URL de nuestro personaje tendremos que copiar la di
         
       </item>
     
+=======
+>>>>>>> 3efe99c92cb6f3dadea232dd7271de6648647564
   </channel>
 </rss>
