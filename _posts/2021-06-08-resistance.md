@@ -6,7 +6,7 @@ categories: [ guías ]
 tags: [guías, reliquias, ShB]
 image: assets/images/articles/relics/resistance/resistance.jpg
 description: "Guia completa de Armas Reliquia de Shadowbringers."
-featured: true
+featured: false
 hidden: false
 ---
 

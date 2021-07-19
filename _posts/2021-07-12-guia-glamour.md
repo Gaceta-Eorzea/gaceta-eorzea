@@ -6,7 +6,7 @@ categories: [ guías ]
 tags: [nuevos jugadores, guías]
 image: assets/images/articles/guias/guiaglamour/portada.jpg
 description: "Guía para principiantes de como usar el sistema Glamour."
-featured: false
+featured: true
 hidden: false
 ---
 El ***Glamour*** es el sistema que ***Final Fantasy XIV*** pone a nuestra disposición para **cambiar la apariencia de nuestro equipo.** En esta guía vamos a hacer una explicación introductoria de como usar este sistema.
