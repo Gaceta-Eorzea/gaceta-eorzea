@@ -5,9 +5,42 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Jul 2021 08:52:24 +0100</pubDate>
-    <lastBuildDate>Tue, 20 Jul 2021 08:52:24 +0100</lastBuildDate>
+    <pubDate>Tue, 20 Jul 2021 17:04:00 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Jul 2021 17:04:00 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Lore de las Razas de FFXIV: Todo sobre los Viera</title>
+        <description>&lt;p&gt;Los &lt;strong&gt;Viera&lt;/strong&gt;, la misteriosa raza de humanoides con grandes orejas leporinas y poderosas piernas, poco comunes en Eorzea hasta hace poco, se encuentran comúnmente en el sur del continente de Othard. Si bien la mayoría de su población vive aislada del resto de Hydaelyn ,en la Jungla de Golmore y la Cordillera de Skatay, en los últimos tiempos cada vez más han decidido dejar la seguridad del bosque para explorar el mundo.&lt;/p&gt;
+
+&lt;p&gt;Tras el polémico anuncio en la FanFest de Tokyo en 2019 de que las mujeres Viera (anunciadas previamente) no tendrían una contraparte masculina y, en cambio, se anunciase a los bestiales Hrothgar, la comunidad estuvo pidiendo a los desarrolladores qué estas dos razas, consideradas por muchos como inacabadas, tuvieran sus géneros perdidos.&lt;/p&gt;
+
+&lt;p&gt;Y así, de la nada en la Digital Fanfest de 2021, se anunciaron los &lt;strong&gt;Viera Masculinos&lt;/strong&gt;. Y el internet explotó tanto con defensores como detractores.&lt;/p&gt;
+
+&lt;p&gt;Como firme defensor de que cualquier jugador &lt;strong&gt;debería poder jugar&lt;/strong&gt; con la raza y género que mas se sintiese identificado, personalmente me alegré muchísimo y a causa de ello, decidí realizar el primer vídeo de la serie “Todo sobre las razas de FFXIV”.&lt;/p&gt;
+
+&lt;p&gt;A continuación os dejamos el &lt;strong&gt;vídeo sobre las Viera&lt;/strong&gt;, pero iremos añadiendo todas las razas para que podáis aprender más sobre su historia, cultura, sus nombres o su fisiología.&lt;/p&gt;
+
+&lt;p&gt;No olvidéis comentar el vídeo y suscribirse al &lt;a href=&quot;https://www.youtube.com/channel/UCLgSQnV6of5-0x568qWilNw&quot; target=&quot;_blank&quot;&gt;canal&lt;/a&gt; si os ha parecido interesante.&lt;/p&gt;
+
+&lt;p&gt;¡Guerreros de la luz, nos vemos en Eorzea!&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/7uSssHAegaA?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 20 Jul 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/vieras/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/vieras/</guid>
+        
+        <category>lore</category>
+        
+        <category>razas</category>
+        
+        
+        <category>lore</category>
+        
+      </item>
     
       <item>
         <title>Resumen de las notas del parche 5.58</title>
@@ -88,7 +121,7 @@ En un esfuerzo de aliviar la congestión de los servidores, los &lt;b&gt;jugador
   &lt;li&gt;Hay multiples ajuste en las potencias de las habilidades en JcJ para ver el detalle revisar las notas &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/f2fcee891e2ed93dacdf6410b29cf1dbf7bedbcf&quot; target=&quot;_blank&quot;&gt;oficiales&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 20 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 20 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/resumen-5-58/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/resumen-5-58/</guid>
         
@@ -100,6 +133,128 @@ En un esfuerzo de aliviar la congestión de los servidores, los &lt;b&gt;jugador
         
         
         <category>parches</category>
+        
+      </item>
+    
+      <item>
+        <title>Sistema de Cambio de Mundos</title>
+        <description>&lt;p&gt;Seguramente muchas de las veces que hemos intentado entrar a jugar al Final Fantasy XIV &lt;strong&gt;hemos visto que hay cola&lt;/strong&gt;, esto a veces puede ser un &lt;strong&gt;problema&lt;/strong&gt;, sobre todo en momentos de gran afluencia como en salida de parche y expansiones.  En la guía de hoy vamos a hablar de como podemos &lt;strong&gt;solventar este problema&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/cambioservidores/ffxiv-login-queue.jpg&quot; width=&quot;600&quot; alt=&quot;visitar&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Cola de entrada al Mundo.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+Si tenemos una cuenta de prueba cuando el mundo este lleno del todo no nos dejara entrar al mismo, aunque veremos como solucionarlo.
+&lt;/blockquote&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/cambioservidores/free.jpg&quot; width=&quot;600&quot; alt=&quot;visitar&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Mensaje con el mundo lleno y cuenta de prueba&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;viajar-entre-mundos-servidores&quot;&gt;Viajar entre mundos (servidores)&lt;/h3&gt;
+
+&lt;p&gt;Primero vamos a entender como &lt;strong&gt;podemos viajar entre mundos&lt;/strong&gt;, teniendo en cuenta sólo se podrá viajar entre mundos que estén en el &lt;strong&gt;mismo &lt;em&gt;Data Center&lt;/em&gt;&lt;/strong&gt;. Para hacerlo, deberemos ir a una de las ciudades principales (Limsa Lominsa, Ul’dah y Grindania) y desde su &lt;em&gt;Aetheryte&lt;/em&gt; principal tenemos que elegir la opción &lt;strong&gt;&lt;em&gt;Visit Another World Server.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/cambioservidores/visitar.jpg&quot; width=&quot;600&quot; alt=&quot;visitar&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Mundos que puedes visitar.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez se haya completado la transferencia del personaje, aparecerás en el mundo que hayas elegido y al lado de tu nombre aparecerá la palabra &lt;strong&gt;&lt;em&gt;“Wanderer”&lt;/em&gt;&lt;/strong&gt; (Viajero). Así mismo podrás reconocer a otros jugadores que estén de visita en tu mundo si tienen &lt;strong&gt;&lt;em&gt;“Wanderer”&lt;/em&gt;&lt;/strong&gt; al lado de su nombre.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/cambioservidores/personaje.jpg&quot; width=&quot;600&quot; alt=&quot;personaje&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Jugador de visita en otro mundo.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;Si estás en otro mundo, no podrás ver a los jugadores conectados en tu &lt;strong&gt;Compañía Libre&lt;/strong&gt; y además perderás los bufos que te de ésta.&lt;/p&gt;
+
+&lt;p&gt;Si sales del juego estándo de visita en otro mundo, cuando vuelvas a entrar, seguirás estando en ese mundo hasta decidas volver al tuyo propio. Para volver a tu mundo, deberás usar de nuevo el sistema de cambio de servidores.&lt;/p&gt;
+
+&lt;h3 id=&quot;restricciones-al-estar-en-otro-mundo&quot;&gt;Restricciones al estar en otro mundo&lt;/h3&gt;
+
+&lt;p&gt;Los jugadores en otros servidores tienen características restringidas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;El sistema &lt;strong&gt;&lt;em&gt;Moogle&lt;/em&gt;&lt;/strong&gt; de correos no está disponible, sin embargo recibirás notificaciones cuando te llegue correo nuevo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No se pueden convocar a los &lt;strong&gt;Asistentes&lt;/strong&gt; (&lt;em&gt;Retainers&lt;/em&gt; en inglés).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No podrás poner objetos en el &lt;strong&gt;Tablón del mercado&lt;/strong&gt; (&lt;em&gt;Market Board&lt;/em&gt; en inlgés), pero si podrás comprar objetos en ellos.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No se puede crear ni unirte a una &lt;strong&gt;Compañía Libre&lt;/strong&gt; (&lt;em&gt;Free Company&lt;/em&gt; en ingles) si sois de servidores distintos.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Si usas el &lt;strong&gt;canal de chat de nuevos jugadores&lt;/strong&gt; (&lt;em&gt;Novice Network&lt;/em&gt; en inglés) verás el del mundo que estés conectado.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No se puede &lt;strong&gt;comprar&lt;/strong&gt; casas ni apartamentos en otro mundo. No te podrás teletransportar a tu residencia, a la de tu &lt;strong&gt;Compañía Libre&lt;/strong&gt; ni a la de un amigo estando es servidores distintos.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No podrás &lt;strong&gt;asistir a una boda de otro mundo&lt;/strong&gt; ni &lt;strong&gt;casarte con un jugador de otro mundo&lt;/strong&gt;. Adicionalmente tampoco podrás completar las misiones de las bodas.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Los nodos de recolección &lt;strong&gt;Legendarios&lt;/strong&gt; (&lt;em&gt;Lengendary&lt;/em&gt; en inglés) y &lt;strong&gt;Vírgenes&lt;/strong&gt; (&lt;em&gt;Unspoiled&lt;/em&gt; en inglés) son inaccesibles para mineros y botánicos.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Podrás acceder a las &lt;strong&gt;Mazmorras Profundas&lt;/strong&gt; (&lt;em&gt;Deep Dungeons&lt;/em&gt; en inglés), &lt;strong&gt;&lt;em&gt;Palace of the dead&lt;/em&gt;&lt;/strong&gt; o &lt;strong&gt;&lt;em&gt;Heaven-on-high&lt;/em&gt;&lt;/strong&gt;, pero no se guardará tu puntuación en el ranking del mundo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No se puede ingresar a torneos &lt;strong&gt;&lt;em&gt;Lord of Verminion&lt;/em&gt;&lt;/strong&gt; ni de &lt;strong&gt;&lt;em&gt;Triple Triad&lt;/em&gt;&lt;/strong&gt; del &lt;strong&gt;&lt;em&gt;Gold Saucer&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No podrás comprar boletos ni canjearlos del &lt;strong&gt;&lt;em&gt;Cactpot&lt;/em&gt;&lt;/strong&gt; (Lotería semanal). En cambio si que podrás hacer los boletos diarios del &lt;strong&gt;&lt;em&gt;Mini-Cactpot&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Si estáis en servidores distintos no podrás usar el &lt;strong&gt;&lt;em&gt;Eternity Ring&lt;/em&gt;&lt;/strong&gt;, para teletransportarte con tu pareja, ni el &lt;strong&gt;&lt;em&gt;Aetheryte Pendulum&lt;/em&gt;&lt;/strong&gt; para teletransportarte a un amigo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Solo podrás usar el &lt;strong&gt;teletransportarte a un amigo&lt;/strong&gt; si estáis en servidores distintos.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Si un mundo tiene aplicado la &lt;strong&gt;ganancia de experiencia extra&lt;/strong&gt;, un jugador que lo visite &lt;strong&gt;no ganará este beneficio&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No podrás &lt;strong&gt;eliminar&lt;/strong&gt; a tu personaje si está visitando otro mundo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No podrás cambiar el nombre de tu personaje ni el de un asistente (&lt;em&gt;Retainer&lt;/em&gt; en inglés) estando en otro mundo.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;visitando-otro-mundo-desde-la-selección-de-personaje&quot;&gt;Visitando otro mundo desde la selección de personaje&lt;/h3&gt;
+
+&lt;p&gt;Final Fantasy XIV nos da la posibilidad de cambiar de mundo desde la selección de personaje. El sistema te añadirá a un mundo que esté menos congestionado dentro de tu &lt;strong&gt;&lt;em&gt;Data Center&lt;/em&gt;&lt;/strong&gt; y entrando así más rápido al juego si tu mundo está muy colapsado.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/cambioservidores/inicio.jpg&quot; alt=&quot;inicio&quot; /&gt;
+      &lt;br /&gt;
+      &lt;sub&gt;&lt;sup&gt;Opción cambiar de mundo.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/cambioservidores/inicio2.jpg&quot; alt=&quot;inicio2&quot; /&gt;
+      &lt;br /&gt;
+      &lt;sub&gt;&lt;sup&gt;Condiciones.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;b&gt;Si tienes una cuenta de prueba, tu servidor está lleno y no puedes entrar al juego, visitando otro mundo desde la selección de personaje podrás entrar al juego.&lt;/b&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 20 Jul 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/cambio-servidores/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/cambio-servidores/</guid>
+        
+        <category>nuevos jugadores</category>
+        
+        <category>guías</category>
+        
         
       </item>
     
@@ -247,7 +402,7 @@ En un esfuerzo de aliviar la congestión de los servidores, los &lt;b&gt;jugador
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 19 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 19 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/retainer/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/retainer/</guid>
         
@@ -273,7 +428,7 @@ En un esfuerzo de aliviar la congestión de los servidores, los &lt;b&gt;jugador
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 18 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 18 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/viaje-sin-fin-8/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-8/</guid>
         
@@ -301,7 +456,7 @@ En un esfuerzo de aliviar la congestión de los servidores, los &lt;b&gt;jugador
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 17 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 17 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/juglar-06/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-06/</guid>
         
@@ -338,7 +493,7 @@ Esta semana os recomendamos completar el fashion report el lunes 19 ya que es cu
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 16 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 16 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210716/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210716/</guid>
         
@@ -438,7 +593,7 @@ No eran tan diferentes como querían creer.&lt;/p&gt;
 &lt;p&gt;No, no eran tan diferentes como querían creer.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 15 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 15 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/estela/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/estela/</guid>
         
@@ -472,7 +627,7 @@ No eran tan diferentes como querían creer.&lt;/p&gt;
 &lt;sub&gt;&lt;sup&gt;Emote Vexed&lt;/sup&gt;&lt;/sub&gt;
 &lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 12 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/make-it-rainn/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/make-it-rainn/</guid>
         
@@ -600,7 +755,7 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
 
 &lt;p&gt;Con esto hemos acabado nuestra primera guía de glamour, espero que os haya gustado.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Jul 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 12 Jul 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/guia-glamour/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-glamour/</guid>
         
@@ -610,60 +765,6 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
         
         
         <category>guías</category>
-        
-      </item>
-    
-      <item>
-        <title>Guía de Labyrinth of the Ancients</title>
-        <description>&lt;p&gt;Hoy os traemos una &lt;strong&gt;video guía en Español&lt;/strong&gt; de la incursión de alianza de &lt;strong&gt;Labyrinth of the Ancients&lt;/strong&gt;, la cual es &lt;strong&gt;obligatoria&lt;/strong&gt; para completar la &lt;strong&gt;Main Scenario Quest&lt;/strong&gt; de A Realm Reborn.&lt;/p&gt;
-
-&lt;p&gt;Tanto si sois &lt;strong&gt;nuevos jugadores&lt;/strong&gt; o queréis &lt;strong&gt;conocer mejor las mecánicas&lt;/strong&gt; de esta primera Alianza esta guía os sera de mucha utilidad para poder completar el contenido como &lt;strong&gt;Campeones de la Luz&lt;/strong&gt; que somos.&lt;/p&gt;
-
-&lt;p&gt;No olvidéis de comentar el video y &lt;strong&gt;subscribirse al canal&lt;/strong&gt; si os ha gustado.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/DcvwJoISThI?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sun, 11 Jul 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/zlabyrinth/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/zlabyrinth/</guid>
-        
-        <category>guía</category>
-        
-        <category>encuentros</category>
-        
-        
-        <category>encuentros</category>
-        
-      </item>
-    
-      <item>
-        <title>El viaje sin fin - Parte 7</title>
-        <description>&lt;p&gt;El viaje sin fin del guerrero de la luz nos ha llevado a múltiples aventuras, sin embargo puede que no las recordemos todas, bien porque han pasado muchos años o bien porque hasta &lt;a href=&quot;/traducir&quot; target=&quot;_blank&quot;&gt;hace poco&lt;/a&gt; no podíamos disfrutar de estas historias en nuestro idioma.&lt;/p&gt;
-
-&lt;p&gt;El creador de contenido &lt;a href=&quot;https://www.youtube.com/c/Khrey_Oficial&quot; target=&quot;_blank&quot;&gt;Khrey&lt;/a&gt; ha creado una increíble lista de reproducción en su &lt;a href=&quot;https://www.youtube.com/c/Khrey_Oficial&quot; target=&quot;_blank&quot;&gt;canal&lt;/a&gt; donde nos va contando la historia del juego, hasta la fecha.&lt;/p&gt;
-
-&lt;p&gt;Os dejamos aquí la séptima entrega de esta serie para que podáis verla, si os ha gustado no dudéis en subscribirás a su canal.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/AQfTjF5nfU8?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sun, 11 Jul 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/viaje-sin-fin-7/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-7/</guid>
-        
-        <category>multimedia</category>
-        
-        <category>video</category>
-        
-        <category>lore</category>
-        
-        
-        <category>lore</category>
         
       </item>
     
