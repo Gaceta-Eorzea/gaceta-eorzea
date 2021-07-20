@@ -10,11 +10,19 @@ featured: false
 hidden: false
 ---
 
-Seguramente muchas de las veces que hemos intentado entrar a jugar al Final Fantasy XIV **hemos visto que hay cola**, esto a veces puede ser un **problema**, mas aun si tenemos una **cuenta de prueba** ya que cuando el **servidor este lleno** del todo **ni nos dejara entrar** al mismo. En la guiá de hoy vamos a hablar de como podemos **solventar este problema**.
+Seguramente muchas de las veces que hemos intentado entrar a jugar al Final Fantasy XIV **hemos visto que hay cola**, esto a veces puede ser un **problema**, sobre todo en momentos de gran afluencia como en salida de parche y expansiones.  En la guiá de hoy vamos a hablar de como podemos **solventar este problema**.
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/cambioservidores/ffxiv-login-queue.jpg" width="600" alt="visitar">
 <br/>
 <sub><sup>Cola de entrada al Servidor.</sup></sub></p>
+
+<blockquote>
+Si tenemos una cuenta de prueba cuando el servidor este lleno del todo ni nos dejara entrar al mismo, aunque veremos como solucionarlo.
+</blockquote>
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/cambioservidores/free.jpg" width="600" alt="visitar">
+<br/>
+<sub><sup>Mensaje con el servidor lleno y cuenta de prueba</sup></sub></p>
+
 
 ### Viajar entre servidores
 
