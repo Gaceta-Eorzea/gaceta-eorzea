@@ -9,11 +9,16 @@ description: "Sistema de Cambio de Servidores"
 featured: false
 hidden: false
 ---
-El **Sistema de Cambio de Servidores** permitirá a los jugadores encontrarse con amigos y formar grupos para realizar cosas juntos, intercambiar artículos o comprar en sus mercados. 
 
-### Cómo viajar
+Seguramente muchas de las veces que hemos intentado entrar a jugar al Final Fantasy XIV **hemos visto que hay cola**, esto a veces puede ser un **problema**, mas aun si tenemos una **cuenta de prueba** ya que cuando el **servidor este lleno** del todo **ni nos dejara entrar** al mismo. En la guiá de hoy vamos a hablar de como podemos **solventar este problema**.
 
-Sólo se podrá viajar entre servidores que estén en el **mismo *Data Center***. Para hacerlo, deberemos ir a una de las ciudades principales (Limsa Lominsa, Ul'dah y Grindania) y desde su *Aetheryte* principal tenemos que elegir la opción ***Visit Another World Server.*** Para regresar a tu propio servidor, deberás usar el mismo sistema para volver.
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/cambioservidores/ffxiv-login-queue.jpg" width="600" alt="visitar">
+<br/>
+<sub><sup>Cola de entrada al Servidor.</sup></sub></p>
+
+### Viajar entre servidores
+
+Primero vamos a entender como **podemos viajar entre servidores**, teniendo en cuenta sólo se podrá viajar entre servidores que estén en el **mismo *Data Center***. Para hacerlo, deberemos ir a una de las ciudades principales (Limsa Lominsa, Ul'dah y Grindania) y desde su *Aetheryte* principal tenemos que elegir la opción ***Visit Another World Server.***.
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/cambioservidores/visitar.jpg" width="600" alt="visitar">
 <br/>
@@ -29,15 +34,15 @@ Una vez se haya completado la transferencia del personaje, aparecerás en el ser
 
 Los jugadores en otros servidores tienen características restringidas.
 
-1. El sistema ***Moogle*** de correos no está disponible.
+1. El sistema ***Moogle*** de correos no está disponible, sin embargo recibirás notificaciones cuando te llegue correo nuevo.
 
-2. No se pueden convocar a los ***Retainers***.
+2. No se pueden convocar a los **Asistentes** (*Retainers en ingles*).
 
-3. No se puede crear ni unirte a una ***Free Company*** (Compañía Libre) si sois de servidores distintos.
+3. No se puede crear ni unirte a **Compañía Libre** (*Free Company en ingles*) si sois de servidores distintos.
 
 4. No se puede comprar casas ni alojamientos en otro servidor.
 
-5. Los nodos de recolección **Legendarios** y **Vírgenes** son inaccesibles para mineros y botánicos.
+5. Los nodos de recolección **Legendarios** (*Lengendary en ingles*) y **Vírgenes** (*Unspoiled en ingles*) son inaccesibles para mineros y botánicos.
 
 ### Visitando otro servidor desde la selección de personaje
 
