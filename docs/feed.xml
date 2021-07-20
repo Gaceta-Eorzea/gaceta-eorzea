@@ -5,9 +5,103 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Jul 2021 12:48:06 +0200</pubDate>
-    <lastBuildDate>Mon, 19 Jul 2021 12:48:06 +0200</lastBuildDate>
+    <pubDate>Tue, 20 Jul 2021 08:44:13 +0100</pubDate>
+    <lastBuildDate>Tue, 20 Jul 2021 08:44:13 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Resumen de las notas del parche 5.58</title>
+        <description>&lt;p&gt;Este es un resumen de las principales puntos de las notas del parche 5.58, aunque os recomendamos revisar las notas completas en este &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/f2fcee891e2ed93dacdf6410b29cf1dbf7bedbcf&quot; target=&quot;_blank&quot;&gt;enlace&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;sistema&quot;&gt;Sistema&lt;/h3&gt;
+
+&lt;blockquote&gt;
+En un esfuerzo de aliviar la congestión de los servidores, los &lt;b&gt;jugadores&lt;/b&gt; que estén &lt;b&gt;inactivos&lt;/b&gt; por mas de &lt;b&gt;30 minutos&lt;/b&gt; serán &lt;b&gt;desconectados automáticamente&lt;/b&gt;.
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;sistema-de-confianza&quot;&gt;Sistema de Confianza&lt;/h3&gt;
+
+&lt;p&gt;La cantidad de &lt;strong&gt;experiencia&lt;/strong&gt; ganada por los &lt;strong&gt;PNJs&lt;/strong&gt; en el &lt;strong&gt;Sistema de Confianza&lt;/strong&gt; (&lt;em&gt;Trust System en ingles&lt;/em&gt;) ha sido &lt;strong&gt;aumentada&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;cloud-deck-extreme&quot;&gt;Cloud Deck (Extreme)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;La &lt;strong&gt;posibilidad&lt;/strong&gt; de despojo de la montura, &lt;strong&gt;Diamond Gwiber Trumpet&lt;/strong&gt;, ha sido &lt;strong&gt;aumentada&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;La &lt;strong&gt;montura&lt;/strong&gt;  sera intercambiable por &lt;strong&gt;tótems&lt;/strong&gt; hablando con &lt;strong&gt;C’intana&lt;/strong&gt; en &lt;em&gt;Mor Dhona (X:22.7 Y:6.7)&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;El e&lt;strong&gt;ncuentro ha sido movido&lt;/strong&gt; dentro del buscador de encuentros (&lt;em&gt;Duty finder en ingles&lt;/em&gt;), desde &lt;strong&gt;Encuentros de Alto Nivel&lt;/strong&gt; (&lt;em&gt;High-End Duty en ingles&lt;/em&gt;) &lt;strong&gt;a Encuentro Habitual&lt;/strong&gt; (&lt;em&gt;Regular Duty en ingles&lt;/em&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;edens-promise&quot;&gt;Eden’s Promise&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;El limite semanal de &lt;strong&gt;Blades of Lost Antiquity&lt;/strong&gt; ha sido eliminado.&lt;/li&gt;
+  &lt;li&gt;En modo &lt;strong&gt;Salvaje&lt;/strong&gt; (&lt;em&gt;Savage en ingles&lt;/em&gt;) el Poder del &lt;strong&gt;Echo&lt;/strong&gt; ha sido &lt;strong&gt;aumentado&lt;/strong&gt; de un 10% al &lt;strong&gt;15%&lt;/strong&gt;. &lt;em&gt;Al contrario que en otras instancias el echo no aumentara en poder en el caso que todos los jugadores hayan sido incapacitados&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tower-at-paradigms-breach&quot;&gt;Tower at Paradigm’s Breach&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Se ha &lt;strong&gt;eliminado&lt;/strong&gt; la &lt;strong&gt;restricción&lt;/strong&gt; de &lt;strong&gt;despojo semanal&lt;/strong&gt; en objetos de los cofres.&lt;/li&gt;
+  &lt;li&gt;Se ha &lt;strong&gt;eliminado&lt;/strong&gt; el &lt;strong&gt;limite semanal&lt;/strong&gt; de una &lt;strong&gt;Breach Coin&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Los &lt;strong&gt;peinados, mascotas de compañía, partituras y cartas&lt;/strong&gt; aparecerán en &lt;strong&gt;cada cofre&lt;/strong&gt; de cada alianza, lo cual aumentara las posibilidades que los obtengamos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;zonas-de-save-the-queen&quot;&gt;Zonas de Save the Queen&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;La cantidad de &lt;strong&gt;Méritos&lt;/strong&gt; (&lt;em&gt;Metle en ingles&lt;/em&gt;) que recibiremos haciendo &lt;strong&gt;Escaramuzas&lt;/strong&gt; (&lt;em&gt;Skirmishes en ingles&lt;/em&gt;) y &lt;strong&gt;Encuentros Críticos&lt;/strong&gt; (Critical engagements) en &lt;strong&gt;Bozjan&lt;/strong&gt; southern front y &lt;strong&gt;Zadnor&lt;/strong&gt; ha sido &lt;strong&gt;aumentadas&lt;/strong&gt; entre &lt;strong&gt;rango de resistencia del 1 al 14&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;En el &lt;strong&gt;encuentro critico de Serpents’ Wings in Zadnor&lt;/strong&gt;, el &lt;strong&gt;tiempo de casteo&lt;/strong&gt; de la acción en la &lt;strong&gt;ultima fase&lt;/strong&gt; ha sido &lt;strong&gt;incrementado&lt;/strong&gt; de de 60 to &lt;strong&gt;90 segundos&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;castrum-lacus-litore&quot;&gt;Castrum Lacus Litore&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cuando combatamos al &lt;strong&gt;4th Legion helldiver&lt;/strong&gt;, ha sido &lt;strong&gt;reducido el daño recibido&lt;/strong&gt; por golpes consecutivos de la habilidad &lt;strong&gt;Infrared Blast&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;La &lt;strong&gt;salud máxima&lt;/strong&gt; de los &lt;strong&gt;PNJs&lt;/strong&gt; aliados ha sido &lt;strong&gt;incrementada&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;La &lt;strong&gt;mecánica&lt;/strong&gt; que requería que &lt;strong&gt;6 jugadores&lt;/strong&gt; estuvieran encima del &lt;strong&gt;interruptor&lt;/strong&gt; para abrir la puerta ya &lt;strong&gt;no requiere que se queden en ellos&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Con estos cambios un grupo pequeño podrá completar este encuentro&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;ajustes-en-las-armas-reliquias-de-la-resistencia&quot;&gt;Ajustes en las armas reliquias de la resistencia&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Loathsome Memory of the Dying&lt;/strong&gt;: La &lt;strong&gt;probabilidad&lt;/strong&gt; de despojo en &lt;strong&gt;Encuentros Críticos de Bozjan&lt;/strong&gt; southern front ha sido &lt;strong&gt;aumentada&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Haunting Memory of the Dying&lt;/strong&gt;: La &lt;strong&gt;probabilidad&lt;/strong&gt; de despojo en &lt;strong&gt;FATEs&lt;/strong&gt; ha sido &lt;strong&gt;aumentada&lt;/strong&gt;. La cantidad otorgada por obtenerlas en &lt;strong&gt;Incursiones de Alianza&lt;/strong&gt; (&lt;em&gt;Alliance Raid en ingles&lt;/em&gt;) ha sido aumentada de &lt;strong&gt;1 a 3&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vexatious Memory of the Dying&lt;/strong&gt;: La &lt;strong&gt;probabilidad&lt;/strong&gt; de despojo en &lt;strong&gt;FATEs&lt;/strong&gt; ha sido &lt;strong&gt;aumentada&lt;/strong&gt;. La cantidad otorgada por obtenerlas en &lt;strong&gt;Incursiones de Alianza&lt;/strong&gt; (&lt;em&gt;Alliance Raid en ingles&lt;/em&gt;) ha sido aumentada de &lt;strong&gt;1 a 3&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;aumentado-de-las-armas-de-tokens-de-revellation&quot;&gt;Aumentado de las armas de tokens de Revellation&lt;/h3&gt;
+
+&lt;p&gt;Las &lt;strong&gt;armas&lt;/strong&gt; que obtenemos via &lt;strong&gt;tokens de Revellation&lt;/strong&gt; podrán ser a&lt;strong&gt;umentadas hasta nivel 530&lt;/strong&gt; con las &lt;strong&gt;3 monedas de las incursiones&lt;/strong&gt; de esta expansión, para ello:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hablar con &lt;strong&gt;Fathard en Eulmore (X:10.1 Y:11.7)&lt;/strong&gt; y cambiar &lt;strong&gt;&lt;em&gt;Manufactured Coin + Puppet’s Coin + Breach Coin por un Crypt Ester&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Hablar con &lt;strong&gt;Shee-Tatch in Eulmore (X:10.3 Y:12.0)&lt;/strong&gt; y cambiar el &lt;strong&gt;arma de Revellation + Crypt Ester&lt;/strong&gt; por una &lt;strong&gt;Augmented Cryptlurker&lt;/strong&gt; Weapons.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;jugador-contra-jugador&quot;&gt;Jugador contra jugador&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Comienza la &lt;strong&gt;temporada 20 de The Feast&lt;/strong&gt;, donde los mejores jugadores podrán obtener premios &lt;a href=&quot;https://sqex.to/q02Al&quot; target=&quot;_blank&quot;&gt;interesantes&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Los jugadores que han conseguido rango bronce o superior en la temporada anterior pueden obtener sus recompensas hablando con &lt;strong&gt;Feast Quartermaster&lt;/strong&gt; en &lt;em&gt;Wolves Den Pier (X:4.9 Y:5.7)&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Hay multiples ajuste en las potencias de las habilidades en JcJ para ver el detalle revisar las notas &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/f2fcee891e2ed93dacdf6410b29cf1dbf7bedbcf&quot; target=&quot;_blank&quot;&gt;oficiales&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 20 Jul 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/resumen-5-58/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/resumen-5-58/</guid>
+        
+        <category>parches</category>
+        
+        <category>ShB</category>
+        
+        <category>5.58</category>
+        
+        
+        <category>parches</category>
+        
+      </item>
     
       <item>
         <title>Guía para obtener y gestionar tus Retainers</title>
@@ -153,7 +247,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 19 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 19 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/retainer/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/retainer/</guid>
         
@@ -179,7 +273,7 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 18 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 18 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/viaje-sin-fin-8/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-8/</guid>
         
@@ -207,7 +301,7 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 17 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 17 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/juglar-06/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-06/</guid>
         
@@ -244,7 +338,7 @@ Esta semana os recomendamos completar el fashion report el lunes 19 ya que es cu
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 16 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Fri, 16 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/fashion210716/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210716/</guid>
         
@@ -344,7 +438,7 @@ No eran tan diferentes como querían creer.&lt;/p&gt;
 &lt;p&gt;No, no eran tan diferentes como querían creer.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 15 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 15 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/estela/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/estela/</guid>
         
@@ -378,7 +472,7 @@ No eran tan diferentes como querían creer.&lt;/p&gt;
 &lt;sub&gt;&lt;sup&gt;Emote Vexed&lt;/sup&gt;&lt;/sub&gt;
 &lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 12 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/make-it-rainn/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/make-it-rainn/</guid>
         
@@ -506,7 +600,7 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
 
 &lt;p&gt;Con esto hemos acabado nuestra primera guía de glamour, espero que os haya gustado.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 12 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/guia-glamour/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/guia-glamour/</guid>
         
@@ -532,7 +626,7 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/zlabyrinth/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/zlabyrinth/</guid>
         
@@ -558,7 +652,7 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/viaje-sin-fin-7/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-7/</guid>
         
@@ -570,128 +664,6 @@ Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenem
         
         
         <category>lore</category>
-        
-      </item>
-    
-      <item>
-        <title>Concurso Captura de Pantalla de la Prueba de Rendimiento de Endwalker</title>
-        <description>&lt;p&gt;Con la salida de la &lt;strong&gt;Prueba de Rendimiento&lt;/strong&gt;, &lt;em&gt;Square Enix&lt;/em&gt; ha propuesto a la comunidad un &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/2b51b9cf7cd4f5b765c4dbd64c273335bdb5dfa9&quot; target=&quot;_blank&quot;&gt;concurso&lt;/a&gt;  basado en lo que podemos hacer dentro de la prueba. Es muy fácil participar y desde la Gaceta animamos a todos a hacerlo. La fecha límite para participar es el &lt;strong&gt;26 de julio de 2021&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;formas-de-participar&quot;&gt;Formas de Participar&lt;/h3&gt;
-
-&lt;p&gt;Para participar, sencillamente hay bajarse la &lt;a href=&quot;https://eu.finalfantasyxiv.com/benchmark/&quot; target=&quot;_blank&quot;&gt;Prueba de rendimiento&lt;/a&gt; y sacar una &lt;strong&gt;captura de pantalla&lt;/strong&gt;. La captura tiene que mostrar alguna de las siguientes opciones:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Captura de pantalla de un personaje nuevo basado en un &lt;strong&gt;Viera Masculino&lt;/strong&gt; utilizando la creación de los personajes de la prueba de rendimiento.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Captura de pantalla mostrando la &lt;strong&gt;puntuación&lt;/strong&gt; obtenida al utilizar la prueba de rendimiento.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/vmale1.jpg&quot; width=&quot;750&quot; alt=&quot;viera male&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;procedimiento-para-participar&quot;&gt;Procedimiento para Participar&lt;/h4&gt;
-
-&lt;p&gt;Para participar tendrás que hacerlo a través de &lt;strong&gt;Twitter&lt;/strong&gt; poniendo un tweet indicando los siguientes campos dependiendo del tipo de captura que hemos hecho.&lt;/p&gt;
-
-&lt;h5 id=&quot;captura-viera-macho&quot;&gt;Captura Viera Macho&lt;/h5&gt;
-
-&lt;p&gt;La plantilla para el tweet si tu captura es de un &lt;strong&gt;viera macho&lt;/strong&gt; es la siguiente:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Home World Name&lt;/strong&gt;: Servidor en el que jugamos &lt;strong&gt;Requerido&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Character Name&lt;/strong&gt;: Nombre y apellidos de tu personaje &lt;strong&gt;Requerido&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Character Profile URL&lt;/strong&gt;: URL de nuestro personaje en &lt;em&gt;Lodestone&lt;/em&gt; &lt;strong&gt;Requerido&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Desired Prize Item&lt;/strong&gt;: Recompensa elegida &lt;strong&gt;Requerido&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Brief Comment&lt;/strong&gt;: Un breve comentario &lt;strong&gt;Opcional&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;#MyFFXIViera #Sweepstakes&lt;/strong&gt; «&amp;lt; &lt;strong&gt;&lt;em&gt;Hastags&lt;/em&gt; requeridos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Captura de pantalla&lt;/strong&gt; de nuestro &lt;strong&gt;viera macho&lt;/strong&gt; &lt;strong&gt;Requerido&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-Para conseguir la dirección URL de nuestro personaje tendremos que copiar la dirección de nuestro personaje una vez nos identificamos en &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/&quot; target=&quot;_blank&quot;&gt;Lodestone&lt;/a&gt; y hacemos click en nuestro personaje.
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/direccion.jpg&quot; alt=&quot;direccion&quot; /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h5 id=&quot;captura-puntuación&quot;&gt;Captura Puntuación&lt;/h5&gt;
-
-&lt;p&gt;La plantilla si la captura elegida es una &lt;strong&gt;puntuación&lt;/strong&gt; es la siguiente:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Home World Name&lt;/strong&gt;: Servidor en el que jugamos &lt;strong&gt;Requerido&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Character Name&lt;/strong&gt;: Nombre y apellidos de tu personaje &lt;strong&gt;Requerido&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Character Profile URL&lt;/strong&gt;: URL de nuestro personaje en &lt;em&gt;Lodestone&lt;/em&gt; &lt;strong&gt;Requerido&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Desired Prize Item&lt;/strong&gt;: Recompensa elegida &lt;strong&gt;Requerido&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Brief Comment&lt;/strong&gt;: Un breve comentario &lt;strong&gt;Opcional&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;#EndwalkerBenchmark #Sweepstakes&lt;/strong&gt; «&amp;lt; &lt;strong&gt;&lt;em&gt;Hastags&lt;/em&gt; requeridos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Captura de pantalla&lt;/strong&gt; de nuestra &lt;strong&gt;puntuación&lt;/strong&gt; en la prueba de rendimiento &lt;strong&gt;Requerido&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/puntuacion.jpg&quot; width=&quot;750&quot; alt=&quot;puntuacion&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;recompensas&quot;&gt;Recompensas.&lt;/h3&gt;
-
-&lt;p&gt;Hay 7 recompensas a elegir y, la que más te guste, es la que tendrás que indicar en el tweet a través del que participas en el concurso. Hay que poner el nombre del artículo &lt;strong&gt;en inglés&lt;/strong&gt;. Las recompensas son muy variadas van desde un peinado hasta un &lt;em&gt;barding&lt;/em&gt; para nuestro &lt;strong&gt;chocobo&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/r1.jpg&quot; width=&quot;500&quot; alt=&quot;r1&quot; /&gt;
-      &lt;br /&gt;
-      &lt;sub&gt;&lt;sup&gt;Modern Aesthetics – Strife&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/r2.jpg&quot; width=&quot;500&quot; alt=&quot;r2&quot; /&gt;
-      &lt;br /&gt;
-      &lt;sub&gt;&lt;sup&gt;Scarf of Wondrous Wit&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/r3.jpg&quot; width=&quot;500&quot; alt=&quot;r3&quot; /&gt;
-      &lt;br /&gt;
-      &lt;sub&gt;&lt;sup&gt;Ahriman Choker&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/r4.jpg&quot; width=&quot;500&quot; alt=&quot;r4&quot; /&gt;
-      &lt;br /&gt;
-      &lt;sub&gt;&lt;sup&gt;Mandragora Choker&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/r5.jpg&quot; width=&quot;500&quot; alt=&quot;r5&quot; /&gt;
-      &lt;br /&gt;
-      &lt;sub&gt;&lt;sup&gt;Bluebird Earring&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/r6.jpg&quot; width=&quot;500&quot; alt=&quot;r6&quot; /&gt;
-      &lt;br /&gt;
-      &lt;sub&gt;&lt;sup&gt;Noble Barding&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/concursocaptura/r7.jpg&quot; width=&quot;280&quot; alt=&quot;r7&quot; /&gt;
-      &lt;br /&gt;
-      &lt;sub&gt;&lt;sup&gt;Gaelicap&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Se seleccionarán &lt;strong&gt;1400 ganadores&lt;/strong&gt; y las notificaciones se harán a través de &lt;strong&gt;correo electrónico&lt;/strong&gt; o del &lt;strong&gt;servicio de correo &lt;em&gt;moogle&lt;/em&gt;&lt;/strong&gt; dentro de &lt;strong&gt;Final Fantasy XIV&lt;/strong&gt; más o menos el día &lt;strong&gt;10 de septiembre de 2021&lt;/strong&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
-        <link>https://gaceta-eorzea.com/concurso-captura/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/concurso-captura/</guid>
-        
-        <category>captura pantalla</category>
-        
-        <category>concurso</category>
-        
-        <category>benchmark</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
