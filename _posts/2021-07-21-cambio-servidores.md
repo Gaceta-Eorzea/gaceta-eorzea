@@ -2,7 +2,7 @@
 layout: post
 title: "Sistema de Cambio de Mundos"
 author: sharn
-categories: [  ]
+categories: [ guías ]
 tags: [nuevos jugadores, guías]
 image: assets/images/articles/guias/cambioservidores/portada.jpg
 description: "Sistema de Cambio de Mundos"
