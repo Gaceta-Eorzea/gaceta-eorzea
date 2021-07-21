@@ -7,7 +7,7 @@ tags: [nuevos jugadores, guías]
 image: assets/images/articles/guias/cambioservidores/portada.jpg
 description: "Sistema de Cambio de Mundos"
 featured: false
-hidden: true
+hidden: false
 ---
 
 Seguramente muchas de las veces que hemos intentado entrar a jugar al Final Fantasy XIV **hemos visto que hay cola**, esto a veces puede ser un **problema**, sobre todo en momentos de gran afluencia como en salida de parche y expansiones.  En la guía de hoy vamos a hablar de como podemos **solventar este problema**.
@@ -39,11 +39,11 @@ Una vez se haya completado la transferencia del personaje, aparecerás en el mun
 
 Si estás en otro mundo, no podrás ver a los jugadores conectados en tu **Compañía Libre** y además perderás los bufos que te de ésta.
 
-Si sales del juego estándo de visita en otro mundo, cuando vuelvas a entrar, seguirás estando en ese mundo hasta decidas volver al tuyo propio. Para volver a tu mundo, deberás usar de nuevo el sistema de cambio de servidores.
+Si sales del juego estándo de visita en otro mundo, cuando vuelvas a entrar, seguirás estando en ese mundo hasta decidas volver al tuyo propio. Para volver a tu mundo, deberás usar de nuevo el sistema de cambio de mundo.
 
 ### Restricciones al estar en otro mundo
 
-Los jugadores en otros servidores tienen características restringidas.
+Los jugadores en otros mundos tienen características restringidas.
 
 * El sistema ***Moogle*** de correos no está disponible, sin embargo recibirás notificaciones cuando te llegue correo nuevo.
 
@@ -51,11 +51,11 @@ Los jugadores en otros servidores tienen características restringidas.
 
 * No podrás poner objetos en el **Tablón del mercado** (*Market Board* en inlgés), pero si podrás comprar objetos en ellos.
 
-* No se puede crear ni unirte a una **Compañía Libre** (*Free Company* en ingles) si sois de servidores distintos.
+* No se puede crear ni unirte a una **Compañía Libre** (*Free Company* en ingles) si sois de distintos mundos.
 
 * Si usas el **canal de chat de nuevos jugadores** (*Novice Network* en inglés) verás el del mundo que estés conectado.
 
-* No se puede **comprar** casas ni apartamentos en otro mundo. No te podrás teletransportar a tu residencia, a la de tu **Compañía Libre** ni a la de un amigo estando es servidores distintos.
+* No se puede **comprar** casas ni apartamentos en otro mundo. No te podrás teletransportar a tu residencia, a la de tu **Compañía Libre** ni a la de un amigo estando en distintos mundos.
 
 * No podrás **asistir a una boda de otro mundo** ni **casarte con un jugador de otro mundo**. Adicionalmente tampoco podrás completar las misiones de las bodas.
 
@@ -67,9 +67,9 @@ Los jugadores en otros servidores tienen características restringidas.
 
 * No podrás comprar boletos ni canjearlos del ***Cactpot*** (Lotería semanal). En cambio si que podrás hacer los boletos diarios del ***Mini-Cactpot***.
 
-* Si estáis en servidores distintos no podrás usar el ***Eternity Ring***, para teletransportarte con tu pareja, ni el ***Aetheryte Pendulum*** para teletransportarte a un amigo.
+* Si estáis en distintos mundos no podrás usar el ***Eternity Ring***, para teletransportarte con tu pareja, ni el ***Aetheryte Pendulum*** para teletransportarte a un amigo.
 
-* Solo podrás usar el **teletransportarte a un amigo** si estáis en servidores distintos. 
+* No podrás usar el **teletransportarte a un amigo** si estáis en distintos mundos. 
 
 * Si un mundo tiene aplicado la **ganancia de experiencia extra**, un jugador que lo visite **no ganará este beneficio**.
 
@@ -97,5 +97,5 @@ Final Fantasy XIV nos da la posibilidad de cambiar de mundo desde la selección 
 </div>
 
 <blockquote>
-<b>Si tienes una cuenta de prueba, tu servidor está lleno y no puedes entrar al juego, visitando otro mundo desde la selección de personaje podrás entrar al juego.</b>
+<b>Si tienes una cuenta de prueba, y tu mundo está lleno y no puedes entrar al juego, visitando otro mundo desde la selección de personaje podrás entrar al juego.</b>
 </blockquote>
