@@ -5,9 +5,35 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Jul 2021 17:13:45 +0100</pubDate>
-    <lastBuildDate>Wed, 21 Jul 2021 17:13:45 +0100</lastBuildDate>
+    <pubDate>Thu, 22 Jul 2021 17:58:31 +0100</pubDate>
+    <lastBuildDate>Thu, 22 Jul 2021 17:58:31 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Guía de Syrcus tower</title>
+        <description>&lt;p&gt;Hoy os traemos una &lt;strong&gt;video guía en Español&lt;/strong&gt; de la incursión de alianza de &lt;strong&gt;Syrcus tower&lt;/strong&gt;, la cual es &lt;strong&gt;obligatoria&lt;/strong&gt; para completar la &lt;strong&gt;Main Scenario Quest&lt;/strong&gt; de A Realm Reborn.&lt;/p&gt;
+
+&lt;p&gt;Tanto si sois &lt;strong&gt;nuevos jugadores&lt;/strong&gt; o queréis &lt;strong&gt;conocer mejor las mecánicas&lt;/strong&gt; de esta segunda Alianza esta guía os sera de mucha utilidad para poder completar el contenido como &lt;strong&gt;Campeones de la Luz&lt;/strong&gt; que somos.&lt;/p&gt;
+
+&lt;p&gt;No olvidéis de comentar el video y &lt;strong&gt;subscribirse al canal&lt;/strong&gt; si os ha gustado.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/vb69IcZX3-0?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 22 Jul 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/syrcus/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/syrcus/</guid>
+        
+        <category>guía</category>
+        
+        <category>encuentros</category>
+        
+        
+        <category>encuentros</category>
+        
+      </item>
     
       <item>
         <title>Sistema de Cambio de Mundos</title>
@@ -639,134 +665,6 @@ No eran tan diferentes como querían creer.&lt;/p&gt;
         
         
         <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Guía para principiantes de Glamour</title>
-        <description>&lt;p&gt;El &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; es el sistema que &lt;strong&gt;&lt;em&gt;Final Fantasy XIV&lt;/em&gt;&lt;/strong&gt; pone a nuestra disposición para &lt;strong&gt;cambiar la apariencia de nuestro equipo.&lt;/strong&gt; En esta guía vamos a hacer una explicación introductoria de como usar este sistema.&lt;/p&gt;
-
-&lt;h3 id=&quot;introducción&quot;&gt;Introducción&lt;/h3&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/g1.jpg&quot; width=&quot;750&quot; alt=&quot;glamour1&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;sub&gt;&lt;sup&gt;Imagen cedida por Ulthar.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Es importante indicar que el &lt;strong&gt;Glamour no cambia las estadísticas&lt;/strong&gt; de las piezas ni las mejora &lt;strong&gt;solo modifica su apariencia visual&lt;/strong&gt;. Para que podamos aplicar la apariencia de una pieza en otra debe cumplir los &lt;strong&gt;requerimientos&lt;/strong&gt; de la original, por ejemplo &lt;strong&gt;no podemos aplicar la apariencia&lt;/strong&gt; de una &lt;strong&gt;pieza&lt;/strong&gt; que es de &lt;strong&gt;Sanador&lt;/strong&gt; y usarla en una &lt;strong&gt;clase que no lo sea&lt;/strong&gt;, lo &lt;strong&gt;mismo&lt;/strong&gt; con los requerimientos de &lt;strong&gt;nivel mínimo&lt;/strong&gt; y otras restricciones similares.&lt;/p&gt;
-
-&lt;p&gt;Para desbloquear el &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; tenemos que tener al menos una clase a &lt;strong&gt;nivel 15&lt;/strong&gt; y completar la misión &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/bb7ebd31069/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;If I Had a Glamour&lt;/a&gt; que nos la entrega &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/2b292ba9a05/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Swyrgeim&lt;/a&gt; en &lt;strong&gt;Western Thalanan (&lt;em&gt;X: 12.6 Y: 14.3&lt;/em&gt;)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/g2.jpg&quot; width=&quot;750&quot; alt=&quot;glamour2&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;sub&gt;&lt;sup&gt;Imagen cedida por Cucute Cute.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;como-previsualizar-equipo&quot;&gt;Como previsualizar equipo&lt;/h4&gt;
-
-&lt;p&gt;Podremos previsualizar una pieza de equipo para ver como nos queda tenemos la opción &lt;strong&gt;&lt;em&gt;Try On&lt;/em&gt;&lt;/strong&gt; (Pruébatelo) cuando hacemos click con el &lt;strong&gt;botón derecho&lt;/strong&gt; en cualquier &lt;strong&gt;pieza&lt;/strong&gt; de equipo.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/probador.jpg&quot; alt=&quot;probador&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;En la ventana de probador tendremos las siguientes opciones en forma de botones en la parte inferior:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b1.jpg&quot; alt=&quot;b1&quot; width=&quot;40&quot; /&gt; Muestra u oculta el arma.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b2.jpg&quot; alt=&quot;b2&quot; width=&quot;40&quot; /&gt; Muestra u oculta el casco.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b3.jpg&quot; alt=&quot;b3&quot; width=&quot;40&quot; /&gt; Levanta o Baja visera, gafas o otros objetos que lo permitan.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b4.jpg&quot; alt=&quot;b4&quot; width=&quot;40&quot; /&gt; Nos pone el equipo que tenemos equipado actualmente.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b5.jpg&quot; alt=&quot;b5&quot; width=&quot;40&quot; /&gt; Guardar, al probar otra pieza se mantienen lo que hemos previsualizado antes.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b6.jpg&quot; alt=&quot;b6&quot; width=&quot;40&quot; /&gt; Desenvaina o envaina el arma.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b7.jpg&quot; alt=&quot;b7&quot; width=&quot;40&quot; /&gt; Cambia la pose del personaje (solo con Mando).&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/b8.jpg&quot; alt=&quot;b8&quot; width=&quot;40&quot; /&gt; Deshace los últimos cambios que hemos hecho.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;aplicar-el-glamour-pieza-a-pieza&quot;&gt;Aplicar el &lt;em&gt;Glamour&lt;/em&gt; pieza a pieza&lt;/h4&gt;
-
-&lt;p&gt;Tras haber elegido el &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; que le vamos a aplicar a una pieza de equipo, tenemos que hacer &lt;strong&gt;click derecho&lt;/strong&gt; con el ratón en la &lt;strong&gt;pieza que queremos cambiar&lt;/strong&gt; y darle a la opción &lt;strong&gt;&lt;em&gt;Cast Glamour&lt;/em&gt;&lt;/strong&gt; (Aplicar Glamour) y entonces se nos abrirá la ventana para &lt;strong&gt;elegir el objeto del cual obtendremos la apariencia&lt;/strong&gt;, con esto gastaremos 1 &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Glamour Prism&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/cg2.jpg&quot; alt=&quot;cg2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Podremos también quitar un &lt;strong&gt;&lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt; de una pieza en la misma ventana eligiendo la primera opción: &lt;strong&gt;Remove&lt;/strong&gt; (&lt;em&gt;Quitar&lt;/em&gt;), con esto gastaremos 1 &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Glamour Dispeller&lt;/a&gt;, .&lt;/p&gt;
-
-&lt;p&gt;Tanto los &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Glamour Prism&lt;/a&gt; como los &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Glamour Dispeller&lt;/a&gt; se pueden comprar por &lt;strong&gt;Sellos de la Gran Compañía&lt;/strong&gt;, en &lt;strong&gt;tablón del Mercado&lt;/strong&gt; e incluso &lt;strong&gt;fabricándolos&lt;/strong&gt; con los trabajos de artesanía.&lt;/p&gt;
-
-&lt;h3 id=&quot;tintes&quot;&gt;Tintes&lt;/h3&gt;
-
-&lt;p&gt;La mayoría de piezas permiten ser teñidas, para eso podemos usar &lt;strong&gt;Tintes&lt;/strong&gt;. Estos tintes se puede conseguir comprándolos en distintos &lt;strong&gt;vendedores&lt;/strong&gt;, &lt;strong&gt;creándolos con profesiones de artesanía&lt;/strong&gt;, o al realizar contenido dentro del juego como &lt;strong&gt;instancias&lt;/strong&gt; o &lt;strong&gt;misiones&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Para aplicar un tinte a una pieza, le damos al &lt;strong&gt;botón derecho del ratón&lt;/strong&gt; so la pieza y elegimos la opción &lt;strong&gt;&lt;em&gt;Dye&lt;/em&gt;&lt;/strong&gt; (Teñir). En la ventana que se nos abrirá, podremos probar los distintos colores y una previsualización de estos. Al confirmar gastaremos tantas botellas de tintes como piezas hemos cambiado.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/dye1.jpg&quot; alt=&quot;probador&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Para &lt;strong&gt;quitar un tinte&lt;/strong&gt; de una pieza, en la misma ventana usaremos el primer color de todos llamado &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/f0518ea9f0e/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Terebinth&lt;/a&gt;, este tinte se lo podemos &lt;strong&gt;comprar a vendedores&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;qué-es-el-glamour-dresser&quot;&gt;Qué es el &lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;El &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt; es un &lt;strong&gt;vestidor&lt;/strong&gt; donde podremos guardar las piezas de equipo que queramos usar para glamour. Lo podremos encontrar en nuestra &lt;strong&gt;Habitación&lt;/strong&gt;  de las Posadas o en las &lt;strong&gt;&lt;em&gt;Barracks&lt;/em&gt;&lt;/strong&gt; (Cuartel) del &lt;strong&gt;Escuadrón&lt;/strong&gt;. Además podremos crear distintos &lt;strong&gt;conjuntos de apariencia&lt;/strong&gt; que podremos aplicar en cualquier ciudad capital cuando queramos.&lt;/p&gt;
-
-&lt;p&gt;Cada vez que introduces una pieza de equipo en el vestidor te costará 1 x &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/58886c8cb88/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Glamour Prism&lt;/a&gt;. Pero &lt;strong&gt;aplicarlo&lt;/strong&gt; al equipo que llevamos equipado &lt;strong&gt;no constara ninguno&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/glamourdresser.jpg&quot; alt=&quot;gd&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Cuando abrimos el &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt; se nos abrirán dos ventanas. En la primera veremos todo el equipo que tenemos metido en el armario y en la segunda ventana, llamada &lt;strong&gt;&lt;em&gt;Glamour Creation&lt;/em&gt;&lt;/strong&gt; veremos el equipo que tenemos tanto en nuestro Inventario como en el &lt;em&gt;Armoury Chest&lt;/em&gt; (usando el desplegable). Tras hacer click en la pieza y aceptar las condiciones, la pieza nos desaparecerá del inventario y la tendremos en el &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt;. &lt;strong&gt;No podemos meter&lt;/strong&gt; ninguna pieza que &lt;strong&gt;no&lt;/strong&gt; este totalmente &lt;strong&gt;reparada&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/guias/guiaglamour/gd1.jpg&quot; alt=&quot;gd1&quot; /&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;sub&gt;&lt;sup&gt;Glamour Creation.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/guias/guiaglamour/gd2.jpg&quot; alt=&quot;gd2&quot; /&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;sub&gt;&lt;sup&gt;Gear Selection.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Como se puede comprobar en la pantalla de &lt;strong&gt;&lt;em&gt;Gear Selection&lt;/em&gt;&lt;/strong&gt; el límite de piezas de equipo que podemos guardar en nuestro &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt; es de 400.&lt;/p&gt;
-
-&lt;h4 id=&quot;conjuntos-de-apariencia&quot;&gt;Conjuntos de Apariencia&lt;/h4&gt;
-
-&lt;p&gt;En nuestro vestidor, en la pantalla de &lt;strong&gt;&lt;em&gt;Gear Selection&lt;/em&gt;&lt;/strong&gt; tenemos el botón &lt;strong&gt;&lt;em&gt;Edit Glamour Plates&lt;/em&gt;&lt;/strong&gt; que nos abrirá un probador donde podremos editar los &lt;strong&gt;15 conjuntos de apariencia que tenemos&lt;/strong&gt;, seleccionado un conjunto podemos poner y quitar piezas del equipo que tengamos metido en el &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt;, ademas &lt;strong&gt;podemos elegir el color de cada pieza&lt;/strong&gt; gastando un tinte por cada uno de los que usemos al darle al &lt;strong&gt;botón de guardar&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/gd3.jpg&quot; alt=&quot;gd3&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Una vez&lt;/strong&gt; que tengamos &lt;strong&gt;creados&lt;/strong&gt; nuestros conjuntos &lt;strong&gt;podemos cerrar el vestidor&lt;/strong&gt; ya que no lo requerimos para poder aplicarlos.&lt;/p&gt;
-
-&lt;h4 id=&quot;aplicar-conjuntos-de-apariencia&quot;&gt;Aplicar Conjuntos de Apariencia&lt;/h4&gt;
-
-&lt;p&gt;En la &lt;strong&gt;&lt;em&gt;Ficha&lt;/em&gt;&lt;/strong&gt; de personaje podemos encontrar el botón &lt;strong&gt;&lt;em&gt;Glamour Plate&lt;/em&gt;&lt;/strong&gt; (Conjunto de Apariencia). Al pulsarlo veremos nuestro conjuntos de apariencia y podremos elegir alguno de los 15 guardados y aplicarlo a nuestro equipo actual. Lo cual cambiara el glamour de todas las piezas y sus colores.&lt;/p&gt;
-
-&lt;blockquote&gt;
-Aplicar un Conjunto de Apariencia no cuesta Glamour Prism, pero solo podemos hacerlo en las ciudades principales.
-&lt;/blockquote&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/gp.jpg&quot; alt=&quot;gd3&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;conjuntos-de-equipo&quot;&gt;Conjuntos de Equipo&lt;/h4&gt;
-
-&lt;blockquote&gt;
-Un &lt;b&gt;Gear Set&lt;/b&gt; (Conjunto de equipo) guarda los objetos que tenemos equipados, incluidos el arma principal, lo cual hace que al usarlo nos cambiaremos también de profesión o clase. Estos los podemos arrastrar a las barras para cambiarnos rápidamente de clase y equipo.
-&lt;/blockquote&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/nset.jpg&quot; alt=&quot;gd3&quot; /&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/getset.jpg&quot; alt=&quot;gd3&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Los &lt;strong&gt;conjuntos de equipo&lt;/strong&gt; también &lt;strong&gt;guardan glamour y colores&lt;/strong&gt; de nuestro equipo, asi que &lt;strong&gt;tras aplicarnos un conjunto de apariencia&lt;/strong&gt; podemos pulsar el botón &lt;strong&gt;&lt;em&gt;Update Gear Set&lt;/em&gt;&lt;/strong&gt;, este conjunto se guardará con el glamour y colores usados.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/guiaglamour/ugs.jpg&quot; alt=&quot;gd3&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Si &lt;strong&gt;usamos&lt;/strong&gt; los conjuntos de &lt;strong&gt;set para cambiarnos de clase&lt;/strong&gt; también nos cambiaremos de &lt;strong&gt;Glamour automáticamente&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Con esto hemos acabado nuestra primera guía de glamour, espero que os haya gustado.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 12 Jul 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/guia-glamour/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/guia-glamour/</guid>
-        
-        <category>nuevos jugadores</category>
-        
-        <category>guías</category>
-        
-        
-        <category>guías</category>
         
       </item>
     
