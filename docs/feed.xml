@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Jul 2021 08:30:40 +0100</pubDate>
-    <lastBuildDate>Mon, 26 Jul 2021 08:30:40 +0100</lastBuildDate>
+    <pubDate>Mon, 26 Jul 2021 09:32:54 +0100</pubDate>
+    <lastBuildDate>Mon, 26 Jul 2021 09:32:54 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -182,6 +182,8 @@
         
         <category>comunidad</category>
         
+        
+        <category>entrevistas</category>
         
       </item>
     
