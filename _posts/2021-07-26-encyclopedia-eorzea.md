@@ -113,8 +113,10 @@ hidden: false
   </div>
 </div>
 
+La Encyclopedia Eorzea es una completa guía de territorios, razas, personajes, mitos y leyendas de Eorzea. Posee numerosas ilustraciones e imágenes conceptuales muy detalladas y esta impresa en alta calidad.
+
 <blockquote>
-<b>La Encyclopedia Eorzea te enseñará secretos inéditos hasta la publicación y artes conceptuales con un calidad muy detallada.</b>
+<b>La Encyclopedia Eorzea enseñará secretos inéditos hasta esta publicación y extiende ampliamente el lore conocido .</b>
 </blockquote>
 
 #### Recompensa dentro del juego
