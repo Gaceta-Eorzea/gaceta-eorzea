@@ -114,7 +114,7 @@ hidden: false
 </div>
 
 <blockquote>
-<b>La Encyclopedia Eorzea te ensenara secretos inéditos hasta la publicación y artes conceptuales con un calidad muy detallada.</b>
+<b>La Encyclopedia Eorzea te enseñará secretos inéditos hasta la publicación y artes conceptuales con un calidad muy detallada.</b>
 </blockquote>
 
 #### Recompensa dentro del juego
