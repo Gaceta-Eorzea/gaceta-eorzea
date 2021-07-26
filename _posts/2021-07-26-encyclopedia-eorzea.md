@@ -10,7 +10,7 @@ featured: false
 hidden: false
 ---
 
-**Square Enix** ha confirmado que los dos tomos de las **Encyclopedia Eorzea** se pondrán a la venta en la [Store Europea](https://store.eu.square-enix-games.com/en_EU/){:target="_blank"} y ya se pueden reservar.
+**Square Enix** ha lanzado una nueva reimpresión de la **Encyclopedia Eorzea**, la cual podéis reservar ya en su [tienda](https://store.eu.square-enix-games.com/en_EU/){:target="_blank"}.
 
 <div class="container">
   <div class="row">
@@ -31,9 +31,9 @@ hidden: false
   </div>
 </div>
 
-* Haciendo *click* en la imagen os llevará a la página para poderlo reservar.
+* Haciendo *click* en la imagen os llevará a la página para poderlo reservar. Sólo están editados en Inglés.
 
-### Imágenes tomo 1
+#### Imágenes tomo 1
 
 <div class="container">
   <div class="row">
@@ -51,6 +51,11 @@ hidden: false
         <sub><sup>Encyclopedia Eorzea Tomo 1 - Imagen 2</sup></sub>
     </p>
     </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
     <div class="col-xl">
     <p align="center">
       <img src="{{ site.baseurl }}/assets/images/articles/noticias/enciclopedias/i3.jpg" alt="imagen 3"/>
@@ -58,10 +63,17 @@ hidden: false
         <sub><sup>Encyclopedia Eorzea Tomo 1 - Imagen 3</sup></sub>
     </p>
     </div>
+    <div class="col-xl">
+    <p align="center">
+      <img src="{{ site.baseurl }}/assets/images/articles/noticias/enciclopedias/i4.jpg" alt="imagen 8"/>
+      <br/>
+        <sub><sup>Encyclopedia Eorzea Tomo 1 - Imagen 4</sup></sub>
+    </p>
+    </div>
   </div>
 </div>
 
-### Imágenes tomo 2
+#### Imágenes tomo 2
 
 <div class="container">
   <div class="row">
@@ -79,6 +91,11 @@ hidden: false
         <sub><sup>Encyclopedia Eorzea Tomo 2 - Imagen 2</sup></sub>
     </p>
     </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
     <div class="col-xl">
     <p align="center">
       <img src="{{ site.baseurl }}/assets/images/articles/noticias/enciclopedias/23.jpg" alt="imagen 6"/>
@@ -86,14 +103,21 @@ hidden: false
         <sub><sup>Encyclopedia Eorzea Tomo 2 - Imagen 3</sup></sub>
     </p>
     </div>
+    <div class="col-xl">
+    <p align="center">
+      <img src="{{ site.baseurl }}/assets/images/articles/noticias/enciclopedias/24.jpg" alt="imagen 7"/>
+      <br/>
+        <sub><sup>Encyclopedia Eorzea Tomo 2 - Imagen 4</sup></sub>
+    </p>
+    </div>
   </div>
 </div>
 
 <blockquote>
-<b>La Encyclopedia Eorzea te llevarán a través de todos los territorios, enseñándote secretos inéditos hasta la publicación y conociendo a diferentes personajes. Además, te enseñan gráficamente distintas armas, mapas y artes conceptuales con un calidad muy detallada y poniendo mucho énfasis en los detalles.</b>
+<b>La Encyclopedia Eorzea te ensenara secretos inéditos hasta la publicación y artes conceptuales con un calidad muy detallada.</b>
 </blockquote>
 
-### Recompensa dentro del juego
+#### Recompensa dentro del juego
 
 Con la compra del primer tomo de la <b>La Encyclopedia Eorzea</b> te darán un código para poder obtener un *minion* llamado **Namingway**. Y por la compra del segundo tomo, te darán un sombrero réplica del **Sombrero de Matoya**.
 

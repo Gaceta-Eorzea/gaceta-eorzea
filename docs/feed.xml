@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Jul 2021 23:24:04 +0200</pubDate>
-    <lastBuildDate>Mon, 26 Jul 2021 23:24:04 +0200</lastBuildDate>
+    <pubDate>Tue, 27 Jul 2021 00:11:55 +0200</pubDate>
+    <lastBuildDate>Tue, 27 Jul 2021 00:11:55 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -189,7 +189,7 @@
     
       <item>
         <title>Se abren las reservas para comprar la Encyclopedia Eorzea</title>
-        <description>&lt;p&gt;&lt;strong&gt;Square Enix&lt;/strong&gt; ha confirmado que los dos tomos de las &lt;strong&gt;Encyclopedia Eorzea&lt;/strong&gt; se pondrán a la venta en la &lt;a href=&quot;https://store.eu.square-enix-games.com/en_EU/&quot; target=&quot;_blank&quot;&gt;Store Europea&lt;/a&gt; y ya se pueden reservar.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Square Enix&lt;/strong&gt; ha lanzado una nueva reimpresión de la &lt;strong&gt;Encyclopedia Eorzea&lt;/strong&gt;, la cual podéis reservar ya en su &lt;a href=&quot;https://store.eu.square-enix-games.com/en_EU/&quot; target=&quot;_blank&quot;&gt;tienda&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;row&quot;&gt;
@@ -211,10 +211,10 @@
 &lt;/div&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Haciendo &lt;em&gt;click&lt;/em&gt; en la imagen os llevará a la página para poderlo reservar.&lt;/li&gt;
+  &lt;li&gt;Haciendo &lt;em&gt;click&lt;/em&gt; en la imagen os llevará a la página para poderlo reservar. Sólo están editados en Inglés.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;imágenes-tomo-1&quot;&gt;Imágenes tomo 1&lt;/h3&gt;
+&lt;h4 id=&quot;imágenes-tomo-1&quot;&gt;Imágenes tomo 1&lt;/h4&gt;
 
 &lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;row&quot;&gt;
@@ -232,6 +232,11 @@
         &lt;sub&gt;&lt;sup&gt;Encyclopedia Eorzea Tomo 1 - Imagen 2&lt;/sup&gt;&lt;/sub&gt;
     &lt;/p&gt;
     &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-xl&quot;&gt;
     &lt;p align=&quot;center&quot;&gt;
       &lt;img src=&quot;/assets/images/articles/noticias/enciclopedias/i3.jpg&quot; alt=&quot;imagen 3&quot; /&gt;
@@ -239,10 +244,17 @@
         &lt;sub&gt;&lt;sup&gt;Encyclopedia Eorzea Tomo 1 - Imagen 3&lt;/sup&gt;&lt;/sub&gt;
     &lt;/p&gt;
     &lt;/div&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+    &lt;p align=&quot;center&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/noticias/enciclopedias/i4.jpg&quot; alt=&quot;imagen 8&quot; /&gt;
+      &lt;br /&gt;
+        &lt;sub&gt;&lt;sup&gt;Encyclopedia Eorzea Tomo 1 - Imagen 4&lt;/sup&gt;&lt;/sub&gt;
+    &lt;/p&gt;
+    &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;imágenes-tomo-2&quot;&gt;Imágenes tomo 2&lt;/h3&gt;
+&lt;h4 id=&quot;imágenes-tomo-2&quot;&gt;Imágenes tomo 2&lt;/h4&gt;
 
 &lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;row&quot;&gt;
@@ -260,6 +272,11 @@
         &lt;sub&gt;&lt;sup&gt;Encyclopedia Eorzea Tomo 2 - Imagen 2&lt;/sup&gt;&lt;/sub&gt;
     &lt;/p&gt;
     &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-xl&quot;&gt;
     &lt;p align=&quot;center&quot;&gt;
       &lt;img src=&quot;/assets/images/articles/noticias/enciclopedias/23.jpg&quot; alt=&quot;imagen 6&quot; /&gt;
@@ -267,14 +284,21 @@
         &lt;sub&gt;&lt;sup&gt;Encyclopedia Eorzea Tomo 2 - Imagen 3&lt;/sup&gt;&lt;/sub&gt;
     &lt;/p&gt;
     &lt;/div&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+    &lt;p align=&quot;center&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/noticias/enciclopedias/24.jpg&quot; alt=&quot;imagen 7&quot; /&gt;
+      &lt;br /&gt;
+        &lt;sub&gt;&lt;sup&gt;Encyclopedia Eorzea Tomo 2 - Imagen 4&lt;/sup&gt;&lt;/sub&gt;
+    &lt;/p&gt;
+    &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;blockquote&gt;
-&lt;b&gt;La Encyclopedia Eorzea te llevarán a través de todos los territorios, enseñándote secretos inéditos hasta la publicación y conociendo a diferentes personajes. Además, te enseñan gráficamente distintas armas, mapas y artes conceptuales con un calidad muy detallada y poniendo mucho énfasis en los detalles.&lt;/b&gt;
+&lt;b&gt;La Encyclopedia Eorzea te ensenara secretos inéditos hasta la publicación y artes conceptuales con un calidad muy detallada.&lt;/b&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;recompensa-dentro-del-juego&quot;&gt;Recompensa dentro del juego&lt;/h3&gt;
+&lt;h4 id=&quot;recompensa-dentro-del-juego&quot;&gt;Recompensa dentro del juego&lt;/h4&gt;
 
 &lt;p&gt;Con la compra del primer tomo de la &lt;b&gt;La Encyclopedia Eorzea&lt;/b&gt; te darán un código para poder obtener un &lt;em&gt;minion&lt;/em&gt; llamado &lt;strong&gt;Namingway&lt;/strong&gt;. Y por la compra del segundo tomo, te darán un sombrero réplica del &lt;strong&gt;Sombrero de Matoya&lt;/strong&gt;.&lt;/p&gt;
 
