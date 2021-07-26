@@ -71,6 +71,6 @@ if (msq) {
 
 Con estos resultados podemos sacar algunas conclusiones. Está clarísimo que la expansión que más os ha gustado es **Shadowbringers**. Posiblemente el comienzo más lento del juego haya lastrado **A Realm Reborn** pero creo que nadie podrá negar que el final de su trama es impactante y nadie la puede olvidar.
 
-También hay que destacar muchos mensajes que nos han llegado sobre **Heavensward**. Es una expansión que no pasa desapercibida. Sobre **Stormblood** hay que decir que su baja puntuación no quiere decir que no le guste a la gente sino que sencillamente, no es tu preferida.
+También hay que destacar muchos mensajes que nos han llegado sobre **Heavensward**. Es una expansión que no pasa desapercibida. Sobre **Stormblood** hay que decir que su baja puntuación no quiere decir que no le guste a la gente sino que sencillamente, no es su preferida.
 
 Nosotros lo que aconsejamos a todos los jugadores es que lean las historias de las expansiones, que se empapen de su trama, que conozcan a los personajes y que recorran el camino junto al **Guerrero de la Luz**.
