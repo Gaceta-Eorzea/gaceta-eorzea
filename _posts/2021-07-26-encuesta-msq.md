@@ -3,7 +3,7 @@ layout: post
 title:  "Encuesta - Mejor Historia Principal"
 author: sharn
 categories: [  ]
-tags: [encuestas, clases]
+tags: [encuestas, historia principal]
 image: assets/images/articles/encuestas/msq/portada.jpg
 description: "Encuesta sobre la mejor historia principal por expansiones."
 featured: false
