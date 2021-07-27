@@ -5,9 +5,94 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Jul 2021 23:21:19 +0100</pubDate>
-    <lastBuildDate>Mon, 26 Jul 2021 23:21:19 +0100</lastBuildDate>
+    <pubDate>Tue, 27 Jul 2021 10:06:08 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Jul 2021 10:06:08 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Encuesta - Historia Principal</title>
+        <description>&lt;p&gt;En nuestra cuenta de &lt;a href=&quot;https://twitter.com/GacetaEorzea&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt; hicimos una &lt;a href=&quot;https://twitter.com/GacetaEorzea/status/1417530378991046659&quot; target=&quot;_blank&quot;&gt;encuesta&lt;/a&gt; preguntando cual &lt;strong&gt;Historia Principal&lt;/strong&gt; de las expansiones os gustó más. En este artículo os mostramos el resultado y nuestra propia interpretación.&lt;/p&gt;
+
+&lt;script src=&quot;https://cdn.jsdelivr.net/npm/chart.js&quot;&gt;&lt;/script&gt;
+
+&lt;h4 id=&quot;mejor-historia-principal&quot;&gt;Mejor Historia Principal&lt;/h4&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col&quot;&gt;
+            &lt;div class=&quot;card&quot;&gt;
+                &lt;div class=&quot;card-body&quot;&gt;
+                    &lt;canvas id=&quot;msq&quot;&gt;&lt;/canvas&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+     &lt;/div&gt;     
+&lt;/div&gt;
+
+&lt;script&gt;
+var msq = document.getElementById(&quot;msq&quot;);
+if (msq) {
+  new Chart(msq, {
+  type: 'bar',
+  options: {
+    indexAxis: 'y',
+    plugins: {
+      legend: {
+        display: false
+      },
+    },
+  },  
+  data: {
+      labels: [
+        'Shadowbringers',
+        'Heavensward',
+        'Stormblood',
+        'A Realm Reborn',        
+      ],
+      datasets: [{
+        label: '',
+        data: [
+          64.2,
+          24.4,
+          6.5,
+          4.9],
+        backgroundColor: [          
+          '#4C3FA1',
+          '#406FEA',
+          '#E22102',
+          '#298BB0'
+        ],
+        axis: 'y',
+      }]
+    },
+  });
+}
+&lt;/script&gt;
+
+&lt;p&gt;Con estos resultados podemos sacar &lt;strong&gt;algunas conclusiones&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Está clarísimo que la historia que más ha gustado es &lt;strong&gt;Shadowbringers&lt;/strong&gt;, por ello sun gran numero de votos.&lt;/p&gt;
+
+&lt;p&gt;Posiblemente el comienzo más lento del juego haya lastrado a &lt;strong&gt;A Realm Reborn&lt;/strong&gt;, pero creo que nadie podrá negar que el final de su trama es impactante y nadie la puede olvidar.&lt;/p&gt;
+
+&lt;p&gt;También hay que destacar los muchos mensajes que nos han llegado sobre &lt;strong&gt;Heavensward&lt;/strong&gt;, es una historia que no pasa desapercibida y por ello es la segunda mas votada.&lt;/p&gt;
+
+&lt;p&gt;Sobre &lt;strong&gt;Stormblood&lt;/strong&gt; hay que decir que su baja numero de votos no quiere decir que no guste, sino que sencillamente, no es la preferida y solo se podía votar a una.&lt;/p&gt;
+
+&lt;p&gt;Nosotros aconsejamos a todos los jugadores es que lean las todas las historias, que se empapen en la trama, que conozcan a los personajes y que recorran el camino junto al &lt;strong&gt;Guerrero de la Luz&lt;/strong&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Jul 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/encuesta-historia/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/encuesta-historia/</guid>
+        
+        <category>encuestas</category>
+        
+        <category>historia principal</category>
+        
+        
+        <category>encuestas</category>
+        
+      </item>
     
       <item>
         <title>¡Lia nos la lía! 10 preguntas a Elmira</title>
@@ -335,83 +420,6 @@
         
         
         <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Encuesta - Mejor Historia Principal</title>
-        <description>&lt;p&gt;En nuestra cuenta de &lt;a href=&quot;https://twitter.com/GacetaEorzea&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt; hicimos una &lt;a href=&quot;https://twitter.com/GacetaEorzea/status/1417530378991046659&quot; target=&quot;_blank&quot;&gt;encuesta&lt;/a&gt; preguntando cual &lt;strong&gt;Historia Principal&lt;/strong&gt; de las expansiones os gustó más. En este artículo os mostramos el resultado y nuestra propia interpretación.&lt;/p&gt;
-
-&lt;script src=&quot;https://cdn.jsdelivr.net/npm/chart.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;mejor-historia-principal&quot;&gt;Mejor Historia Principal&lt;/h3&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col&quot;&gt;
-            &lt;div class=&quot;card&quot;&gt;
-                &lt;div class=&quot;card-body&quot;&gt;
-                    &lt;canvas id=&quot;msq&quot;&gt;&lt;/canvas&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-     &lt;/div&gt;     
-&lt;/div&gt;
-
-&lt;script&gt;
-var msq = document.getElementById(&quot;msq&quot;);
-if (msq) {
-  new Chart(msq, {
-  type: 'bar',
-  options: {
-    indexAxis: 'y',
-    plugins: {
-      legend: {
-        display: false
-      },
-    },
-  },  
-  data: {
-      labels: [
-        'Shadowbringers',
-        'Heavensward',
-        'Stormblood',
-        'A Realm Reborn',        
-      ],
-      datasets: [{
-        label: '',
-        data: [
-          64.2,
-          24.4,
-          6.5,
-          4.9],
-        backgroundColor: [          
-          '#4C3FA1',
-          '#406FEA',
-          '#E22102',
-          '#298BB0'
-        ],
-        axis: 'y',
-      }]
-    },
-  });
-}
-&lt;/script&gt;
-
-&lt;p&gt;Con estos resultados podemos sacar algunas conclusiones. Está clarísimo que la expansión que más os ha gustado es &lt;strong&gt;Shadowbringers&lt;/strong&gt;. Posiblemente el comienzo más lento del juego haya lastrado &lt;strong&gt;A Realm Reborn&lt;/strong&gt; pero creo que nadie podrá negar que el final de su trama es impactante y nadie la puede olvidar.&lt;/p&gt;
-
-&lt;p&gt;También hay que destacar muchos mensajes que nos han llegado sobre &lt;strong&gt;Heavensward&lt;/strong&gt;. Es una expansión que no pasa desapercibida. Sobre &lt;strong&gt;Stormblood&lt;/strong&gt; hay que decir que su baja puntuación no quiere decir que no le guste a la gente sino que sencillamente, no es su preferida.&lt;/p&gt;
-
-&lt;p&gt;Nosotros lo que aconsejamos a todos los jugadores es que lean las historias de las expansiones, que se empapen de su trama, que conozcan a los personajes y que recorran el camino junto al &lt;strong&gt;Guerrero de la Luz&lt;/strong&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 26 Jul 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/encuesta-msq/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/encuesta-msq/</guid>
-        
-        <category>encuestas</category>
-        
-        <category>historia principal</category>
-        
         
       </item>
     
