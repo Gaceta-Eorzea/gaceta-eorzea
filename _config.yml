@@ -59,6 +59,14 @@ authors:
       web: https://www.twitch.tv/lia_tales
       twitter: https://twitter.com/LiaTales_ffxiv
       description: "Housing Savage FTW"    
+  hers:
+      name: Hers
+      display_name: Hers
+      avatar: 'assets/images/avatars/hers.jpg'
+      email: rrasgas@gmail.com
+      web: 
+      twitter: https://twitter.com/Herstryp
+      description: " Jugador de RPGS con una adicción a gachas y MMOs"   
 # Plugins
 plugins:
   - jekyll-paginate
