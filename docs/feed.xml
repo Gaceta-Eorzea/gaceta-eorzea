@@ -5,9 +5,70 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Jul 2021 19:26:18 +0100</pubDate>
-    <lastBuildDate>Tue, 27 Jul 2021 19:26:18 +0100</lastBuildDate>
+    <pubDate>Wed, 28 Jul 2021 14:24:18 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Jul 2021 14:24:18 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Jugador contra Jugador - Introducción</title>
+        <description>&lt;p&gt;Esta serie de guías abarca &lt;strong&gt;conceptos básicos&lt;/strong&gt; sobre un aspecto desconocido para muchos como es el contenido de &lt;strong&gt;Jugador contra Jugador&lt;/strong&gt; y que con la introducción de la ruleta de &lt;strong&gt;&lt;em&gt;Frontline&lt;/em&gt;&lt;/strong&gt; (Frente de Guerra) ha llamado la atención de varios jugadores que, por diferentes motivos, se sienten abrumados por los cambios entre las dos facetas del juego.&lt;/p&gt;
+
+&lt;p&gt;No es una guía de cómo manejar las clases de manera excepcional o de como matar 20 personas en &lt;em&gt;Frontline&lt;/em&gt;, es una guía de conceptos básicos y de algunos consejos en mi experiencia como jugador JcJ de este juego.&lt;/p&gt;
+
+&lt;p&gt;El JcJ de FFXIV ha variado su fórmula desde su lanzamiento en &lt;em&gt;A Realm Reborn&lt;/em&gt; sufriendo su cambio más radical en &lt;em&gt;Stormblood&lt;/em&gt;, donde se introdujo como una forma adicional para subir personajes simplificando esta faceta, creando un sistema donde cualquier persona de cualquier nivel pudiese luchar en igualdad de condiciones con gente de &lt;strong&gt;nivel 80&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;cómo-desbloquear-el-modo-jcj-y-sus-primeros-pasos&quot;&gt;Cómo desbloquear el modo JcJ y sus primeros pasos&lt;/h4&gt;
+
+&lt;p&gt;El JcJ en FFXIV se desbloquea una vez lleguemos a &lt;strong&gt;nivel 30&lt;/strong&gt; y obtengamos nuestra profesión. Ya con esto tendremos que dirigirnos a la &lt;strong&gt;Gran Compañía&lt;/strong&gt; que hubiésemos escogido y tendremos la siguiente misión  &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/d2c5aac1de8/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;A Pup No Longer&lt;/a&gt; con los siguientes NPC:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/introjcj/npc.jpg&quot; alt=&quot;NPC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez completado esto tendremos acceso a &lt;strong&gt;&lt;em&gt;Wolves’ Den Pier&lt;/em&gt;&lt;/strong&gt;, en &lt;em&gt;Lower La Noscea&lt;/em&gt;, la zona principal de JcJ donde lo primero que vas a ver es que la &lt;strong&gt;barra de botones&lt;/strong&gt; ha cambiado totalmente a nuevas habilidades.&lt;/p&gt;
+
+&lt;p&gt;En JcJ todos jugarán con habilidades como si fueran &lt;strong&gt;nivel 80&lt;/strong&gt; aunque muchas de estas &lt;strong&gt;no funcionen&lt;/strong&gt; al igual que en &lt;strong&gt;Jugador contra Entorno&lt;/strong&gt;. Por eso mismo la zona posee unos &lt;strong&gt;muñecos de prácticas&lt;/strong&gt; perfectos para experimentar qué hacen estas habilidades y recomiendo practicar antes de entrar a hacer cualquier cosa.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/introjcj/ba.jpg&quot; alt=&quot;barra de botones&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Además del cambio en nuestra barra de botones también tendremos, en las opciones de personaje, una nueva opción llamada &lt;strong&gt;&lt;em&gt;PVP Profile&lt;/em&gt;&lt;/strong&gt; (Perfil JcJ) en la pestaña principal donde podremos ver las estadísticas tanto de &lt;strong&gt;&lt;em&gt;Frontline&lt;/em&gt;&lt;/strong&gt; (Frente de Guerra), &lt;strong&gt;&lt;em&gt;The Feast&lt;/em&gt;&lt;/strong&gt; (El Festín) y &lt;strong&gt;&lt;em&gt;Rival Wings&lt;/em&gt;&lt;/strong&gt; (Alas Rivales).&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/introjcj/hud.jpg&quot; alt=&quot;hud&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dentro tenemos las opciones de Profesiones donde podremos ver todas nuestras habilidades disponible en JcJ junto al &lt;strong&gt;&lt;em&gt;Additional&lt;/em&gt;&lt;/strong&gt; que son habilidades adicionales de las cuales podremos solamente escoger dos.   Para terminar tendremos el &lt;strong&gt;&lt;em&gt;Quick Chat&lt;/em&gt;&lt;/strong&gt; de las cual hablaré en otro artículo porque corresponde al modo de &lt;em&gt;The Feast&lt;/em&gt;, osea las arenas del juego.&lt;/p&gt;
+
+&lt;p&gt;Ya completado nuestra misión en esta área, tendremos una nueva disponible con el &lt;em&gt;NPC&lt;/em&gt; de nombre &lt;strong&gt;Softknox&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/introjcj/softknow.jpg&quot; alt=&quot;softknow&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;De esta forma desbloqueamos &lt;em&gt;Rival Wings&lt;/em&gt; un modo de JcJ de &lt;strong&gt;24 jugadores&lt;/strong&gt; donde lucharemos para acabar con el núcleo del equipo enemigo en modo muy parecido al de mobas como &lt;em&gt;League of Legends&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para terminar de desbloquear los modos de JcJ tendremos que regresar a nuestra Gran Compañía y aceptar la misión &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/60d4d077629/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Like Civilized Men and Women&lt;/a&gt; para desbloquear el último modo y el más activo por parte de la comunidad, &lt;em&gt;Frontline&lt;/em&gt; (Frente de Guerra).&lt;/p&gt;
+
+&lt;h4 id=&quot;the-wolvens-deeps-y-sus-recompensas&quot;&gt;&lt;em&gt;The Wolvens Deeps&lt;/em&gt; y sus recompensas&lt;/h4&gt;
+
+&lt;p&gt;Participando de manera general en JcJ seremos recompensados con las llamadas &lt;strong&gt;&lt;em&gt;Wolf Marks&lt;/em&gt;&lt;/strong&gt; (Marcas de Lobo) que no es más que la moneda JcJ de este juego y que podremos gastar en la misma área por diferentes objetos, los cuales incluye diferentes &lt;strong&gt;&lt;em&gt;sets&lt;/em&gt;&lt;/strong&gt; y &lt;strong&gt;&lt;em&gt;armas&lt;/em&gt;&lt;/strong&gt;, algunas con estadísticas (Ya que en &lt;em&gt;Heavensward&lt;/em&gt; y en &lt;em&gt;A Realm Reborn&lt;/em&gt; solo se podía hacer JcJ a nivel máximo).&lt;/p&gt;
+
+&lt;p&gt;Pero su gran atractivo es el &lt;strong&gt;Glamour&lt;/strong&gt; con piezas exclusivas, como por ejemplo las que ya no obtenibles del evento de colaboración de Garo (que fueron quitadas con el lanzamiento del parche 5.1 de &lt;em&gt;Shadowbringers&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/introjcj/garo.jpg&quot; alt=&quot;garo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Además de armaduras y armas los vendedores también tendrán disponibles nuevos &lt;strong&gt;peinados&lt;/strong&gt;, &lt;strong&gt;emotes&lt;/strong&gt;, &lt;strong&gt;canciones&lt;/strong&gt; o incluso &lt;strong&gt;&lt;em&gt;minions&lt;/em&gt;&lt;/strong&gt; para ser comprados con estas &lt;em&gt;Wolf Marks&lt;/em&gt; en la zona. Adicionalmente por logros cada mapa posee sus propios logros con &lt;strong&gt;títulos exclusivos&lt;/strong&gt; o &lt;strong&gt;monturas&lt;/strong&gt; por ganar 100 veces a cada mapa correspondiente.&lt;/p&gt;
+
+&lt;p&gt;Ahora en caso del JcJ Rankeado llamado &lt;strong&gt;&lt;em&gt;The Feast&lt;/em&gt;&lt;/strong&gt; se obtendrán premios dependiendo de nuestro ranking. Los &lt;strong&gt;primeros 100&lt;/strong&gt; de cada &lt;em&gt;Data Center&lt;/em&gt; obtendrán artículos exclusivos de esas temporada de JcJ incluso un trofeo para poner en casa para el &lt;strong&gt;top 1 del servidor&lt;/strong&gt;. Para el resto el solo hecho de clasificar sobre bronce les dará los preciados &lt;strong&gt;&lt;em&gt;Wolf Collar&lt;/em&gt;&lt;/strong&gt;, items que les permitirán comprar armas exclusivas de &lt;em&gt;The Feast Ranking&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/introjcj/feast.jpg&quot; alt=&quot;feast&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Jul 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/introduccion-jcj/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/introduccion-jcj/</guid>
+        
+        <category>guías</category>
+        
+        <category>pvp</category>
+        
+        
+        <category>guías</category>
+        
+      </item>
     
       <item>
         <title>Relatos de la Calamidad: Sus 15 años</title>
@@ -935,39 +996,6 @@ Si tenemos una cuenta de prueba cuando el mundo este lleno del todo no nos dejar
         
         
         <category>guías</category>
-        
-      </item>
-    
-      <item>
-        <title>Lore de las Razas de FFXIV: Todo sobre los Viera</title>
-        <description>&lt;p&gt;Los &lt;strong&gt;Viera&lt;/strong&gt;, la misteriosa raza de humanoides con grandes orejas leporinas y poderosas piernas, poco comunes en Eorzea hasta hace poco, se encuentran comúnmente en el sur del continente de Othard. Si bien la mayoría de su población vive aislada del resto de Hydaelyn ,en la Jungla de Golmore y la Cordillera de Skatay, en los últimos tiempos cada vez más han decidido dejar la seguridad del bosque para explorar el mundo.&lt;/p&gt;
-
-&lt;p&gt;Tras el polémico anuncio en la FanFest de Tokyo en 2019 de que las mujeres Viera (anunciadas previamente) no tendrían una contraparte masculina y, en cambio, se anunciase a los bestiales Hrothgar, la comunidad estuvo pidiendo a los desarrolladores qué estas dos razas, consideradas por muchos como inacabadas, tuvieran sus géneros perdidos.&lt;/p&gt;
-
-&lt;p&gt;Y así, de la nada en la Digital Fanfest de 2021, se anunciaron los &lt;strong&gt;Viera Masculinos&lt;/strong&gt;. Y el internet explotó tanto con defensores como detractores.&lt;/p&gt;
-
-&lt;p&gt;Como firme defensor de que cualquier jugador &lt;strong&gt;debería poder jugar&lt;/strong&gt; con la raza y género que mas se sintiese identificado, personalmente me alegré muchísimo y a causa de ello, decidí realizar el primer vídeo de la serie “Todo sobre las razas de FFXIV”.&lt;/p&gt;
-
-&lt;p&gt;A continuación os dejamos el &lt;strong&gt;vídeo sobre las Viera&lt;/strong&gt;, pero iremos añadiendo todas las razas para que podáis aprender más sobre su historia, cultura, sus nombres o su fisiología.&lt;/p&gt;
-
-&lt;p&gt;No olvidéis comentar el vídeo y suscribirse al &lt;a href=&quot;https://www.youtube.com/channel/UCLgSQnV6of5-0x568qWilNw&quot; target=&quot;_blank&quot;&gt;canal&lt;/a&gt; si os ha parecido interesante.&lt;/p&gt;
-
-&lt;p&gt;¡Guerreros de la luz, nos vemos en Eorzea!&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/7uSssHAegaA?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 20 Jul 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/vieras/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/vieras/</guid>
-        
-        <category>lore</category>
-        
-        <category>razas</category>
-        
-        
-        <category>lore</category>
         
       </item>
     

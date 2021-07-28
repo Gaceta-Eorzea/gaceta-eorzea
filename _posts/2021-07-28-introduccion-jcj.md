@@ -2,14 +2,14 @@
 layout: post
 title:  "Jugador contra Jugador - Introducción"
 author: hers
-categories: [ ]
+categories: [ guías ]
 tags: [guías, pvp]
 image: assets/images/articles/guias/introjcj/portada.jpg
 description: "Introducción al JcJ de Final Fantasy XIV."
 featured: false
-hidden: true
+hidden: false
 ---
-Esta serie de guías abarca **conceptos básicos** sobre un aspecto desconocido para muchos como es el contenido de **Jugador contra Jugador** y que con la introducción de la ruleta de ***Frontline*** (Primera Línea) ha llamado la atención de varios jugadores que, por diferentes motivos, se sienten abrumados por los cambios entre las dos facetas del juego.
+Esta serie de guías abarca **conceptos básicos** sobre un aspecto desconocido para muchos como es el contenido de **Jugador contra Jugador** y que con la introducción de la ruleta de ***Frontline*** (Frente de Guerra) ha llamado la atención de varios jugadores que, por diferentes motivos, se sienten abrumados por los cambios entre las dos facetas del juego.
 
 No es una guía de cómo manejar las clases de manera excepcional o de como matar 20 personas en *Frontline*, es una guía de conceptos básicos y de algunos consejos en mi experiencia como jugador JcJ de este juego.
 
@@ -27,7 +27,7 @@ En JcJ todos jugarán con habilidades como si fueran **nivel 80** aunque muchas 
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/introjcj/ba.jpg" alt="barra de botones"/></p>
 
-Además del cambio en nuestra barra de botones también tendremos, en las opciones de personaje, una nueva opción llamada ***PVP Profile*** (Perfil JcJ) en la pestaña principal donde podremos ver las estadísticas tanto de ***Frontline*** (Primera Línea), ***The Feast*** (El Banquete) y ***Rival Wings*** (Alas Rivales).
+Además del cambio en nuestra barra de botones también tendremos, en las opciones de personaje, una nueva opción llamada ***PVP Profile*** (Perfil JcJ) en la pestaña principal donde podremos ver las estadísticas tanto de ***Frontline*** (Frente de Guerra), ***The Feast*** (El Festín) y ***Rival Wings*** (Alas Rivales).
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/introjcj/hud.jpg" alt="hud"/></p>
 
@@ -39,7 +39,7 @@ Ya completado nuestra misión en esta área, tendremos una nueva disponible con 
 
 De esta forma desbloqueamos *Rival Wings* un modo de JcJ de **24 jugadores** donde lucharemos para acabar con el núcleo del equipo enemigo en modo muy parecido al de mobas como *League of Legends*. 
 
-Para terminar de desbloquear los modos de JcJ tendremos que regresar a nuestra Gran Compañía y aceptar la misión <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/60d4d077629/" target="_blank" class="eorzeadb_link">Like Civilized Men and Women</a> para desbloquear el último modo y el más activo por parte de la comunidad, *Frontline* (Primera Línea).
+Para terminar de desbloquear los modos de JcJ tendremos que regresar a nuestra Gran Compañía y aceptar la misión <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/60d4d077629/" target="_blank" class="eorzeadb_link">Like Civilized Men and Women</a> para desbloquear el último modo y el más activo por parte de la comunidad, *Frontline* (Frente de Guerra).
 
 #### *The Wolvens Deeps* y sus recompensas
 
