@@ -3,7 +3,7 @@ layout: post
 title: "Como conseguir la montura Al-Iklil"
 author: sharn
 categories: [ monturas ]
-tags: [montura, "Save the Queen*"]
+tags: [montura, "Save the Queen"]
 image: assets/images/articles/noticias/monturaaliklil/portada.jpg
 description: "La montura Al-Iklil la conseguriás a través de completar contenido de Save the Queen."
 featured: false
