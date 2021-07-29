@@ -11,7 +11,7 @@ hidden: false
 ---
 *10 preguntas a creadores de contenido es una serie de mini entrevistas en las que os iremos presentando un poquillo a varios creadores de contenido de la comunidad, no sólo de twitch o youtube sino de otros ámbitos también.*
 
-Y sin más preámbulos hoy en 10 preguntas a creadores de contenido de FF14 tenemos a… **Zarovich** también conocido como **Elmira Siand**!!
+Y sin más preámbulos hoy en 10 preguntas a creadores de contenido de FFXIV tenemos a… **Zarovich** también conocido como **Elmira Siand**!!
 
 <div class="card">
   <div class="card-header">
@@ -67,7 +67,7 @@ Y sin más preámbulos hoy en 10 preguntas a creadores de contenido de FF14 tene
 
 <div class="card">
   <div class="card-header">
-     <b><i>Lia</i>: Tienes algún gazapo o anécdota de novato en ff14 que nos puedas contar? ¿Qué te hubiera gustado saber en aquel momento que sabes ahora?</b>
+     <b><i>Lia</i>: Tienes algún gazapo o anécdota de novato en FFXIV que nos puedas contar? ¿Qué te hubiera gustado saber en aquel momento que sabes ahora?</b>
   </div>
   <div class="card-body">
     <i><b>Elmira</b></i>: Justo el que acabo de mencionar, Guild Wars 2 es un mmo que no tiene el sistema de trinidad, tank, healer, dps. Yo eso lo desconocía, entonces al empezar el juego y por no haberme informado muy bien, me comí con patatas unos 15 niveles de conjurer hasta que me di cuenta de por donde estaba encaminando mi personaje y fue “ah! no!!!! socorro! no quiero ser healer”. 
@@ -78,7 +78,7 @@ Y sin más preámbulos hoy en 10 preguntas a creadores de contenido de FF14 tene
 
 <div class="card">
   <div class="card-header">
-     <b><i>Lia</i>: ¿A qué dedicas la mayor parte de tu tiempo en ff14?</b>
+     <b><i>Lia</i>: ¿A qué dedicas la mayor parte de tu tiempo en FFXIV?</b>
   </div>
   <div class="card-body">
     <i><b>Elmira</b></i>: Pues actualmente a ir buscando cosas con las que ir completando contenido para el canal. Me faltan bastantes temas que tocar en los diferentes vídeos y muchas veces estoy simplemente jugando para sacar clips. El resto del tiempo lo paso raideando en un grupo de amigos o a veces por que me apetece completar algo o hacer algo como la relic o alguna relic pasada o simplemente estar un rato haciendo ruletas de mentor. Es bastante variado en general.  
@@ -106,7 +106,7 @@ Y sin más preámbulos hoy en 10 preguntas a creadores de contenido de FF14 tene
 
 <div class="card">
   <div class="card-header">
-     <b><i>Lia</i>: ¿Qué esperas ver en el futuro en ff14?</b>
+     <b><i>Lia</i>: ¿Qué esperas ver en el futuro en FFXIV?</b>
   </div>
   <div class="card-body">
     <i><b>Elmira</b></i>: Pues ojalá volviese la Deep Dungeon, ha sido un contenido que me ha gustado muchísimo. Me refiero a la deep dungeon completa, no a la deep dungeon como tal para levear, eso si que no me gustaba. Pero subir los 200 pisos en Palace of the Death o los 100 pisos en Heaven on High es algo que me encanta.<br/>
@@ -121,7 +121,7 @@ Y sin más preámbulos hoy en 10 preguntas a creadores de contenido de FF14 tene
 
 <div class="card">
   <div class="card-header">
-     <b><i>Lia</i>: ¿Desde cuándo haces guías de  ff14 y cuál fue la razón por la que comenzaste a hacerlo?</b>
+     <b><i>Lia</i>: ¿Desde cuándo haces guías de FFXIV y cuál fue la razón por la que comenzaste a hacerlo?</b>
   </div>
   <div class="card-body">
     <i><b>Elmira</b></i>: Pues empecé en Septiembre del año pasado. Y fue una combinación de motivos, a mi me encanta Final Fantasy XIV, pero veía que en YouTube casi no había creadores de contenido en español. Había un grupo de raid que publicaba guías de Savage y luego había alguna guia de job de A Realm Reborn que de hecho cometía algunos errores. Además de que luego estaban los canales que sacaban vídeos por promoción con Square-Enix en los que titulaban “como empezar en Final Fantasy XIV” y realmente había mucha información errónea.<br/>
