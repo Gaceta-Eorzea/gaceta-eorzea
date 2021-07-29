@@ -5,9 +5,40 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Jul 2021 14:29:15 +0100</pubDate>
-    <lastBuildDate>Wed, 28 Jul 2021 14:29:15 +0100</lastBuildDate>
+    <pubDate>Thu, 29 Jul 2021 09:45:57 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Jul 2021 09:45:57 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Como conseguir la montura del Unicornio</title>
+        <description>&lt;p&gt;En este artículo vamos a conseguir la montura del &lt;strong&gt;Unicornio&lt;/strong&gt;. Es una montura que la podrás conseguir fácilmente además con tu cuenta de &lt;strong&gt;Prueba Gratuita&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;pasos-para-conseguir-el-unicornio&quot;&gt;Pasos para conseguir el Unicornio&lt;/h4&gt;
+
+&lt;p&gt;Lo más importante es aclarar que para poder acceder a la montura hay que tener un &lt;strong&gt;Conjurador&lt;/strong&gt; (&lt;em&gt;Conjurer&lt;/em&gt; en inglés) a &lt;strong&gt;nivel 30&lt;/strong&gt; ya que es una montura que &lt;strong&gt;solo&lt;/strong&gt; puedes &lt;strong&gt;obtener&lt;/strong&gt; con esta &lt;strong&gt;clase&lt;/strong&gt;, pero como todas &lt;strong&gt;podrás usarla con cualquiera&lt;/strong&gt; que tengas desbloqueada.&lt;/p&gt;
+
+&lt;p&gt;Una vez que llegues al nivel requerido tendrás que completar la misión &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/8fa605dd35d/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Unicorn Power&lt;/a&gt; que te la dará &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/49abbe4e2be/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Braya (Old Grindania X: 6.3 Y: 11.0)&lt;/a&gt;. Tras completar la misión recibirás como recompensa &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/1a77d558f72/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Unicorn Whistle&lt;/a&gt; el cual al usarlo te otorgara la montura.&lt;/p&gt;
+
+&lt;blockquote&gt;
+Hay que indicar que hay para &lt;b&gt;poder aceptar&lt;/b&gt; esta misión &lt;b&gt;tienes que que ser Conjurador&lt;/b&gt;, y &lt;b&gt;no&lt;/b&gt; podemos hacerlo si eres &lt;b&gt;Mago Blanco&lt;/b&gt; (&lt;i&gt;White Mage&lt;/i&gt; en ingles).
+&lt;/blockquote&gt;
+
+&lt;p&gt;Si ya completaste la misión de &lt;strong&gt;Mago Blanco para ser Conjurador&lt;/strong&gt; deberás &lt;strong&gt;quitarte&lt;/strong&gt; el &lt;strong&gt;Cristal de alma&lt;/strong&gt; (&lt;em&gt;Soul Crystal&lt;/em&gt; en ingles) en tu &lt;strong&gt;ficha de personaje&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/monturas/unicornio/uni1.jpg&quot; alt=&quot;uni1&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Jul 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/montura-unicornio/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/montura-unicornio/</guid>
+        
+        <category>monturas</category>
+        
+        
+        <category>monturas</category>
+        
+        <category>clases</category>
+        
+      </item>
     
       <item>
         <title>Jugador contra Jugador - Introducción</title>
@@ -872,130 +903,6 @@ Os recordamos que esta activo &lt;a href=&quot;/make-it-rainn/&quot; target=&quo
         
         
         <category>encuentros</category>
-        
-      </item>
-    
-      <item>
-        <title>Sistema de Cambio de Mundos</title>
-        <description>&lt;p&gt;Seguramente muchas de las veces que hemos intentado entrar a jugar al Final Fantasy XIV &lt;strong&gt;hemos visto que hay cola&lt;/strong&gt;, esto a veces puede ser un &lt;strong&gt;problema&lt;/strong&gt;, sobre todo en momentos de gran afluencia como en salida de parche y expansiones.  En la guía de hoy vamos a hablar de como podemos &lt;strong&gt;solventar este problema&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/cambioservidores/ffxiv-login-queue.jpg&quot; width=&quot;600&quot; alt=&quot;visitar&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Cola de entrada al Mundo.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-Si tenemos una cuenta de prueba cuando el mundo este lleno del todo no nos dejara entrar al mismo, aunque veremos como solucionarlo.
-&lt;/blockquote&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/cambioservidores/free.jpg&quot; width=&quot;600&quot; alt=&quot;visitar&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Mensaje con el mundo lleno y cuenta de prueba&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;viajar-entre-mundos-servidores&quot;&gt;Viajar entre mundos (servidores)&lt;/h3&gt;
-
-&lt;p&gt;Primero vamos a entender como &lt;strong&gt;podemos viajar entre mundos&lt;/strong&gt;, teniendo en cuenta sólo se podrá viajar entre mundos que estén en el &lt;strong&gt;mismo &lt;em&gt;Data Center&lt;/em&gt;&lt;/strong&gt;. Para hacerlo, deberemos ir a una de las ciudades principales (Limsa Lominsa, Ul’dah y Grindania) y desde su &lt;em&gt;Aetheryte&lt;/em&gt; principal tenemos que elegir la opción &lt;strong&gt;&lt;em&gt;Visit Another World Server.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/cambioservidores/visitar.jpg&quot; width=&quot;600&quot; alt=&quot;visitar&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Mundos que puedes visitar.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Una vez se haya completado la transferencia del personaje, aparecerás en el mundo que hayas elegido y al lado de tu nombre aparecerá la palabra &lt;strong&gt;&lt;em&gt;“Wanderer”&lt;/em&gt;&lt;/strong&gt; (Viajero). Así mismo podrás reconocer a otros jugadores que estén de visita en tu mundo si tienen &lt;strong&gt;&lt;em&gt;“Wanderer”&lt;/em&gt;&lt;/strong&gt; al lado de su nombre.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/cambioservidores/personaje.jpg&quot; width=&quot;600&quot; alt=&quot;personaje&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Jugador de visita en otro mundo.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Si estás en otro mundo, no podrás ver a los jugadores conectados en tu &lt;strong&gt;Compañía Libre&lt;/strong&gt; y además perderás los bufos que te de ésta.&lt;/p&gt;
-
-&lt;p&gt;Si sales del juego estándo de visita en otro mundo, cuando vuelvas a entrar, seguirás estando en ese mundo hasta decidas volver al tuyo propio. Para volver a tu mundo, deberás usar de nuevo el sistema de cambio de mundo.&lt;/p&gt;
-
-&lt;h3 id=&quot;restricciones-al-estar-en-otro-mundo&quot;&gt;Restricciones al estar en otro mundo&lt;/h3&gt;
-
-&lt;p&gt;Los jugadores en otros mundos tienen características restringidas.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;El sistema &lt;strong&gt;&lt;em&gt;Moogle&lt;/em&gt;&lt;/strong&gt; de correos no está disponible, sin embargo recibirás notificaciones cuando te llegue correo nuevo.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;No se pueden convocar a los &lt;strong&gt;Asistentes&lt;/strong&gt; (&lt;em&gt;Retainers&lt;/em&gt; en inglés).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;No podrás poner objetos en el &lt;strong&gt;Tablón del mercado&lt;/strong&gt; (&lt;em&gt;Market Board&lt;/em&gt; en inlgés), pero si podrás comprar objetos en ellos.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;No se puede crear ni unirte a una &lt;strong&gt;Compañía Libre&lt;/strong&gt; (&lt;em&gt;Free Company&lt;/em&gt; en ingles) si sois de distintos mundos.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Si usas el &lt;strong&gt;canal de chat de nuevos jugadores&lt;/strong&gt; (&lt;em&gt;Novice Network&lt;/em&gt; en inglés) verás el del mundo que estés conectado.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;No se puede &lt;strong&gt;comprar&lt;/strong&gt; casas ni apartamentos en otro mundo. No te podrás teletransportar a tu residencia, a la de tu &lt;strong&gt;Compañía Libre&lt;/strong&gt; ni a la de un amigo estando en distintos mundos.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;No podrás &lt;strong&gt;asistir a una boda de otro mundo&lt;/strong&gt; ni &lt;strong&gt;casarte con un jugador de otro mundo&lt;/strong&gt;. Adicionalmente tampoco podrás completar las misiones de las bodas.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Los nodos de recolección &lt;strong&gt;Legendarios&lt;/strong&gt; (&lt;em&gt;Lengendary&lt;/em&gt; en inglés) y &lt;strong&gt;Vírgenes&lt;/strong&gt; (&lt;em&gt;Unspoiled&lt;/em&gt; en inglés) son inaccesibles para mineros y botánicos.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Podrás acceder a las &lt;strong&gt;Mazmorras Profundas&lt;/strong&gt; (&lt;em&gt;Deep Dungeons&lt;/em&gt; en inglés), &lt;strong&gt;&lt;em&gt;Palace of the dead&lt;/em&gt;&lt;/strong&gt; o &lt;strong&gt;&lt;em&gt;Heaven-on-high&lt;/em&gt;&lt;/strong&gt;, pero no se guardará tu puntuación en el ranking del mundo.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;No se puede ingresar a torneos &lt;strong&gt;&lt;em&gt;Lord of Verminion&lt;/em&gt;&lt;/strong&gt; ni de &lt;strong&gt;&lt;em&gt;Triple Triad&lt;/em&gt;&lt;/strong&gt; del &lt;strong&gt;&lt;em&gt;Gold Saucer&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;No podrás comprar boletos ni canjearlos del &lt;strong&gt;&lt;em&gt;Cactpot&lt;/em&gt;&lt;/strong&gt; (Lotería semanal). En cambio si que podrás hacer los boletos diarios del &lt;strong&gt;&lt;em&gt;Mini-Cactpot&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Si estáis en distintos mundos no podrás usar el &lt;strong&gt;&lt;em&gt;Eternity Ring&lt;/em&gt;&lt;/strong&gt;, para teletransportarte con tu pareja, ni el &lt;strong&gt;&lt;em&gt;Aetheryte Pendulum&lt;/em&gt;&lt;/strong&gt; para teletransportarte a un amigo.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;No podrás usar el &lt;strong&gt;teletransportarte a un amigo&lt;/strong&gt; si estáis en distintos mundos.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Si un mundo tiene aplicado la &lt;strong&gt;ganancia de experiencia extra&lt;/strong&gt;, un jugador que lo visite &lt;strong&gt;no ganará este beneficio&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;No podrás &lt;strong&gt;eliminar&lt;/strong&gt; a tu personaje si está visitando otro mundo.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;No podrás cambiar el nombre de tu personaje ni el de un asistente (&lt;em&gt;Retainer&lt;/em&gt; en inglés) estando en otro mundo.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;visitando-otro-mundo-desde-la-selección-de-personaje&quot;&gt;Visitando otro mundo desde la selección de personaje&lt;/h3&gt;
-
-&lt;p&gt;Final Fantasy XIV nos da la posibilidad de cambiar de mundo desde la selección de personaje. El sistema te añadirá a un mundo que esté menos congestionado dentro de tu &lt;strong&gt;&lt;em&gt;Data Center&lt;/em&gt;&lt;/strong&gt; y entrando así más rápido al juego si tu mundo está muy colapsado.&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/cambioservidores/inicio.jpg&quot; alt=&quot;inicio&quot; /&gt;
-      &lt;br /&gt;
-      &lt;sub&gt;&lt;sup&gt;Opción cambiar de mundo.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/cambioservidores/inicio2.jpg&quot; alt=&quot;inicio2&quot; /&gt;
-      &lt;br /&gt;
-      &lt;sub&gt;&lt;sup&gt;Condiciones.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;blockquote&gt;
-&lt;b&gt;Si tienes una cuenta de prueba, y tu mundo está lleno y no puedes entrar al juego, visitando otro mundo desde la selección de personaje podrás entrar al juego.&lt;/b&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Wed, 21 Jul 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/cambio-servidores/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/cambio-servidores/</guid>
-        
-        <category>nuevos jugadores</category>
-        
-        <category>guías</category>
-        
-        
-        <category>guías</category>
         
       </item>
     
