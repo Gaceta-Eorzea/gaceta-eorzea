@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Jul 2021 12:52:42 +0100</pubDate>
-    <lastBuildDate>Thu, 29 Jul 2021 12:52:42 +0100</lastBuildDate>
+    <pubDate>Thu, 29 Jul 2021 12:58:17 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Jul 2021 12:58:17 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -58,8 +58,6 @@ Hay que indicar que para &lt;b&gt;poder aceptar&lt;/b&gt; esta misión &lt;b&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_gazpacho/gazpacho_1.jpg&quot; width=&quot;600&quot; alt=&quot;Y'shtola&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;card&quot;&gt;
   &lt;div class=&quot;card-header&quot;&gt;
@@ -173,8 +171,6 @@ Hay que indicar que para &lt;b&gt;poder aceptar&lt;/b&gt; esta misión &lt;b&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_gazpacho/gazpacho_2.jpg&quot; width=&quot;600&quot; alt=&quot;Mikoto &quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;div class=&quot;card&quot;&gt;
   &lt;div class=&quot;card-header&quot;&gt;
      &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: Y por último, pero no menos importante, ¿qué le dirías a alguien que está empezando el juego por primera vez?&lt;/b&gt;
@@ -206,6 +202,8 @@ Hay que indicar que para &lt;b&gt;poder aceptar&lt;/b&gt; esta misión &lt;b&gt;
         
         <category>comunidad</category>
         
+        
+        <category>entrevistas</category>
         
       </item>
     

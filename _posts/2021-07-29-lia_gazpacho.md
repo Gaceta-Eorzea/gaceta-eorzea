@@ -2,12 +2,12 @@
 layout: post
 title: "¡Lia nos la lía! 10 preguntas a Gazpacho"
 author: lia
-categories: [  ]
+categories: [ entrevistas ]
 tags: [entrevistas, "creadores", "comunidad"]
 image: assets/images/articles/entrevistas/lia_nos_la_lia.jpg
 description: "¡Lia nos la lía! 10 preguntas a Gazpacho"
 featured: false
-hidden: true
+hidden: false
 ---
 *10 preguntas a creadores de contenido es una serie de mini entrevistas en las que os iremos presentando un poquillo a varios creadores de contenido de la comunidad, no sólo de twitch o youtube sino de otros ámbitos también.*
 
@@ -25,8 +25,6 @@ Y sin más preámbulos hoy en 10 preguntas a creadores de contenido de FFXIV ten
 <br/>
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/entrevistas/lia_gazpacho/gazpacho_1.jpg" width="600" alt="Y'shtola"/></p>
-
-<br/>
 
 <div class="card">
   <div class="card-header">
@@ -140,8 +138,6 @@ Y sin más preámbulos hoy en 10 preguntas a creadores de contenido de FFXIV ten
 <br/>
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/entrevistas/lia_gazpacho/gazpacho_2.jpg" width="600" alt="Mikoto "/></p>
-
-<br/>
 
 <div class="card">
   <div class="card-header">
