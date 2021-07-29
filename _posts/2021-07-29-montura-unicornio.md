@@ -2,8 +2,8 @@
 layout: post
 title: "Como conseguir la montura del Unicornio"
 author: sharn
-categories: [monturas, clases]
-tags: [monturas]
+categories: [monturas]
+tags: [monturas, clases]
 image: assets/images/articles/monturas/unicornio/portada.jpg
 description: "Como conseguir la montura del Unicornio"
 featured: false
