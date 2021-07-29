@@ -133,7 +133,7 @@ Y sin más preámbulos hoy en 10 preguntas a creadores de contenido de FFXIV ten
   <div class="card-header">
      <b><i>Lia</i>: ¿Qué tipo de contenido podemos esperarnos en tu twitter ?</b>
   </div>
-  <div class="card-body">Sobre todo dibujos (principalmente de FFXIV, pero también fanart en general) y memes de vez en cuando.
+  <div class="card-body"><i><b>Gazpacho</b></i>: Sobre todo dibujos (principalmente de FFXIV, pero también fanart en general) y memes de vez en cuando.
   </div>
 </div>
 
@@ -147,7 +147,7 @@ Y sin más preámbulos hoy en 10 preguntas a creadores de contenido de FFXIV ten
   <div class="card-header">
      <b><i>Lia</i>: Y por último, pero no menos importante, ¿qué le dirías a alguien que está empezando el juego por primera vez?</b>
   </div>
-  <div class="card-body">Tómate tu tiempo, disfruta de Eorzea y no corras para llegar al endgame. Sobre todo conoce a gente, que estamos en un MMO, puedes hacer amistades que te duren para siempre y conseguir oportunidades únicas. Desbloquea clases, prueba todo el contenido, pero sobre todo no tengas prisa.
+  <div class="card-body"><i><b>Gazpacho</b></i>: Tómate tu tiempo, disfruta de Eorzea y no corras para llegar al endgame. Sobre todo conoce a gente, que estamos en un MMO, puedes hacer amistades que te duren para siempre y conseguir oportunidades únicas. Desbloquea clases, prueba todo el contenido, pero sobre todo no tengas prisa.
     ¡Muchas gracias a la Gaceta Eorzea y a Lía por esta oportunidad! Espero que la comunidad hispanohablante de FFXIV crezca mucho más en el futuro, FFXIV es increíble y vale la pena darle una oportunidad.
   </div>
 </div>
