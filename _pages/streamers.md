@@ -136,7 +136,7 @@ comments: true
             <div class="card p-3 mb-2">
                 <div class="d-flex justify-content-between">
                     <div class="d-flex flex-row align-items-center">
-                        <div class="icon"><a href="https://www.twitch.tv/lia_tales" target="_blank"><img style="border-radius: 50%;" height="100" src="https://static-cdn.jtvnw.net/jtv_user_pictures/ffc70fa4-96cc-42be-9e7c-815ee51f7cf6-profile_image-300x300.png"></a></div>
+                        <div class="icon"><a href="https://www.twitch.tv/lia_tales" target="_blank"><img style="border-radius: 50%;" height="100" src="https://static-cdn.jtvnw.net/jtv_user_pictures/d6c9de90-55c2-4b8d-9319-320c191e0568-profile_image-70x70.png"></a></div>
                         <div class="ms-2 c-details">
                             <h5 class="mb-0">&nbsp;<a href="https://www.twitch.tv/lia_tales" target="_blank">Lia_tales</a></h5><span></span>
                         </div>
@@ -155,17 +155,17 @@ comments: true
             <div class="card p-3 mb-2">
                 <div class="d-flex justify-content-between">
                     <div class="d-flex flex-row align-items-center">
-                        <div class="icon"><a href="https://www.twitch.tv/cahos_gaming" target="_blank"><img style="border-radius: 50%;" height="100" src="https://static-cdn.jtvnw.net/jtv_user_pictures/53616b41-b49d-4ded-a564-d52eb572409c-profile_image-300x300.jpg"></a></div>
+                        <div class="icon"><a href="https://www.twitch.tv/Nephiam" target="_blank"><img style="border-radius: 50%;" height="100" src="https://static-cdn.jtvnw.net/jtv_user_pictures/3de6a4c2-d1d5-470e-996c-c2c63c834069-profile_image-70x70.png"></a></div>
                         <div class="ms-2 c-details">
-                            <h5 class="mb-0">&nbsp;<a href="https://www.twitch.tv/cahos_gaming" target="_blank">CAHOS_GAMING</a></h5><span></span>
+                            <h5 class="mb-0">&nbsp;<a href="https://www.twitch.tv/Nephiam" target="_blank">Nephiam</a></h5><span></span>
                         </div>
                     </div>
                     <div class="badge"> <span>&nbsp;</span> </div>
                 </div>
                 <div class="mt-5">
-                    <a href="https://www.twitch.tv/cahos_gaming" target="_blank"><i class="fab fa-twitch">&nbsp;</i>CAHOS_GAMING</a><br/>
-                    <a href="https://twitter.com/CahosGamingARG" target="_blank"><i class="fab fa-twitter">&nbsp;</i>CahosGamingARG</a><br/>
-                    <a href="https://www.youtube.com/cahos_gaming" target="_blank"><i class="fab fa-youtube">&nbsp;</i>CAHOS GAMING</a>
+                    <a href="https://www.twitch.tv/Nephiam" target="_blank"><i class="fab fa-twitch">&nbsp;</i>Nephiam</a><br/>
+                    <a href="https://twitter.com/UrashiRowah" target="_blank"><i class="fab fa-twitter">&nbsp;</i>UrashiRowah</a><br/>
+                    &nbsp;<br/>
                 </div>
             </div>
         </div>    
