@@ -5,9 +5,44 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Jul 2021 09:56:09 +0100</pubDate>
-    <lastBuildDate>Sat, 31 Jul 2021 09:56:09 +0100</lastBuildDate>
+    <pubDate>Sun, 01 Aug 2021 16:20:34 +0100</pubDate>
+    <lastBuildDate>Sun, 01 Aug 2021 16:20:34 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Lore de las Razas de FFXIV: Todo sobre los Au Ra</title>
+        <description>&lt;p&gt;&lt;strong&gt;Au Ra&lt;/strong&gt;, los humanoides con escamas de los que los Eruditos teorizan que descienden de los dragones, tienen un origen (según ellos) mucho más grandilocuente.&lt;/p&gt;
+
+&lt;p&gt;Según su propia mitología tanto los &lt;em&gt;Xaela&lt;/em&gt; (de escamas negras) como los &lt;em&gt;Raen&lt;/em&gt; (de escamas claras) descienden de sus dos dioses primordiales: &lt;em&gt;Azim&lt;/em&gt; (el dios del sol) y &lt;em&gt;Nhaama&lt;/em&gt; (la diosa de la luna).&lt;/p&gt;
+
+&lt;p&gt;Nativos del continente de &lt;em&gt;Othard&lt;/em&gt;, los Au Ra habitan la gran mayoría de las grandes estepas de &lt;em&gt;Azim&lt;/em&gt; y &lt;em&gt;Hingashi&lt;/em&gt;, donde ambos clanes fueron expandiéndose poco a poco.&lt;/p&gt;
+
+&lt;p&gt;Aunque parezcan reptiles, en realidad los &lt;em&gt;Au Ra&lt;/em&gt; son mamíferos escamados (como los armadillos).&lt;/p&gt;
+
+&lt;p&gt;El dimorfismo de género (diferencias fisiológicas entre los machos y las hembras) no es algo poco común en &lt;em&gt;Eorzea&lt;/em&gt;, pero en el caso de los Au Ra es, cuanto menos, icónico (¡y extremo!).&lt;/p&gt;
+
+&lt;p&gt;En un punto de su historia los Au Ra llegaron a &lt;em&gt;Eorzea&lt;/em&gt; para huir del ataque del Imperio &lt;em&gt;Garleano&lt;/em&gt;, y pese a que al principio los &lt;em&gt;Eorzeanos&lt;/em&gt; les trataban con miedo y rechazo, al final consiguieron adaptarse a la vida en Al*denard.&lt;/p&gt;
+
+&lt;p&gt;En el Vídeo “&lt;strong&gt;Todo sobre los Au Ra&lt;/strong&gt;” podréis encontrar todos estos detalles y aún más sobre su historia, cultura y fisiología.&lt;/p&gt;
+
+&lt;p&gt;No olvidéis comentar el vídeo y suscribiros al canal si os ha parecido interesante.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/nGbf-dCUgHs?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/aura/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/aura/</guid>
+        
+        <category>lore</category>
+        
+        <category>razas</category>
+        
+        
+        <category>lore</category>
+        
+      </item>
     
       <item>
         <title>El Juglar Errante - Furiosa Porque Pequeña 2 - Heavensward</title>
@@ -883,34 +918,6 @@ if (msq) {
         
         
         <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>El viaje sin fin - Parte 9</title>
-        <description>&lt;p&gt;El viaje sin fin del guerrero de la luz nos ha llevado a múltiples aventuras, sin embargo puede que no las recordemos todas, bien porque han pasado muchos años o bien porque hasta &lt;a href=&quot;/traducir&quot; target=&quot;_blank&quot;&gt;hace poco&lt;/a&gt; no podíamos disfrutar de estas historias en nuestro idioma.&lt;/p&gt;
-
-&lt;p&gt;El creador de contenido &lt;a href=&quot;https://www.youtube.com/c/Khrey_Oficial&quot; target=&quot;_blank&quot;&gt;Khrey&lt;/a&gt; ha creado una increíble lista de reproducción en su &lt;a href=&quot;https://www.youtube.com/c/Khrey_Oficial&quot; target=&quot;_blank&quot;&gt;canal&lt;/a&gt; donde nos va contando la historia del juego, hasta la fecha.&lt;/p&gt;
-
-&lt;p&gt;Os dejamos aquí la novena entrega de esta serie para que podáis verla, si os ha gustado no dudéis en subscribirás a su canal.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/aUbGNGWh3zc?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sun, 25 Jul 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/viaje-sin-fin-9/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/viaje-sin-fin-9/</guid>
-        
-        <category>multimedia</category>
-        
-        <category>video</category>
-        
-        <category>lore</category>
-        
-        
-        <category>lore</category>
         
       </item>
     
