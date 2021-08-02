@@ -5,7 +5,7 @@ author: cecile
 categories: [ ]
 tags: [imágenes, multimedia]
 image: assets/images/articles/multimedia/hydaelyn-zodiak/FFXIV_Endwalker_Amano_art.jpg
-description: "Primera entrega de la serie visitando Eorzea de la mano de Hydaelyn y Zodiak."
+description: "Segunda entrega de la serie visitando Eorzea de la mano de Hydaelyn y Zodiak."
 featured: false
 hidden: true
 ---
