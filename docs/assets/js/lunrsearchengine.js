@@ -118,7 +118,7 @@ var documents = [{
     "id": 23,
     "url": "https://gaceta-eorzea.com/hydaelyn-zodiak-2/",
     "title": "Hydaelyn y Zodiak: alrededor de Eorzea. Parte 2",
-    "body": "2021/08/01 - En la próxima expansión Endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiak y como homenaje hemos decidido hacer una visita a distintos puntos de Eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta segunda entrega vamos a visitar algunas de las zonas de A Realm Reborn. Si queréis podéis ver la entrega anterior en este artículo. Podéis cambiar entre las imágenes arrastrando el marcador que tienen en el centro. Black Shroud:             Coerthas:     La Noscea:         Mor Dhona:     Thanalan:       "
+    "body": "2021/08/01 - En la próxima expansión Endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiak y como homenaje hemos decidido hacer una visita a distintos puntos de Eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta segunda entrega vamos a visitar algunas de las zonas de A Realm Reborn. Si queréis podéis ver la entrega anterior en este artículo. Podéis cambiar entre las imágenes arrastrando el marcador que tienen en el centro. Black Shroud:     Coerthas:     La Noscea:     Mor Dhona:     Thanalan:     "
     }, {
     "id": 24,
     "url": "https://gaceta-eorzea.com/aura/",

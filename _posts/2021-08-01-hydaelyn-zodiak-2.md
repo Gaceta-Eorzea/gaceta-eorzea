@@ -27,26 +27,6 @@ En la próxima expansión **Endwalker** veremos el desenlace del arco argumental
   <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/black_shroud/central_shroud_n.jpg" />
 </img-comparison-slider>
 
-<img-comparison-slider>
-  <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/black_shroud/east_d.jpg" />
-  <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/black_shroud/east_n.jpg" />
-</img-comparison-slider>
-
-<img-comparison-slider>
-  <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/black_shroud/north_shroud_d.jpg" />
-  <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/black_shroud/north_shroud_n.jpg" />
-</img-comparison-slider>
-
-<img-comparison-slider>
-  <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/black_shroud/santuario_12_d.jpg" />
-  <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/black_shroud/santuario_12_n.jpg" />
-</img-comparison-slider>
-
-<img-comparison-slider>
-  <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/black_shroud/south_shroud_d.jpg" />
-  <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/black_shroud/south_shroud_n.jpg" />
-</img-comparison-slider>
-
 ### Coerthas
 
 <img-comparison-slider>
@@ -67,18 +47,8 @@ En la próxima expansión **Endwalker** veremos el desenlace del arco argumental
 </img-comparison-slider>
 
 <img-comparison-slider>
-  <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/la_noscea/lower_d.jpg" />
-  <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/la_noscea/lower_n.jpg" />
-</img-comparison-slider>
-
-<img-comparison-slider>
   <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/la_noscea/outer_upper_d.jpg" />
   <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/la_noscea/outer_upper_n.jpg" />
-</img-comparison-slider>
-
-<img-comparison-slider>
-  <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/la_noscea/western_d.jpg" />
-  <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/la_noscea/western_n.jpg" />
 </img-comparison-slider>
 
 ### Mor Dhona
@@ -103,9 +73,4 @@ En la próxima expansión **Endwalker** veremos el desenlace del arco argumental
 <img-comparison-slider>
   <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/thanalan/eastern_d.jpg" />
   <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/thanalan/eastern_n.jpg" />
-</img-comparison-slider>
-
-<img-comparison-slider>
-  <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/thanalan/southern_d.jpg" />
-  <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-2/thanalan/southern_n.jpg" />
 </img-comparison-slider>
