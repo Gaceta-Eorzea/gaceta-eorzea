@@ -64,9 +64,14 @@ authors:
       display_name: Hers
       avatar: 'assets/images/avatars/hers.jpg'
       email: rrasgas@gmail.com
-      web: 
       twitter: https://twitter.com/Herstryp
-      description: " Jugador de RPGS con una adicción a gachas y MMOs"   
+      description: "Jugador de RPGS con una adicción a gachas y MMOs"   
+  borja:
+      name: Borjalos Sopabuena
+      display_name: Borjalos Sopabuena
+      avatar: 'assets/images/avatars/borja.jpg'
+      twitter: https://twitter.com/Borjalos
+      description: "Un random que juega, se divierte y grita mucho."         
 # Plugins
 plugins:
   - jekyll-paginate

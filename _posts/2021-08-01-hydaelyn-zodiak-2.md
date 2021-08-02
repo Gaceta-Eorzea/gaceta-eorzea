@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hydaelyn y Zodiak: alrededor de Eorzea. Parte 2"
-author: cecile
+author: borja
 categories: [ ]
 tags: [imágenes, multimedia]
 image: assets/images/articles/multimedia/hydaelyn-zodiak/FFXIV_Endwalker_Amano_art.jpg
