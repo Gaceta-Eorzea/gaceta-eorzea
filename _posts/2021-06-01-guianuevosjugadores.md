@@ -6,7 +6,7 @@ categories: [ guías ]
 tags: [nuevos jugadores, guías]
 image: assets/images/articles/guias/guianuevosjugadores/portada.jpg
 description: "Guía para nuevos jugadores de Final Fantasy XIV."
-featured: false
+featured: true
 hidden: false
 ---
 En esta guía vamos a tratar de resolver muchas dudas que puedan tener los jugadores que empiezan a jugar en Final Fantasy XIV. Es una recopilación de distintos consejos que hemos puesto en orden para que alguien que lo lea entienda de forma fácil y clara cuales deben ser sus primeros pasos en el juego.

@@ -6,7 +6,7 @@ categories: [ guías ]
 tags: [guías, pvp]
 image: assets/images/articles/guias/introjcj/portada.jpg
 description: "Introducción al JcJ de Final Fantasy XIV."
-featured: true
+featured: false
 hidden: false
 ---
 Esta serie de guías abarca **conceptos básicos** sobre un aspecto desconocido para muchos como es el contenido de **Jugador contra Jugador** y que con la introducción de la ruleta de ***Frontline*** (Frente de Guerra) ha llamado la atención de varios jugadores que, por diferentes motivos, se sienten abrumados por los cambios entre las dos facetas del juego.
