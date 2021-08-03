@@ -7,7 +7,7 @@ tags: [guías, pvp]
 image: assets/images/articles/guias/frontline/portada.jpg
 description: "Guía de Frontline (Frente de Guerra)"
 featured: false
-hidden: false
+hidden: true
 ---
 **Frontline** (Frente de Guerra) es uno de los modos más populares de JcJ en FFXIV ya que es una forma bastante entretenida de subir clases por su generosa **ruleta diaria**, en esta 72 jugadores se enfrentarán en combates masivos representando a una de las tres Gran Company de manera aleatoria.
 
@@ -59,7 +59,7 @@ Los **azules** serán los **rangos B**, los **rojos** los **A** y los **amarillo
 
 Los puntos designados donde aparecen estos *tomestones* es el siguiente:
 
-<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/frontline/seal4.jpg" alt="seal4"/></p>
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/frontline/seal4.jpg" width="500" alt="seal4"/></p>
 
 #### The Fields of Glory
 
@@ -69,7 +69,30 @@ Tercera *Frontline* introducida ya en el parche 3.3.5 conservándose en su total
 
 En ***Fields of Glory*** tendremos dos objetivos uno más importante que el otro,el primero es nuestro ***Tomelith*** que está a las afueras de nuestro cementerio el cual nos generará puntos al capturarlo tan solo parándonos en el, de igual forma podremos robar el *Tomelith* de los equipos rivales.
 
-El otro objetivo y el más importante dentro de esta Frontline serán los cristales dispersos en todo el mapa, estos cristales al igual que Borderlands Ruins y sus drones generarán puntos al equipo que golpee a estos y estos se dividen en dos. 
+El otro objetivo y el más importante dentro de esta *Frontline* serán los **cristales** dispersos en todo el mapa, estos cristales al igual que Borderlands Ruins y sus *drones* generarán puntos al equipo que golpee a estos y estos se dividen en *dos*: **Cristales Grandes** y **Cristales Pequeños**.
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/frontline/fiel3.jpg" alt="fiel3"/></p>
 
+Mientras que los **pequeños** podrán ser destruidos por **una sola persona**, los **grandes** requieren un **grupo basto de gente** para obtener la mayor cantidad de puntos de estos, de estos grandes **solo abran 5** en el mapa por lo cual asegurarlos es siempre una buena idea.
+
+La cuestión es que estos cristales están desactivados y se **activarán de manera aleatoria** en el mapa, con el mapa podremos ver los cristales a punto de activarse ya que estos emitirán un aura azul alrededor de ellos como muestra la siguiente imagen:
+
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/frontline/fiel4.jpg" alt="fiel4"/></p>
+
+Así los cristales ya **activados** se verán de un color **azul** en el mapa.
+
+#### Onsal Hakair
+
+***Onsal Hakair*** es la última Frontline de FFXIV introducida en el parche 5.1.5 de Shadowbringers conservando de manera intacta su condición de victoria, obteniendo **1600 puntos**.
+
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/frontline/onsal1.jpg" alt="onsal1"/></p>
+
+***Onsal Hakair*** es una versión modificada del conocido Seal Rock con notorias **diferencias** que marcan un ritmo de juego **mucho más rápido** y **agresivo** para los jugadores. En el mapa aparecerán de manera aleatoria bases conocidas como ***Ovoo*** que a diferencia de Seal Rock no se tendrán que defender ya que una vez tomada por un equipo, este no se podrá robar.
+
+El punto acá es que estos ***Ovoo*** estarán inactivos hasta que se llene un símbolo que se podrá ver de lejos que avisara que el ***Ovoo*** estará por activarse.
+
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/frontline/onsal2.jpg" alt="onsal2"/></p>
+
+Esta barra **se llenará** al cabo de unos segundos y no se verá afectada por la cantidad de jugadores que estén presentes. Al igual forma que Seal Rock, estos tendrán diferentes rangos y al pasar tiempo estos serán más raros y escasos.
+
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/frontline/onsal3.jpg" alt="onsal3"/></p>
