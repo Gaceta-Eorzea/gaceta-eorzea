@@ -5,9 +5,42 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Aug 2021 18:27:15 +0200</pubDate>
-    <lastBuildDate>Tue, 03 Aug 2021 18:27:15 +0200</lastBuildDate>
+    <pubDate>Wed, 04 Aug 2021 13:43:55 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Aug 2021 13:43:55 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Lore de las Razas de FFXIV: Todo sobre los Miqo’te</title>
+        <description>&lt;p&gt;Cazadores nómadas por naturaleza, los &lt;strong&gt;Miqo’te&lt;/strong&gt; se distinguen fácilmente por sus grandes orejas felinas y sus colas inquietas y flexibles.&lt;/p&gt;
+
+&lt;p&gt;Aproximadamente una cabeza más corta y un cuerpo más pequeño que el Hyur promedio, los Miqote están bendecidos con una gran fuerza, una agilidad superior y la resistencia para correr durante horas, una combinación de rasgos que los hace excepcionalmente adecuados para la caza y la depredación.&lt;/p&gt;
+
+&lt;p&gt;Aunque es posible que existan más clanes, Los Miqo’te se dividen aproximadamente en dos de ellos: los diurnos Buscadores del Sol y los nocturnos Guardianes de la Luna. Los primeros cazan a la luz del día, mientras que los segundos merodean por la noche, y se cree que está marcada diferencia de hábitos surgió debido a diferencias físicas únicas entre los dos.&lt;/p&gt;
+
+&lt;p&gt;Entre ambos clanes las diferencias entre los roles de género van de un extremo al otro, siendo los Buscadores del sol mayormente Patriarcales y los Guardianes de la Luna Matriarcales.&lt;/p&gt;
+
+&lt;p&gt;En el Vídeo “Todo sobre los Miqo’te” podréis encontrar todos estos detalles y aún más sobre su historia, cultura y fisiología.&lt;/p&gt;
+
+&lt;p&gt;No olvidéis comentar el vídeo y suscribirse al &lt;a href=&quot;https://www.youtube.com/channel/UCLgSQnV6of5-0x568qWilNw&quot; target=&quot;_blank&quot;&gt;canal&lt;/a&gt; si os ha parecido interesante.&lt;/p&gt;
+
+&lt;p&gt;¡Guerreros de la luz, nos vemos en Eorzea!&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/eXyx3lNtYFo?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 04 Aug 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/miqote/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/miqote/</guid>
+        
+        <category>lore</category>
+        
+        <category>razas</category>
+        
+        
+        <category>lore</category>
+        
+      </item>
     
       <item>
         <title>Jugador contra Jugador - Frontline</title>
@@ -113,7 +146,7 @@
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/frontline/onsal3.jpg&quot; alt=&quot;onsal3&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 03 Aug 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/frontline/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/frontline/</guid>
         
@@ -271,7 +304,7 @@ También que visiten otros streamers para preguntar otras dudas que tengan, ya q
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_kai/lia_kai.jpg&quot; alt=&quot;Lia y Kai&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 02 Aug 2021 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 02 Aug 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/lia_kai/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/lia_kai/</guid>
         
@@ -354,7 +387,7 @@ También que visiten otros streamers para preguntar otras dudas que tengan, ya q
   &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/thanalan/eastern_n.jpg&quot; /&gt;
 &lt;/img-comparison-slider&gt;
 </description>
-        <pubDate>Sun, 01 Aug 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/hydaelyn-zodiak-2/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/hydaelyn-zodiak-2/</guid>
         
@@ -387,7 +420,7 @@ También que visiten otros streamers para preguntar otras dudas que tengan, ya q
     &lt;iframe src=&quot;https://www.youtube.com/embed/nGbf-dCUgHs?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 01 Aug 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/aura/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/aura/</guid>
         
@@ -417,7 +450,7 @@ También que visiten otros streamers para preguntar otras dudas que tengan, ya q
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 31 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 31 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/juglar-07/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-07/</guid>
         
@@ -465,7 +498,7 @@ Os recordamos que esta activo &lt;a href=&quot;/make-it-rainn/&quot; target=&quo
 &lt;br /&gt;
 &lt;sub&gt;&lt;sup&gt;Regalia Type-G&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 30 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Fri, 30 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/fashion210730/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210730/</guid>
         
@@ -498,7 +531,7 @@ Hay que indicar que para &lt;b&gt;poder aceptar&lt;/b&gt; esta misión &lt;b&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/monturas/unicornio/uni1.jpg&quot; alt=&quot;uni1&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 29 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 29 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/montura-unicornio/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/montura-unicornio/</guid>
         
@@ -663,7 +696,7 @@ Hay que indicar que para &lt;b&gt;poder aceptar&lt;/b&gt; esta misión &lt;b&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_gazpacho/lia_gazpacho.jpg&quot; alt=&quot;Gazpacho&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 29 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 29 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/lia_gazpacho/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/lia_gazpacho/</guid>
         
@@ -726,7 +759,7 @@ Hay que indicar que para &lt;b&gt;poder aceptar&lt;/b&gt; esta misión &lt;b&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/introjcj/feast.jpg&quot; alt=&quot;feast&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 28 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/introduccion-jcj/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/introduccion-jcj/</guid>
         
@@ -736,130 +769,6 @@ Hay que indicar que para &lt;b&gt;poder aceptar&lt;/b&gt; esta misión &lt;b&gt;
         
         
         <category>guías</category>
-        
-      </item>
-    
-      <item>
-        <title>Relatos de la Calamidad: Sus 15 años</title>
-        <description>&lt;p&gt;&lt;em&gt;El reino quedó alterado para siempre tras la Calamidad y la devastación que provocó. A lo largo de cinco historias cortas, nuestros personajes principales volverán a visitar los acontecimientos que rodearon ese fatídico día, ofreciendo otro punto de vista de lo que la Calamidad arrebató de sus vidas y de muchos y más.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;sub&gt;&lt;sup&gt;Traducción del relato &lt;a href=&quot;https://www.finalfantasyxiv.com/anniversary/eu/detail/memoir_4.html?rgn=jp&amp;amp;lng=ja&quot; target=&quot;_blank&quot;&gt;original&lt;/a&gt; publicado en la lodestone.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;sus-15-años&quot;&gt;Sus 15 años&lt;/h3&gt;
-
-&lt;p&gt;El día en que se conocieron, ella tenía sólo 12 años. Él por el contrario, tenía 17.
-Sólo cinco años los separaban, pero para la joven Ascilia, Thancred ya parecía un verdadero adulto.&lt;/p&gt;
-
-&lt;p&gt;En el año 1562 de la sexta era astral, Ascilia llegó a la ciudad de las arenas llamada Ul’dah con su padre, un agente doble que durante años había hecho creer al Ejército Imperial que la resistencia de Ala Mhigo eran sus peores enemigos, cuando en realidad era su principal fuente de información. Por desgracia, murió trágicamente en un accidente poco después de su llegada a la ciudad del desierto… Ascilia se encontró de repente huérfana en un país totalmente desconocido para ella. Podría haber tenido un destino desastroso, pero la providencia puso en su camino a una hermosa miqo’te llamada F’lhaminn, que la acogió y la crió como su hija.&lt;/p&gt;
-
-&lt;p&gt;Thancred, que estaba presente en el momento de la muerte de su padre, fue también un valioso apoyo para ella. Fue él quien le aconsejó usar un nombre falso para evitar que las tropas imperiales la encontraran. Gran trotamundos de corazón, este autoproclamado bardo que no estaba a menudo en Ul’dah, se aseguraba de ir a visitarla siempre que tenía una misión en Thanalan.&lt;/p&gt;
-
-&lt;p&gt;“Llego un poco tarde pero… ¡feliz cumpleaños, Minfilia!”&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/relatos/sus-15/4_ss_1.jpg&quot; alt=&quot;Minfilia y Thancred&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Acababa de cumplir 18 años. Llevaba varios años usando el nombre de Minfilia y ya nadie la llamaba Ascilia, ni siquiera su “hermano mayor” Thancred.
-Ella aún no lo sabía, pero la carta y la daga de mithril que él le dio ese día cambiarían su vida para siempre.
-El sobre llevaba la firma de Louisoix Leveilleur. Minfilia estaba intrigada por el nombre desconocido y fascinada por la elegancia de su firma.&lt;/p&gt;
-
-&lt;p&gt;“Esta carta fue escrita por mi mentor. Él es quien me sacó de las calles de Limsa Lominsa y me enseñó a vivir una vida digna.”&lt;/p&gt;
-
-&lt;p&gt;“¿Una vida digna? ¡No sabía que ir por ahí ligando con mujeres aquí y allá fuera una vida digna! Cada día se aprende algo nuevo.”&lt;/p&gt;
-
-&lt;p&gt;Thancred se encogió de hombros ante la burla de Minfilia, y la invitó a abrir el sobre. Minfilia suspiró, retiró el sello y comenzó a leer. De repente se le hizo un nudo en la garganta y sus ojos se congelaron en el papel.&lt;/p&gt;
-
-&lt;p&gt;“Parece que el pasado no le es desconocido…”&lt;/p&gt;
-
-&lt;p&gt;En efecto, desde hace poco más de un año, Minfilia tenía extrañas visiones. Sin saber por qué, se encontraba de repente sumergida en el pasado. Durante estos “viajes en el tiempo”, escuchaba una voz que la guiaba… la voz de Hydaelyn.
-Al no querer preocupar a su madre adoptiva, había preferido mantenerlo en secreto. La única persona en la que se había atrevido a confiar era su misterioso “hermano mayor”.&lt;/p&gt;
-
-&lt;p&gt;“¡Thancred! ¡¿Le has contado a un extraño lo que te confié en secreto?!”.&lt;/p&gt;
-
-&lt;p&gt;Minfilia estaba furiosa. Se sintió traicionada.
-Pero Thancred la miró con una seriedad sin precedentes en él.&lt;/p&gt;
-
-&lt;p&gt;“Entiendo que estés enfadada, Minfilia… Pero sabes, Louisoix es uno de los más grandes eruditos de Sharlayan. Incluso se podría decir que es un experto en lo que te está ocurriendo. Respira y lee la carta hasta el final.”&lt;/p&gt;
-
-&lt;p&gt;Thancred había tomado la decisión correcta al elegir contárselo a Louisoix Leveilleur. A través de su carta, Minfilia descubrió que el inusual poder que llevaba dentro se llamaba “Eco”.&lt;/p&gt;
-
-&lt;p&gt;“Se predice que en la cúspide de una Calamidad Umbral, aparecerán individuos bendecidos con el poder del Eco”, decía la carta. “Durante la Sexta Era Umbral, cuando las aguas se levantaron para tragarse la tierra, los doce Arcontes que se enfrentaron a la oscuridad llevaban cada uno esta bendición”. Minfilia continuó leyendo.&lt;/p&gt;
-
-&lt;p&gt;“La historia pinta una imagen fantasiosa de estas almas dotadas. Una imagen adornada, distorsionada, exagerada… . A través de innumerables relatos, las hazañas de los Arcontes se han convertido en un mito, sus poderes son más parecidos a los de los dioses que a los de los hombres. Sin embargo, el hecho de que este poder se mencione varias veces en diferentes obras demuestra que ha existido desde tiempos inmemoriales y siempre relatan dos cosas en común, el poder de ver tiempos pasados, y el eco. “&lt;/p&gt;
-
-&lt;p&gt;“¿Lo dice en serio?”&lt;/p&gt;
-
-&lt;p&gt;Minfilia, con la carta en las manos, no podía creer lo que acababa de leer.&lt;/p&gt;
-
-&lt;p&gt;“Por supuesto que sí, Minfilia. Tanto mi mentor como yo estamos convencidos de que el regalo que has recibido, el Eco, es una de las claves para salvar al mundo del terrible peligro al que se enfrenta.”&lt;/p&gt;
-
-&lt;p&gt;Thancred continuó su explicación. Le dijo que pertenecía al “Círculo del Conocimiento”, una organización creada por Louisoix, en la que él y sus aliados luchaban incansablemente para evitar que el imperio de Garlemald invadiera Eorzea. También le dijo que había sido enviado en una misión secreta a Ul’dah cuando su padre se vio envuelto en aquel “accidente”, lo que la sorprendió mucho.&lt;/p&gt;
-
-&lt;p&gt;“Por supuesto, no te estoy pidiendo que salves el mundo sólo porque tienes un poder diferente. No te preocupes. Sólo quería que supieras un poco más sobre este poder y que pienses seriamente en cómo quieres usarlo.”&lt;/p&gt;
-
-&lt;p&gt;Y así Minfilia comenzó a intercambiar cartas con Louisoix. Deseosa de aprender más sobre el Eco, también comenzó a coleccionar y estudiar grimorios antiguos. Esperaba encontrar pistas que la ayudaran a decidir qué hacer con su poder.
-Después de pensarlo mucho, decidió crear una organización para aquellos dotados con el Eco. Pensó que juntos encontrarían la manera de utilizar sus talentos. Louisoix acogió la noticia con entusiasmo, pero le advirtió.&lt;/p&gt;
-
-&lt;p&gt;“Por naturaleza, los hombres tienen miedo a lo desconocido. El poder que posees puede inspirar tanto asombro como terror. Si decides reunir a los que han sido tocados por la gracia de los Dioses, debes tener cuidado de no crear temor en los demás.”&lt;/p&gt;
-
-&lt;p&gt;Para los forasteros, la Senda de los Doce no era más que otra de tantas oscuras sectas religiosas dedicadas a la búsqueda del conocimiento espiritual. Su carismática Antecedente, la Dama Minfilia, dirigía a un pequeño pero devoto grupo de “caminantes”, llamados así por su resolución de recorrer el camino con ella. Una mentira tejida con la verdad.&lt;/p&gt;
-
-&lt;p&gt;El Círculo del Conocimiento fue de gran ayuda en aquellos primeros días, sobre todo para identificar a los que habían despertado al Eco. Sus filas se engrosaron y, dos años después de conocer el nombre de su don, comenzó a educar a otros en su uso.
-Y así pasaron los días, algunos más rápido que otros. La orden creció y, con ella, su misión se amplió. Al igual que los riesgos. Hubo días de celebración, de dolor, de espera, de saludos y despedidas… Y a veces todos a la vez.&lt;/p&gt;
-
-&lt;p&gt;Llegó el año 1572 de la sexta era astral.
-Los rumores sobre el “Proyecto Meteoro” de Nael van Darnus circulaban por las altas esferas, y muchos creían que la séptima calamidad estaba cerca.
-Después de cuatro años de correspondencia, Minfilia finalmente conoció a Louisoix, que estaba de visita en Eorzea para hablar con los líderes de las ciudades-estado, y había aprovechado su viaje a Ul’dah para ir al refugio de las arenas, la sede de la Senda de los Doce.&lt;/p&gt;
-
-&lt;p&gt;“Es un placer conocerle… Aunque debo admitir que se siente un poco extraño decirle esto después de todos estos años”.&lt;/p&gt;
-
-&lt;p&gt;“Es cierto que es un poco extraño”.&lt;/p&gt;
-
-&lt;p&gt;Louisoix respondió a Minfilia con una sonrisa. Más que un académico frente a su alumno, era como un abuelo que se encuentra con su querida nieta. Sin embargo, la alegría duró poco, pues la conversación que mantuvieron después les devolvió a la realidad.
-Le explicó que para evitar la caída del satélite Dalamud era necesario utilizar el poder de los Doce. Sin embargo, invocar a estas deidades era como convocar a una docena de Primals a la vez en Eorzea, y era muy posible que los habitantes se vieran influenciados por ellos y fueran templados.
-Según Louisoix, la única solución posible era tomar prestada su fuerza e impedir que se manifestaran aquí abajo. Para ello, el invocador tendría que interrumpir su hechizo justo antes de que los dioses se materializaran… lo que le costaría muy probablemente la vida.&lt;/p&gt;
-
-&lt;p&gt;Minfilia no podía creer lo que escuchaba. Este hombre al que ella respetaba más que nada en el mundo acababa de decirle que iba a sacrificarse.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/relatos/sus-15/4_ss_2.jpg&quot; alt=&quot;Minfilia y Loisoix&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;“¡No puede ser! ¡Tiene que haber otra manera!”&lt;/p&gt;
-
-&lt;p&gt;Louisoix sonrió y movió lentamente la cabeza de un lado a otro.&lt;/p&gt;
-
-&lt;p&gt;“El final es sólo un nuevo comienzo, Minfilia. 
-Antes de irnos, me gustaría pedirte un favor”.&lt;/p&gt;
-
-&lt;p&gt;El Círculo del Conocimiento pronto se encontraría sin líder, y Louisoix sugirió a Minfilia que combinaran sus dos organizaciones para crear una nueva bajo su tutela.&lt;/p&gt;
-
-&lt;p&gt;“¡Maestro Louisoix, soy incapaz de sustituirle! Además, no estoy hecha para este papel. Nunca podría asumir tales responsabilidades.”&lt;/p&gt;
-
-&lt;p&gt;En ese momento, Minfilia era la única que sabía lo que Louisoix pretendía hacer realmente en la llanura de Carteneau. Probablemente el sabio lo había mantenido en secreto para que los demás miembros del Círculo del Conocimiento no intentaran razonar con él.&lt;/p&gt;
-
-&lt;p&gt;“Soy consciente de la dificultad de la tarea que te confío, pero sé que eres capaz de hacerlo. Además, no estarás sola. Estoy convencido de que llegará un valiente guerrero guiado por la voluntad de la Luz y se unirá a vosotros. Ten fe. Por muy oscura que sea la noche, siempre llega el amanecer…”&lt;/p&gt;
-
-&lt;p&gt;Louisoix dijo esto mientras sostenía las manos de Minfilia con fuerza.
-Unos días después, partió con los soldados de la Alianza Eorzeana hacia el frente de Carteneau… de donde nunca regresó.&lt;/p&gt;
-
-&lt;p&gt;Después de la séptima calamidad, Minfilia se encontró con su amigo Thancred. Le pidió que reuniera a los sacerdotes del Círculo del Conocimiento y les contó lo que Louisoix le había dicho antes de irse. Todos ellos, sin excepción, aceptaron el último deseo de su líder.&lt;/p&gt;
-
-&lt;p&gt;“¡Desde hoy, somos los Vástagos del Séptimo Amanecer!” proclamó ella.&lt;/p&gt;
-
-&lt;p&gt;Desde entonces pasaron cinco años y Minfilia tomó el relevo de Louisoix Leveilleur. Ahora es su deber proteger a Eorzea pero a pesar de los tiempos difíciles, siempre mantuvo la esperanza, porque en su corazón sabía que la profecía del sabio de Sharlayan se haría realidad.&lt;/p&gt;
-
-&lt;p&gt;Y así fue. A sus 27 años se presentó por fin. Delante de ella estaba aquel al que llamaban “el guerrero de la Luz”…&lt;/p&gt;
-
-&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;em&gt;Traducción desde la versión en japonés de los relatos del Lodestone&lt;/em&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Jul 2021 00:00:00 +0200</pubDate>
-        <link>https://gaceta-eorzea.com/sus-15/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/sus-15/</guid>
-        
-        <category>lore</category>
-        
-        <category>relatos</category>
-        
-        
-        <category>lore</category>
         
       </item>
     
