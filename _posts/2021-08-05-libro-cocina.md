@@ -55,8 +55,6 @@ Entre las más de 70 recetas que podrás encontrar en el libro de cocina, encont
 <b>La cocina de Eorzea es un homenaje a las delicias culinarias del todo mundo, por lo cual este libro es ideal para poder preparar platos típicos de todas las escuelas gastronómicas.</b>
 </blockquote>
 
-Así se pone al alcance de todos la posibilidad de preparar recetas para todo tipo de ocasiones. Ya sea un refrigerio rápido o platos gourmet, todo lo podrás hacer y degustar. 
-
-Con ***The Ultimate Final Fantasy XIV Cookbook*** no tendrás excusa para poder degustar todas las delicias gastronómicas que ***Hydaelyn*** nos ofrece ¡No te lo vas a querer perder!
+Así con ***The Ultimate Final Fantasy XIV Cookbook*** se pone al alcance de todos la posibilidad de preparar recetas para todo tipo de ocasiones. Ya sea un refrigerio rápido o platos gourmet, todo lo podrás hacer y degustar ¡No te vas querer perder todos los deliciosos manjares que ***Hydaelyn*** nos ofrece!
 
 {% include youtube.html id='VTcXL2uif_w' %}
