@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Se pone a la venta The Ultimate Final Fantasy XIV Cookbook"
+title: "El libro de cocina de FFXIV ya a la venta"
 author: sharn
 categories: [noticias]
 tags: [noticias, libro]
@@ -50,6 +50,10 @@ Entre las más de 70 recetas que podrás encontrar en el libro de cocina, encont
     </div>
   </div>
 </div>
+
+<blockquote>
+<b>El libro de cocina nos da la posibilidad de crear platos de todas las partes del mundo. Desde pizzas, asados, cocina japonesa, suffles franceses, etc</b>
+</blockquote>
 
 Así con el libro de cocina se pone al alcance de todos la posibilidad de preparar recetas para todo tipo de ocasiones. Ya sea un refrigerio rápido o platos gourmet, todo lo podrás hacer y degustar. 
 
