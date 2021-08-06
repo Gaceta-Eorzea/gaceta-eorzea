@@ -5,9 +5,42 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Aug 2021 12:46:04 +0200</pubDate>
-    <lastBuildDate>Thu, 05 Aug 2021 12:46:04 +0200</lastBuildDate>
+    <pubDate>Fri, 06 Aug 2021 10:11:29 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Aug 2021 10:11:29 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Evento de Verano</title>
+        <description>&lt;p&gt;Desde el próximo dia &lt;strong&gt;13 de agosto hasta el 26 de Agosto&lt;/strong&gt; podremos disfrutar del evento &lt;strong&gt;Moonfire Faire&lt;/strong&gt;, también conocido ee el &lt;strong&gt;evento de verano&lt;/strong&gt; ya que parte de las actividades serán en la playas de Costa del Sol y suelen ser de temática veraniega.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moonfire/mayaru.jpg&quot; alt=&quot;Mayaru&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para participar tendremos que realizar la misión &lt;strong&gt;Unseasonable Chills&lt;/strong&gt; las cual nos la dará &lt;strong&gt;Mayaru Moyaru&lt;/strong&gt; en &lt;strong&gt;Limsa Lominsa, Upper Decks (X: 11.5, Y: 13.8)&lt;/strong&gt;, la cual nos pide ser &lt;strong&gt;nivel 30&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Durante el evento podremos conseguir varias recompensas:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moonfire/recompensas.jpg&quot; alt=&quot;recompensas&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Montura &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/2622f246a55/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Polar Bear Horn &lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Mueble para exterior &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/89d1fe1798a/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Moonfire Mask Stall&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Decoraciones para usar sobre superficies/mesas &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/e6d12643053/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Costa del Hielo&lt;/a&gt; y &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/4ce4beb34dc/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Grilled Corn&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Algunos objetos de ediciones anteriores podrán estar disponibles en los vendedores del evento.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Aug 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/moonfire/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/moonfire/</guid>
+        
+        <category>noticias</category>
+        
+        <category>evento</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>El libro de cocina de FFXIV ya a la venta</title>
@@ -63,7 +96,7 @@
     &lt;iframe src=&quot;https://www.youtube.com/embed/VTcXL2uif_w?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 05 Aug 2021 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 05 Aug 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/libro-cocina/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/libro-cocina/</guid>
         
@@ -96,7 +129,7 @@
     &lt;iframe src=&quot;https://www.youtube.com/embed/eXyx3lNtYFo?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 04 Aug 2021 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 04 Aug 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/miqote/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/miqote/</guid>
         
@@ -213,7 +246,7 @@
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/frontline/onsal3.jpg&quot; alt=&quot;onsal3&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 03 Aug 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/frontline/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/frontline/</guid>
         
@@ -371,7 +404,7 @@ También que visiten otros streamers para preguntar otras dudas que tengan, ya q
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_kai/lia_kai.jpg&quot; alt=&quot;Lia y Kai&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 02 Aug 2021 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 02 Aug 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/lia_kai/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/lia_kai/</guid>
         
@@ -454,7 +487,7 @@ También que visiten otros streamers para preguntar otras dudas que tengan, ya q
   &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/thanalan/eastern_n.jpg&quot; /&gt;
 &lt;/img-comparison-slider&gt;
 </description>
-        <pubDate>Sun, 01 Aug 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/hydaelyn-zodiak-2/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/hydaelyn-zodiak-2/</guid>
         
@@ -487,7 +520,7 @@ También que visiten otros streamers para preguntar otras dudas que tengan, ya q
     &lt;iframe src=&quot;https://www.youtube.com/embed/nGbf-dCUgHs?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 01 Aug 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/aura/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/aura/</guid>
         
@@ -517,7 +550,7 @@ También que visiten otros streamers para preguntar otras dudas que tengan, ya q
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 31 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 31 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/juglar-07/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-07/</guid>
         
@@ -565,7 +598,7 @@ Os recordamos que esta activo &lt;a href=&quot;/make-it-rainn/&quot; target=&quo
 &lt;br /&gt;
 &lt;sub&gt;&lt;sup&gt;Regalia Type-G&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 30 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Fri, 30 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/fashion210730/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210730/</guid>
         
@@ -598,7 +631,7 @@ Hay que indicar que para &lt;b&gt;poder aceptar&lt;/b&gt; esta misión &lt;b&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/monturas/unicornio/uni1.jpg&quot; alt=&quot;uni1&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 29 Jul 2021 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 29 Jul 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/montura-unicornio/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/montura-unicornio/</guid>
         
@@ -608,173 +641,6 @@ Hay que indicar que para &lt;b&gt;poder aceptar&lt;/b&gt; esta misión &lt;b&gt;
         
         
         <category>monturas</category>
-        
-      </item>
-    
-      <item>
-        <title>¡Lia nos la lía! 10 preguntas a Gazpacho</title>
-        <description>&lt;p&gt;&lt;em&gt;10 preguntas a creadores de contenido es una serie de mini entrevistas en las que os iremos presentando un poquillo a varios creadores de contenido de la comunidad, no sólo de twitch o youtube sino de otros ámbitos también.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Y sin más preámbulos hoy en 10 preguntas a creadores de contenido de FFXIV tenemos a… &lt;strong&gt;Gazpacho&lt;/strong&gt;!!&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: Buenas Gazpacho, ¡cuéntanos un poco sobre ti!.&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Gazpacho&lt;/b&gt;&lt;/i&gt;: ¡Hola a todos! Mi nombre es Gazpacho y soy un artista digital. Aunque no me dedico exclusivamente a FFXIV, es de lo que más dibujo. Podéis encontrarme en &lt;a href=&quot;https://twitter.com/gazpartcho&quot; target=&quot;_blank&quot;&gt;twitter&lt;/a&gt;, suelo twittear algo casi todos los días. 
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_gazpacho/gazpacho_1.jpg&quot; width=&quot;600&quot; alt=&quot;Y'shtola&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¡Me parece genial! vamos entonces con las 10 preguntas, ¿te parece?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-      &lt;i&gt;&lt;b&gt;Gazpacho&lt;/b&gt;&lt;/i&gt;: ¡Perfe! 
-  &lt;/div&gt;  
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿Cuándo empezaste en FFXIV?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Gazpacho&lt;/b&gt;&lt;/i&gt;: Uff hace bastante, finales de 2017 por Noviembre/Diciembre. Me acuerdo de hacer el Starlight Celebration y ver a todo el mundo con la montura del osito. 
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿Qué fue lo que te atrajo de FFXIV y porqué te decantaste por él y no otros juegos del estilo?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Gazpacho&lt;/b&gt;&lt;/i&gt;: Siempre me ha gustado el estilo de FFXIV, Eorzea es precioso y los personajes están cuidados hasta el último detalle. Me costó empezar a jugar porque nunca había jugado ningún MMO (ni ningún final fantasy)  y mi ordenador no podía tirarlo, no pude empezar hasta que me compré una PS4.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿Con qué job empezaste y por qué?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Gazpacho&lt;/b&gt;&lt;/i&gt;: ¡Thaumaturge! Porque empecé como lalafell y pensé que ser un mago sería lo más lore-friendly, además me gustaba la idea de castear spells y lanzar ataques elementales a los enemigos.
-  &lt;/div&gt;    
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: Tienes algún gazapo o anécdota de novato en FFXIV que nos puedas contar? ¿Qué te hubiera gustado saber en aquel momento que sabes ahora?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Gazpacho&lt;/b&gt;&lt;/i&gt;: Muchísimas, hasta ya entrando Heavensward no sabía que tenías que asignar las role actions a la hotbar, pensaba que eran habilidades pasivas o algo así, siendo thaumaturge no era muy grave, pero cuando empecé healer y no usaba protect entonces había un problema. Leed el toolkit por favor no seáis como yo.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿A qué dedicas la mayor parte de tu tiempo en FFXIV?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Gazpacho&lt;/b&gt;&lt;/i&gt;: Actualmente a raidear en party finder e intentar conseguir las monturas de las trials de Shadowbringers, que todavía me quedan muchas.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: Empezaste como tramaturgo pero ¿qué job juegas ahora? ¿Sigue siendo el mismo? Y si no es así, ¿por qué decidiste cambiar de job?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Gazpacho&lt;/b&gt;&lt;/i&gt;: Ahora mismo paladin, pero he maineado unos cuantos jobs, en Stormblood jugaba warrior y bardo, la última tier fue samurai, me gusta ir cambiando para no aburrirme del job. 
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿Qué esperas ver en el futuro en FFXIV?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Gazpacho&lt;/b&gt;&lt;/i&gt;: Una traducción oficial al español, hay un montón de gente que disfrutaría del juego pero no pueden jugarlo por la barrera del idioma. Creo que no es mucho pedir considerando todos los recursos que tiene Square Enix a su disposición.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿Desde cuándo dibujas FFXIV y cuál fue la razón por la que comenzaste a hacerlo?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Gazpacho&lt;/b&gt;&lt;/i&gt;: Empecé a publicar mi arte online en abril de 2020. Al principio me costaba enseñar mis dibujos por vergüenza, pero mis amigos me animaron a seguir compartiendolos, no estaría donde estoy ahora si no fuera por ellos. &lt;br /&gt;
-    Comencé mi twitter porque quería formar parte de una comunidad, tener gente con la que compartir experiencias. La comunidad de FFXIV me ha dado eso y mucho más, no puedo estar más contento con toda la gente que he conocido. 
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿Qué tipo de contenido podemos esperarnos en tu twitter ?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;&lt;i&gt;&lt;b&gt;Gazpacho&lt;/b&gt;&lt;/i&gt;: Sobre todo dibujos (principalmente de FFXIV, pero también fanart en general) y memes de vez en cuando.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_gazpacho/gazpacho_2.jpg&quot; width=&quot;600&quot; alt=&quot;Mikoto &quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: Y por último, pero no menos importante, ¿qué le dirías a alguien que está empezando el juego por primera vez?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;&lt;i&gt;&lt;b&gt;Gazpacho&lt;/b&gt;&lt;/i&gt;: Tómate tu tiempo, disfruta de Eorzea y no corras para llegar al endgame. Sobre todo conoce a gente, que estamos en un MMO, puedes hacer amistades que te duren para siempre y conseguir oportunidades únicas. Desbloquea clases, prueba todo el contenido, pero sobre todo no tengas prisa.
-    ¡Muchas gracias a la Gaceta Eorzea y a Lía por esta oportunidad! Espero que la comunidad hispanohablante de FFXIV crezca mucho más en el futuro, FFXIV es increíble y vale la pena darle una oportunidad.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¡El placer ha sido nuestro Gazpacho! ¡Muchísimas gracias por haberte tomado el tiempo de responder nuestras preguntas! No os olvidéis de darle like y seguirle en sus redes sociales y nos vemos en la próxima entrega de Lia nos la lía &amp;lt;3&lt;/b&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_gazpacho/lia_gazpacho.jpg&quot; alt=&quot;Gazpacho&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 Jul 2021 00:00:00 +0200</pubDate>
-        <link>https://gaceta-eorzea.com/lia_gazpacho/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/lia_gazpacho/</guid>
-        
-        <category>entrevistas</category>
-        
-        <category>creadores</category>
-        
-        <category>comunidad</category>
-        
-        
-        <category>entrevistas</category>
         
       </item>
     
