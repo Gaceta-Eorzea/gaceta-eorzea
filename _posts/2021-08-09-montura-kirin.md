@@ -13,81 +13,31 @@ El **Kirin** es un caballo alado que se puede conseguir aunque tengas la versió
 
 #### Pre-Requisitos
 
-Durante las misiones principales de ***A Realm Reborn*** se van desbloqueando los ***Trials*** (Desafíos). En las misiones finales de ARR además iremos desbloqueando la versión **Difícil** (*Hard* en inglés) y más tarde las versiones en dificultad **Extrema** (*Extreme* en inglés).
+Durante las misiones principales de ***A Realm Reborn*** se van desbloqueando los ***Trials*** (Desafíos). En las misiones principales del final de *ARR* iremos desbloqueando la versión ***Hard*** (Difícil) de los *trials*: ***Thornmarch***, ***The Whorleater***, ***The Striking Tree*** y ***Akh Afah Amphitheatre***. Además de estos, habrá que acceder a los modos *Hard* de más *trials*, siguiendo la cadena de misiones siguiente:
 
-Para poder conseguir el **Kirin** tenemos que desbloquear 6 desafíos en su modalidad Extrema. Estos son los desafíos:
+* La primera misión que tienes que completar es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3f881a1b15a/" target="_blank" class="eorzeadb_link">A Recurring Problem</a>, que nos la dará <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a> en <i>The Waking Sands</i> (X:6, Y:5).
 
-<div class="container">
-  <div class="row" style="font-size:16px" >
-    <div class="col-xl border bg-secondary">
-        <font color="white"><b>&nbsp;The Bowl of Embers (Extreme)&nbsp;</b></font>
-    </div>
-    <div class="col-xl border bg-light" style="font-size:17px">
-        &nbsp;<a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a>&nbsp;
-    </div>
-    <div class="col-xl border bg-light" style="font-size:17px">
-        &nbsp;<a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/41b1438823b/" target="_blank" class="eorzeadb_link">Ifrit Ain't Broke</a>&nbsp;
-    </div>
-  </div>
-  <div class="row" style="font-size:17px" >
-    <div class="col-xl border bg-secondary">
-        <font color="white"><b>&nbsp;The Howling Eye (Extreme)&nbsp;</b></font>
-    </div>
-    <div class="col-xl border bg-light">
-        &nbsp;<a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/dc5622e5466/" target="_blank" class="eorzeadb_link">Vorsaile Heuloix</a>&nbsp;
-    </div>
-    <div class="col-xl border bg-light">
-        &nbsp;<a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3c2355cdb01/" target="_blank" class="eorzeadb_link">Gale-force Warning</a>&nbsp;
-    </div>
-  </div>
-  <div class="row" style="font-size:17px" >
-    <div class="col-xl border bg-secondary">
-        <font color="white"><b>&nbsp;The Navel (Extreme)&nbsp;</b></font>
-    </div>
-    <div class="col-xl border bg-light">
-        &nbsp;<a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a>&nbsp;
-    </div>
-    <div class="col-xl border bg-light" style="font-size:15px">
-        &nbsp;<a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/aac88614d57/" target="_blank" class="eorzeadb_link">Quake Me Up Before You O'Ghomoro</a>&nbsp;
-    </div>
-  </div>
-    <div class="row" style="font-size:17px" >
-    <div class="col-xl border bg-secondary">
-        <font color="white"><b>&nbsp;Lord of the Whorl (Extreme)&nbsp;</b></font>
-    </div>
-    <div class="col-xl border bg-light">
-        &nbsp;<a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a>&nbsp;
-    </div>
-    <div class="col-xl border bg-light">
-        &nbsp;<a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/78f3e480c22/" target="_blank" class="eorzeadb_link">Whorl of a Time</a>&nbsp;
-    </div>
-  </div>
-  <div class="row" style="font-size:17px" >
-    <div class="col-xl border bg-secondary">
-        <font color="white"><b>&nbsp;The Striking Tree (Extreme)&nbsp;</b></font>
-    </div>
-    <div class="col-xl border bg-light">
-        &nbsp;<a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/dbaf4b4266d/" target="_blank" class="eorzeadb_link">Scarlet</a>&nbsp;
-    </div>
-    <div class="col-xl border bg-light">
-        &nbsp;<a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/ee4927b54eb/" target="_blank" class="eorzeadb_link">Judgment Bolts and Lightning</a>&nbsp;
-    </div>
-  </div>
-  <div class="row" style="font-size:15px" >
-    <div class="col-xl border bg-secondary">
-        <font color="white"><b>&nbsp;Akh Afah Amphitheatre (Extreme)&nbsp;</b></font>
-    </div>
-    <div class="col-xl border bg-light" style="font-size:17px">
-        &nbsp;<a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a>&nbsp;
-    </div>
-    <div class="col-xl border bg-light" style="font-size:17px">
-        &nbsp;<a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/80ca83bbb9a/" target="_blank" class="eorzeadb_link">Drop Dead Shiva</a>&nbsp;
-    </div>
-  </div>
-</div>
-<p style="font-size:15px"> A <b>Urianger</b>, lo podrás encontrar en <i>The Waking Sands</i> (X:6, Y:5), a <b>Vorsaile Heuloix</b> en <i>New Gridania</i> (X:9, Y:11) y a <b>Scarlet</b> en <i>New Gridania</i> (X:9.9, Y:11.4).</p>
+* La siguiente misión es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/5461de86d50/" target="_blank" class="eorzeadb_link">Ifrit Bleeds, We Can Kill It</a>, que te la da <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/4ecd29478b6/" target="_blank" class="eorzeadb_link">Thancred</a> en <i>The Waking Sands</i> (X:6, Y:5), desbloqueamos **The Bowl of Embers (Hard)**.
 
-Cuando matemos a cada jefe, tendremos una posibilidad de **conseguir una montura**. Por supuesto podremos ir a matar al jefe tantas veces como queramos. Para hacerlo tendremos que entrar eligiendo el ***Trial*** de forma específica con el ***Duty Finder*** (Buscador de grupo).
+* La tercera misión <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/5a370d18685/" target="_blank" class="eorzeadb_link">In for Garuda Awakening</a>, que te la entrega <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/164caa2142a/" target="_blank" class="eorzeadb_link">Papalymo</a> en <i>The Waking Sands</i> (X:6, Y:5), desbloqueamos **The Howling Eye (Hard)**.
+
+* Y por último, <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3fe58aa572c/" target="_blank" class="eorzeadb_link">In a Titan Spot</a>, que te la dará <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/d41334a24d7/" target="_blank" class="eorzeadb_link">Y'shtola</a> en <i>The Waking Sands</i> (X:6, Y:5), desbloqueamos **The Navel (Hard)**.
+
+Tras desbloquear las versiones *hard* de todos estos *trials* tendremos que continuar abriendo las versiones ***Extreme***. Para esto, hay que completar las siguientes misiones en este orden:
+
+* La 1ª misión es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/41b1438823b/" target="_blank" class="eorzeadb_link">Ifrit Ain't Broke</a>, que nos dará <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a> en <i>The Waking Sands</i> (X:6, Y:5), desbloqueamos **The Bowl of Embers (Extreme)**.
+
+* La 2ª misión es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3c2355cdb01/" target="_blank" class="eorzeadb_link">Gale-force Warning</a>, nos la entrega <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/dc5622e5466/" target="_blank" class="eorzeadb_link">Vorsaile Heuloix</a> en <i>New Gridania</i> (X:9, Y:11), desbloqueamos **The Howling Eye (Extreme)**.
+
+* La 3ª misión es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/aac88614d57/" target="_blank" class="eorzeadb_link">Quake Me Up Before You O'Ghomoro</a>, nos la entrega también <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a> y desbloqueamos **The Navel (Extreme)**.
+
+* la 4ª misión es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/78f3e480c22/" target="_blank" class="eorzeadb_link">Whorl of a Time</a>, nos la facilita <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a> y desbloqueamos **The Whorleater (Extreme)**.
+
+* La 5ª misión es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/ee4927b54eb/" target="_blank" class="eorzeadb_link">Judgment Bolts and Lightning</a>, nos la dará <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/dbaf4b4266d/" target="_blank" class="eorzeadb_link">Scarlet</a> en <i>New Gridania</i> (X:9.9, Y:11.4) y desbloqueamos **The Striking Tree (Extreme)**.
+
+* La 6ª y última misión es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/80ca83bbb9a/" target="_blank" class="eorzeadb_link">Drop Dead Shiva</a>, que nos la dará <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a> para desbloquear **Akh Afah Amphitheatre (Extreme)**.
+
+Cada vez que matemos un jefe en las versiones *extreme* tendremos una posibilidad de **conseguir una montura**. Por supuesto podremos ir a matar al jefe tantas veces como queramos. Para hacerlo tendremos que entrar eligiendo el ***Trial*** de forma específica con el ***Duty Finder*** (Buscador de grupo).
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/monturas/kirin/dutyfinder.jpg" width="550" alt="buscador"/></p>
 
