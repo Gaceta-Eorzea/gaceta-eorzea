@@ -2,12 +2,12 @@
 layout: post
 title:  "Hydaelyn y Zodiak: alrededor de Eorzea. Parte 2"
 author: borja
-categories: [ ]
+categories: [ multimedia ]
 tags: [imágenes, multimedia]
 image: assets/images/articles/multimedia/hydaelyn-zodiak/FFXIV_Endwalker_Amano_art.jpg
 description: "Segunda entrega de la serie visitando Eorzea de la mano de Hydaelyn y Zodiak."
 featured: false
-hidden: true
+hidden: false
 ---
 En la próxima expansión **Endwalker** veremos el desenlace del arco argumental de **Hydaelyn** y **Zodiak** y como homenaje hemos decidido hacer una visita a distintos puntos de **Eorzea** y mostrar como se ven ante la *Luz* y la *Oscuridad*. En esta segunda entrega vamos a visitar algunas de las zonas de **A Realm Reborn**.
 
