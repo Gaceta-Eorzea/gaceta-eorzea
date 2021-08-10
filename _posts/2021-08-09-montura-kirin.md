@@ -89,7 +89,9 @@ Tras completar la misión ya tendremos nuestro **Kirin**.
 
 #### Como desbloquear los modos *Hard* y *Extreme* de los *Trials*
 
-Pero los modos *Extreme* de los *trials* hay que desbloquearlos. Primero tenemos que acceder a los modos ***Hard*** (Difícil). Varios de los *trials hard* se desbloquean completando la **Misión Principal** de ***A Realm Reborn***. Estos son ***Thornmarch***, ***The Whorleater***, ***The Striking Tree*** y ***Akh Afah Amphitheatre***. Para desbloquear el resto hay que completar la siguiente cadena de misiones.
+Para poder desbloquear los modos *Extreme* primero tenemos que haber completado los modos ***Hard***. Algunos se desbloquean completando la **Misión Principal** de ***A Realm Reborn***. Estos son ***Thornmarch***, ***The Whorleater***, ***The Striking Tree*** y ***Akh Afah Amphitheatre***. 
+
+Para desbloquear el resto hay que completar la siguiente cadena de misiones.
 
 * La primera misión que tienes que completar es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3f881a1b15a/" target="_blank" class="eorzeadb_link">A Recurring Problem</a>, que nos la dará <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a> en <i>The Waking Sands</i> (X:6, Y:5).
 
@@ -99,7 +101,7 @@ Pero los modos *Extreme* de los *trials* hay que desbloquearlos. Primero tenemos
 
 * Y por último, <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3fe58aa572c/" target="_blank" class="eorzeadb_link">In a Titan Spot</a>, que te la dará <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/d41334a24d7/" target="_blank" class="eorzeadb_link">Y'shtola</a> en <i>The Waking Sands</i> (X:6, Y:5), desbloqueamos **The Navel (Hard)**.
 
-Tras desbloquear las versiones *hard*, tendremos que continuar abriendo las versiones ***Extreme***. Para esto, hay que completar las siguientes misiones en este orden:
+Tras desbloquear las versiones *Hard*, tendremos que continuar con las versiones ***Extreme***. Para esto, hay que completar las siguientes misiones en este orden:
 
 * La 1ª misión es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/41b1438823b/" target="_blank" class="eorzeadb_link">Ifrit Ain't Broke</a>, que nos dará <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a> en <i>The Waking Sands</i> (X:6, Y:5), desbloqueamos **The Bowl of Embers (Extreme)**.
 
@@ -113,11 +115,8 @@ Tras desbloquear las versiones *hard*, tendremos que continuar abriendo las vers
 
 * La 6ª y última misión es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/80ca83bbb9a/" target="_blank" class="eorzeadb_link">Drop Dead Shiva</a>, que nos la dará <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a> para desbloquear **Akh Afah Amphitheatre (Extreme)**.
 
-Cada vez que matemos un jefe en las versiones *Extreme* tendremos una posibilidad de **conseguir una montura**. Por supuesto podremos ir a matar al jefe tantas veces como queramos. Para hacerlo tendremos que entrar eligiendo el ***Trial*** de forma específica con el ***Duty Finder*** (Buscador de grupo).
+Cada vez que matemos un jefe en las versiones *Extreme* tendremos una posibilidad de **conseguir una montura**. Por supuesto podremos ir a matar al jefe **tantas veces como queramos**.
 
-<blockquote>
-<b>Estos desafíos se pueden hacer sincronizando o no el nivel de los jugadores. Así, si eres 80, no tendrás problema en matar a estos jefes. Si no lo eres, puedes pedir ayuda a un amigo para conseguir estas monturas.</b>
-</blockquote> 
+Para hacerlo tendremos que entrar eligiendo el *Trial* de forma específica con el ***Duty Finder*** (Buscador de grupo). Además es **importante** indicar que puedes hacer los *Trials Extreme* **sin estar sincronizado**. Así podrás entrar con un **nivel superior** y será muy **fácil** derrotar a estos jefes o incluso podrás **ayudar a otros amigos** a conseguir las monturas.
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/monturas/kirin/dutyfinder.jpg" width="550" alt="buscador"/></p>
-
