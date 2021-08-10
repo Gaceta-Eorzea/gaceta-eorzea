@@ -5,9 +5,152 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Aug 2021 11:48:14 +0200</pubDate>
-    <lastBuildDate>Mon, 09 Aug 2021 11:48:14 +0200</lastBuildDate>
+    <pubDate>Tue, 10 Aug 2021 12:51:12 +0200</pubDate>
+    <lastBuildDate>Tue, 10 Aug 2021 12:51:12 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Como conseguir la montura Kirin</title>
+        <description>&lt;p&gt;El &lt;strong&gt;Kirin&lt;/strong&gt; es un caballo alado que se puede conseguir aunque tengas la versión gratuita de Final Fantasy XIV. En este artículo vamos a explicar los pre-requisitos necesarios así como donde coger la misión final que te dará la montura.&lt;/p&gt;
+
+&lt;h4 id=&quot;el-kirin&quot;&gt;El Kirin&lt;/h4&gt;
+
+&lt;p&gt;El &lt;strong&gt;Kirin&lt;/strong&gt; lo conseguirás una vez obtengas otras 6 monturas. Estas monturas caen al derrotar a los jefes de otros 6 &lt;strong&gt;&lt;em&gt;Trials&lt;/em&gt;&lt;/strong&gt; (Desafíos) en su modo &lt;strong&gt;&lt;em&gt;Extreme&lt;/em&gt;&lt;/strong&gt; (Extremo) durante tu aventura por &lt;strong&gt;&lt;em&gt;A Realm Reborn&lt;/em&gt;&lt;/strong&gt;. Los &lt;em&gt;trials&lt;/em&gt; que hay que completar son los siguientes:&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;span2&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-7 border bg-secondary&quot;&gt;
+                &lt;font color=&quot;white&quot;&gt;&lt;b&gt;&amp;nbsp;Trial Extreme&amp;nbsp;&lt;/b&gt;&lt;/font&gt;
+            &lt;/div&gt;    
+            &lt;div class=&quot;col-5 border bg-secondary&quot;&gt;
+                &lt;font color=&quot;white&quot;&gt;&lt;b&gt;&amp;nbsp;Montura&amp;nbsp;&lt;/b&gt;&lt;/font&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-7 border bg-light&quot;&gt;
+                &lt;b&gt;&amp;nbsp;The Bowl of Embers&amp;nbsp;&lt;/b&gt;
+            &lt;/div&gt;    
+            &lt;div class=&quot;col-5 border bg-light&quot;&gt;
+                &lt;b&gt;&amp;nbsp;Aithon&amp;nbsp;&lt;/b&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-7 border bg-light&quot;&gt;
+                &lt;b&gt;&amp;nbsp;The Howling Eye&amp;nbsp;&lt;/b&gt;
+            &lt;/div&gt;    
+            &lt;div class=&quot;col-5 border bg-light&quot;&gt;
+                &lt;b&gt;&amp;nbsp;Xanthos&amp;nbsp;&lt;/b&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-7 border bg-light&quot;&gt;
+                &lt;b&gt;&amp;nbsp;The Navel&amp;nbsp;&lt;/b&gt;
+            &lt;/div&gt;    
+            &lt;div class=&quot;col-5 border bg-light&quot;&gt;
+                &lt;b&gt;&amp;nbsp;Gullfaxi&amp;nbsp;&lt;/b&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-7 border bg-light&quot;&gt;
+                &lt;b&gt;&amp;nbsp;The Whorleater&amp;nbsp;&lt;/b&gt;
+            &lt;/div&gt;    
+            &lt;div class=&quot;col-5 border bg-light&quot;&gt;
+                &lt;b&gt;&amp;nbsp;Enbarr&amp;nbsp;&lt;/b&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-7 border bg-light&quot;&gt;
+                &lt;b&gt;&amp;nbsp;The Striking Tree&amp;nbsp;&lt;/b&gt;
+            &lt;/div&gt;    
+            &lt;div class=&quot;col-5 border bg-light&quot;&gt;
+                &lt;b&gt;&amp;nbsp;Markab&amp;nbsp;&lt;/b&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-7 border bg-light&quot;&gt;
+                &lt;b&gt;&amp;nbsp;Akh Afah Amphitheatre&amp;nbsp;&lt;/b&gt;
+            &lt;/div&gt;    
+            &lt;div class=&quot;col-5 border bg-light&quot;&gt;
+                &lt;b&gt;&amp;nbsp;Boreas&amp;nbsp;&lt;/b&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/monturas/kirin/monturas.jpg&quot; width=&quot;750&quot; alt=&quot;monturas&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez que consigamos las monturas, tenemos que ir a hablar con &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/3aa79f694ad/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Wandering Minstrel&lt;/a&gt; - Mor Dhona (X: 21.7 Y: 8.7), que nos dará la misión &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/b1a689f6489/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;A Legend for a Legend&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/monturas/kirin/npc.jpg&quot; alt=&quot;npc&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tras completar la misión ya tendremos nuestro &lt;strong&gt;Kirin&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/monturas/kirin/kirin.jpg&quot; width=&quot;850&quot; alt=&quot;kirin&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;como-desbloquear-los-modos-hard-y-extreme-de-los-trials&quot;&gt;Como desbloquear los modos &lt;em&gt;Hard&lt;/em&gt; y &lt;em&gt;Extreme&lt;/em&gt; de los &lt;em&gt;Trials&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;Para poder desbloquear los modos &lt;em&gt;Extreme&lt;/em&gt; primero tenemos que haber completado los modos &lt;strong&gt;&lt;em&gt;Hard&lt;/em&gt;&lt;/strong&gt;. Algunos se desbloquean completando la &lt;strong&gt;Misión Principal&lt;/strong&gt; de &lt;strong&gt;&lt;em&gt;A Realm Reborn&lt;/em&gt;&lt;/strong&gt;. Estos son &lt;strong&gt;&lt;em&gt;Thornmarch&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;The Whorleater&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;The Striking Tree&lt;/em&gt;&lt;/strong&gt; y &lt;strong&gt;&lt;em&gt;Akh Afah Amphitheatre&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para desbloquear el resto hay que completar la siguiente cadena de misiones.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;La primera misión que tienes que completar es &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3f881a1b15a/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;A Recurring Problem&lt;/a&gt;, que nos la dará &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Urianger&lt;/a&gt; en &lt;i&gt;The Waking Sands&lt;/i&gt; (X:6, Y:5).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La siguiente misión es &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/5461de86d50/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Ifrit Bleeds, We Can Kill It&lt;/a&gt;, que te la da &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/4ecd29478b6/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Thancred&lt;/a&gt; en &lt;i&gt;The Waking Sands&lt;/i&gt; (X:6, Y:5), desbloqueamos &lt;strong&gt;The Bowl of Embers (Hard)&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La tercera misión &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/5a370d18685/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;In for Garuda Awakening&lt;/a&gt;, que te la entrega &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/164caa2142a/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Papalymo&lt;/a&gt; en &lt;i&gt;The Waking Sands&lt;/i&gt; (X:6, Y:5), desbloqueamos &lt;strong&gt;The Howling Eye (Hard)&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Y por último, &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3fe58aa572c/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;In a Titan Spot&lt;/a&gt;, que te la dará &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/d41334a24d7/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Y’shtola&lt;/a&gt; en &lt;i&gt;The Waking Sands&lt;/i&gt; (X:6, Y:5), desbloqueamos &lt;strong&gt;The Navel (Hard)&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tras desbloquear las versiones &lt;em&gt;Hard&lt;/em&gt;, tendremos que continuar con las versiones &lt;strong&gt;&lt;em&gt;Extreme&lt;/em&gt;&lt;/strong&gt;. Para esto, hay que completar las siguientes misiones en este orden:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;La 1ª misión es &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/41b1438823b/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Ifrit Ain’t Broke&lt;/a&gt;, que nos dará &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Urianger&lt;/a&gt; en &lt;i&gt;The Waking Sands&lt;/i&gt; (X:6, Y:5), desbloqueamos &lt;strong&gt;The Bowl of Embers (Extreme)&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La 2ª misión es &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3c2355cdb01/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Gale-force Warning&lt;/a&gt;, nos la entrega &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/dc5622e5466/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Vorsaile Heuloix&lt;/a&gt; en &lt;i&gt;New Gridania&lt;/i&gt; (X:9, Y:11), desbloqueamos &lt;strong&gt;The Howling Eye (Extreme)&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La 3ª misión es &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/aac88614d57/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Quake Me Up Before You O’Ghomoro&lt;/a&gt;, nos la entrega también &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Urianger&lt;/a&gt; y desbloqueamos &lt;strong&gt;The Navel (Extreme)&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;la 4ª misión es &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/78f3e480c22/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Whorl of a Time&lt;/a&gt;, nos la facilita &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Urianger&lt;/a&gt; y desbloqueamos &lt;strong&gt;The Whorleater (Extreme)&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La 5ª misión es &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/ee4927b54eb/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Judgment Bolts and Lightning&lt;/a&gt;, nos la dará &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/dbaf4b4266d/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Scarlet&lt;/a&gt; en &lt;i&gt;New Gridania&lt;/i&gt; (X:9.9, Y:11.4) y desbloqueamos &lt;strong&gt;The Striking Tree (Extreme)&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La 6ª y última misión es &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/80ca83bbb9a/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Drop Dead Shiva&lt;/a&gt;, que nos la dará &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Urianger&lt;/a&gt; para desbloquear &lt;strong&gt;Akh Afah Amphitheatre (Extreme)&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cada vez que matemos un jefe en las versiones &lt;em&gt;Extreme&lt;/em&gt; tendremos una posibilidad de &lt;strong&gt;conseguir una montura&lt;/strong&gt;. Por supuesto podremos ir a matar al jefe &lt;strong&gt;tantas veces como queramos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para hacerlo tendremos que entrar eligiendo el &lt;em&gt;Trial&lt;/em&gt; de forma específica con el &lt;strong&gt;&lt;em&gt;Duty Finder&lt;/em&gt;&lt;/strong&gt; (Buscador de grupo). Además es &lt;strong&gt;importante&lt;/strong&gt; indicar que puedes hacer los &lt;em&gt;Trials Extreme&lt;/em&gt; &lt;strong&gt;sin estar sincronizado&lt;/strong&gt;. Así podrás entrar con un &lt;strong&gt;nivel superior&lt;/strong&gt; y será muy &lt;strong&gt;fácil&lt;/strong&gt; derrotar a estos jefes o incluso podrás &lt;strong&gt;ayudar a otros amigos&lt;/strong&gt; a conseguir las monturas.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/monturas/kirin/dutyfinder.jpg&quot; width=&quot;550&quot; alt=&quot;buscador&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Aug 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/montura-kirin/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/montura-kirin/</guid>
+        
+        <category>monturas</category>
+        
+        <category>extremes</category>
+        
+        
+        <category>monturas</category>
+        
+      </item>
     
       <item>
         <title>Hydaelyn y Zodiak: alrededor de Eorzea. Parte 2</title>
@@ -751,41 +894,6 @@ También que visiten otros streamers para preguntar otras dudas que tengan, ya q
         
         
         <category>entrevistas</category>
-        
-      </item>
-    
-      <item>
-        <title>Lore de las Razas de FFXIV: Todo sobre los Au Ra</title>
-        <description>&lt;p&gt;&lt;strong&gt;Au Ra&lt;/strong&gt;, los humanoides con escamas de los que los Eruditos teorizan que descienden de los dragones, tienen un origen (según ellos) mucho más grandilocuente.&lt;/p&gt;
-
-&lt;p&gt;Según su propia mitología tanto los &lt;em&gt;Xaela&lt;/em&gt; (de escamas negras) como los &lt;em&gt;Raen&lt;/em&gt; (de escamas claras) descienden de sus dos dioses primordiales: &lt;em&gt;Azim&lt;/em&gt; (el dios del sol) y &lt;em&gt;Nhaama&lt;/em&gt; (la diosa de la luna).&lt;/p&gt;
-
-&lt;p&gt;Nativos del continente de &lt;em&gt;Othard&lt;/em&gt;, los Au Ra habitan la gran mayoría de las grandes estepas de &lt;em&gt;Azim&lt;/em&gt; y &lt;em&gt;Hingashi&lt;/em&gt;, donde ambos clanes fueron expandiéndose poco a poco.&lt;/p&gt;
-
-&lt;p&gt;Aunque parezcan reptiles, en realidad los &lt;em&gt;Au Ra&lt;/em&gt; son mamíferos escamados (como los armadillos).&lt;/p&gt;
-
-&lt;p&gt;El dimorfismo de género (diferencias fisiológicas entre los machos y las hembras) no es algo poco común en &lt;em&gt;Eorzea&lt;/em&gt;, pero en el caso de los Au Ra es, cuanto menos, icónico (¡y extremo!).&lt;/p&gt;
-
-&lt;p&gt;En un punto de su historia los Au Ra llegaron a &lt;em&gt;Eorzea&lt;/em&gt; para huir del ataque del Imperio &lt;em&gt;Garleano&lt;/em&gt;, y pese a que al principio los &lt;em&gt;Eorzeanos&lt;/em&gt; les trataban con miedo y rechazo, al final consiguieron adaptarse a la vida en Al*denard.&lt;/p&gt;
-
-&lt;p&gt;En el Vídeo “&lt;strong&gt;Todo sobre los Au Ra&lt;/strong&gt;” podréis encontrar todos estos detalles y aún más sobre su historia, cultura y fisiología.&lt;/p&gt;
-
-&lt;p&gt;No olvidéis comentar el vídeo y suscribiros al canal si os ha parecido interesante.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/nGbf-dCUgHs?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 01 Aug 2021 00:00:00 +0200</pubDate>
-        <link>https://gaceta-eorzea.com/aura/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/aura/</guid>
-        
-        <category>lore</category>
-        
-        <category>razas</category>
-        
-        
-        <category>lore</category>
         
       </item>
     
