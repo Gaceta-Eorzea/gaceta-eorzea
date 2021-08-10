@@ -11,9 +11,85 @@ hidden: false
 ---
 El **Kirin** es un caballo alado que se puede conseguir aunque tengas la versión gratuita de Final Fantasy XIV. En este artículo vamos a explicar los pre-requisitos necesarios así como donde coger la misión final que te dará la montura.
 
-#### Pre-Requisitos
+#### El Kirin
 
-Durante las misiones principales de ***A Realm Reborn*** se van desbloqueando los ***Trials*** (Desafíos). En las misiones principales del final de *ARR* iremos desbloqueando la versión ***Hard*** (Difícil) de los *trials*: ***Thornmarch***, ***The Whorleater***, ***The Striking Tree*** y ***Akh Afah Amphitheatre***. Además de estos, habrá que acceder a los modos *Hard* de más *trials*, siguiendo la cadena de misiones siguiente:
+El **Kirin** lo conseguirás una vez obtengas otras 6 monturas. Estas monturas caen al derrotar a los jefes de otros 6 ***Trials*** (Desafíos) en su modo ***Extreme*** (Extremo) durante tu aventura por ***A Realm Reborn***. Los *trials* que hay que completar son los siguientes:
+
+<div class="container">
+    <div class="span2">
+        <div class="row">
+            <div class="col-7 border bg-secondary">
+                <font color="white"><b>&nbsp;Trial Extreme&nbsp;</b></font>
+            </div>    
+            <div class="col-5 border bg-secondary">
+                <font color="white"><b>&nbsp;Montura&nbsp;</b></font>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-7 border bg-light">
+                <b>&nbsp;The Bowl of Embers&nbsp;</b>
+            </div>    
+            <div class="col-5 border bg-light">
+                <b>&nbsp;Aithon&nbsp;</b>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-7 border bg-light">
+                <b>&nbsp;The Howling Eye&nbsp;</b>
+            </div>    
+            <div class="col-5 border bg-light">
+                <b>&nbsp;Xanthos&nbsp;</b>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-7 border bg-light">
+                <b>&nbsp;The Navel&nbsp;</b>
+            </div>    
+            <div class="col-5 border bg-light">
+                <b>&nbsp;Gullfaxi&nbsp;</b>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-7 border bg-light">
+                <b>&nbsp;The Whorleater&nbsp;</b>
+            </div>    
+            <div class="col-5 border bg-light">
+                <b>&nbsp;Enbarr&nbsp;</b>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-7 border bg-light">
+                <b>&nbsp;The Striking Tree&nbsp;</b>
+            </div>    
+            <div class="col-5 border bg-light">
+                <b>&nbsp;Markab&nbsp;</b>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-7 border bg-light">
+                <b>&nbsp;Akh Afah Amphitheatre&nbsp;</b>
+            </div>    
+            <div class="col-5 border bg-light">
+                <b>&nbsp;Boreas&nbsp;</b>
+            </div>
+        </div>
+    </div>
+</div>
+<br/>
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/monturas/kirin/monturas.jpg" width="750" alt="monturas"/></p>
+<br/>
+
+Una vez que consigamos las monturas, tenemos que ir a hablar con <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/3aa79f694ad/" target="_blank" class="eorzeadb_link">Wandering Minstrel</a> - Mor Dhona (X: 21.7 Y: 8.7), que nos dará la misión <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/b1a689f6489/" target="_blank" class="eorzeadb_link">A Legend for a Legend</a>. 
+
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/monturas/kirin/npc.jpg" alt="npc"/></p>
+
+Tras completar la misión ya tendremos nuestro **Kirin**.
+
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/monturas/kirin/kirin.jpg" width="850" alt="kirin"/></p>
+
+#### Como desbloquear los modos *Hard* y *Extreme* de los *Trials*
+
+Pero los modos *Extreme* de los *trials* hay que desbloquearlos. Primero tenemos que acceder a los modos ***Hard*** (Difícil). Varios de los *trials hard* se desbloquean completando la **Misión Principal** de ***A Realm Reborn***. Estos son ***Thornmarch***, ***The Whorleater***, ***The Striking Tree*** y ***Akh Afah Amphitheatre***. Para desbloquear el resto hay que completar la siguiente cadena de misiones.
 
 * La primera misión que tienes que completar es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3f881a1b15a/" target="_blank" class="eorzeadb_link">A Recurring Problem</a>, que nos la dará <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a> en <i>The Waking Sands</i> (X:6, Y:5).
 
@@ -23,7 +99,7 @@ Durante las misiones principales de ***A Realm Reborn*** se van desbloqueando lo
 
 * Y por último, <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3fe58aa572c/" target="_blank" class="eorzeadb_link">In a Titan Spot</a>, que te la dará <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/d41334a24d7/" target="_blank" class="eorzeadb_link">Y'shtola</a> en <i>The Waking Sands</i> (X:6, Y:5), desbloqueamos **The Navel (Hard)**.
 
-Tras desbloquear las versiones *hard* de todos estos *trials* tendremos que continuar abriendo las versiones ***Extreme***. Para esto, hay que completar las siguientes misiones en este orden:
+Tras desbloquear las versiones *hard*, tendremos que continuar abriendo las versiones ***Extreme***. Para esto, hay que completar las siguientes misiones en este orden:
 
 * La 1ª misión es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/41b1438823b/" target="_blank" class="eorzeadb_link">Ifrit Ain't Broke</a>, que nos dará <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a> en <i>The Waking Sands</i> (X:6, Y:5), desbloqueamos **The Bowl of Embers (Extreme)**.
 
@@ -37,22 +113,11 @@ Tras desbloquear las versiones *hard* de todos estos *trials* tendremos que cont
 
 * La 6ª y última misión es <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/80ca83bbb9a/" target="_blank" class="eorzeadb_link">Drop Dead Shiva</a>, que nos la dará <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f64497fe8b0/" target="_blank" class="eorzeadb_link">Urianger</a> para desbloquear **Akh Afah Amphitheatre (Extreme)**.
 
-Cada vez que matemos un jefe en las versiones *extreme* tendremos una posibilidad de **conseguir una montura**. Por supuesto podremos ir a matar al jefe tantas veces como queramos. Para hacerlo tendremos que entrar eligiendo el ***Trial*** de forma específica con el ***Duty Finder*** (Buscador de grupo).
-
-<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/monturas/kirin/dutyfinder.jpg" width="550" alt="buscador"/></p>
+Cada vez que matemos un jefe en las versiones *Extreme* tendremos una posibilidad de **conseguir una montura**. Por supuesto podremos ir a matar al jefe tantas veces como queramos. Para hacerlo tendremos que entrar eligiendo el ***Trial*** de forma específica con el ***Duty Finder*** (Buscador de grupo).
 
 <blockquote>
 <b>Estos desafíos se pueden hacer sincronizando o no el nivel de los jugadores. Así, si eres 80, no tendrás problema en matar a estos jefes. Si no lo eres, puedes pedir ayuda a un amigo para conseguir estas monturas.</b>
 </blockquote> 
 
-<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/monturas/kirin/monturas.jpg" width="750" alt="monturas"/></p>
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/monturas/kirin/dutyfinder.jpg" width="550" alt="buscador"/></p>
 
-#### Conseguir el Kirin
-
-Una vez tenemos las 6 monturas necesarias, tenemos que ir a hablar con <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/3aa79f694ad/" target="_blank" class="eorzeadb_link">Wandering Minstrel - Mor Dhona (X: 21.7 Y: 8.7)</a> que nos dará la misión <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/b1a689f6489/" target="_blank" class="eorzeadb_link">A Legend for a Legend</a>. 
-
-<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/monturas/kirin/npc.jpg" alt="npc"/></p>
-
-Tras completar la misión ya tendremos nuestro **Kirin**.
-
-<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/monturas/kirin/kirin.jpg" width="850" alt="kirin"/></p>
