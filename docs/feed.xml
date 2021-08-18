@@ -5,9 +5,154 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Aug 2021 14:17:53 +0100</pubDate>
-    <lastBuildDate>Sun, 15 Aug 2021 14:17:53 +0100</lastBuildDate>
+    <pubDate>Wed, 18 Aug 2021 18:34:06 +0200</pubDate>
+    <lastBuildDate>Wed, 18 Aug 2021 18:34:06 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Jugador contra Jugador - The Feast</title>
+        <description>&lt;p&gt;&lt;strong&gt;The Feast&lt;/strong&gt; es el modo &lt;strong&gt;4vs4 competitivo&lt;/strong&gt; del juego que posee su propio &lt;strong&gt;sistema de ranking&lt;/strong&gt; con &lt;strong&gt;premios únicos&lt;/strong&gt; para los jugadores que alcancen diferentes rangos, es el modo de juego más competitivo.&lt;/p&gt;
+
+&lt;p&gt;En The Feast tendremos &lt;strong&gt;4 modo de juegos&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Training Mach&lt;/strong&gt; que es un 4vs4 &lt;strong&gt;sin clasificaciones&lt;/strong&gt; para entrenar&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ranked Match Solo&lt;/strong&gt; donde se podrá hacer el conocido &lt;strong&gt;SoloQ&lt;/strong&gt;, osea rankear solo con gente desconocida&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ranked Match Team&lt;/strong&gt; lo mismo de arriba pero con &lt;strong&gt;equipos registrados&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;reglas-generales&quot;&gt;Reglas Generales&lt;/h4&gt;
+
+&lt;p&gt;Las composiciones en The Feast en todos sus modos siempre será la siguiente:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1 Tanque&lt;/li&gt;
+  &lt;li&gt;1 Healer&lt;/li&gt;
+  &lt;li&gt;1 Dps Meele&lt;/li&gt;
+  &lt;li&gt;1 Dps Rango (Fisico/Magicos)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Esta necesidad de tener esta party &lt;strong&gt;puede producir&lt;/strong&gt; que en el Solo Ranked los DPS puedan tener &lt;strong&gt;colas largas&lt;/strong&gt; para participar en The Feast (algo parecido a las Dungeons). Todos quieren hacer DPS, nadie quiere curar.&lt;/p&gt;
+
+&lt;p&gt;Ya dentro de The Feast lo primero a tener en cuenta es que desde las &lt;em&gt;seasons&lt;/em&gt; finales de &lt;em&gt;Heavensward&lt;/em&gt; el &lt;strong&gt;chat está como no disponible&lt;/strong&gt; por problemas de &lt;strong&gt;toxicidad&lt;/strong&gt;, por cual el juego posee un sistema dentro de PVP Profile llamado &lt;strong&gt;&lt;em&gt;Quick Chat&lt;/em&gt;&lt;/strong&gt; exclusivo para la comunicación en The Feast.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/thefeast/feast2.jpg&quot; alt=&quot;feast2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Otro aspecto importante que veremos es que tendremos una &lt;strong&gt;UI especial&lt;/strong&gt; para este modo que nos mostrará información de vital importancia para el transcurso de los combates.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/thefeast/feast3.jpg&quot; alt=&quot;feast3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Podremos ver tanto las &lt;strong&gt;habilidades adicionales&lt;/strong&gt; de nuestro grupo como la del contrario también podremos ver las &lt;strong&gt;marcas, HP/MP&lt;/strong&gt; e incluso cuando estos carguen el &lt;strong&gt;Adrenaline Rush&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Más &lt;strong&gt;información importante&lt;/strong&gt; se mostrará en la parte superior de la pantalla que será el sistema de monedas&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/thefeast/feast4.jpg&quot; alt=&quot;feast4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Se podrá ver las &lt;strong&gt;monedas&lt;/strong&gt; que cada jugador del equipo tiene también un contador total junto al tiempo, las &lt;strong&gt;condiciones de victoria&lt;/strong&gt; de este modo serán &lt;strong&gt;dos&lt;/strong&gt;, el &lt;strong&gt;&lt;em&gt;equipo que al terminar el tiempo tenga más medallas&lt;/em&gt;&lt;/strong&gt; o el &lt;strong&gt;&lt;em&gt;equipo que logre antes de tiempo tomar todas&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Metiéndonos en el &lt;strong&gt;sistema de monedas&lt;/strong&gt;, siempre que &lt;strong&gt;matemos a un jugador&lt;/strong&gt; del equipo contrario este dejara &lt;strong&gt;caer monedas&lt;/strong&gt; y dependiendo de nuestro job podremos &lt;strong&gt;obtener cierta cantidad de estas&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/thefeast/feast5.jpg&quot; alt=&quot;feast5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cada vez que un jugador deje caer monedas un &lt;strong&gt;icono&lt;/strong&gt; aparecerá en su cadáver indicando la &lt;strong&gt;cantidad de monedas&lt;/strong&gt; que se pueden tomar.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/thefeast/feast6.jpg&quot; alt=&quot;feast6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para agregarle una capa un poco más de complejidad existirán &lt;strong&gt;3 adicionales&lt;/strong&gt; en &lt;em&gt;The Feast&lt;/em&gt; el primero llamado &lt;strong&gt;Muerte Súbita&lt;/strong&gt; que se activará cuando los dos equipo tengan la &lt;strong&gt;misma cantidad de medallas&lt;/strong&gt; cuando queden &lt;strong&gt;6 minutos&lt;/strong&gt; de partida, esta Muerte Súbita durará &lt;strong&gt;2 minutos&lt;/strong&gt; y hará que el primer equipo en matar a otro ganará la partida, en caso de que los 2 minutos pasen se declara un &lt;strong&gt;empate&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/thefeast/feast7.jpg&quot; alt=&quot;feast7&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora la segunda variante será la llamada &lt;strong&gt;&lt;em&gt;Culling Time&lt;/em&gt;&lt;/strong&gt; que se activará cuando &lt;strong&gt;ningún jugador&lt;/strong&gt; del equipo contrario haya muerto en &lt;strong&gt;“x” cantidad de tiempo&lt;/strong&gt; haciendo que todos los jugadores reciben un &lt;strong&gt;10% de daño adicional aumentando hasta un 50%&lt;/strong&gt;. Ya muerto un jugador este efecto se &lt;strong&gt;cancelara&lt;/strong&gt; y regresara todo a la normalidad.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/thefeast/feast8.jpg&quot; alt=&quot;feast8&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Como último, cada cierto tiempo aparecerán en medio de la arena &lt;strong&gt;cajas que beneficios&lt;/strong&gt; para quienes las rompan.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/thefeast/feast9.jpg&quot; alt=&quot;feast9&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El &lt;strong&gt;&lt;em&gt;Wolf Heart&lt;/em&gt;&lt;/strong&gt; restaura un &lt;strong&gt;2% del maná&lt;/strong&gt; por segundo y aumentará la &lt;em&gt;*velocidad de movimiento un 10% **por un minuto, esencial para los *healers&lt;/em&gt; ya que el maná en este modo es escaso.&lt;/p&gt;
+
+&lt;p&gt;El &lt;strong&gt;&lt;em&gt;Adrenaline&lt;/em&gt;&lt;/strong&gt; aumentará un &lt;strong&gt;&lt;em&gt;25% el Adrenaline Rush&lt;/em&gt;&lt;/strong&gt; de quien lo tome.&lt;/p&gt;
+
+&lt;h4 id=&quot;ranking&quot;&gt;Ranking&lt;/h4&gt;
+
+&lt;p&gt;Tanto en &lt;em&gt;SoloQ&lt;/em&gt; y en &lt;em&gt;Team&lt;/em&gt; el sistema de Ranking de FFXIV se maneja de la misma forma con un sistema de &lt;strong&gt;puntuación con diferentes &lt;em&gt;tiers&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/thefeast/ranking1.jpg&quot; alt=&quot;r1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En &lt;strong&gt;cada temporada&lt;/strong&gt; la gente podrá clasificar y los &lt;strong&gt;primeros 100 de cada Data Center&lt;/strong&gt; tendrán &lt;strong&gt;recompensas exclusivas&lt;/strong&gt;, lo mismo con el &lt;strong&gt;top 1&lt;/strong&gt;. El &lt;strong&gt;Resto de personas&lt;/strong&gt; que queden en otros rating serán recompensadas con &lt;strong&gt;premios menores&lt;/strong&gt; para canjearlos por armas exclusivas de &lt;strong&gt;&lt;em&gt;The Feast Ranking&lt;/em&gt;&lt;/strong&gt;, de igual manera al comenzar cada &lt;em&gt;season&lt;/em&gt; dependiendo de tu &lt;em&gt;tier&lt;/em&gt; en la anterior quedaras ya en un &lt;em&gt;tier&lt;/em&gt; superior.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/thefeast/ranking2.jpg&quot; alt=&quot;r2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para crear un &lt;strong&gt;&lt;em&gt;team de PVP&lt;/em&gt;&lt;/strong&gt; se podrá hacer en la misma Zona con estos &lt;strong&gt;&lt;em&gt;NPC&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/thefeast/ranking3.jpg&quot; alt=&quot;r3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Los Ranking y premios se pueden consultar en estas páginas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/ranking/thefeast/&quot; target=&quot;_blank&quot;&gt;SoloQ&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/ranking/thefeast/team/result/1/&quot; target=&quot;_blank&quot;&gt;Team&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;macros&quot;&gt;Macros&lt;/h4&gt;
+
+&lt;p&gt;Las macros son un componente bastante poco recomendable en el juego pero que en PVP, sobre todo en &lt;em&gt;The Feast&lt;/em&gt;, cobran una importancia casi obligatoria al momento de querer desempeñar un papel óptimo en PVP.  Daré un listado de macros útiles en este modo de juego pero que también se pueden utilizar en &lt;em&gt;Frontlines&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Esta macro permite usar habilidades en objetivos sin tener que &lt;em&gt;targetear&lt;/em&gt; o pasar el mouse por encima de sus nombres, esto ayuda bastante a los &lt;em&gt;Healers&lt;/em&gt; con &lt;em&gt;Sleep&lt;/em&gt; o a los &lt;em&gt;Tanques&lt;/em&gt; con sus &lt;em&gt;stuns&lt;/em&gt; para no perder tiempo seleccionando objetivos.&lt;/p&gt;
+
+&lt;p&gt;/merror off&lt;br /&gt;
+/micon “Repose” pvpaction&lt;br /&gt;
+/pvpaction “Repose” &amp;lt; e2 &amp;gt;&lt;br /&gt;
+/pvpaction “Repose” &amp;lt; e2 &amp;gt;&lt;br /&gt;
+/pvpaction “Repose” &amp;lt; e2 &amp;gt;&lt;br /&gt;
+/pvpaction “Repose” &amp;lt; e2 &amp;gt;&lt;br /&gt;
+/pvpaction “Repose” &amp;lt; e2 &amp;gt;&lt;br /&gt;
+/pvpaction “Repose” &amp;lt; e2 &amp;gt;&lt;br /&gt;
+/pvpaction “Repose” &amp;lt; e2 &amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;e2&lt;/strong&gt; significa que es el &lt;strong&gt;segundo objetivo&lt;/strong&gt; de la lista de enemigos, en &lt;em&gt;The Feast&lt;/em&gt; el &lt;em&gt;healer&lt;/em&gt; siempre es el segundo, igualmente se puede modificar a antojo o crear diferentes macros para diferentes objetivos o incluso usarlo para otras habilidades como los &lt;em&gt;Stuns&lt;/em&gt; o el &lt;em&gt;Draw&lt;/em&gt; del &lt;em&gt;Gunbreaker&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;La siguiente macro también funciona con &lt;em&gt;healers&lt;/em&gt; pero se puede cambiar para cualquier habilidad con un uso parecido, &lt;em&gt;Purify&lt;/em&gt; la habilidad de los &lt;em&gt;healers&lt;/em&gt; que &lt;strong&gt;remueve CC&lt;/strong&gt; es una habilidad que se puede usar tanto a ti como a compañeros pero que en la práctica siempre lo usas contigo, el inconveniente es que para usarlo contigo no tienes que tener a nadie seleccionado, con esta macro nos ahorramos eso por lo cual podemos usar la habilidad en nuestro personaje teniendo a otro objetivos seleccionados.&lt;/p&gt;
+
+&lt;p&gt;/merror off&lt;br /&gt;
+/micon “Purify” pvpaction&lt;br /&gt;
+/pvpaction “Purify” &amp;lt; 1 &amp;gt;&lt;br /&gt;
+/pvpaction “Purify” &amp;lt; 1 &amp;gt;&lt;br /&gt;
+/pvpaction “Purify” &amp;lt; 1 &amp;gt;&lt;br /&gt;
+/pvpaction “Purify” &amp;lt; 1 &amp;gt;&lt;br /&gt;
+/pvpaction “Purify” &amp;lt; 1 &amp;gt;&lt;br /&gt;
+/pvpaction “Purify” &amp;lt; 1 &amp;gt;&lt;br /&gt;
+/pvpaction “Purify” &amp;lt; 1 &amp;gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;El &lt;strong&gt;número 1&lt;/strong&gt; uno es el &lt;strong&gt;objetivo&lt;/strong&gt; de nuestra &lt;em&gt;party&lt;/em&gt; con cual queremos &lt;strong&gt;hacer la acción&lt;/strong&gt; en caso de &lt;em&gt;The Feast&lt;/em&gt; nosotros siempre somos los primeros.&lt;/p&gt;
+
+&lt;p&gt;La siguiente macro permite &lt;strong&gt;utilizar habilidades&lt;/strong&gt; poniendo el &lt;strong&gt;ratón sobre los objetivos&lt;/strong&gt; de la &lt;em&gt;party&lt;/em&gt;, esto es especialmente bueno en &lt;em&gt;Frontline&lt;/em&gt; ya que muchas veces no tienes a los mismo compañeros de tu lado, en este caso lo haré con &lt;em&gt;Nascent Flash&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;/merror off&lt;br /&gt;
+/pvpaction “Nascent Flash” &amp;lt; mo &amp;gt;&lt;br /&gt;
+/pvpaction “Nascent Flash” &amp;lt; mo &amp;gt;&lt;br /&gt;
+/pvpaction “Nascent Flash” &amp;lt; mo &amp;gt;&lt;br /&gt;
+/pvpaction “Nascent Flash” &amp;lt; mo &amp;gt;&lt;br /&gt;
+/pvpaction “Nascent Flash” &amp;lt; mo &amp;gt;&lt;br /&gt;
+/pvpaction “Nascent Flash” &amp;lt; mo &amp;gt;&lt;br /&gt;
+/pvpaction “Nascent Flash” &amp;lt; mo &amp;gt;&lt;br /&gt;
+/micon “Nascent Flash”&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+El MO de la macro se traduce en &lt;strong&gt;&lt;em&gt;MouseOver&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Aug 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/the-feast/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/the-feast/</guid>
+        
+        <category>guías</category>
+        
+        <category>pvp</category>
+        
+        
+        <category>guías</category>
+        
+      </item>
     
       <item>
         <title>Lore de las Clases de FFXIV: Los Magos Blancos (Parte 1)</title>
@@ -26,7 +171,7 @@ Herederos de la antigua civilización de &lt;em&gt;Amdapor&lt;/em&gt;, los Magos
     &lt;iframe src=&quot;https://www.youtube.com/embed/Tc0Zbz6t_IU?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 15 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 15 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/whm1/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/whm1/</guid>
         
@@ -52,7 +197,7 @@ Herederos de la antigua civilización de &lt;em&gt;Amdapor&lt;/em&gt;, los Magos
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 14 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 14 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/juglar-08/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-08/</guid>
         
@@ -89,7 +234,7 @@ Herederos de la antigua civilización de &lt;em&gt;Amdapor&lt;/em&gt;, los Magos
 &lt;br /&gt;
 &lt;sub&gt;&lt;sup&gt;Regalia Type-G&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 13 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 13 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210813/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210813/</guid>
         
@@ -117,7 +262,7 @@ Herederos de la antigua civilización de &lt;em&gt;Amdapor&lt;/em&gt;, los Magos
 &lt;/div&gt;
 
 </description>
-        <pubDate>Thu, 12 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 12 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/world-darkness/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/world-darkness/</guid>
         
@@ -273,7 +418,7 @@ Herederos de la antigua civilización de &lt;em&gt;Amdapor&lt;/em&gt;, los Magos
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_hope/lia_hope.jpg&quot; alt=&quot;Lia y Hope&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 11 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 11 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/lia_hope/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/lia_hope/</guid>
         
@@ -418,7 +563,7 @@ Herederos de la antigua civilización de &lt;em&gt;Amdapor&lt;/em&gt;, los Magos
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/monturas/kirin/dutyfinder.jpg&quot; width=&quot;550&quot; alt=&quot;buscador&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 10 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/montura-kirin/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/montura-kirin/</guid>
         
@@ -499,7 +644,7 @@ Herederos de la antigua civilización de &lt;em&gt;Amdapor&lt;/em&gt;, los Magos
   &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/thanalan/eastern_n.jpg&quot; /&gt;
 &lt;/img-comparison-slider&gt;
 </description>
-        <pubDate>Mon, 09 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 09 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/hydaelyn-zodiak-2/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/hydaelyn-zodiak-2/</guid>
         
@@ -534,7 +679,7 @@ Herederos de la antigua civilización de &lt;em&gt;Amdapor&lt;/em&gt;, los Magos
     &lt;iframe src=&quot;https://www.youtube.com/embed/yOoYfHuak5s?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 08 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 08 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/lalafell/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/lalafell/</guid>
         
@@ -705,7 +850,7 @@ Además ,  tengo intención de seguir haciendo videos sobre las diferentes cultu
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_aryn/lia_aryn.jpg&quot; alt=&quot;Lia y Aryn&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 07 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 07 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/lia_aryn/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/lia_aryn/</guid>
         
@@ -717,39 +862,6 @@ Además ,  tengo intención de seguir haciendo videos sobre las diferentes cultu
         
         
         <category>entrevistas</category>
-        
-      </item>
-    
-      <item>
-        <title>Evento de Verano</title>
-        <description>&lt;p&gt;Desde el próximo dia &lt;strong&gt;13 de agosto hasta el 26 de Agosto&lt;/strong&gt; podremos disfrutar del evento &lt;strong&gt;Moonfire Faire&lt;/strong&gt;, también conocido ee el &lt;strong&gt;evento de verano&lt;/strong&gt; ya que parte de las actividades serán en la playas de Costa del Sol y suelen ser de temática veraniega.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moonfire/mayaru.jpg&quot; alt=&quot;Mayaru&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Para participar tendremos que realizar la misión &lt;strong&gt;Unseasonable Chills&lt;/strong&gt; las cual nos la dará &lt;strong&gt;Mayaru Moyaru&lt;/strong&gt; en &lt;strong&gt;Limsa Lominsa, Upper Decks (X: 11.5, Y: 13.8)&lt;/strong&gt;, la cual nos pide ser &lt;strong&gt;nivel 30&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Durante el evento podremos conseguir varias recompensas:&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moonfire/recompensas.jpg&quot; alt=&quot;recompensas&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Montura &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/2622f246a55/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Polar Bear Horn &lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Mueble para exterior &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/89d1fe1798a/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Moonfire Mask Stall&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Decoraciones para usar sobre superficies/mesas &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/e6d12643053/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Costa del Hielo&lt;/a&gt; y &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/4ce4beb34dc/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Grilled Corn&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Algunos objetos de ediciones anteriores podrán estar disponibles en los vendedores del evento.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 06 Aug 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/moonfire/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/moonfire/</guid>
-        
-        <category>noticias</category>
-        
-        <category>evento</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
