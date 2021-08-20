@@ -5,9 +5,43 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Aug 2021 10:45:21 +0100</pubDate>
-    <lastBuildDate>Fri, 20 Aug 2021 10:45:21 +0100</lastBuildDate>
+    <pubDate>Fri, 20 Aug 2021 11:11:09 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Aug 2021 11:11:09 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Evento : The Rising</title>
+        <description>&lt;p&gt;Desde el próximo dia &lt;strong&gt;27 de agosto hasta el 9 de Septiembre&lt;/strong&gt; podremos disfrutar del evento &lt;strong&gt;The Rising&lt;/strong&gt;, el cual rinde tributo a la gente que perdió su vida en la calamidad de la séptima era umbral. Ademas fuera del juego coincide con la salida de A Realm Reborn.&lt;/p&gt;
+
+&lt;p&gt;Este evento suele estar acompañado de otras actividades, como publicaciones de relatos en la web oficial.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/rising/kipih.jpg&quot; alt=&quot;Kipih&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para participar tendremos que realizar la misión &lt;strong&gt;Rising Calm&lt;/strong&gt; las cual nos la dará &lt;strong&gt;Kipih Jakkya&lt;/strong&gt; en &lt;strong&gt;Ul’dah - Steps of Nald (X: 10.0, Y: 8.7)&lt;/strong&gt;, la cual nos pide ser &lt;strong&gt;nivel 15&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Durante el evento podremos conseguir varias recompensas:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/rising/recompensas.jpg&quot; alt=&quot;recompensas&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Accesorio &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/11378c060e1/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Red Moon Parasol&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Objeto usable &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/ac2de57de95/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Nymeia Potpourri&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Algunos objetos de ediciones anteriores podrán estar disponibles en los vendedores del evento.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Aug 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/rising/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/rising/</guid>
+        
+        <category>noticias</category>
+        
+        <category>evento</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Fashion Report 20 Agosto 2021</title>
@@ -794,87 +828,6 @@ Herederos de la antigua civilización de &lt;em&gt;Amdapor&lt;/em&gt;, los Magos
         
         
         <category>monturas</category>
-        
-      </item>
-    
-      <item>
-        <title>Hydaelyn y Zodiak: alrededor de Eorzea. Parte 2</title>
-        <description>&lt;p&gt;En la próxima expansión &lt;strong&gt;Endwalker&lt;/strong&gt; veremos el desenlace del arco argumental de &lt;strong&gt;Hydaelyn&lt;/strong&gt; y &lt;strong&gt;Zodiak&lt;/strong&gt; y como homenaje hemos decidido hacer una visita a distintos puntos de &lt;strong&gt;Eorzea&lt;/strong&gt; y mostrar como se ven ante la &lt;em&gt;Luz&lt;/em&gt; y la &lt;em&gt;Oscuridad&lt;/em&gt;. En esta segunda entrega vamos a visitar algunas de las zonas de &lt;strong&gt;A Realm Reborn&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Si queréis podéis ver la &lt;strong&gt;entrega anterior&lt;/strong&gt; en &lt;a href=&quot;/hydaelyn-zodiak-1/&quot; target=&quot;_blank&quot;&gt;este artículo&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Podéis cambiar entre las imágenes arrastrando el marcador que tienen en el centro.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;black-shroud&quot;&gt;Black Shroud&lt;/h3&gt;
-
-&lt;img-comparison-slider&gt;
-  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/black_shroud/central_haukke_d.jpg&quot; /&gt;
-  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/black_shroud/central_haukke_n.jpg&quot; /&gt;
-&lt;/img-comparison-slider&gt;
-
-&lt;img-comparison-slider&gt;
-  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/black_shroud/central_shroud_d.jpg&quot; /&gt;
-  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/black_shroud/central_shroud_n.jpg&quot; /&gt;
-&lt;/img-comparison-slider&gt;
-
-&lt;h3 id=&quot;coerthas&quot;&gt;Coerthas&lt;/h3&gt;
-
-&lt;img-comparison-slider&gt;
-  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/coerthas/coerthas_1_d.jpg&quot; /&gt;
-  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/coerthas/coerthas_1_n.jpg&quot; /&gt;
-&lt;/img-comparison-slider&gt;
-
-&lt;img-comparison-slider&gt;
-  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/coerthas/coerthas_2_d.jpg&quot; /&gt;
-  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/coerthas/coerthas_2_n.jpg&quot; /&gt;
-&lt;/img-comparison-slider&gt;
-
-&lt;h3 id=&quot;la-noscea&quot;&gt;La Noscea&lt;/h3&gt;
-
-&lt;img-comparison-slider&gt;
-  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/la_noscea/eastern_d.jpg&quot; /&gt;
-  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/la_noscea/eastern_n.jpg&quot; /&gt;
-&lt;/img-comparison-slider&gt;
-
-&lt;img-comparison-slider&gt;
-  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/la_noscea/outer_upper_d.jpg&quot; /&gt;
-  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/la_noscea/outer_upper_n.jpg&quot; /&gt;
-&lt;/img-comparison-slider&gt;
-
-&lt;h3 id=&quot;mor-dhona&quot;&gt;Mor Dhona&lt;/h3&gt;
-
-&lt;img-comparison-slider&gt;
-  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/mor_dhona/mor_dhona_1_d.jpg&quot; /&gt;
-  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/mor_dhona/mor_dhona_1_n.jpg&quot; /&gt;
-&lt;/img-comparison-slider&gt;
-
-&lt;img-comparison-slider&gt;
-  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/mor_dhona/mor_dhona_2_d.jpg&quot; /&gt;
-  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/mor_dhona/mor_dhona_2_n.jpg&quot; /&gt;
-&lt;/img-comparison-slider&gt;
-
-&lt;h3 id=&quot;thanalan&quot;&gt;Thanalan&lt;/h3&gt;
-
-&lt;img-comparison-slider&gt;
-  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/thanalan/central_thanalan_d.jpg&quot; /&gt;
-  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/thanalan/central_thanalan_n.jpg&quot; /&gt;
-&lt;/img-comparison-slider&gt;
-
-&lt;img-comparison-slider&gt;
-  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/thanalan/eastern_d.jpg&quot; /&gt;
-  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-2/thanalan/eastern_n.jpg&quot; /&gt;
-&lt;/img-comparison-slider&gt;
-</description>
-        <pubDate>Mon, 09 Aug 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/hydaelyn-zodiak-2/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/hydaelyn-zodiak-2/</guid>
-        
-        <category>imágenes</category>
-        
-        <category>multimedia</category>
-        
-        
-        <category>multimedia</category>
         
       </item>
     
