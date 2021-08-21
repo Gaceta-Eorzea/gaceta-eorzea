@@ -33,6 +33,13 @@ hidden: false
 
 * Haciendo *click* en la imagen os llevará a la página para poderlo reservar. Sólo están editados en Inglés.
 
+##### Actualización
+
+También se pueden reservar los tomos de la Encyclopedia Eorzea en **Amazon** en los siguientes links:
+
+- <a href="https://www.amazon.es/gp/product/1646091426/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1646091426&linkCode=as2&tag=chocof-21&linkId=e1d9f44f0cac666669db2dea9e8fd422" target="_blank" class="eorzeadb_link">Tomo 1</a>
+- <a href="https://www.amazon.es/gp/product/1646091434/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1646091434&linkCode=as2&tag=chocof-21&linkId=f60a8bef341f4dc9cef077bfe920d492" target="_blank" class="eorzeadb_link">Tomo 2</a>
+
 #### Imágenes tomo 1
 
 <div class="container">
