@@ -5,9 +5,104 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Aug 2021 10:27:26 +0100</pubDate>
-    <lastBuildDate>Mon, 23 Aug 2021 10:27:26 +0100</lastBuildDate>
+    <pubDate>Tue, 24 Aug 2021 22:16:35 +0200</pubDate>
+    <lastBuildDate>Tue, 24 Aug 2021 22:16:35 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Como mejorar visualmente FFXIV con Gshade</title>
+        <description>&lt;p&gt;Con esta guía vamos a explicar paso a paso como mejorar visualmente Final Fantasy XIV a través de un programa externo llamado &lt;strong&gt;Gshade&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;img-comparison-slider&gt;
+  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/guias/gshade/sc1.jpg&quot; /&gt;
+  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/guias/gshade/sc2.jpg&quot; /&gt;
+&lt;/img-comparison-slider&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;instalación-del-gshade&quot;&gt;Instalación del Gshade&lt;/h4&gt;
+
+&lt;p&gt;Lo primero que tenemos que hacer es instalar el &lt;strong&gt;Gshade&lt;/strong&gt;. Para ello nos dirigimos a la página de &lt;a href=&quot;https://gposers.com/gshade/&quot; target=&quot;_blank&quot;&gt;Gposers&lt;/a&gt; donde podremos descargarlo.&lt;/p&gt;
+
+&lt;p&gt;Empezamos a instalarlo y cuando lleguemos a esta parte, tenemos que elegir el archivo &lt;strong&gt;ffxiv_dx11.exe&lt;/strong&gt; que es el ejecutable de Final Fantasy XIV que encontraremos en la carpeta de instalación del juego.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/gshade/i1.jpg&quot; alt=&quot;i1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En la siguiente pantalla de instalación, nos aseguramos que está marcada la opción &lt;strong&gt;Direct 11&lt;/strong&gt;, dejamos el resto de opciones como están y lo instalamos.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/gshade/i2.jpg&quot; alt=&quot;i2&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;gshade&quot;&gt;Gshade&lt;/h4&gt;
+
+&lt;p&gt;Una vez instalado, ejecutamos el &lt;strong&gt;Gshade Control Panel&lt;/strong&gt;. Este programa lo podremos encontrar en nuestro Menú de Windows.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/gshade/gs1.jpg&quot; alt=&quot;gs1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En la pantalla &lt;strong&gt;INSTALLATIONS&lt;/strong&gt; podremos comprobar que está bien seleccionado el archivo ejecutable. Además, cuando hacemos &lt;em&gt;click&lt;/em&gt; en la rueda de &lt;strong&gt;&lt;em&gt;Preset Settings&lt;/em&gt;&lt;/strong&gt; podremos seleccionar los &lt;em&gt;presets&lt;/em&gt; que podremos activar dentro del juego.&lt;/p&gt;
+
+&lt;blockquote&gt;
+Un &lt;i&gt;Preset&lt;/i&gt; es un conjunto de opciones gráficas que se podrán elegir dentro del juego y así mejorar visualmente Final Fantasy XIV.
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+    &lt;p align=&quot;center&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/guias/gshade/gs2.jpg&quot; alt=&quot;gs2&quot; /&gt;
+    &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+    &lt;p align=&quot;center&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/guias/gshade/gs3.jpg&quot; alt=&quot;gs3&quot; /&gt;
+    &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;En las siguientes pantallas del &lt;strong&gt;Gshade Control Panel&lt;/strong&gt; podremos cambiar el idioma, tendremos links de soporte a los creadores, etc.&lt;/p&gt;
+
+&lt;h4 id=&quot;dentro-de-final-fantasy-xiv&quot;&gt;Dentro de Final Fantasy XIV&lt;/h4&gt;
+
+&lt;p&gt;Una vez hayamos instalado el &lt;strong&gt;Gshade&lt;/strong&gt; abrimos nuestro juego y comprobaremos en la esquina superior izquierda que se instalando los &lt;em&gt;presets&lt;/em&gt; que hemos seleccionado. Ahora pulsamos &lt;strong&gt;Shift+F2&lt;/strong&gt; y se nos abrirá la siguiente ventana (Es posible que no veáis el puntero del ratón, eso lo arreglamos más tarde). Y le damos a continuar varias veces hasta que finalicemos el tutorial.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/gshade/d1.jpg&quot; alt=&quot;d1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para ver el puntero del ratón, nos vamos al menú &lt;strong&gt;&lt;em&gt;Settings&lt;/em&gt;&lt;/strong&gt; y activamos la opción &lt;strong&gt;&lt;em&gt;Show Overlay Mouse Cursor&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ahora vamos a activar los &lt;em&gt;presets&lt;/em&gt; para mejorar nuestro juego. En el menu &lt;strong&gt;&lt;em&gt;Home&lt;/em&gt;&lt;/strong&gt; buscamos &lt;strong&gt;Colourfulness&lt;/strong&gt; y &lt;strong&gt;Ambientlight&lt;/strong&gt; y los activamos.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/gshade/presets.jpg&quot; alt=&quot;presets&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Con &lt;strong&gt;Shift+F3&lt;/strong&gt; activaremos o desactivaremos el &lt;em&gt;Gshade&lt;/em&gt;. Así, si pulsamos repetidamente Shift+F3 comprobaremos la diferencia entre tener el &lt;em&gt;Gshade&lt;/em&gt; activo o no. Como podéis ver hay muchos más &lt;em&gt;presets&lt;/em&gt; pero esos ya os dejamos a vosotros mismos que los investiguéis.&lt;/p&gt;
+
+&lt;h4 id=&quot;posición-de-square-enix-sobre-el-uso-de-gshade&quot;&gt;Posición de Square Enix sobre el uso de Gshade&lt;/h4&gt;
+
+&lt;p&gt;El Creador de Contenido &lt;strong&gt;Elmira&lt;/strong&gt; (Aquí os dejamos su canal de &lt;a href=&quot;https://www.youtube.com/c/zarovich/featured&quot; target=&quot;_blank&quot;&gt;YouTube&lt;/a&gt;) hizo un vídeo explicando la posición de &lt;strong&gt;Square Enix&lt;/strong&gt; sobre el uso de Gshaders. Como resumen os indicamos que ellos no prohíben su uso, pero si no se hacen responsables del uso que cada usuario pueda hacer.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/JExsVV-t_AM?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Además os dejamos información que &lt;strong&gt;Elmira&lt;/strong&gt; ha recopilado al respecto de parte de &lt;strong&gt;Square Enix&lt;/strong&gt; y del Director del Juego, &lt;strong&gt;Naoki Joshida&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Respuesta oficial de Square-Enix al uso de Shaders: &lt;a href=&quot;https://forum.square-enix.com/ffxiv/threads/86742-ENB-Injector-for-FFXIV-%28wip%29?p=1408111&amp;amp;viewfull=1#post1408111&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Declaraciones de Naoki Yoshida acerca de los mods: &lt;a href=&quot;https://www.reddit.com/r/ffxiv/comments/f0axyh/full_translation_on_yoshida_talking_about/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 24 Aug 2021 00:00:00 +0200</pubDate>
+        <link>https://gaceta-eorzea.com/gshade/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/gshade/</guid>
+        
+        <category>herramientas</category>
+        
+        <category>guías</category>
+        
+        
+      </item>
     
       <item>
         <title>Lore de las Clases de FFXIV: Los Magos Blancos (Parte 2)</title>
@@ -28,7 +123,7 @@ En el vídeo de hoy, visitamos el Gremio de Conjuración y os contaré de manera
     &lt;iframe src=&quot;https://www.youtube.com/embed/1pXHaug0rTE?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 23 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 23 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/whm2/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/whm2/</guid>
         
@@ -54,7 +149,7 @@ En el vídeo de hoy, visitamos el Gremio de Conjuración y os contaré de manera
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 21 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 21 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/void-ark/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/void-ark/</guid>
         
@@ -88,7 +183,7 @@ En el vídeo de hoy, visitamos el Gremio de Conjuración y os contaré de manera
 
 &lt;p&gt;&lt;em&gt;Algunos objetos de ediciones anteriores podrán estar disponibles en los vendedores del evento.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 20 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/rising/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/rising/</guid>
         
@@ -137,7 +232,7 @@ En el vídeo de hoy, visitamos el Gremio de Conjuración y os contaré de manera
 &lt;br /&gt;
 &lt;sub&gt;&lt;sup&gt;Regalia Type-G&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 20 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210820/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210820/</guid>
         
@@ -307,7 +402,7 @@ A la gran mayoría de miembros de la comunidad hispanohablante nos encanta ayuda
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_aebon/lia_aebon.jpg&quot; alt=&quot;Lia y Aebon&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 19 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 19 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/lia_aebon/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/lia_aebon/</guid>
         
@@ -454,7 +549,7 @@ A la gran mayoría de miembros de la comunidad hispanohablante nos encanta ayuda
 &lt;p&gt;&lt;br /&gt;
 El MO de la macro se traduce en &lt;strong&gt;&lt;em&gt;MouseOver&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 18 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 18 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/the-feast/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/the-feast/</guid>
         
@@ -484,7 +579,7 @@ Herederos de la antigua civilización de &lt;em&gt;Amdapor&lt;/em&gt;, los Magos
     &lt;iframe src=&quot;https://www.youtube.com/embed/Tc0Zbz6t_IU?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 15 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 15 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/whm1/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/whm1/</guid>
         
@@ -510,7 +605,7 @@ Herederos de la antigua civilización de &lt;em&gt;Amdapor&lt;/em&gt;, los Magos
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 14 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 14 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/juglar-08/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/juglar-08/</guid>
         
@@ -547,7 +642,7 @@ Herederos de la antigua civilización de &lt;em&gt;Amdapor&lt;/em&gt;, los Magos
 &lt;br /&gt;
 &lt;sub&gt;&lt;sup&gt;Regalia Type-G&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 13 Aug 2021 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 13 Aug 2021 00:00:00 +0200</pubDate>
         <link>https://gaceta-eorzea.com/fashion210813/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210813/</guid>
         
@@ -559,32 +654,6 @@ Herederos de la antigua civilización de &lt;em&gt;Amdapor&lt;/em&gt;, los Magos
         
         
         <category>gold saucer</category>
-        
-      </item>
-    
-      <item>
-        <title>Guía de The World of Darkness</title>
-        <description>&lt;p&gt;Hoy os traemos una &lt;strong&gt;vídeo guía en Español&lt;/strong&gt; de la incursión de alianza de &lt;strong&gt;The World of Darkness&lt;/strong&gt;, la cual es &lt;strong&gt;obligatoria&lt;/strong&gt; para completar la &lt;strong&gt;&lt;em&gt;Main Scenario Quest&lt;/em&gt;&lt;/strong&gt; de A Realm Reborn.&lt;/p&gt;
-
-&lt;p&gt;Tanto si sois &lt;strong&gt;nuevos jugadores&lt;/strong&gt; o queréis &lt;strong&gt;conocer mejor las mecánicas&lt;/strong&gt; de esta segunda alianza esta guía os será de mucha utilidad para poder completar el contenido como &lt;strong&gt;Campeones de la Luz&lt;/strong&gt; que somos.&lt;/p&gt;
-
-&lt;p&gt;No olvidéis de comentar el vídeo y &lt;strong&gt;subscribiros&lt;/strong&gt; al &lt;a href=&quot;https://www.youtube.com/channel/UC6WMAsnnQXRP5pWG8dWwwnA&quot; target=&quot;_blank&quot;&gt;canal de Zex Krow&lt;/a&gt; si os ha gustado.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/bkyaApTp2fM?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Thu, 12 Aug 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/world-darkness/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/world-darkness/</guid>
-        
-        <category>guía</category>
-        
-        <category>encuentros</category>
-        
-        
-        <category>encuentros</category>
         
       </item>
     
