@@ -128,7 +128,7 @@ var documents = [{
     "id": 25,
     "url": "https://gaceta-eorzea.com/hydaelyn-zodiak-3/",
     "title": "Hydaelyn y Zodiak: alrededor de Eorzea. Parte 3",
-    "body": "2021/08/26 - En la próxima expansión Endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiak y como homenaje hemos decidido hacer una visita a distintos puntos de Eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta segunda entrega vamos a visitar algunas de las zonas de *Heavensward. Si queréis podéis ver la entrega anterior en este artículo. Podéis cambiar entre las imágenes arrastrando el marcador que tienen en el centro. Azys Lla:   Coerthas Western Highlands:   Dravanian Hinterlands:   Sea of Clouds:   The Churning Mists:   "
+    "body": "2021/08/26 - En la próxima expansión Endwalker veremos el desenlace del arco argumental de Hydaelyn y Zodiak y como homenaje hemos decidido hacer una visita a distintos puntos de Eorzea y mostrar como se ven ante la Luz y la Oscuridad. En esta tercera entrega vamos a visitar algunas de las zonas de Heavensward. Si queréis podéis ver la entrega anterior en este artículo. Podéis cambiar entre las imágenes arrastrando el marcador que tienen en el centro. Azys Lla:   Coerthas Western Highlands:   Dravanian Hinterlands:   Sea of Clouds:   The Churning Mists:   "
     }, {
     "id": 26,
     "url": "https://gaceta-eorzea.com/gshade/",

@@ -9,7 +9,7 @@ description: "Tercera entrega de la serie visitando Eorzea de la mano de Hydaely
 featured: false
 hidden: false
 ---
-En la próxima expansión **Endwalker** veremos el desenlace del arco argumental de **Hydaelyn** y **Zodiak** y como homenaje hemos decidido hacer una visita a distintos puntos de **Eorzea** y mostrar como se ven ante la *Luz* y la *Oscuridad*. En esta segunda entrega vamos a visitar algunas de las zonas de **Heavensward*.
+En la próxima expansión **Endwalker** veremos el desenlace del arco argumental de **Hydaelyn** y **Zodiak** y como homenaje hemos decidido hacer una visita a distintos puntos de **Eorzea** y mostrar como se ven ante la *Luz* y la *Oscuridad*. En esta tercera entrega vamos a visitar algunas de las zonas de **Heavensward**.
 
 *Si queréis podéis ver la **entrega anterior** en [este artículo](/hydaelyn-zodiak-2/){:target="_blank"}.*
 
