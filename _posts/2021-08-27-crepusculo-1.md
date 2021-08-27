@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Relatos del Crepusculo : El peso de las heridas y el deber"
-author: cecile
+author: lia
 categories: [  ]
 tags: [lore, relatos]
 image: assets/images/articles/lore/crepusculo/01/crepusculo_01.jpg
