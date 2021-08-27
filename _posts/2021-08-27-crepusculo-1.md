@@ -2,17 +2,20 @@
 layout: post
 title:  "Relatos del Crepúsculo : El peso de las heridas y el deber"
 author: lia
-categories: [  ]
+categories: [ lore ]
 tags: [lore, relatos]
 image: assets/images/articles/lore/crepusculo/01/crepusculo_01.jpg
 description: "Traducción desde el Japonés y el Inglés del relato original: Relatos del Crepúsculo - El peso de las heridas y el deber"
 featured: false
-hidden: true
+hidden: false
 ---
+Para conmemorar el octavo aniversario de FINAL FANTASY XIV, presentamos una nueva colección de historias secundarias: Cuentos del Crepúsculo. Echa un vistazo a estos momentos cruciales de las vidas de nuestros queridos personajes del juego, comenzando por nuestra primera entrega:
+<br/><sub><sup>Traducción desde el Japonés y el Inglés del relato [original](https://eu.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/){:target="_blank"} publicado en la lodestone.</sup></sub>
+
+### El peso de las heridas y el deber
 
 El canto de los pájaros y las risas flotaban en la brisa de la tarde mientras el Enclave de Doman disfrutaba de otro hermoso día. Yugiri regresaba del Rissai-juku, disfrutando del raro placer de un paseo tranquilo, cuando escuchó a varios niños que gritaban en el terreno baldío.
 Un escenario cotidiano de lo más normal, sin duda, sin embargo, debido a las palabras de aquellos pequeños espadachines, Yugiri de repente se detuvo y escuchó.
-<br/><sub><sup>Traducción desde el Japonés y el Inglés del relato [original](https://eu.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/){:target="_blank"} publicado en la lodestone.</sup></sub>
 
 *"¡Te equivocas! ¡Esa herida se la hizo peleando con un general imperial!".*
 

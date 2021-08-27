@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Aug 2021 11:58:30 +0100</pubDate>
-    <lastBuildDate>Fri, 27 Aug 2021 11:58:30 +0100</lastBuildDate>
+    <pubDate>Fri, 27 Aug 2021 12:12:27 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Aug 2021 12:12:27 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -50,9 +50,13 @@
     
       <item>
         <title>Relatos del Crepúsculo : El peso de las heridas y el deber</title>
-        <description>&lt;p&gt;El canto de los pájaros y las risas flotaban en la brisa de la tarde mientras el Enclave de Doman disfrutaba de otro hermoso día. Yugiri regresaba del Rissai-juku, disfrutando del raro placer de un paseo tranquilo, cuando escuchó a varios niños que gritaban en el terreno baldío.
-Un escenario cotidiano de lo más normal, sin duda, sin embargo, debido a las palabras de aquellos pequeños espadachines, Yugiri de repente se detuvo y escuchó.
+        <description>&lt;p&gt;Para conmemorar el octavo aniversario de FINAL FANTASY XIV, presentamos una nueva colección de historias secundarias: Cuentos del Crepúsculo. Echa un vistazo a estos momentos cruciales de las vidas de nuestros queridos personajes del juego, comenzando por nuestra primera entrega:
 &lt;br /&gt;&lt;sub&gt;&lt;sup&gt;Traducción desde el Japonés y el Inglés del relato &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/&quot; target=&quot;_blank&quot;&gt;original&lt;/a&gt; publicado en la lodestone.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;el-peso-de-las-heridas-y-el-deber&quot;&gt;El peso de las heridas y el deber&lt;/h3&gt;
+
+&lt;p&gt;El canto de los pájaros y las risas flotaban en la brisa de la tarde mientras el Enclave de Doman disfrutaba de otro hermoso día. Yugiri regresaba del Rissai-juku, disfrutando del raro placer de un paseo tranquilo, cuando escuchó a varios niños que gritaban en el terreno baldío.
+Un escenario cotidiano de lo más normal, sin duda, sin embargo, debido a las palabras de aquellos pequeños espadachines, Yugiri de repente se detuvo y escuchó.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;“¡Te equivocas! ¡Esa herida se la hizo peleando con un general imperial!”.&lt;/em&gt;&lt;/p&gt;
 
@@ -202,6 +206,8 @@ Notas de Traducción:&lt;br /&gt;
         
         <category>relatos</category>
         
+        
+        <category>lore</category>
         
       </item>
     
