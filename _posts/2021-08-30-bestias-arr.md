@@ -105,7 +105,7 @@ La mision dependera de la gran compañia que somos:
 - [Call of the Wild (Maelstrom)](https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/0c0decb9475/){:target="_blank" class="eorzeadb_link"} la cual nos la dara [Trachraet](https://eu.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/f20c58e0588/){:target="_blank" class="eorzeadb_link"} en **Limsa Lominsa Upper Decks (X: 12.7 Y: 12.8)**.
 - [Call of the Wild (Immortal Flames)](https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/82925dd3445/){:target="_blank" class="eorzeadb_link"} la cual nos la dara [Mimio Mio](https://eu.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/40a4d11f039/){:target="_blank" class="eorzeadb_link"} en **Ul'dah - Steps of Nald (X: 8.6 Y: 9.4)**.
 
-Tas completar la cadena recebiremos [Sable Death Mask](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/9713a7ead50){:target="_blank" class="eorzeadb_link"} una monoculo de nivel 1 que podemos utilizar con cualquier clase.
+Tas completar la cadena recebiremos [Sable Death Mask](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/9713a7ead50){:target="_blank" class="eorzeadb_link"} un monoculo de nivel 1 que podemos utilizar con cualquier clase.
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/tribus/arr/sable_death_mask.jpg" alt="Sable Death Mask">
 <br/>
