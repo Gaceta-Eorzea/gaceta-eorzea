@@ -453,10 +453,13 @@
 <loc>https://gaceta-eorzea.com/tags</loc>
 </url>
 <url>
-<loc>https://gaceta-eorzea.com/category/gu%C3%ADas/</loc>
+<loc>https://gaceta-eorzea.com/category/herramientas/</loc>
 </url>
 <url>
 <loc>https://gaceta-eorzea.com/category/gold-saucer/</loc>
+</url>
+<url>
+<loc>https://gaceta-eorzea.com/category/gu%C3%ADas/</loc>
 </url>
 <url>
 <loc>https://gaceta-eorzea.com/category/parches/</loc>
@@ -481,9 +484,6 @@
 </url>
 <url>
 <loc>https://gaceta-eorzea.com/category/encuentros/</loc>
-</url>
-<url>
-<loc>https://gaceta-eorzea.com/category/herramientas/</loc>
 </url>
 <url>
 <loc>https://gaceta-eorzea.com/page2/</loc>
