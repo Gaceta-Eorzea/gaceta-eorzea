@@ -2,8 +2,8 @@
 layout: post
 title: "Tribus de Bestias - A Realm Reborn"
 author: cecile
-categories: [ guias ]
-tags: [guias, tribus]
+categories: [ guías ]
+tags: [guías, tribus]
 image: assets/images/articles/tribus/arr/portada.jpg
 description: "Guia de las Tribus de Bestias de A Realm Reborn"
 featured: false
