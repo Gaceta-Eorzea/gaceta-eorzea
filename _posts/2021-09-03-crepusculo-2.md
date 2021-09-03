@@ -9,7 +9,7 @@ description: "Traducción desde el Japonés y el Inglés del relato original: Re
 featured: false
 hidden: false
 ---
-Para conmemorar el octavo aniversario de FINAL FANTASY XIV, presentamos una nueva colección de historias secundarias: Cuentos del Crepúsculo. Echa un vistazo a estos momentos cruciales de las vidas de nuestros queridos personajes del juego:
+*Para conmemorar el octavo aniversario de FINAL FANTASY XIV, presentamos una nueva colección de historias secundarias: Cuentos del Crepúsculo. Echa un vistazo a estos momentos cruciales de las vidas de nuestros queridos personajes del juego*:
 <br/><sub><sup>Traducción desde el Japonés y el Inglés del relato [original](https://jp.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/){:target="_blank"} publicado en la lodestone.</sup></sub>
 
 ### El pecado de Merlwyb
@@ -42,7 +42,7 @@ Lorens, exhaló como si se sintiera aliviado mientras levantaba su cabellera dor
 
 *“Es el viejo… nos hemos salvado….”*
 
-También Merlwyb se alegró, aunque maldijo su ingenuidad. ②Puede que tengas el título, pero él sigue siendo el verdadero capitán. Tienes mucho que aprender.
+También Merlwyb se alegró, aunque maldijo su ingenuidad. ②*Puede que tengas el título, pero él sigue siendo el verdadero capitán. Tienes mucho que aprender*.
 
 La batalla continuó, el primal y sus esclavos bestia se cobraron innumerables víctimas, pero al final, Bloefhis y su flota consiguieron hacer retroceder a su enemigo bajo las profundidades. Fue ese día cuando los habitantes de Limsa Lominsa comprendieron por primera vez el gran poder de Leviatán, una deidad que podía hundir por sí sola la flota pirata más poderosa y, en la derrota, vivir para luchar otro día.
 
@@ -52,7 +52,7 @@ En los meses siguientes, los ataques de los sahagin a los barcos comerciales se 
 
 Al amparo de una noche sin luna, un solo barco partió de los muelles sin ser visto. En su cubierta se encontraba Merlwyb con un grupo de sus marineros de mayor confianza, con el rostro serio e inquebrantable mientras los vientos helados se abatían sobre ellos. La noticia de la impía alianza de Bloefhis había hecho que los Bastardos cayeran en desgracia con las demás bandas de piratas y que muchos los miraran con desconfianza y recelo, sobre todo a Merlwyb, la hija del traidor. 
 
-Sin embargo, a pesar de sus precauciones, pronto se encontró con un visitante no deseado. Al oír pasos, se giró y se encontró con una auténtica montaña de hombre ante ella. Aunque la máscara de hierro oscurecía su rostro, no dejaba de revelar su identidad como nada menos que Mistbeard, notorio pirata y el mayor rival de su padre. Apuesto a que ha venido a hacer justicia con la hija del traidor.
+Sin embargo, a pesar de sus precauciones, pronto se encontró con un visitante no deseado. Al oír pasos, se giró y se encontró con una auténtica montaña de hombre ante ella. Aunque la máscara de hierro oscurecía su rostro, no dejaba de revelar su identidad como nada menos que Mistbeard, notorio pirata y el mayor rival de su padre. *Apuesto a que ha venido a hacer justicia con la hija del traidor*.
 
 *"¿Pretendes traerle de vuelta, verdad?"*
 
@@ -72,7 +72,7 @@ Sacó sus dos mosquetes favoritos y se los tendió a Merlwyb.
 
 Merlwyb no tenía ni idea de la verdadera relación que había entre Mistbeard y su padre. Sin embargo, al sostener los mosquetes gemelos cerca de su pecho mientras el barco se adentraba en las negras aguas, no pudo evitar sentirse animada por el acto de que él quisiera acompañarla en el pecado de matar a su propio padre.
 
-Justo antes de que los primeros rayos del amanecer aparecieran en el horizonte, el barco de Merlwyb llegó a la pequeña isla que los Segadores de Serpientes habían reclamado como su escondite. Y en efecto, después de desembarcar con un grupo de hombres con hachas y aventurarse un poco hacia el interior, fueron atacados por una variopinta banda de piratas y centinelas sahagin. Los rumores son ciertos, entonces...
+Justo antes de que los primeros rayos del amanecer aparecieran en el horizonte, el barco de Merlwyb llegó a la pequeña isla que los Segadores de Serpientes habían reclamado como su escondite. Y en efecto, después de desembarcar con un grupo de hombres con hachas y aventurarse un poco hacia el interior, fueron atacados por una variopinta banda de piratas y centinelas sahagin. *Los rumores son ciertos, entonces...*
 
 Con los mosquetes en la mano y un corazón de acero, disparó y mató a uno tras otro. Entre sus adversarios había antiguos compañeros y amigos de la infancia, aunque sus expresiones y ojos salvajes los hacían casi irreconocibles. Por desgracia, aunque luchó con valentía, sus enemigos eran legión, y uno tras otro sus hombres resultaron heridos o algo peor. 
 
@@ -112,15 +112,15 @@ En el fondo de su corazón, Merlwyb sabía desde el principio cómo iba a termin
 
 *"Ahora no hay nadie más que nosotros en esta isla"*, dijo, con un tono medido y firme. *"Te reto a un duelo a muerte. Si te queda una pizca de honor de pirata, aceptarás"*.
 
-Aquella sonrisa enfermiza y burlona que tenía  Bloefhis  se desvaneció lentamente cuandose puso en pie y se encontró con su mirada. Aunque no dijo nada, su respuesta fue clara. Lorens serviría como único testigo, y no habría segundas oportunidades para ninguna de las partes. Una lamentable excusa para un duelo, pero será suficiente.
+Aquella sonrisa enfermiza y burlona que tenía  Bloefhis  se desvaneció lentamente cuandose puso en pie y se encontró con su mirada. Aunque no dijo nada, su respuesta fue clara. Lorens serviría como único testigo, y no habría segundas oportunidades para ninguna de las partes. *Una lamentable excusa para un duelo, pero será suficiente*.
 
-Padre e hija se juntaron, y luego ,sin intercambiar palabras, se dieron la espalda. Sus pasos resonaron con eco mientras se alejaban cada vez más. Se siente tan lejano ahora...
+Padre e hija se juntaron, y luego ,sin intercambiar palabras, se dieron la espalda. Sus pasos resonaron con eco mientras se alejaban cada vez más. *Se siente tan lejano ahora...*
 
 Recordó el día en que lo había perdido, condenándolo a este destino con su arrogancia e imprudencia. Se detuvieron en los extremos opuestos de la caverna y esperaron la señal.
 
 Lorens extendió la mano derecha, abriendo lentamente el puño cerrado. La moneda de oro captó la luz mientras empezaba a rodar por el aire. Huérfano cuando aún era un bebé, Lorens no había conocido más familia que los Bastardos, ni más padre que Bloefhis.
 
-Será mi bala. Mi pecado. Aun así, lamento hacerte partícipe de esto.
+*Será mi bala. Mi pecado. Aun así, lamento hacerte partícipe de esto.*
 
 El tintineo de la moneda al golpear el suelo resonó en toda la cueva, y en un instante, padre e hija giraron para despedirse.
 
@@ -148,7 +148,7 @@ Con los cañones de sus dos mosquetes pulidos, Merlwyb los dejó a un lado y se 
 
 El otro, por desgracia, desapareció en los días posteriores a la Calamidad. Sin embargo, en el fondo, Merlwyb sabía que estaba ahí fuera, en algún lugar, esperando a hacer su regreso cuando las terribles tormentas volvieran a amenazar los mares.
 
-Después de todo, si soy la hija de mi padre, entonces en todo menos en la sangre él es el hijo de mi padre.
+*Después de todo, si soy la hija de mi padre, entonces en todo menos en la sangre él es el hijo de mi padre*.
 
 <blockquote>
 Notas de Traducción:<br/>

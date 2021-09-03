@@ -9,7 +9,7 @@ description: "Traducción desde el Japonés y el Inglés del relato original: Re
 featured: false
 hidden: false
 ---
-Para conmemorar el octavo aniversario de FINAL FANTASY XIV, presentamos una nueva colección de historias secundarias: Cuentos del Crepúsculo. Echa un vistazo a estos momentos cruciales de las vidas de nuestros queridos personajes del juego, comenzando por nuestra primera entrega:
+*Para conmemorar el octavo aniversario de FINAL FANTASY XIV, presentamos una nueva colección de historias secundarias: Cuentos del Crepúsculo. Echa un vistazo a estos momentos cruciales de las vidas de nuestros queridos personajes del juego, comenzando por nuestra primera entrega*:
 <br/><sub><sup>Traducción desde el Japonés y el Inglés del relato [original](https://eu.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/){:target="_blank"} publicado en la lodestone.</sup></sub>
 
 ### El peso de las heridas y el deber
