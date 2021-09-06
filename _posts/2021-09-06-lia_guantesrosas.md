@@ -109,8 +109,6 @@ Hoy en 10 preguntas a creadores de contenido de FF14 tenemos a **Guantesrosas**!
 
 <br/>
 
-<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/entrevistas/lia_guantesrosas/arte.jpg" alt="Dibujos de Guantesrosas"/></p>
-
 <div class="card">
   <div class="card-header">
      <b><i>Lia</i>: ¿Desde cuándo dibujas FFXIV y cuál fue la razón por la que comenzaste a hacerlo?</b>
@@ -121,6 +119,8 @@ Hoy en 10 preguntas a creadores de contenido de FF14 tenemos a **Guantesrosas**!
 </div>
 
 <br/>
+
+<p align="center"><img src="{{ site.baseurl }}/assets/images/articles/entrevistas/lia_guantesrosas/arte.jpg" alt="Dibujos de Guantesrosas"/></p>
 
 <div class="card">
   <div class="card-header">
@@ -143,7 +143,7 @@ Hoy en 10 preguntas a creadores de contenido de FF14 tenemos a **Guantesrosas**!
 
 <div class="card">
   <div class="card-header">
-     <b><i>Lia</i>: Madre mía…. gracias por contestar a mis preguntas Guantesrosas! Y nos os olvidéis de seguirle, darle a like y uniros al discord de la Comunidad Española!! Nos vemos en la próxima entrega de Lia nos la lía <3</b>
+     <b><i>Lia</i>: ¡Muchísimas gracias por haberte tomado el tiempo de responder nuestras preguntas Guantesrosas! No os olvidéis de darle like y suscribiros a su canal y nos vemos en la próxima entrega de Lia nos la lía <3</b>
   </div>
 </div>
 
