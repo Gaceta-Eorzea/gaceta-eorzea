@@ -137,6 +137,7 @@ Hoy en 10 preguntas a creadores de contenido de FF14 tenemos a **Guantesrosas**!
      <b><i>Lia</i>: Y por último, pero no menos importante, ¿qué le dirías a alguien que está empezando el juego por primera vez?</b>
   </div>
   <div class="card-body"><i><b>Guantesrosas</b></i>: A ese jugador le diría que no se salte la historia, me parece un pilar enorme en el juego y perdérselo me parece herejía. Y que, por favor, juegue con la música puesta, es una delicia y te mete mucho en las situaciones que se van dando. Y por último, no visites el gold saucer, ¡huye!, es una trampa y no podrás salir como me pasó a mí.
+  </div>
 </div>
 
 <br/>
