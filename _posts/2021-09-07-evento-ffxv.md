@@ -28,10 +28,18 @@ Durante el evento podremos conseguir varias recompensas:
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/ffxv/noctis.png" alt="Kipih"/>
 <br/>
-<sub><sup>Set de Equipo : Noctis</sup></sub></p>
+<sub><sup>Set de Equipo : Lucian Prince's, obtenible en las misiones</sup></sub></p>
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/ffxv/noctis_hair.png" alt="Kipih"/>
 <br/>
-<sub><sup>Peinado : Noctis</sup></sub></p>
+<sub><sup>Peinado : Lucian Locks 20,000 MGP</sup></sub></p>
 
 Ademas habrá una carta de Triple Triad y varias partituras de música.
+
+<blockquote>
+Si queremos conseguir tanto el <b>coche como el peinado</b> necesitaremos <b>220,000 MGP</b>. <b>Durante</b> la duración del <b>evento</b> habra <b>6</b> ediciones del <b>Fashion Report</b> en el cual podremos obtener <b>360,000 MGP</b>. Recordar que <b>cada viernes publicamos</b> en la gaceta la <b>solución</b> del mismo, incluyendo que <b>NPCs</b> nos dan <b>cada objeto</b>.
+</blockquote>
+
+### Trailer del evento
+
+{% include youtube.html id='_o-CtZGjJGc' %}
