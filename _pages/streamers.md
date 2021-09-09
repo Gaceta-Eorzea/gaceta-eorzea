@@ -93,25 +93,6 @@ comments: true
             <div class="card p-3 mb-2">
                 <div class="d-flex justify-content-between">
                     <div class="d-flex flex-row align-items-center">
-                        <div class="icon"><a href="https://www.twitch.tv/sothishere" target="_blank"><img style="border-radius: 50%;" height="100" src="https://static-cdn.jtvnw.net/jtv_user_pictures/4877ff48-38bd-4481-94d6-af063d194e05-profile_image-300x300.png"></a></div>
-                        <div class="ms-2 c-details">
-                            <h5 class="mb-0">&nbsp;<a href="https://www.twitch.tv/sothishere" target="_blank">sothishere</a></h5><span></span>
-                        </div>
-                    </div>
-                    <div class="badge"> <span>&nbsp;</span> </div>
-                </div>
-                <div class="mt-5">
-                    <a href="https://www.twitch.tv/sothishere" target="_blank"><i class="fab fa-twitch">&nbsp;</i>sothishere</a><br/>
-                    <a href="https://twitter.com/sothishere" target="_blank"><i class="fab fa-twitter">&nbsp;</i>sothishere</a><br/>
-                    &nbsp;<br/>
-                </div>
-            </div>
-        </div>
-        <!-- Steamer -->
-        <div class="col-md-4">
-            <div class="card p-3 mb-2">
-                <div class="d-flex justify-content-between">
-                    <div class="d-flex flex-row align-items-center">
                         <div class="icon"><a href="https://www.twitch.tv/ninaariel" target="_blank"><img style="border-radius: 50%;" height="100" src="https://static-cdn.jtvnw.net/jtv_user_pictures/2b7db710-78ac-4f47-9eb4-7a2fbb442d29-profile_image-300x300.png"></a></div>
                         <div class="ms-2 c-details">
                             <h5 class="mb-0">&nbsp;<a href="https://www.twitch.tv/ninaariel" target="_blank">NinaAriel</a></h5><span></span>
@@ -125,12 +106,7 @@ comments: true
                     <a href="https://www.instagram.com/ninaariel4/" target="_blank"><i class="fab fa-instagram">&nbsp;</i>ninaariel4</a>
                 </div>
             </div>
-        </div>        
-    </div>
-</div>
-
-<div class="container mt-5 mb-3">
-    <div class="row">
+        </div>
         <!-- Steamer -->
         <div class="col-md-4">
             <div class="card p-3 mb-2">
@@ -149,13 +125,18 @@ comments: true
                     <a href="https://www.youtube.com/c/LiaTales" target="_blank"><i class="fab fa-youtube">&nbsp;</i>LiaTales</a>
                 </div>
             </div>
-        </div>
+        </div>                
+    </div>
+</div>
+
+<div class="container mt-5 mb-3">
+    <div class="row">
         <!-- Steamer -->
         <div class="col-md-4">
             <div class="card p-3 mb-2">
                 <div class="d-flex justify-content-between">
                     <div class="d-flex flex-row align-items-center">
-                        <div class="icon"><a href="https://www.twitch.tv/Nephiam" target="_blank"><img style="border-radius: 50%;" height="100" src="https://static-cdn.jtvnw.net/jtv_user_pictures/3de6a4c2-d1d5-470e-996c-c2c63c834069-profile_image-70x70.png"></a></div>
+                        <div class="icon"><a href="https://www.twitch.tv/Nephiam" target="_blank"><img style="border-radius: 50%;" height="100" src="https://static-cdn.jtvnw.net/jtv_user_pictures/77b16b95-7288-4b9c-b2c1-58ddd1ef88fc-profile_image-70x70.png"></a></div>
                         <div class="ms-2 c-details">
                             <h5 class="mb-0">&nbsp;<a href="https://www.twitch.tv/Nephiam" target="_blank">Nephiam</a></h5><span></span>
                         </div>
@@ -168,6 +149,25 @@ comments: true
                     &nbsp;<br/>
                 </div>
             </div>
-        </div>    
+        </div>
+        <!-- Steamer -->
+        <div class="col-md-4">
+            <div class="card p-3 mb-2">
+                <div class="d-flex justify-content-between">
+                    <div class="d-flex flex-row align-items-center">
+                        <div class="icon"><a href="https://www.twitch.tv/karionsiand" target="_blank"><img style="border-radius: 50%;" height="100" src="https://static-cdn.jtvnw.net/jtv_user_pictures/aa20efbe-23ad-4eee-b1e6-47dbdec60400-profile_image-70x70.png"></a></div>
+                        <div class="ms-2 c-details">
+                            <h5 class="mb-0">&nbsp;<a href="https://www.twitch.tv/karionsiand" target="_blank">Elmira Siand</a></h5><span></span>
+                        </div>
+                    </div>
+                    <div class="badge"> <span>&nbsp;</span> </div>
+                </div>
+                <div class="mt-5">
+                    <a href="https://www.twitch.tv/karionsiand" target="_blank"><i class="fab fa-twitch">&nbsp;</i>karionsiand</a><br/>
+                    <a href="https://twitter.com/elmira_siand" target="_blank"><i class="fab fa-twitter">&nbsp;</i>Elmira Siand</a><br/>                    
+                    <a href="https://www.youtube.com/zarovich" target="_blank"><i class="fab fa-youtube">&nbsp;</i>Zarovich</a>
+                </div>
+            </div>
+        </div>               
     </div>
 </div>
