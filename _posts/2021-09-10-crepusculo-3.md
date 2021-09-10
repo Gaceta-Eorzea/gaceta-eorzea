@@ -132,8 +132,8 @@ Fue entonces cuando oyó los pasos. Con el corazón acelerado, se giró para ver
 
 La voz de Yda era más fría de lo que nunca había oído, tan fría que Fordola tardó un momento en darse cuenta de con quién estaba hablando.
 
-*"¿Qué?"
-*
+*"¿Qué?"*
+
 *"Sabías que me enteraría si me delatabas a los guardias, así que en lugar de eso te aseguraste de que te siguieran... ¡Rata imperial!"*
 
 Intentó protestar, pero su voz se apagó en su garganta cuando se dio cuenta de la verdad de la situación. Que Yda estaba actuando… y que los soldados sospechaban de ella.
@@ -146,8 +146,8 @@ Todo eran mentiras para evitar que los imperiales la acusaran de traición, y Fo
 
 *"¡Sentíos libres de atacar todos a la vez, si estais tan asustados!"*
 
-*"¡Matad a esa salvaje!"
-*
+*"¡Matad a esa salvaje!"*
+
 Los soldados blandieron sus espadas con gritos de rabia y Fordola echó a correr. Si se quedaba, le pondría las cosas más difíciles a Yda.
 
 Huyó entre las ruinas, sorteando los escombros. Pero, por muy ágil que fuera, no podía aspirar a igualar la zancada de un soldado, y se vio rápidamente alcanzada. Fordola se acobardó ante el destello maligno de la espada que se dirigía hacia ella, y perdió el equilibrio, al igual que el imperial, que en ese mismo instante se vio impulsado sin gracia hacia los escombros cercanos gracias a una patada en el costado que le hizo crujir los huesos. Se desplomó en el suelo, inmóvil.
