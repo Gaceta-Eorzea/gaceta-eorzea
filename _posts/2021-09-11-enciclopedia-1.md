@@ -25,11 +25,11 @@ El éter no es en absoluto estático. Fluye constantemente a través de la creac
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/lore\enciclopedia\black_shroud.png" alt="black shroud"/></p>
 <br/>
 
-<h3 style="text-align:right">La fuente de todas las magias</h3>
+#### La fuente de todas las magias
 
 <div class="container">
   <div class="row">    
-    <div class="col">
+    <div class="col-xl">
       <img src="{{ site.baseurl }}/assets/images/articles/lore\enciclopedia\magos.png" alt="magos"/>
 <br/>
 <sub><sup>Existen algunos objetos que se cree que están a caballo entre lo orgánico y lo inorgánico, como las gemas. Los arcanistas inclinan la balanza a favor de la vida atrayendo el éter hacia las piedras, el resultado son unas criaturas conocidas como Carbúnclos.</sup></sub> 
@@ -39,7 +39,9 @@ El éter no es en absoluto estático. Fluye constantemente a través de la creac
 	Un tipo similar, aunque más primitivo, de manipulación etérea puede verse también en los seres inertes. Un lagarto que lance fuego o una bestia que genere un shock similar al de los levin son ejemplos de criaturas de origen menor que utilizan el éter de sus cuerpos o el disponible en el entorno cercano para cazar o protegerse de los daños.
   </div>
 </div>
-</div>
+</div><br/>
+
+
 
 #### Los seis Elementos
 
@@ -63,5 +65,5 @@ Notas de Traducción:<br/>
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/lore\enciclopedia\seedkin.png" width="300" alt="seedkin"/></p>
 ②Cloudkin: comprende todas las criaturas de Eorzea que se desplazan principalmente volando. Más allá de eso, hay pocas explicaciones; algunos cloudkin ponen huevos, otros llevan plumas, pero el vuelo es su principal característica.<br/>
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/lore\enciclopedia\cloudkin.png" width="300" alt="Yugiri"/></p>
- ③Scalekin: al igual que los dos anteriores comprende a todas las criaturas inferores de Eorzea con escamas.
+ ③Scalekin: al igual que los dos anteriores comprende a todas las criaturas inferiores de Eorzea con escamas.
 </blockquote>
