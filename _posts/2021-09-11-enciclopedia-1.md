@@ -25,10 +25,10 @@ El éter no es en absoluto estático. Fluye constantemente a través de la creac
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/lore\enciclopedia\black_shroud.png" alt="black shroud"/></p>
 <br/>
 
-#### La fuente de todas las magias
+<h3 style="text-align:right">La fuente de todas las magias</h3>
 
 <div class="container">
-  <div class="row">
+  <div class="row">    
     <div class="col">
       <img src="{{ site.baseurl }}/assets/images/articles/lore\enciclopedia\magos.png" alt="magos"/>
 <br/>
