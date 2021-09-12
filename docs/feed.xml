@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Sep 2021 11:16:34 +0100</pubDate>
-    <lastBuildDate>Sun, 12 Sep 2021 11:16:34 +0100</lastBuildDate>
+    <pubDate>Sun, 12 Sep 2021 21:13:48 +0100</pubDate>
+    <lastBuildDate>Sun, 12 Sep 2021 21:13:48 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -35,32 +35,6 @@ Y no olvidéis seguir a la Gaceta Eorzea en Twitter, ya que si no os perderéis 
         
         
         <category>lore</category>
-        
-      </item>
-    
-      <item>
-        <title>Guía de introducción al raideo</title>
-        <description>&lt;p&gt;Hoy os traemos una &lt;strong&gt;guía de introducción en Español&lt;/strong&gt; al &lt;strong&gt;raideo&lt;/strong&gt; en FFXIV.&lt;/p&gt;
-
-&lt;p&gt;Tanto si sois &lt;strong&gt;nuevos jugadores&lt;/strong&gt; o queréis &lt;strong&gt;conocer mejor este parte del juego&lt;/strong&gt; esta guia os sera de gran utilidad.&lt;/p&gt;
-
-&lt;p&gt;No olvidéis de comentar el vídeo y &lt;strong&gt;subscribiros&lt;/strong&gt; al &lt;a href=&quot;https://www.youtube.com/channel/UC6WMAsnnQXRP5pWG8dWwwnA&quot; target=&quot;_blank&quot;&gt;canal de Zex Krow&lt;/a&gt; si os ha gustado.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/H1UkJVAZ1K8?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sat, 11 Sep 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/raidear/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/raidear/</guid>
-        
-        <category>guía</category>
-        
-        <category>encuentros</category>
-        
-        
-        <category>encuentros</category>
         
       </item>
     
@@ -102,14 +76,16 @@ Con cientos de páginas que detallan todo, desde la historia y las culturas de E
 
 &lt;h4 id=&quot;los-seis-elementos&quot;&gt;Los seis Elementos&lt;/h4&gt;
 
-&lt;p&gt;Las energías etéreas pueden dividirse en seis elementos distintivos: fuego, viento, rayo, agua, hielo y tierra. Estos elementos dotan a la naturaleza de “aspectos” que rigen su actuación en el mundo. Por ejemplo, una región en la que las corrientes etéreas estén orientadas hacia el fuego será, por lo general, más cálida y seca que una región en la que las corrientes estén orientadas hacia el hielo, que se caracterizará por un clima gélido. Lo mismo puede decirse de la flora y la fauna que pueblan una zona. Los ①Seedkin orientados al viento pueden surcar los cielos como si fueran ②Cloudkin alados. Los ③Scalekin orientados hacia la tierra mostrarán una piel litificada que les protegerá de los depredadores de colmillos afilados. Además de los seis elementos, también existen dos polos, astral y umbral, que influyen en gran medida en la naturaleza de los elementos: una carga astral aporta más actividad, mientras que una carga umbral resulta más pasiva. Por ejemplo, cuando está en estado astral, el fuego muestra una gran volatilidad, mientras que en estado umbral se caracteriza por su sequedad.&lt;/p&gt;
+&lt;p&gt;Las energías etéreas pueden dividirse en seis elementos distintivos: fuego, viento, rayo, agua, hielo y tierra. Estos elementos dotan a la naturaleza de “aspectos” que rigen su actuación en el mundo. Por ejemplo, una región en la que las corrientes etéreas estén orientadas hacia el fuego será, por lo general, más cálida y seca que una región en la que las corrientes estén orientadas hacia el hielo, que se caracterizará por un clima gélido. Lo mismo puede decirse de la flora y la fauna que pueblan una zona. Los ①Seedkin orientados al viento pueden surcar los cielos como si fueran ②Cloudkin alados. Los ③Scalekin orientados hacia la tierra mostrarán una piel litificada que les protegerá de los depredadores de colmillos afilados.&lt;/p&gt;
+
+&lt;p&gt;Además de los seis elementos, también existen dos polos, astral y umbral, que influyen en gran medida en la naturaleza de los elementos: una carga astral aporta más actividad, mientras que una carga umbral resulta más pasiva. Por ejemplo, cuando está en estado astral, el fuego muestra una gran volatilidad, mientras que en estado umbral se caracteriza por su sequedad.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;/assets/images/articles/lore/enciclopedia/elementos.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/lore/enciclopedia/elementos.png&quot; alt=&quot;los seis elementos&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;relaciones-interelementales&quot;&gt;Relaciones Interelementales&lt;/h4&gt;
 
-&lt;p&gt;Los estudiosos conocen desde hace tiempo las relaciones entre los elementos, características que están documentadas en el antiguo tomo Esencias y Permutaciones: Tratado de los Seis Elementos.&lt;/p&gt;
+&lt;p&gt;Los estudiosos conocen desde hace tiempo las relaciones entre los elementos, características que están documentadas en el antiguo tomo Esencias y Permutaciones: &lt;em&gt;Tratado de los Seis Elementos&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;/assets/images/articles/lore/enciclopedia/pergamino.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/articles/lore/enciclopedia/pergamino.png&quot; alt=&quot;pergamino&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -146,7 +122,7 @@ Notas de Traducción:&lt;br /&gt;
 &lt;/div&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Sat, 11 Sep 2021 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 12 Sep 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/enciclopedia-1/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/enciclopedia-1/</guid>
         
@@ -154,6 +130,32 @@ Notas de Traducción:&lt;br /&gt;
         
         <category>enciclopedia</category>
         
+        
+      </item>
+    
+      <item>
+        <title>Guía de introducción al raideo</title>
+        <description>&lt;p&gt;Hoy os traemos una &lt;strong&gt;guía de introducción en Español&lt;/strong&gt; al &lt;strong&gt;raideo&lt;/strong&gt; en FFXIV.&lt;/p&gt;
+
+&lt;p&gt;Tanto si sois &lt;strong&gt;nuevos jugadores&lt;/strong&gt; o queréis &lt;strong&gt;conocer mejor este parte del juego&lt;/strong&gt; esta guia os sera de gran utilidad.&lt;/p&gt;
+
+&lt;p&gt;No olvidéis de comentar el vídeo y &lt;strong&gt;subscribiros&lt;/strong&gt; al &lt;a href=&quot;https://www.youtube.com/channel/UC6WMAsnnQXRP5pWG8dWwwnA&quot; target=&quot;_blank&quot;&gt;canal de Zex Krow&lt;/a&gt; si os ha gustado.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/H1UkJVAZ1K8?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 11 Sep 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/raidear/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/raidear/</guid>
+        
+        <category>guía</category>
+        
+        <category>encuentros</category>
+        
+        
+        <category>encuentros</category>
         
       </item>
     

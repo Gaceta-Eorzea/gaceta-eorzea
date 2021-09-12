@@ -45,14 +45,16 @@ El éter no es en absoluto estático. Fluye constantemente a través de la creac
 
 #### Los seis Elementos
 
-Las energías etéreas pueden dividirse en seis elementos distintivos: fuego, viento, rayo, agua, hielo y tierra. Estos elementos dotan a la naturaleza de "aspectos" que rigen su actuación en el mundo. Por ejemplo, una región en la que las corrientes etéreas estén orientadas hacia el fuego será, por lo general, más cálida y seca que una región en la que las corrientes estén orientadas hacia el hielo, que se caracterizará por un clima gélido. Lo mismo puede decirse de la flora y la fauna que pueblan una zona. Los ①Seedkin orientados al viento pueden surcar los cielos como si fueran ②Cloudkin alados. Los ③Scalekin orientados hacia la tierra mostrarán una piel litificada que les protegerá de los depredadores de colmillos afilados. Además de los seis elementos, también existen dos polos, astral y umbral, que influyen en gran medida en la naturaleza de los elementos: una carga astral aporta más actividad, mientras que una carga umbral resulta más pasiva. Por ejemplo, cuando está en estado astral, el fuego muestra una gran volatilidad, mientras que en estado umbral se caracteriza por su sequedad. 
+Las energías etéreas pueden dividirse en seis elementos distintivos: fuego, viento, rayo, agua, hielo y tierra. Estos elementos dotan a la naturaleza de "aspectos" que rigen su actuación en el mundo. Por ejemplo, una región en la que las corrientes etéreas estén orientadas hacia el fuego será, por lo general, más cálida y seca que una región en la que las corrientes estén orientadas hacia el hielo, que se caracterizará por un clima gélido. Lo mismo puede decirse de la flora y la fauna que pueblan una zona. Los ①Seedkin orientados al viento pueden surcar los cielos como si fueran ②Cloudkin alados. Los ③Scalekin orientados hacia la tierra mostrarán una piel litificada que les protegerá de los depredadores de colmillos afilados. 
+
+Además de los seis elementos, también existen dos polos, astral y umbral, que influyen en gran medida en la naturaleza de los elementos: una carga astral aporta más actividad, mientras que una carga umbral resulta más pasiva. Por ejemplo, cuando está en estado astral, el fuego muestra una gran volatilidad, mientras que en estado umbral se caracteriza por su sequedad. 
 
 <p align="center"><a href="{{ site.baseurl }}/assets/images/articles/lore/enciclopedia/elementos.png" target="_blank"><img src="{{ site.baseurl }}/assets/images/articles/lore/enciclopedia/elementos.png" alt="los seis elementos"/></a></p>
 <br/>
 
 #### Relaciones Interelementales
 
-Los estudiosos conocen desde hace tiempo las relaciones entre los elementos, características que están documentadas en el antiguo tomo Esencias y Permutaciones: Tratado de los Seis Elementos.
+Los estudiosos conocen desde hace tiempo las relaciones entre los elementos, características que están documentadas en el antiguo tomo Esencias y Permutaciones: *Tratado de los Seis Elementos*.
 
 <p align="center"><a href="{{ site.baseurl }}/assets/images/articles/lore/enciclopedia/pergamino.png" target="_blank"><img src="{{ site.baseurl }}/assets/images/articles/lore/enciclopedia/pergamino.png" alt="pergamino"/></a></p>
 
