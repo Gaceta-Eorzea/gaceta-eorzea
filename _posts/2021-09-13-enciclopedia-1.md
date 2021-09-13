@@ -2,12 +2,12 @@
 layout: post
 title:  "Enciclopedia Eorzea: Etología Básica I"
 author: lia
-categories: [  ]
+categories: [ lore ]
 tags: [lore, enciclopedia]
 image: assets/images/articles/lore/enciclopedia/enciclopedia.jpg
 description: "Traducción desde el Inglés de la Enciclopedia de Eorzea: Etología Básica I"
 featured: false
-hidden: true
+hidden: false
 ---
 *Os traemos página a página la Enciclopedia de Eorzea traducida al Español.
 Con cientos de páginas que detallan todo, desde la historia y las culturas de Eorzea hasta su geografía y sus habitantes, este tomo elaborado por expertos es un verdadero tesoro de información inestimable.*
