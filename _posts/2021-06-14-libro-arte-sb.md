@@ -11,6 +11,10 @@ hidden: false
 ---
 Vamos a hacer una pre-visualización del libro de arte de Shadowbringers: **FINAL FANTASY XIV: SHADOWBRINGERS - THE ART OF REFLECTION - HISTORIES UNWRITTEN** que saldrá a la venta a finales de Septiembre. Lo puedes comprar a través de [este enlace](https://store.eu.square-enix-games.com/en_EU/product/634855/final-fantasy-xiv-shadowbringers-the-art-of-reflection-histories-unwritten){:target="_blank"}.
 
+<blockquote>
+<b>Actualización: libro de arte de Shadowbringers: FINAL FANTASY XIV: SHADOWBRINGERS - THE ART OF REFLECTION - HISTORIES UNWRITTEN saldrá a la venta el día 28 de Septiembre de 2021.
+</blockquote> 
+
 La portada presenta de manera destacada a Minfilia y Ryne.
 
 <p align="center"><img src="/assets/images/articles/noticias/libro-arte-sb/portadalibro.jpg"></p>
