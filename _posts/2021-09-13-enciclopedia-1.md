@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Enciclopedia Eorzea: Etología Básica I"
+title:  "Enciclopedia Eorzea: Eterología Básica I"
 author: lia
 categories: [ lore ]
 tags: [lore, enciclopedia]
 image: assets/images/articles/lore/enciclopedia/enciclopedia.jpg
-description: "Traducción desde el Inglés de la Enciclopedia de Eorzea: Etología Básica I"
+description: "Traducción desde el Inglés de la Enciclopedia de Eorzea: Eterología Básica I"
 featured: false
 hidden: false
 ---
 *Os traemos página a página la Enciclopedia de Eorzea traducida al Español.
 Con cientos de páginas que detallan todo, desde la historia y las culturas de Eorzea hasta su geografía y sus habitantes, este tomo elaborado por expertos es un verdadero tesoro de información inestimable.*
 
-### Etología Básica I
+### Eterología Básica I
 
 El éter no sólo es el elemento básico de toda la creación, sino también la energía vital de la que se nutren las distintas escuelas de magia. Sin el conocimiento del éter y su funcionamiento, los estudiosos entenderían mucho menos el mundo y su funcionamiento interno.
 <br/>
