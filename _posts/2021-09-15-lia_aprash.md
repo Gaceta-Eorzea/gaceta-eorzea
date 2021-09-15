@@ -148,7 +148,7 @@ Hoy en 10 preguntas a creadores de contenido de FF14 tenemos a ... **Félix (Apr
 
 <div class="card">
   <div class="card-header">
-     <b><i>Lia</i>: ¡Muchísimas gracias por haberte tomado el tiempo de responder nuestras preguntas Aprash! No os olvidéis de darle muchos likes y seguirla en twitter, nos vemos en la próxima entrega de Lia nos la lía <3</b>
+     <b><i>Lia</i>: ¡Muchísimas gracias por haberte tomado el tiempo de responder nuestras preguntas Aprash! No os olvidéis de darle like y suscribiros a su canal y nos vemos en la próxima entrega de Lia nos la lía <3</b>
   </div>
 </div>
 
