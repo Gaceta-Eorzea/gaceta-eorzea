@@ -97,7 +97,7 @@ Al oír esto, los ojos de Raya-O se abrieron de par en par por la sorpresa.
 
 No había viento, pero las ramas del árbol empezaron a balancearse y a temblar.
 
-*"Pido disculpas por ese error. Y me gustaría deciros lo que realmente debí haber dicho en ese momento. Todavía soy muy inexperta, y es posible que no pueda cumplir con vuestras expectativas, sin embargo, quiero que juntos podamos dar forma a un buen futuro para el Bosque de los Doce y todas las vidas que viven en él. Este sentimiento es real, y no hay mentiras en él. Así que ¡por favor! ¡calma tu corazón furioso y déjame escuchar tu dulce voz de nuevo!” *
+*"Pido disculpas por ese error. Y me gustaría deciros lo que realmente debí haber dicho en ese momento. Todavía soy muy inexperta, y es posible que no pueda cumplir con vuestras expectativas, sin embargo, quiero que juntos podamos dar forma a un buen futuro para el Bosque de los Doce y todas las vidas que viven en él. Este sentimiento es real, y no hay mentiras en él. Así que ¡por favor! ¡calma tu corazón furioso y déjame escuchar tu dulce voz de nuevo!”*
 
 Mientras Kan-E terminaba su súplica al Gran Espíritu, la respiración agitada de A-Ruhn se calmó. Lentamente, comenzó a pronunciar palabras, como si se esmerara en elegir cada una de ellas.
 
