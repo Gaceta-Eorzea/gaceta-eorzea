@@ -5,9 +5,355 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Sep 2021 12:21:09 +0100</pubDate>
-    <lastBuildDate>Fri, 17 Sep 2021 12:21:09 +0100</lastBuildDate>
+    <pubDate>Sat, 18 Sep 2021 17:38:16 +0100</pubDate>
+    <lastBuildDate>Sat, 18 Sep 2021 17:38:16 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Carta del Productor en vivo LXVI</title>
+        <description>&lt;p&gt;Durante la madrugada del 17 al 18 de Septiembre pudimos disfrutar de una nueva Carta del Productor en vivo durante la cual Yoshi-P y su equipo nos presentaron distintas novedades que el juego trae para Endwalker centrandose sobre todo en los cambios de habilidades.&lt;/p&gt;
+
+&lt;p&gt;El media tour empezara el dia 18 donde los creadores de contenido tendran acceso a unos servidores donde probar las clases al 90 y ciertos contenidos del juego, pero hasta octubre no le dejaran publicar informacion sobre el mismo. Espera que haya guias y detalles de las profesiones en mas detalle por los creadores de contenido.&lt;/p&gt;
+
+&lt;h3 id=&quot;ajuste-de-profesiones&quot;&gt;Ajuste de Profesiones&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/ajuste_jobs.jpg&quot; alt=&quot;Ajuste de Profesiones&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;En general la mayoria de profesiones seguiran la linea que se ha establecido en Shadowbringers, aunque hay alguna profesion que ha cambiado mas drasticamente en terminos generales hay pocos cambios en la forma de jugarlas.&lt;/li&gt;
+  &lt;li&gt;Se ha normalizado que la mayoria de CDs dentro del juego sean 60 o 120 segundos, aunque hay alguna excepcion.&lt;/li&gt;
+  &lt;li&gt;Se ha cambiado la formula de daño fisico y magico, ya que eran distintas, ahora seran iguales pero tendran que bajar la potencia de los ataques fisicos para que hagan el mismo daño total.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/ajuste_jobs_general.jpg&quot; alt=&quot;Cambios Generales de Profesiones&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aqui os dejamos el video de las acciones de las profesiones para la 6.0.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/WCVcgZ8dtD0?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;tankes&quot;&gt;Tankes&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/tankes.jpg&quot; alt=&quot;Cambios de tankes&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Al usar los CDs defensivos en momentos optimos daran algun beneficio adicional.&lt;/li&gt;
+  &lt;li&gt;Los combos no se perderan por realizar una accion a distancia.&lt;/li&gt;
+  &lt;li&gt;Todas las cargas hacia objetivos enemigos han cambiado el rango a 20 yamls.&lt;/li&gt;
+  &lt;li&gt;Todos los tankes tendran un cd de proteccion a un aliado.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;paladin&quot;&gt;Paladin&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/paladin.jpg&quot; alt=&quot;Cambios de Paladin&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No tiene grandes cambios.&lt;/li&gt;
+  &lt;li&gt;Al daño Requiecast ya no le afectara la cantidad de MP que tengamos.&lt;/li&gt;
+  &lt;li&gt;Hay un nuevo combo despues de Confiteor (espadas en el video).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;warrior&quot;&gt;Warrior&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/warrior.jpg&quot; alt=&quot;Cambios de Warrior&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Algunas acciones reaplicaran el su buffo sin tener que castearlo.&lt;/li&gt;
+  &lt;li&gt;Tiene un nuevo finisher.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dark-night&quot;&gt;Dark Night&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/darknight.jpg&quot; alt=&quot;Cambios de Dark Night&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;El Salted Earth se casteara a tus pies, ya no necesitareis macro.&lt;/li&gt;
+  &lt;li&gt;El Simulacrum tendra nuevos ataques.&lt;/li&gt;
+  &lt;li&gt;El delirium pasa a tener 60 segundos de CD.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;gunbreaker&quot;&gt;Gunbreaker&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/gunbreaker.jpg&quot; alt=&quot;Cambios de Gunbreaker&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Savage Claw y Wicked Talon se remplazan en las barras con Gnashinig Fang de forma dinamica.&lt;/li&gt;
+  &lt;li&gt;Despues de Continuation se podra usar Burst Strike.&lt;/li&gt;
+  &lt;li&gt;Se aumentara el numero de cargadores a 3.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;melee&quot;&gt;Melee&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/melee.jpg&quot; alt=&quot;Cambios de Melees&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Feint ahora reducira no solo el daño fisico sino tambien el magico, eso si reducira mas el fisico.&lt;/li&gt;
+  &lt;li&gt;Los combos no se perderan por realizar una accion a distancia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dragoon&quot;&gt;Dragoon&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/dragoon.jpg&quot; alt=&quot;Cambios de Dragoon&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rotacion de AoE expandida.&lt;/li&gt;
+  &lt;li&gt;Una nueva accion al completar el combo. (Doble dragon azu/rojo en el video).&lt;/li&gt;
+  &lt;li&gt;Mejora de animaciones que eran anticuadas.&lt;/li&gt;
+  &lt;li&gt;Lance Charge con 60s de CD.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;monk&quot;&gt;Monk&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/monk.jpg&quot; alt=&quot;Cambios de Monk&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bastante cambios en el monje.&lt;/li&gt;
+  &lt;li&gt;Seguira siendo muy rapido, pero mas sencillo.&lt;/li&gt;
+  &lt;li&gt;Mecanicas nuevas de Yin / Yan.&lt;/li&gt;
+  &lt;li&gt;Carga a enemigos o aliados con 3 stacks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;samurai&quot;&gt;Samurai&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/samurai.jpg&quot; alt=&quot;Cambios de Samurai&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Seguira siendo el melee DPS puro.&lt;/li&gt;
+  &lt;li&gt;Dos nuevas habilidades: Tsubame Gaeshi y Meikyou Shisei con 3 cargas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ninja&quot;&gt;Ninja&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/ninja.jpg&quot; alt=&quot;Cambios de Ninja&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No hay 4 sellos.&lt;/li&gt;
+  &lt;li&gt;Quitan el dot.&lt;/li&gt;
+  &lt;li&gt;Al usar bunshin habra una nueva accion.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;reaper&quot;&gt;Reaper&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/reaper.jpg&quot; alt=&quot;Cambios de Reaper&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tendra un bufo de party.&lt;/li&gt;
+  &lt;li&gt;Teleport hacia adelante y atras con un portal que le permite regresar a donde estaba&lt;/li&gt;
+  &lt;li&gt;Esta muy cerca de un melee DPS puro, pero el samurai es mas puro.&lt;/li&gt;
+  &lt;li&gt;Es un job rapido con un tempo muy distinto.&lt;/li&gt;
+  &lt;li&gt;No es muy sencillo, el combo base es facil pero cuando sumoneas el avatar no lo es.&lt;/li&gt;
+  &lt;li&gt;El LB3 es lo que tira Zenox a final del bechmark.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;dps-fisicos-a-distancia&quot;&gt;DPS fisicos a distancia&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/ranged.jpg&quot; alt=&quot;Cambios de Ranged&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;El cd de mitigacion de las 3 profesiones pasa a 90s.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;bard&quot;&gt;Bard&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/bard.jpg&quot; alt=&quot;Cambios de Bard&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Las 3 canciones tendran una nueva accion que daran un bufo a toda la party.&lt;/li&gt;
+  &lt;li&gt;Habra una nueva accion tras usar Apex Arrow.&lt;/li&gt;
+  &lt;li&gt;Battle Voice y Wanderer’s Minuete tendran un CD de 120s.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;machinist&quot;&gt;Machinist&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/machinist.jpg&quot; alt=&quot;Cambios de Machinist.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reassemble tendra 2 cargas&lt;/li&gt;
+  &lt;li&gt;Nuevas habilidades, incluida una nueva para el Automaton, pero seran evoluciones no nuevos huecos en las barras.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dancer&quot;&gt;Dancer&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/dancer.jpg&quot; alt=&quot;Cambios de Dancer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Los pasos de baile se pueden hacer tambien con los ataques de AoE para reducir tener varias barras segun si haces single target o AoE.&lt;/li&gt;
+  &lt;li&gt;Nuevas acciones tras ejecutar el Technical Finish, Improvisation o Devilment.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;dps-magico-a-distancia&quot;&gt;DPS magico a distancia&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/magic.jpg&quot; alt=&quot;Cambios de Magic &quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Addle reducira el daño tanto magico como fisico, pero reducira mas el magico.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;black-mage&quot;&gt;Black Mage&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/blackmage.jpg&quot; alt=&quot;Cambios de Black Mage&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Enochian desaparece como accion y pasa a ser un trait que se aplica automaticamente en Astra Fire o Umbral Ice.&lt;/li&gt;
+  &lt;li&gt;Habra nuevas acciones que se actrivaran cambiando entre Astral Fire y Umbral Ice.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;red-mage&quot;&gt;Red Mage&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/redmage.jpg&quot; alt=&quot;Cambios de Red Mage&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nueva accion tras hacer Scorch.&lt;/li&gt;
+  &lt;li&gt;Verflare, Verholy y Scorch cambiaran a AoE cuando sean parte de la rotacion AoE.&lt;/li&gt;
+  &lt;li&gt;Nuevo buffo defensivo para toda la party.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;summoner&quot;&gt;Summoner&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/summoner.jpg&quot; alt=&quot;Cambios de Summoner&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Summoner es como si fuera una profesion totalmente nueva.&lt;/li&gt;
+  &lt;li&gt;Desaparecen los DOTs.&lt;/li&gt;
+  &lt;li&gt;Eliminan downtime.&lt;/li&gt;
+  &lt;li&gt;Tras sumonear bahamut te dran 3 cristales.&lt;/li&gt;
+  &lt;li&gt;Los cristales son para sumonear a Ifrit, Garuda o Titan.&lt;/li&gt;
+  &lt;li&gt;Cada uno tendra ataques distintos, potenciando una habilidad con el elemento de la invocacion usada.&lt;/li&gt;
+  &lt;li&gt;Tras usarlos podremos invocar al Phoenix.&lt;/li&gt;
+  &lt;li&gt;Tras el Phoenix nos volvera a dar 3 cristales para mas summons.&lt;/li&gt;
+  &lt;li&gt;Despues tendremos de nuevo a Bahamut y repetir.&lt;/li&gt;
+  &lt;li&gt;Al carbuncle podras ponerle un Egi de los antigos (garuda, ifrit o titan).&lt;/li&gt;
+  &lt;li&gt;Podras ajustar el tamaño en tu cliente de todas las invocaciones.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;healers&quot;&gt;Healers&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/healer.jpg&quot; alt=&quot;Cambios de Healers&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nuevas acciones para aplicar un bufo a un solo objetivo para cada healer.&lt;/li&gt;
+  &lt;li&gt;El casteo de los echizos ofensivo reducido, a unos 1.5s aprox.&lt;/li&gt;
+  &lt;li&gt;El area de los limit break aumentada a 50 yml.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;white-mage&quot;&gt;White Mage&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/whitemage.jpg&quot; alt=&quot;Cambios de White Mage &quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Healer puro.&lt;/li&gt;
+  &lt;li&gt;Nueva accion de restauracion en area.&lt;/li&gt;
+  &lt;li&gt;Holy generara Lily.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;astrologian&quot;&gt;Astrologian&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/astrologian.jpg&quot; alt=&quot;Cambios de Astrologian&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Healer puro.&lt;/li&gt;
+  &lt;li&gt;Diurnal Sect y Noturnal Sect desaparecen, las skills tendran el efecto que tenian con Diurnal.&lt;/li&gt;
+  &lt;li&gt;Neutral Sect seguira poniendo escudo.&lt;/li&gt;
+  &lt;li&gt;Cambia Divination.&lt;/li&gt;
+  &lt;li&gt;Los sellos aplican tambien el buffo al propio Astrologo.&lt;/li&gt;
+  &lt;li&gt;Nueva Skill AoE que cura y pega para tener toolkit para instancias.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;scholar&quot;&gt;Scholar&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/scholar.jpg&quot; alt=&quot;Cambios de Scholar&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Healer de escudos.&lt;/li&gt;
+  &lt;li&gt;Mejoran como actua el Hada.&lt;/li&gt;
+  &lt;li&gt;Nuevo buffo de velocidad en combate.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sage&quot;&gt;Sage&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/sage.jpg&quot; alt=&quot;Cambios de sage&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Healer de escudos.&lt;/li&gt;
+  &lt;li&gt;Escoges a un objetivo y le pones un buffo (Cardia) que cuando pegas a un enemigo le curas.&lt;/li&gt;
+  &lt;li&gt;Si curas al del buffo directamente aplicas un dot en el enemigo.&lt;/li&gt;
+  &lt;li&gt;Tiene una habilidad para usar cura instant.&lt;/li&gt;
+  &lt;li&gt;Tiene un gap closer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ajuste-de-batalla&quot;&gt;Ajuste de Batalla&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/batalla.jpg&quot; alt=&quot;Cambios de Batalla&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Los Unreal se desactivan hasta el 6.1&lt;/li&gt;
+  &lt;li&gt;El viajara entre Data Centers no esta hasta el 6.0.x&lt;/li&gt;
+  &lt;li&gt;Si haces savage con el Dutty finder se incluira un healer puro y uno de escudo.&lt;/li&gt;
+  &lt;li&gt;En el PF (Party Finder) se dividen los healers entre puros y de barrera.&lt;/li&gt;
+  &lt;li&gt;Nueva opcion para el PF para filtrar gente que tenga aun por recivir recompensa semanal en el dutty.&lt;/li&gt;
+  &lt;li&gt;Los busquedas de PF no sacaran partys de “One Player Per Job” (Una jugador por profesion).&lt;/li&gt;
+  &lt;li&gt;Los trial que dropean arma ademas de la arma aleatoria daran un cofre de arma de los de usar.&lt;/li&gt;
+  &lt;li&gt;Las raid de 4.x o inferior tambien daran cofre de arma.&lt;/li&gt;
+  &lt;li&gt;Para las raid antiguas 4.x y menor dropearan tambien cofres de equipo o accesorio.&lt;/li&gt;
+  &lt;li&gt;Nuevo settings para poner reticulas en el suelo, que no pueda alejarse mas de su rango y que la misma accion que la pone la fije.&lt;/li&gt;
+  &lt;li&gt;Los buffos que son procs (Fire III, Clearcast, etc) podran ponerse en nuevo panel que se puede mover independientemente.&lt;/li&gt;
+  &lt;li&gt;Se seguira mostrando el nameplate de las personas incapacidad (sin vida) con el setting de “When HP is bellow 100%” (el de por defecto).&lt;/li&gt;
+  &lt;li&gt;En la party veremos en las barras de casteo el Numero de personaje sobre el que se esta casteando o la letra del enemigo al que se esta atacando.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/party.jpg&quot; alt=&quot;Cambios de party&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;removede-items-hq&quot;&gt;Removede items HQ&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/hq.jpg&quot; alt=&quot;Cambios de HQ&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Se elimina los items HQ de gathering y de drops y vendors.&lt;/li&gt;
+  &lt;li&gt;Las habilidades de gathering que incrementa la probabilidad HQ cambiaran el numero de items que dropean.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cambio-de-precios-de-teleport&quot;&gt;Cambio de precios de teleport&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/teleport.jpg&quot; alt=&quot;Cambios de Teleport&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nuevo limites&lt;/li&gt;
+  &lt;li&gt;Reduccion en cortas distancias&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;nuevo-interfaz-de-athernet&quot;&gt;Nuevo interfaz de Athernet&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/athernet.jpg&quot; alt=&quot;Cambios de Athernet&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Se puede clickar en el mapa on en la lista&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;evento-del-dragon-quest-x&quot;&gt;Evento del Dragon Quest X&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/live-letter/66/dqx.jpg&quot; alt=&quot;DQX&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Del 19 de Octubre al 11 de Noviembre&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 18 Sep 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/live-letter-66/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/live-letter-66/</guid>
+        
+        <category>gold saucer</category>
+        
+        <category>eventos</category>
+        
+        <category>semanales</category>
+        
+        
+        <category>gold saucer</category>
+        
+      </item>
     
       <item>
         <title>Fashion Report 17 Septiembre 2021</title>
@@ -640,207 +986,6 @@ Y no olvidéis seguir a la Gaceta Eorzea en Twitter, ya que si no os perderéis 
         
         
         <category>gold saucer</category>
-        
-      </item>
-    
-      <item>
-        <title>Relatos del Crepúsculo : La flor que se marchitó en el rojo atardecer</title>
-        <description>&lt;p&gt;&lt;em&gt;La siguiente entrega de Relatos del Crepúsculo ya está disponible para lectura. Adéntrate en la vida de una gran heroína en este relato épico:&lt;/em&gt;
-&lt;br /&gt;&lt;sub&gt;&lt;sup&gt;Traducción desde el relato &lt;a href=&quot;https://jp.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/&quot; target=&quot;_blank&quot;&gt;original&lt;/a&gt; publicado en la lodestone.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;la-flor-que-se-marchitó-en-el-rojo-atardecer&quot;&gt;La flor que se marchitó en el rojo atardecer&lt;/h3&gt;
-
-&lt;p&gt;Su padre había muerto.&lt;/p&gt;
-
-&lt;p&gt;Sólo habían pasado unos días desde el suceso, y Fordola no quería otra cosa que huir lejos, muy lejos. Su madre no había dejado de llorar, y sabía que si ella también se ponía a llorar sólo empeoraría las cosas. Al mismo tiempo, el desprecio por parte de los imperiales y de los Ala Mhigans la carcomía. ¿Qué sentido tenía vivir así?&lt;/p&gt;
-
-&lt;p&gt;Cuando el sol comenzó a descender hacia el horizonte, Fordola se dirigió a las murallas exteriores, deslizándose como una sombra por los callejones que los soldados imperiales no tenían por costumbre patrullar. Se coló por una grieta en la piedra, por la que sólo un niño como ella podría pasar, y llegó a su santuario. Allí podía contemplar los picos más orientales de Abalathia’s Spine y, lo más importante, estar sola. Relajada, entrecerró los ojos ante el resplandor del sol del oeste. A Fordola le gustaba mucho ①el cielo rojo brillante que se puede ver justo antes del anochecer.&lt;/p&gt;
-
-&lt;p&gt;“¿Por qué se vuelve así de rojo el cielo?”, le había preguntado una vez a su padre. Un hombre que no inventaba respuestas a preguntas como ésa, de las que no conocía el porqué y se ponía a pensar sobre ello con su hija. Así era su padre: honesto y amable.&lt;/p&gt;
-
-&lt;p&gt;Una punzada de inquietud devolvió a Fordola al presente. Se giró para ver un par de ojos dorados y brillantes que la miraban con unas fauces anchas como las de una rana. La bulbosa forma azul del ②abaddon se estremecía en espera de su próxima comida. Debía de haber salido de la orilla del agua en busca de una presa. Parpadeó cuando su larga lengua se extendió para probar el aire, rastreando su olor.&lt;/p&gt;
-
-&lt;p&gt;Pero Fordola no sintió miedo.
-Sin embargo, entendió que moriría ahí mismo.&lt;/p&gt;
-
-&lt;p&gt;…. Pero no fue eso lo que sucedió.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¡¡¡¡Ahhhhhhh!!!!”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;El grito de la mujer le llegó primero. A continuación, una ráfaga de aire, el sonido de un golpe y… la criatura desapareció. Un instante después, otro golpe atrajo su mirada a cierta distancia hacia la derecha, donde observó al abaddon, ahora tendido, con las piernas rechonchas agitándose patéticamente en el aire. Sin inmutarse, Fordola se quedó mirando mientras la mujer, que sólo podía suponer que era una especie de artista marcial, volvía corriendo a su lado.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¿Estás bien?¿Te has hecho daño?”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Aún estupefacta por la situación, Fordola consiguió asentir con la cabeza. Pudo escuchar a la mujer decir con alivio un “menos mal” en voz baja mientras extendía la mano hacia donde estaba sentada Fordola (¡¿cuándo se había caído?!). Aunque la mayor parte de su rostro estaba oculto por una máscara, la sonrisa de la mujer brillaba. Casi le recordó a Fordola el cielo rojo brillante que se puede ver justo antes del anochecer.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Soy Yda, encantada de conocerte”.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Fordola, bastante incómoda por la situación, se quedó quieta como una piedra mientras Yda estrechaba su mano con las suyas y la agitaba de arriba abajo como se haría con la de un niño pequeño.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“E-esto….”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¿Cómo te llamas?”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“…Fordola”.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¡Fordola! ¿Has venido sola? ¿Dónde están tus padres?”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Mi madre probablemente está en casa. Mi padre está… está…”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Cuando Fordola se quedó atascada en sus palabras, Yda dijo un simple “entiendo” y no preguntó nada más al respecto.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¡Hey Fordola! ¿Nos vemos mañana aquí de nuevo?”&lt;/em&gt; dijo Yda de repente como si se hubiera olvidado ya del tema de su padre.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¿Qué? ¿Por qué?”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Yda ladeó la cabeza, confundida. &lt;em&gt;“¡Porque somos amigas!”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;“¿Desde cuándo?” se preguntó Fordola. Puede que esta “Yda” le haya salvado la vida, pero eso no las convertía en amigas.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¡No te preocupes! Si aparecen más monstruos, los mandaré de una patada a Doma”&lt;/em&gt;, replicó la mujer. &lt;em&gt;“¿Entonces vendrás?”&lt;/em&gt;, continuó, sin mostrar ninguna intención de soltar la mano de Fordola.&lt;/p&gt;
-
-&lt;p&gt;No sabía qué hacer pero finalmente Fordola asintió.&lt;/p&gt;
-
-&lt;p&gt;Acompañar a Yda a donde quiera que fuera se convirtió en algo habitual para Fordola en los días siguientes. Nunca olvidaría la alegría de cruzar a nado el lago Seld, ni el haber tenido que explicar a su preocupada madre sus ojos enrojecidos por la sal. También aprendió a cazar. Su primera presa, que Yda asó en una hoguera, no tenía el mismo sabor que las comidas que preparaba su madre, pero estaba deliciosa. Y por primera vez desde la muerte de su padre, Fordola descubrió que podía volver a sonreír.&lt;/p&gt;
-
-&lt;p&gt;Además, Yda hablaba a menudo de su hermana menor. Ella también se había enfrentado a la muerte de su padre a una edad temprana, e Yda había estado desesperada por animarla, por llevarla a cualquier sitio que pudiera arrancarle una sonrisa.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Me recuerdas a ella, ¿sabes? Por eso no podía dejarte allí de aquel modo”.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;También mencionó que se quedaba en Gyr Abania temporalmente mientras ella y su compañero hacían su “trabajo”. Sin embargo, Yda no quiso decir qué es lo que pretendían lograr, desechando sus preguntas con una simple sonrisa.&lt;/p&gt;
-
-&lt;p&gt;Pero Fordola tenía una ligera idea. Había oído a Yda hablar varias veces con su compañero a través de linkpearl, siempre sobre “los refugiados”, y aunque no podía adivinar los detalles, era suficiente para saber que eran enemigos del Imperio.&lt;/p&gt;
-
-&lt;p&gt;Pero a pesar de ello, y para su propia sorpresa, Fordola se sentía perfectamente a gusto a su lado.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¿Por qué no vienes conmigo?”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;No hubo ninguna duda en la oferta. Cumplida su misión, Yda abandonaría pronto Ala Mhigo, con Fordola, si así lo deseaba. Podrían vivir juntas en otro lugar, en algún sitio libre.&lt;/p&gt;
-
-&lt;p&gt;Fordola no sabía qué decir. Todo era tan repentino… ¿y qué pasaba con sus amigos y su familia? ¿Podría llevarlos a ellos también?&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Sólo podemos llevar un número determinado de personas. Podemos meter a una o dos con la carga, pero no más que eso”&lt;/em&gt;. Yda se mostró apenada. &lt;em&gt;“Lo siento… Tal vez fue un error por mi parte preguntar”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Fordola recordó entonces el sentimiento de querer huir de allí que la había llevado a conocer a Yda, y le prometió que lo pensaría, así que Yda le dijo dónde y cuándo reunirse para su huida.&lt;/p&gt;
-
-&lt;p&gt;Después de muchas dudas, Fordola decidió compartir su dilema con sus cuatro amigos más cercanos. Se quedaron en silencio mientras ella les contaba todo, y durante un buen rato después. Parecía que ellos tampoco sabían qué decir.&lt;/p&gt;
-
-&lt;p&gt;Fue Emelin quien habló primero.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“…Lo siento. No puedo dejar atrás a mi familia. Pero tampoco quiero separarme de Fordola….”&lt;/em&gt;, consiguió decir con cara de estar a punto de llorar.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Mi abuelo es muy viejo”&lt;/em&gt;, murmuró disculpándose Hrudolf, el muchacho grueso que estaba a su lado. &lt;em&gt;“Creo que yo tampoco podría ir”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Los hombros de Fordola se desplomaron. Fue Charlet, un niño que a menudo la seguía como un hermano menor, quien habló a continuación, con lágrimas en los ojos.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Yo… entiendo los sentimientos de la hermana Fordola. Estabas tan triste por… por lo de tu padre, pero he visto con mis propios ojos lo feliz que has estado estos días, así que… si quieres… si la hermana Fordola quiere ir, ¡te echaré mucho de menos, pero te apoyaré con todas mis fuerzas!”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ante esto, Ansfrid, el hermano mayor de Charlet, soltó un bufido exasperado.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¡No seas idiota! ¿Por qué necesitas la ayuda de un Ala Mhigan? ¡Para eso estamos aquí! No te atrevas a irte, Fordola, ¡nosotros te apoyaremos!”&lt;/em&gt;. Le temblaba el labio mientras la miraba con los puños apretados.&lt;/p&gt;
-
-&lt;p&gt;Y entonces Charlet empezó a llorar. &lt;em&gt;“Yo no….no quiero que te vayas. Quiero que todos estemos juntos para siempre”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¡No nos dejes! ¡Siempre seremos tus amigos si te quedas!”&lt;/em&gt; se lamentó Emelin.&lt;/p&gt;
-
-&lt;p&gt;Aunque hubiera preferido que no fueran tan llorones, Fordola se alegró de oír lo mucho que se preocupaban sus amigos por ella. Entendían lo duro que era no ser ni Ala Mhigan ni Garlean, y no podía abandonarlos ahora, no después de todo lo que habían pasado juntos. Le diría a Yda que no. Se quedaría en Ala Mhigo.&lt;/p&gt;
-
-&lt;p&gt;Una vez tomada la decisión, Fordola se decidió a despedir a Yda con una sonrisa. La echaría mucho de menos, pero seguro que algún día volverían a encontrarse.&lt;/p&gt;
-
-&lt;p&gt;Y así se dirigió a su casa, sin reparar en la figura que la observaba desde las sombras.&lt;/p&gt;
-
-&lt;p&gt;El día señalado llegó.&lt;/p&gt;
-
-&lt;p&gt;Cuando el sol se abrió paso por el cielo, Fordola se dirigió al lugar acordado para esperar, tal y como había hecho en innumerables ocasiones. Sin embargo, la Yda que salió a su encuentro no se comportaba como el alma despreocupada que ella conocía. En todas las demás ocasiones, había saltado alegremente hacia Fordola en el momento en que sus miradas se habían cruzado, pero hoy dudaba, escudriñando su entorno con cautela. Fordola siguió su mirada, pero no notó nada fuera de lo común en las ruinas.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¿Yda?”&lt;/em&gt;, preguntó en voz baja, pero la mujer estaba distraída, apretando su linkpearl contra la oreja.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Esto tampoco tiene buena pinta”&lt;/em&gt;, le dijo a quienquiera que fuera, su compañero habitual supuso Fordola. &lt;em&gt;“Cambio de planes. Ve ahora. No me esperes”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;¿De qué estaba hablando?. Fordola pudo oír entonces un grito que provenía del otro lado del linkpearl.  Alguien no parecía estar muy contento.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¡Lo siento, Papalymo! Cuida de Lyse por mí”&lt;/em&gt; dijo Yda con su habitual alegría, silenciando la conexión. Aliviada, Fordola se acercó, segura de que Yda seguía siendo ella misma después de todo.&lt;/p&gt;
-
-&lt;p&gt;Fue entonces cuando oyó los pasos. Con el corazón acelerado, se giró para ver a dos, tres, y luego a más y más soldados abriéndose paso a su alrededor, al menos diez en total.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Me has engañado eh….”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;La voz de Yda era más fría de lo que nunca había oído, tan fría que Fordola tardó un momento en darse cuenta de con quién estaba hablando.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¿Qué?”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Sabías que me enteraría si me delatabas a los guardias, así que en lugar de eso te aseguraste de que te siguieran… ¡Rata imperial!”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Intentó protestar, pero su voz se apagó en su garganta cuando se dio cuenta de la verdad de la situación. Que Yda estaba actuando… y que los soldados sospechaban de ella.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Pensé que podría ganar algo de dinero con la hija de un rico mercader, pero tenías que estropearlo todo… ¡Será mejor que corras mientras puedas, o te estrangularé aquí mismo!”.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Todo eran mentiras para evitar que los imperiales la acusaran de traición, y Fordola no tuvo más remedio que seguirle la corriente. Se mordió la lengua, sintiéndose furiosa y patética al mismo tiempo.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Corre.”&lt;/em&gt; Gesticuló Yda con los labios de modo que sólo Fordola pudiera verlo al mismo tiempo que uno de los soldados se llevaba a la boca un ③transceptor magitek. Casi en el mismo instante, otro soldado, que había estado acortando lentamente la distancia entre él y Fordola, alargó la mano para agarrarla, pero el pie de Yda golpeó la tierra, impulsándola hacia delante en un abrir y cerrar de ojos, y él se desplomó de una patada en la tripa con un grito. Alarmados, los demás se apresuraron a rodear a Yda, que bailaba de un lado a otro sobre la punta de los pies, con los puños preparados.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¡Sentíos libres de atacar todos a la vez, si estais tan asustados!”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¡Matad a esa salvaje!”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Los soldados blandieron sus espadas con gritos de rabia y Fordola echó a correr. Si se quedaba, le pondría las cosas más difíciles a Yda.&lt;/p&gt;
-
-&lt;p&gt;Huyó entre las ruinas, sorteando los escombros. Pero, por muy ágil que fuera, no podía aspirar a igualar la zancada de un soldado, y se vio rápidamente alcanzada. Fordola se acobardó ante el destello maligno de la espada que se dirigía hacia ella, y perdió el equilibrio, al igual que el imperial, que en ese mismo instante se vio impulsado sin gracia hacia los escombros cercanos gracias a una patada en el costado que le hizo crujir los huesos. Se desplomó en el suelo, inmóvil.&lt;/p&gt;
-
-&lt;p&gt;Yda se volvió y se encontró con los ojos de Fordola. Sin su máscara habitual, Fordola pudo ver las líneas de tinta que formaban el tatuaje tradicional Ala Mhigan en su rostro. Sus ojos, azules pudo ver Fordola por fin, eran muy amables. “Por favor, corre”, quiso decir, pero no pudo encontrar la voz. Su cuerpo seguía temblando en el lugar donde se encontraba, congelada, pero Yda se acercó como si no pasara nada.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Vive, Fordola”&lt;/em&gt;, le dijo, poniéndole una mano tranquilizadora en el pelo. &lt;em&gt;“Sobrevive, y encuentra alguna esperanza a la que aferrarte”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Fordola sólo pudo asentir, apenas capaz de contener los sollozos que amenazaban con salir de su pecho, mientras Yda la agasajaba con una última sonrisa. Luego se marchó, corriendo con fuerza y rapidez en la dirección contraria, haciendo señas a sus enemigos para que la siguieran.&lt;/p&gt;
-
-&lt;p&gt;Con el cielo ardiendo en rojo tras ella, Yda bailó.&lt;/p&gt;
-
-&lt;p&gt;Los imperiales caían uno tras otro ante sus golpes, pero ni siquiera ella podía esquivar cada espada, cada puño, cada bala que se cruzaba en su camino, y pronto el suelo blanco y salado se volvió también carmesí. Desde la distancia, Fordola observó cómo la fuerza de Yda disminuía.&lt;/p&gt;
-
-&lt;p&gt;Cada vez había más soldados que se unían a la lucha. Incluso vio que se acercaba una monstruosidad magitek, cuyo chirrido de metal contra metal se sumaba al clamor que ahora resonaba en las ruinas.&lt;/p&gt;
-
-&lt;p&gt;Con su rapidez, Yda podría haber escapado sola. Sin embargo, allí se quedó, luchando en esa batalla imposible de ganar. Iba a morir, ¿y por qué? ¿por el bien de una niña? ¿por ella?&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“¿Por qué te sacrificas así por alguien como yo….?”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Si pedía ayuda aún podrían llegar a tiempo. ¿Pero a quién? ¿Quién ayudaría a un enemigo del Imperio? Nadie que ella conociera. Maldijo su propia inutilidad.&lt;/p&gt;
-
-&lt;p&gt;Aun así, siguió avanzando. Paso a paso, aunque sus piernas temblaban al darlos, pero repitió para sí misma las últimas palabras de Yda una y otra vez hasta que formaron parte de ella. Sobreviviría.&lt;/p&gt;
-
-&lt;p&gt;Al final, no se enfrentó a ninguna investigación por haber estado presente, gracias al engaño de Yda. Sin embargo, sabía que si su lealtad al imperio volvía a ponerse en duda, su madre, y tal vez incluso sus amigos, también pagarían el precio. Sería el encarcelamiento o la muerte para todos ellos.&lt;/p&gt;
-
-&lt;p&gt;Si estas eran sus opciones, entonces demostraría ser una digna ciudadana del Imperio. Aunque todavía no había encontrado la esperanza de la que hablaba Yda, decidió creer que algún día la encontraría.&lt;/p&gt;
-
-&lt;p&gt;Hasta entonces, cumpliría su promesa y viviría.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/lore/crepusculo/03/fordola.jpg&quot; alt=&quot;Merlwyb&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;El tatuaje resaltaba con fuerza sobre la tez de Fordola, con su tinta fresca bajo la piel. Trazó el patrón del  tatuaje tradicional Ala Mhigan con sus dedos. Ese día, ella y Ansfrid, Emelin y Hrudolf se unirían a la XII Legión Imperial, pero era otro día el que ocupaba sus pensamientos mientras se ponía en marcha, uno ya pasado, pero vívido como el cielo rojo brillante que se puede ver justo antes del anochecer.&lt;/p&gt;
-
-&lt;p&gt;Llevaba aquel recuerdo con ella mientras daba un paso, y luego otro, hacia sus amigos que la esperaban.&lt;/p&gt;
-
-&lt;blockquote&gt;
-Notas de Traducción:&lt;br /&gt;
-&lt;br /&gt;
-①”El cielo rojo brillante que se puede ver justo antes del anochecer” o 茜空 como le llaman en japonés, es una palabra para referirse a ese momento justo antes del anochecer en que el cielo se vuelve totalmente rojo.&lt;br /&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/lore/crepusculo/03/cielo.jpg&quot; alt=&quot;Yugiri&quot; /&gt;&lt;/p&gt;
-② Abaddon: se refiere a los sapos morados que podemos encontrar en lugares como The Lochs:&lt;br /&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/lore/crepusculo/03/abaddon.jpg&quot; alt=&quot;Yugiri&quot; /&gt;&lt;/p&gt;
-③ Transceptor: dispositivo que cuenta con un transmisor y un receptor que comparten parte de los circuitos o se encuentran dentro de la misma caja. ​ Cuando el transmisor y el receptor no tienen en común partes del circuito electrónico se conoce como transmisor-receptor.
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Fri, 10 Sep 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/crepusculo-3/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/crepusculo-3/</guid>
-        
-        <category>lore</category>
-        
-        <category>relatos</category>
-        
-        
-        <category>lore</category>
         
       </item>
     
