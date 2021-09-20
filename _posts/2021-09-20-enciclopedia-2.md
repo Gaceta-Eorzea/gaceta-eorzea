@@ -50,4 +50,4 @@ Sin estos faros, un ser etéreo se limitaría a vagar por la Corriente Vital dur
   </div>
 </div>
 
-<i>Traducción de la página 10 de la Enciclopedia de Eorzea por Lia Tales para Gaceta Eorzea.</i>
+<sub><sup>*Traducción de la página 10 de la Enciclopedia de Eorzea por Lia Tales para Gaceta Eorzea.*</sup>
