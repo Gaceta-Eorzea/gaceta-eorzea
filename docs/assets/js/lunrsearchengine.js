@@ -158,7 +158,7 @@ var documents = [{
     "id": 31,
     "url": "https://gaceta-eorzea.com/juglar-11/",
     "title": "El Juglar Errante - /emote",
-    "body": "2021/09/25 - En nuestras aventuras en Eorzea conocemos al Juglar Errante, el cual se encarga de relatar y cantar las historias mas importantes que pasan en nuestras aventuras por todo el reino. En gaceta Eorzea hemos decidido tener nuestro propio Juglar el cual compartirá con nosotros las historias que nuestros aventureros han compartido. Esta semana el Juglar Errante nos trae el video /emote que es un precioso video de una lalafell que solo puede expresarse por emote. Esta creacion ha sido ralizada por zaneko, que tambien tiene un maravilloso canal de YouTube con mas video como este.   "
+    "body": "2021/09/25 - En nuestras aventuras en Eorzea conocemos al Juglar Errante, el cual se encarga de relatar y cantar las historias mas importantes que pasan en nuestras aventuras por todo el reino. En gaceta Eorzea hemos decidido tener nuestro propio Juglar el cual compartirá con nosotros las historias que nuestros aventureros han compartido. Esta semana el Juglar Errante nos trae el video /emote que es un precioso video de una lalafell que solo puede expresarse por emote. Esta creacion ha sido ralizada por zaneko, que tambien tiene un maravilloso canal de YouTube con mas videos como este.   "
     }, {
     "id": 32,
     "url": "https://gaceta-eorzea.com/fashion210924/",
