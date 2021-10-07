@@ -5,9 +5,65 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Oct 2021 10:00:08 +0100</pubDate>
-    <lastBuildDate>Tue, 05 Oct 2021 10:00:08 +0100</lastBuildDate>
+    <pubDate>Thu, 07 Oct 2021 08:24:16 +0100</pubDate>
+    <lastBuildDate>Thu, 07 Oct 2021 08:24:16 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Hydaelyn y Zodiak: alrededor de Eorzea. Parte 4</title>
+        <description>&lt;p&gt;En la próxima expansión &lt;strong&gt;Endwalker&lt;/strong&gt; veremos el desenlace del arco argumental de &lt;strong&gt;Hydaelyn&lt;/strong&gt; y &lt;strong&gt;Zodiak&lt;/strong&gt; y como homenaje hemos decidido hacer una visita a distintos puntos de &lt;strong&gt;Eorzea&lt;/strong&gt; y mostrar como se ven ante la &lt;em&gt;Luz&lt;/em&gt; y la &lt;em&gt;Oscuridad&lt;/em&gt;. En esta tercera entrega vamos a visitar algunas de las zonas de &lt;strong&gt;Stormblood&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Si queréis podéis ver la &lt;strong&gt;entregas anterior&lt;/strong&gt; de &lt;a href=&quot;/hydaelyn-zodiak-3/&quot; target=&quot;_blank&quot;&gt;Heavensward&lt;/a&gt;, &lt;a href=&quot;/hydaelyn-zodiak-2/&quot; target=&quot;_blank&quot;&gt;A Realm Reborn&lt;/a&gt;. y &lt;a href=&quot;/hydaelyn-zodiak-1/&quot; target=&quot;_blank&quot;&gt;Asentamientos&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Podéis cambiar entre las imágenes arrastrando el marcador que tienen en el centro.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;azim-steppe&quot;&gt;Azim Steppe&lt;/h3&gt;
+
+&lt;img-comparison-slider&gt;
+  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-4/azim_steppe/azim_d.jpg&quot; /&gt;
+  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-4/azim_steppe/azim_n.jpg&quot; /&gt;
+&lt;/img-comparison-slider&gt;
+
+&lt;h3 id=&quot;ruby-sea&quot;&gt;Ruby Sea&lt;/h3&gt;
+
+&lt;img-comparison-slider&gt;
+  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-4/ruby_sea/ruby_d.jpg&quot; /&gt;
+  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-4/ruby_sea/ruby_n.jpg&quot; /&gt;
+&lt;/img-comparison-slider&gt;
+
+&lt;h3 id=&quot;the-fringes&quot;&gt;The Fringes&lt;/h3&gt;
+
+&lt;img-comparison-slider&gt;
+  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-4/the_fringes/fringes_d.jpg&quot; /&gt;
+  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-4/the_fringes/fringes_n.jpg&quot; /&gt;
+&lt;/img-comparison-slider&gt;
+
+&lt;h3 id=&quot;the-lochs&quot;&gt;The Lochs&lt;/h3&gt;
+
+&lt;img-comparison-slider&gt;
+  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-4/the_lochs/the_lochs_d.jpg&quot; /&gt;
+  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-4/the_lochs/the_lochs_n.jpg&quot; /&gt;
+&lt;/img-comparison-slider&gt;
+
+&lt;h3 id=&quot;yanxia&quot;&gt;Yanxia&lt;/h3&gt;
+
+&lt;img-comparison-slider&gt;
+  &lt;img slot=&quot;before&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-4/yanxia/yanxia_d.jpg&quot; /&gt;
+  &lt;img slot=&quot;after&quot; src=&quot;/assets/images/articles/multimedia/hydaelyn-zodiak-4/yanxia/yanxia_n.jpg&quot; /&gt;
+&lt;/img-comparison-slider&gt;
+</description>
+        <pubDate>Thu, 07 Oct 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/hydaelyn-zodiak-4/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/hydaelyn-zodiak-4/</guid>
+        
+        <category>imágenes</category>
+        
+        <category>multimedia</category>
+        
+        
+        <category>multimedia</category>
+        
+      </item>
     
       <item>
         <title>¡Lia nos la lía! 10 preguntas a TamAik</title>
@@ -601,44 +657,6 @@ Así que acompañadme en esta épica línea de misiones donde aprenderemos un mo
         
         
         <category>multimedia</category>
-        
-      </item>
-    
-      <item>
-        <title>Fashion Report 24 Septiembre 2021</title>
-        <description>&lt;p&gt;Una semana mas &lt;a href=&quot;https://twitter.com/kaiyokostar&quot; target=&quot;_blank&quot;&gt;Kaiyoko Star&lt;/a&gt; ha publicado la solución para el Fashion Report, la cual podéis ver a continuación.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210924/freport_191.jpg&quot; alt=&quot;Fashion Report 191&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Fashion Report 189&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Para hacer los 80 puntos de manera fácil y ganar los 60,000 MGP:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;En &lt;strong&gt;pecho&lt;/strong&gt; &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/32bb5715612&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Best Man’s Jacket &lt;/a&gt; que podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/c5b5eeabe54/?item=6dfef851268&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Rianne&lt;/a&gt; en &lt;strong&gt;Ul’dah - Steps of Nald (X:9.8 Y:9.0)&lt;/strong&gt; por 18000 gil.&lt;/li&gt;
-  &lt;li&gt;En &lt;strong&gt;casco cualquier pieza teñida&lt;/strong&gt; con un tinte gris, por ejemplo &lt;a href=&quot;https://na.finalfantasyxiv.com/lodestone/playguide/db/item/c5917eabdaa/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Ash Grey Dye&lt;/a&gt;,  el cual podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/a28cf0441f4/?item=70849afadc9&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Alaric&lt;/a&gt; en &lt;strong&gt;Old Gridania (X:14.3 Y:8.8)&lt;/strong&gt; por 40 gil.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Sino tenéis desbloqueados el fashion report lo podéis hacer mediante la quest &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/bd8144d7d23&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Passion for Fashion&lt;/a&gt; la cual os la da &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/bfd5ce76f91/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Lewena&lt;/a&gt; en The Gold Saucer (X: 4.8 Y: 6.1).&lt;/p&gt;
-
-&lt;p&gt;Por ultimo recordar que esta activo hasta el &lt;strong&gt;18 de Octubre&lt;/strong&gt; el &lt;a href=&quot;/evento-ffxv/&quot;&gt;evento del Final Fantasy XV&lt;/a&gt; con el que podéis conseguir el coche Regalia Type-G, el cual es para 4 jugadores, y os costara 200,000 MGP por lo cual hacer el fashion report es una manera fácil de conseguirlo.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion210521/ffxivregalia.jpg&quot; alt=&quot;Regalia Type-G&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Regalia Type-G&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 24 Sep 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/fashion210924/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/fashion210924/</guid>
-        
-        <category>gold saucer</category>
-        
-        <category>eventos</category>
-        
-        <category>semanales</category>
-        
-        
-        <category>gold saucer</category>
         
       </item>
     
