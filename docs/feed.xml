@@ -5,9 +5,38 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Oct 2021 14:49:26 +0100</pubDate>
-    <lastBuildDate>Fri, 08 Oct 2021 14:49:26 +0100</lastBuildDate>
+    <pubDate>Sun, 10 Oct 2021 10:40:53 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Oct 2021 10:40:53 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Historia Completa de FFXIV – Parte 4: Traición</title>
+        <description>&lt;p&gt;Nos encontramos en la Séptima era umbral, una época que según los ciclos de calamidades de Hydaelyn debería ser una gran época de prosperidad y crecimiento.
+Si…  claro que si.&lt;/p&gt;
+
+&lt;p&gt;En el vídeo conoceremos toda la historia de los parches 2.1 a 2.5 y como se va desenvolviendo toda la trama que nos llevará hacia la primera expansión de FFXIV: Heavensward.
+La amenaza de los Primal, los Ascianos y demás tramas políticas son los protagonistas en este vídeo que os hará revivir lo que sentimos en su día al jugar en estos parches.
+¡No os lo podéis perder!
+Y no olvidéis seguir a la Gaceta Eorzea en Twitter, ya que si no os perderéis éste y muchísimos otros artículos muy pero que muy interesantes.&lt;/p&gt;
+
+&lt;p&gt;¡Guerreros de la luz, nos vemos en Eorzea!&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/mnoBvBVyJZI?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 10 Oct 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/historia-4/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/historia-4/</guid>
+        
+        <category>lore</category>
+        
+        <category>historia FFXIV</category>
+        
+        
+        <category>lore</category>
+        
+      </item>
     
       <item>
         <title>Fashion Report 8 Octubre 2021</title>
@@ -699,75 +728,6 @@ Y no olvidéis seguir a la Gaceta Eorzea en Twitter, ya que si no os perderéis 
         
         
         <category>entrevistas</category>
-        
-      </item>
-    
-      <item>
-        <title>Enciclopedia Eorzea: Eterología Básica III</title>
-        <description>&lt;p&gt;&lt;em&gt;Os traemos página a página la Enciclopedia de Eorzea traducida al Español.
-Con cientos de páginas que detallan todo, desde la historia y las culturas de Eorzea hasta su geografía y sus habitantes, este tomo elaborado por expertos es un verdadero tesoro de información inestimable.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;La Enciclopedia de Eorzea ofrece una visión en profundidad de las ciudades-estado, las organizaciones y los personajes más importantes del reino, así como de sus diversas profesiones y sus principales practicantes. Los lectores también conocerán a los hombres bestia de Eorzea, sus culturas, costumbres y deidades, y obtendrán datos detallados sobre las innumerables criaturas del reino, desde las más tímidas hasta las más terroríficas&lt;/em&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;eterología-básica-iii&quot;&gt;Eterología Básica III&lt;/h3&gt;
-
-&lt;h4 id=&quot;hydaelyn&quot;&gt;HYDAELYN&lt;/h4&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row align-items-end&quot;&gt;            
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/lore/enciclopedia/03/madre_cristal.png&quot; alt=&quot;Aetherythe&quot; /&gt;      
-    &lt;/div&gt;    
-    &lt;div class=&quot;col&quot;&gt;
-      Algunos estudiosos del campo de la eterología creen además que en algún lugar de las profundidades de la tierra dormita una concentración masiva de energía vital etérea. Estos eterólogos se refieren a este fenómeno como el &quot;Cristal Madre&quot;. Algunos llevan esta hipótesis un paso más allá, afirmando que la existencia de un Cristal Madre demuestra que el propio planeta está vivo y representa hasta ahora una entidad biológica no clasificada.
-    &lt;/div&gt;    
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Para apoyar esta teoría, señalan los oráculos y héroes de la historia antigua que afirman tener visiones inexplicables del futuro o una fuerza antinatural para superar probabilidades imposibles. Los estudiosos creen que es a través de estas visiones que el planeta transmite mensajes a aquellos a los que suplica que la ayuden, con los temas recurrentes de la “voluntad de Hydaelyn” o la “voluntad de la Luz” que aparecen en los mitos y el folclore de civilizaciones aparentemente no relacionadas como prueba de esta creencia.&lt;/p&gt;
-
-&lt;h4 id=&quot;el-mar-etéreo&quot;&gt;EL MAR ETÉREO&lt;/h4&gt;
-&lt;p&gt;Uno de los puntos centrales de la academia sharlayana ha sido siempre entender y predecir el destino de Hydaelyn. Un hecho intrigante que sus estudiosos han descubierto es que cuanto más se adentra uno en el núcleo del planeta, más borrosa es la frontera entre el reino corpóreo y el etéreo, lo que lleva a los eterólogos a creer que si uno es capaz de viajar lo suficientemente profundo, puede ser capaz de presenciar y examinar el reino etéreo mientras mantiene su forma corpórea. Los sarlayanos intentaron poner a prueba esta hipótesis con la construcción de la Anti-Torre cerca de la ciudad-estado de Sharlayan, en el interior de Dravania. Construida en las profundidades de la superficie de Hydaelyn, la torre concentró el éter en poderosos hechizos que abrieron una ventana al reino etéreo, dando a la humanidad su primera visión del Pléroma y más allá. El contacto directo con el Cristal Madre era el siguiente paso en la investigación de Sharlayan antes de que los eruditos se vieran obligados a huir de Eorzea tras la invasión del reino por parte del Imperio Garleano.&lt;/p&gt;
-
-&lt;h4 id=&quot;primigenios&quot;&gt;PRIMIGENIOS&lt;/h4&gt;
-&lt;p&gt;Los arcanistas han ideado métodos para aprovechar su propia energía etérea y crear familiares semi-vivos, pero totalmente leales. Sin embargo, éste no es el único método disponible para sacar un ser animado del éter. Un segundo método consiste en combinar la energía etérea corpórea (normalmente acumulada en forma de cristal) con la energía etérea espiritual (normalmente representada en forma de fe, oración o fuerza de voluntad) en una elaborada ceremonia de invocación, que en los últimos años se ha hecho cada vez más común entre las tribus bestias de Eorzea. Utilizando este método, se puede hacer que se manifiesten poderosos seres divinos conocidos como primigenios, lo que les permite imponer su voluntad en la tierra. El nombre de primigenio deriva de la creencia de las tribus bestia, de que estas criaturas son las deidades de las que proceden sus pueblos. Además de primigenio, estos seres también han sido conocidos históricamente como “eikons”, tanto por el Imperio Allagano como por el Garleano, que se mantuvieron firmes en su rechazo al estatus divino de las criaturas.&lt;br /&gt;
-&lt;br /&gt;
-Una vez que un primigenio adquiere una forma corpórea, la criatura suele ofrecer, un tipo de bendición, protección o poder a aquellos que lo invocan. Una vez completada la manifestación corpórea, un primigenio también puede proyectar su propio éter sobre otros seres de mente débil, corrompiendo sus corazones y mentes, creando efectivamente seguidores obedientes. Este “temple” puede ser la mejor arma de un primigenio, lo que significa que incluso una victoria contra una de estas criaturas no se obtendrá sin un gran sacrificio. E incluso estas victorias son efímeras, ya que una vez que se reúnen suficientes cristales y se realiza otra ceremonia, el semidiós puede volver a ser convocado como si nunca hubiera sido derrotado..&lt;br /&gt;
-&lt;br /&gt;
-Por último, además del caos que provocan estos seres, el propio acto de invocación puede tener efectos adversos en la tierra. El éter necesario para invocar y mantener la forma corpórea de la criatura extraerá, sin duda, una gran cantidad de energía vital del entorno, convirtiendo zonas antes exuberantes en páramos y alterando el propio equilibrio del mundo.&lt;/p&gt;
-
-&lt;h4 id=&quot;templanza&quot;&gt;TEMPLANZA&lt;/h4&gt;
-&lt;p&gt;Los templados por un primigenio acaban perdiendo casi la totalidad de su voluntad, dejando sólo caparazones que se pliegan a los caprichos de la bestia que los ahuecó. Los hombres en este estado entregarán sus propias vidas con la misma facilidad con la que darían sus nombres si ése es el deseo de su nuevo amo. Estos seguidores descerebrados no sólo constituyen un formidable ejército, sino que también proporcionan la fe necesaria para volver a convocar al primigenio, en caso de que el ser pierda alguna vez su forma corpórea. Se han hecho innumerables intentos, tanto mágicos como científicos, para devolver a una mente templada su estado original; sin embargo, todos han acabado en fracaso, siendo la única cura conocida para esta forma de lavado de cerebro etéreo la muerte.&lt;br /&gt;
-Mientras que una sola exposición al éter de un primigenio puede destrozar la mente de la víctima, una exposición múltiple puede llevar a una eventual degradación y transformación de su cuerpo. Se ha informado de que los seguidores de Leviatán “ahogados” muestran características físicas más asociadas a los wavekin, mientras que a los sílfides “tocados” por Ramuh les crece una extensa barba*.&lt;br /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;&lt;i&gt;*La prueba de esta última afirmación es, por el momento, muy escasa.&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row align-items-end&quot;&gt;        
-    &lt;div class=&quot;col&quot;&gt;
-      &lt;p align=&quot;right&quot;&gt;      
-      &lt;sub&gt;&lt;sup&gt;En los años anteriores y posteriores a la Calamidad, las tribus bestia de Eorzea invocaron repetidamente a un gran número de primigenios en su desesperación por proteger a sus pueblos del Imperio Garleano. Algunos creen que esto, junto con el resurgimiento general de la actividad de las tribus de bestias, es la razón por la que el reino sigue en un estado de caos.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/lore/enciclopedia/03/primals.png&quot; alt=&quot;Aetherythe&quot; /&gt;      
-    &lt;/div&gt;    
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;em&gt;Traducción de la página 11 de la Enciclopedia de Eorzea por Lia Tales para Gaceta Eorzea.&lt;/em&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 27 Sep 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/enciclopedia-3/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/enciclopedia-3/</guid>
-        
-        <category>lore</category>
-        
-        <category>enciclopedia</category>
-        
-        
-        <category>lore</category>
         
       </item>
     
