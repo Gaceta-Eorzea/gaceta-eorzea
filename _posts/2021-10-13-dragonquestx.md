@@ -14,12 +14,12 @@ De nuevo tendremos disponible el evento de **colaboración con Dragon Quest X** 
 
 Este evento lo podremos realizar **desde** el **martes 19 de octubre** a las 10:00 hasta el **Jueves 11 de Noviembre** a las 16:59.
 
-Para empezar el evento deberemos aceptar la quest [Breaking Brick Mountains](https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/1c8111715df/){:target="_blank" class="eorzeadb_link"}, la cual nos la dará **Havak Alvak en Ul'dah - Steps of Nald (X:12.1 Y:8.2)**.
+Para empezar el evento deberemos aceptar la **misión de nivel 7** [Breaking Brick Mountains](https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/1c8111715df/){:target="_blank" class="eorzeadb_link"}, la cual nos la dará **Havak Alvak en Ul'dah - Steps of Nald (X:12.1 Y:8.2)**.
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/dragonquestx/havak.jpg" alt="Havak Alvak"/></p>
 
 <blockquote>
-Si ya has completado este evento anteriormente puedes volver a realizarlo usando la opción de repetir evento estacional, <i>Replay Seasonal Event en Ingles</i>, cuando hables con el NPC de las misiones.
+Si ya has completado este evento anteriormente puedes volver a realizarlo usando la opción de repetir evento estacional, <i>Replay Seasonal Event en Inglés</i>, cuando hables con el NPC de las misiones.
 </blockquote> 
 
 Tras **completar las misiones** de evento obtendremos dos **recompensas**:
