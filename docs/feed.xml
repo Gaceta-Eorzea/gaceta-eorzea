@@ -5,9 +5,33 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Oct 2021 11:03:25 +0100</pubDate>
-    <lastBuildDate>Wed, 13 Oct 2021 11:03:25 +0100</lastBuildDate>
+    <pubDate>Wed, 13 Oct 2021 21:28:26 +0100</pubDate>
+    <lastBuildDate>Wed, 13 Oct 2021 21:28:26 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Resumen Media Tour</title>
+        <description>&lt;p&gt;Durante el Media Tour varios creadores de contenido han tenido la posibilidad de traer información y material visual de varios aspectos de &lt;strong&gt;Endwalker&lt;/strong&gt;.
+Entre el material que ahora podemos ver están las localizaciones de &lt;strong&gt;Thavnair, Garlemald y Old Sharlayan&lt;/strong&gt;; de las cuales es espectacular la ambientación de &lt;strong&gt;Garlemald&lt;/strong&gt;, es algo sobrecogedor especialmente en la zona de las ruinas.&lt;/p&gt;
+
+&lt;p&gt;También se ha podido recopilar toda la información de los &lt;strong&gt;tooltips y traits de todos los Jobs&lt;/strong&gt;, los cuales iremos trayendo en próximos artículos. Así como algunas &lt;strong&gt;novedades acerca de mejoras de calidad de vida&lt;/strong&gt;, como la actualización de la &lt;strong&gt;ventana de logros&lt;/strong&gt;, la actualización del sistema de &lt;strong&gt;teleports dentro de la ciudad&lt;/strong&gt; que ahora es infinitamente más cómodo, cómo queda la interfaz tras la &lt;strong&gt;desaparición de los cinturones&lt;/strong&gt;, etc.&lt;/p&gt;
+
+&lt;p&gt;Los periodistas españoles aprovecharon para preguntar acerca de la &lt;strong&gt;traducción al Español&lt;/strong&gt;. Esta vez no han dado un no rotundo como pasó en anteriores ocasiones y han dado la indicación de que con el crecimiento del juego ahora están en la posición de iniciar los procesos para poder llegar a ofrecer una traducción oficial al español en algún momento. Pero no olvidemos que esto no es una confirmación de ello ni un anuncio oficial, así que por el momento será necesario seguir esperando.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/Sfip-VcjIm0?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 13 Oct 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/resumen-media-tour/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/resumen-media-tour/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+      </item>
     
       <item>
         <title>Evento Dragon Quest X</title>
@@ -775,36 +799,6 @@ Con cientos de páginas que detallan todo, desde la historia y las culturas de E
         <category>lore</category>
         
         <category>enciclopedia</category>
-        
-        
-        <category>lore</category>
-        
-      </item>
-    
-      <item>
-        <title>Lore de las Clases de FFXIV: Los Caballeros Oscuros</title>
-        <description>&lt;p&gt;A menudo tratados como escoria en la sociedad Ishgardiana, los sombríos justicieros conocidos como Caballeros Oscuros, usaran su fuerte sentido de la justicia para proteger a aquellos más débiles.
-En el vídeo de hoy aprenderemos sobre el origen y los poderes de esta clase tan popular y porqué las emociones son tan poderosas para ellos.&lt;/p&gt;
-
-&lt;p&gt;Podréis ver como el tono general del vídeo es ciertamente más oscuro de lo que estáis acostumbrados a ver en el canal, pero consideraba que era totalmente necesario dado el contexto de la clase.
-¡Espero vuestra opinión!&lt;/p&gt;
-
-&lt;p&gt;Si queréis aprender más sobre los Caballeros Oscuros, pasaos por el canal de Youtube y decidme que os ha parecido el vídeo. 
-Y no olvidéis seguir a la Gaceta Eorzea en Twitter, ya que si no os perderéis éste y muchísimos otros artículos muy pero que muy interesantes.&lt;/p&gt;
-
-&lt;p&gt;¡Guerreros de la luz, nos vemos en Eorzea!&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/ditwHVVXIJA?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 03 Oct 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/drk/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/drk/</guid>
-        
-        <category>lore</category>
-        
-        <category>clases</category>
         
         
         <category>lore</category>
