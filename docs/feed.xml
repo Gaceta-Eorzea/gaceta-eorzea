@@ -5,9 +5,36 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Oct 2021 21:44:10 +0100</pubDate>
-    <lastBuildDate>Wed, 13 Oct 2021 21:44:10 +0100</lastBuildDate>
+    <pubDate>Thu, 14 Oct 2021 19:26:00 +0100</pubDate>
+    <lastBuildDate>Thu, 14 Oct 2021 19:26:00 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Red Mage Media Tour</title>
+        <description>&lt;p&gt;El Red Mage para la próxima expansión de Final Fantasy XIV, Endwalker sufre algunos cambios que varían ligeramente su gameplay, especialmente en cuanto a la gestión del mana negro y maná blanco. Esto se traduce en un ligero incremento de la frecuencia con la que podremos realizar el combo de melé, ya que a partir de ahora con sólo 50/50 podremos hacer el combo de melé y con 60/60 el combo de área.&lt;/p&gt;
+
+&lt;p&gt;Hay que entender que al hacerse este cambio, han bajado la cantidad de maná que aporta cada una de las habilidades del mago rojo. Por otra parte, &lt;strong&gt;manafication&lt;/strong&gt; ya no nos dará el doble de maná; si no que nos dará 50 de maná blanco y 50 de maná negro, garantizando siempre que cuando lo uses tendrás maná suficiente para poder realizar el combo de melé en un sólo objetivo.&lt;/p&gt;
+
+&lt;p&gt;Otra novedad muy interesante es el cambio acerca del ataque en área de la espada y es que ahora el Red Mage tendrá un nuevo Trait llamado Mana Stack, cada vez que se realice uno de los ataques a melé en un sólo objetivo o el de área, recibirás un mana stack, haciendo que cuando tengas los tres tengas directamente acceso a los finalizadores de combo &lt;strong&gt;Verholy/Verflare&lt;/strong&gt;. Además de que ahora todos los finalizadores son ataques en área. Es decir que Verholy/Verflare, Scorch y Resolution son ataques en área. &lt;strong&gt;Resolution&lt;/strong&gt; es un ataque adicional que tendremos tras utilizar Scorch.&lt;/p&gt;
+
+&lt;p&gt;Otros cambios muy interesantes son en las Utilities, el Embolden ahora bufará tanto daño mágico y daño físico al resto del grupo, además de que &lt;strong&gt;Acceleration&lt;/strong&gt; ahora tendrá 2 cargas acumulables por lo que tendrás más libertad para jugar con los procs del Red Mage. Otra nueva utility es &lt;strong&gt;Magic Barrier&lt;/strong&gt; que aporta una reducción de daño mágico al grupo de un 10%, así como aumentar las curas recibidas por el grupo en un 5%.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/VMMIYN1Ga5g?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 14 Oct 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/media-tour-red-mage/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-red-mage/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Resumen Media Tour</title>
@@ -30,6 +57,8 @@ Entre el material que ahora podemos ver están las localizaciones de &lt;strong&
         
         <category>endwalker</category>
         
+        
+        <category>noticias</category>
         
       </item>
     
@@ -752,56 +781,6 @@ Su Alteza, necesito que os dirijáis al osario de Arrzaneth y que recéis ante l
         
         
         <category>entrevistas</category>
-        
-      </item>
-    
-      <item>
-        <title>Enciclopedia Eorzea: Geografía I</title>
-        <description>&lt;p&gt;&lt;em&gt;Os traemos página a página la Enciclopedia de Eorzea traducida al Español.&lt;br /&gt;
-Con cientos de páginas que detallan todo, desde la historia y las culturas de Eorzea hasta su geografía y sus habitantes, este tomo elaborado por expertos es un verdadero tesoro de información inestimable.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;La Enciclopedia de Eorzea ofrece una visión en profundidad de las ciudades-estado, las organizaciones y los personajes más importantes del reino, así como de sus diversas profesiones y sus principales practicantes. Los lectores también conocerán a los hombres bestia de Eorzea, sus culturas, costumbres y deidades, y obtendrán datos detallados sobre las innumerables criaturas del reino, desde las más tímidas hasta las más terroríficas.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;geografía-i&quot;&gt;GEOGRAFÍA I&lt;/h3&gt;
-
-&lt;p&gt;Existen tres masas de tierra principales en Hydaelyn, siendo la mayor la que contiene los tres grandes continentes, Aldenard, Ilsabard y Othard. La siguiente sección trata sobre la ubicación, la geografía y el clima de estas zonas.&lt;/p&gt;
-
-&lt;h4 id=&quot;los-tres-grandes-continentes&quot;&gt;LOS TRES GRANDES CONTINENTES&lt;/h4&gt;
-
-&lt;p&gt;Situados en el hemisferio norte de Hydaelyn y extendiéndose desde la región polar, casi hasta el ecuador, los Tres Grandes Continentes consisten en Aldenard en el oeste, Ilsabard en el norte y el centro, y Othard en el este. La distancia es tan grande, que incluso los barcos mercantes más rápidos, llevados por vientos favorables, necesitan al menos quince días para hacer el viaje desde la Vieja Sharlayan hasta Vylbrand, y otras dos lunas para viajar desde allí hasta Doma. Los folclores regionales dicen que Aldenard, Othard e Ilsabard fueron una vez hermanos cuyos corazones estaban tan llenos de amor el uno por el otro que permanecieron inseparables durante incontables eones. Un día, sin embargo, los hermanos Othard e Ilsabard empezaron a tener celos de Aldenard porque, a pesar de ser el más joven, fue bendecido con las tierras más ricas. En un violento arrebato de ira, ambos se apartaron de su hermano más joven hasta llegar al punto en el que se encuentran hoy, con la mano extendida de Aldenard aferrándose a la cola del abrigo de Ilsabard en un último esfuerzo por traerlo de vuelta.&lt;/p&gt;
-
-&lt;h4 id=&quot;aldenard&quot;&gt;ALDENARD&lt;/h4&gt;
-
-&lt;p&gt;El más occidental de los Tres Grandes Continentes, Aldenard se agrupa comúnmente con Vylbrand, los Cieldalaes, y otras innumerables islas pequeñas para formar el reino conocido como Eorzea. En comparación con otras regiones de Hydaelyn, se cree que Eorzea alberga una concentración mucho mayor de éter ambiental, lo que la hace muy adecuada para mantener un sistema ecológico próspero. Atraída por la tierra fértil y la abundante fauna, la humanidad ha estado presente en Eorzea durante mucho tiempo, y es de aquí donde han surgido muchas de las mayores civilizaciones de la historia. Sin embargo, esta abundancia también ha dado lugar a conflictos, y las guerras por el control del reino han visto caer a muchas de esas mismas civilizaciones.&lt;/p&gt;
-
-&lt;p&gt;Actualmente, Eorzea está gobernada por cuatro ciudades-estado independientes: Gridania, que gobierna los bosques interiores del Sudario Negro; el sultanato de Ul’dah, que gobierna los desiertos del sur de Thanaland; la Santa Sede de Ishgard, que gobierna las tierras altas del norte de Coerthas; y Limsa Lominsa, que gobierna La Noscea en la isla suroccidental de Vylbrand, así como sus mares vecinos. Hace poco más de dos décadas, había un par de ciudades-estado adicionales que compartían Eorzea con las cuatro mencionadas: Sharlayan y Ala Mhigo. La primera, sin embargo, fue abandonada por sus habitantes por miedo cuando el Imperio Garleano invadió Aldenard desde el norte y ocupó Ala Mhigo.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/lore/enciclopedia/04/aldenard.jpg&quot; alt=&quot;Aldenard&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ilsabard&quot;&gt;ILSABARD&lt;/h4&gt;
-
-&lt;p&gt;Situado entre Aldenard y Othard, el continente de Ilsabard se caracteriza por sus temperaturas extremas y su clima imprevisible. Los territorios del norte situados más allá de la cordillera central que divide Ilsabard suelen considerarse como algunos de los entornos más duros de Hydaelyn, con varias comunidades costeras obligadas a soportar implacables tormentas en verano y mares helados en invierno. Esto ha impedido en última instancia el avance de la civilización, obligando a la gente a agotar sus recursos para simplemente sobrevivir.&lt;/p&gt;
-
-&lt;p&gt;Sin embargo, hace cincuenta años, la civilización de Ilsabard dio un salto significativo cuando, a través de la ciencia y el ingenio, la pequeña nación norteña de Garlemald inició un levantamiento que acabaría cambiando toda la faz de los Tres Grandes Continentes: la Revolución Magitek. Tras derrocar rápidamente a varias naciones cercanas, los garleanos, ahora convertidos en un imperio,pusieron sus miras en climas más cálidos y condujeron a sus ejércitos a través de las montañas y hacia el sur de Ilsabard, una zona conocida por los eorzeanos como el Cercano Oriente, y procedieron a conquistar todo lo que encontraban a su paso hasta anexionar y absorber casi la totalidad del continente.&lt;/p&gt;
-
-&lt;h4 id=&quot;othard&quot;&gt;OTHARD&lt;/h4&gt;
-
-&lt;p&gt;A pesar de estar conectados geográficamente, durante miles de años ha habido poca interacción entre Ilsabard y Othard, la razón principal es una combinación de cordilleras casi inaccesibles y páramos mortales que restringen gravemente todas las rutas terrestres. Aunque las ciudades costeras han experimentado un contacto limitado con el exterior a través del comercio, el aislamiento general de Othard ha permitido que las culturas locales evolucionen sin apenas influencia del oeste. Sólo en las dos últimas décadas las cosas han empezado a cambiar, ya que la llegada de la tecnología de los barcos voladores ha abierto las puertas del Lejano Oriente, antes cerradas. Sin embargo, esta nueva exposición también sirvió para alertar a los garleanos, ávidos de poder, de la existencia de un nuevo territorio propicio para el saqueo, y no pasó mucho tiempo antes de que el Imperio pusiera sus ojos en Doma y Dalmasca, dos naciones que desde entonces han estado bajo el estandarte imperial.&lt;/p&gt;
-
-&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;em&gt;Traducción de la página 12 de la Enciclopedia de Eorzea por Lia Tales para Gaceta Eorzea.&lt;/em&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/enciclopedia-4/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/enciclopedia-4/</guid>
-        
-        <category>lore</category>
-        
-        <category>enciclopedia</category>
-        
-        
-        <category>lore</category>
         
       </item>
     

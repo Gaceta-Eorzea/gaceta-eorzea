@@ -2,7 +2,7 @@
 layout: post
 title: "Resumen Media Tour"
 author: elmira
-categories: [  ]
+categories: [ noticias ]
 tags: [noticias, endwalker]
 image: assets/images/articles/noticias/resumen-media-tour/resumenmediatour.jpg
 description: "Resumen del Media Tour de Endwalker"
