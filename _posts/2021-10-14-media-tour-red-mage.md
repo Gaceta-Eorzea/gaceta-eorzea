@@ -2,12 +2,12 @@
 layout: post
 title: "Red Mage Media Tour"
 author: elmira
-categories: [  ]
+categories: [ noticias ]
 tags: [noticias, endwalker]
 image: assets/images/articles/noticias/media-tour-red-mage/mediatourredmage.jpg
 description: "Resumen de los cambios del Red Mage segun la información del Media Tour"
 featured: false
-hidden: true
+hidden: false
 ---
 
 El Red Mage para la próxima expansión de Final Fantasy XIV, Endwalker sufre algunos cambios que varían ligeramente su gameplay, especialmente en cuanto a la gestión del mana negro y maná blanco. Esto se traduce en un ligero incremento de la frecuencia con la que podremos realizar el combo de melé, ya que a partir de ahora con sólo 50/50 podremos hacer el combo de melé y con 60/60 el combo de área.
