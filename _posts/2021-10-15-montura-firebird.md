@@ -7,7 +7,7 @@ tags: [monturas, extremes]
 image: assets/images/articles/monturas/firebird/portada.jpg
 description: "Misiones y pasos necesarios para conseguir la montura Firebird"
 featured: false
-hidden: false
+hidden: true
 ---
 El **Firebird** es un fénix alado que se puede conseguir aunque tengas la versión gratuita de Final Fantasy XIV. En este artículo vamos a explicar los pre-requisitos necesarios así como donde coger la misión final que te dará la montura.
 
