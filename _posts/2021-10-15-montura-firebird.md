@@ -7,7 +7,7 @@ tags: [monturas, extremes]
 image: assets/images/articles/monturas/firebird/portada.jpg
 description: "Misiones y pasos necesarios para conseguir la montura Firebird"
 featured: false
-hidden: true
+hidden: false
 ---
 El **Firebird** es un fénix alado que se puede conseguir aunque tengas la versión gratuita de Final Fantasy XIV. En este artículo vamos a explicar los pre-requisitos necesarios así como donde coger la misión final que te dará la montura.
 
@@ -114,7 +114,7 @@ X: 11.7 Y: 11.6) que nos dará la misión <a href="https://na.finalfantasyxiv.co
 
 Tras hacerla, continuaremos con el NPC <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/dd618e47bce/" target="_blank" class="eorzeadb_link">Unukalhai</a> (The Rising Stones X: 6.1 Y: 5.2) y, completando sus misiones, iremos desbloqueando los modos *Hard* y/o *Extreme* de ***Containment Bay Z1T9***, ***Containment Bay P1T6***, ***Containment Bay S1T7***, ***Thok ast Thok*** y ***The Limitless Blue***. 
 
-Los *trials* ***The Minstrel's Ballad: Nidhogg's Rage*** y ***The Minstrel's Ballad: Thordan's Reign*** se desbloquean completando la MSQ y no tiene modo *Extreme*.
+Los *trials* ***The Minstrel's Ballad: Nidhogg's Rage*** y ***The Minstrel's Ballad: Thordan's Reign*** se desbloquean completando las misiones <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/69bd9a55ca3/" target="_blank" class="eorzeadb_link">Nidhogg's Rage</a> y <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/9ee7e2a2804/" target="_blank" class="eorzeadb_link">Thordan's Reign</a> respectivamente. Ambas misiones te las entrega <a href="https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/3d5d30175e9/" target="_blank" class="eorzeadb_link">Alys</a> en Mor Dhona (X: 21.7 Y: 8.6).
 
 <!---
 Tras desbloquear las versiones *Hard*, tendremos que continuar con las versiones ***Extreme***. Para esto, hay que completar las siguientes misiones en este orden:
