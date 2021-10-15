@@ -91,7 +91,7 @@ Una vez que consigamos las monturas, tenemos que ir a hablar con <a href="https:
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/monturas/firebird/walkingatlas.jpg" alt="walkingatlas"/></p>
 
-Tras completar la misión ya tendremos nuestro **Kirin**.
+Tras completar la misión ya tendremos nuestro **Firebird**.
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/monturas/firebird/firebird.jpg" width="850" alt="firebird"/></p>
 
