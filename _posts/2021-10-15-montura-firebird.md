@@ -2,7 +2,7 @@
 layout: post
 title: "Como conseguir la montura Firebird"
 author: sharn
-categories: [monturas]
+categories: [ ]
 tags: [monturas, extremes]
 image: assets/images/articles/monturas/firebird/portada.jpg
 description: "Misiones y pasos necesarios para conseguir la montura Firebird"
