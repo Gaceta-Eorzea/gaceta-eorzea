@@ -6,7 +6,7 @@ categories: [ noticias ]
 tags: [noticias, endwalker]
 image: assets/images/articles/noticias/resumen-media-tour/resumenmediatour.jpg
 description: "Resumen del Media Tour de Endwalker"
-featured: true
+featured: false
 hidden: false
 ---
 
