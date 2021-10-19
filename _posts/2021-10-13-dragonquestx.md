@@ -6,7 +6,7 @@ categories: [ noticias ]
 tags: [evento, noticias]
 image: assets/images/articles/noticias/dragonquestx/portada.jpg
 description: "Evento de colaboración con Dragon Quest X"
-featured: false
+featured: true
 hidden: false
 ---
 
