@@ -5,9 +5,37 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Oct 2021 15:48:03 +0100</pubDate>
-    <lastBuildDate>Mon, 18 Oct 2021 15:48:03 +0100</lastBuildDate>
+    <pubDate>Tue, 19 Oct 2021 07:47:24 +0100</pubDate>
+    <lastBuildDate>Tue, 19 Oct 2021 07:47:24 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Paladín Media Tour</title>
+        <description>&lt;p&gt;El gameplay del &lt;strong&gt;Paladín&lt;/strong&gt; puede parecer que no va a variar demasiado, salvando las distancias con el combo a continuación del Confiteur.&lt;/p&gt;
+
+&lt;p&gt;La realidad es que el gameplay en efecto no varía mucho, pero tiene algunos añadidos que son realmente picantes. Concretamente hablamos de como es capaz de curarse a si mismo. Habilidades como &lt;strong&gt;Holy Shelltron&lt;/strong&gt; o &lt;strong&gt;Intervention&lt;/strong&gt; ahora pondrán un regen, pero no sólo eso, si no que &lt;strong&gt;Holy Spirit&lt;/strong&gt; o &lt;strong&gt;Holy Circle&lt;/strong&gt; ahora te curarán con una cura de potencia 400.&lt;/p&gt;
+
+&lt;p&gt;Además de que ahora &lt;strong&gt;Requiescat&lt;/strong&gt; siempre te dará el beneficio máximo da igual el maná que te quede o que por ejemplo se actualiza el &lt;strong&gt;Spirits Within&lt;/strong&gt; por una nueva habilidad en área llamada &lt;strong&gt;Expiacion&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;¿Muchas ganas de probar el nuevo Paladín?&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/8rktDDwR8cQ?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 19 Oct 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/media-tour-pld/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-pld/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Evento El asombroso tesoro de los Moogle</title>
@@ -740,33 +768,6 @@ Tras desbloquear las versiones *Hard*, tendremos que continuar con las versiones
         
         
         <category>gold saucer</category>
-        
-      </item>
-    
-      <item>
-        <title>Red Mage Media Tour</title>
-        <description>&lt;p&gt;El Red Mage para la próxima expansión de Final Fantasy XIV, Endwalker sufre algunos cambios que varían ligeramente su gameplay, especialmente en cuanto a la gestión del mana negro y maná blanco. Esto se traduce en un ligero incremento de la frecuencia con la que podremos realizar el combo de melé, ya que a partir de ahora con sólo 50/50 podremos hacer el combo de melé y con 60/60 el combo de área.&lt;/p&gt;
-
-&lt;p&gt;Hay que entender que al hacerse este cambio, han bajado la cantidad de maná que aporta cada una de las habilidades del mago rojo. Por otra parte, &lt;strong&gt;manafication&lt;/strong&gt; ya no nos dará el doble de maná; si no que nos dará 50 de maná blanco y 50 de maná negro, garantizando siempre que cuando lo uses tendrás maná suficiente para poder realizar el combo de melé en un sólo objetivo.&lt;/p&gt;
-
-&lt;p&gt;Otra novedad muy interesante es el cambio acerca del ataque en área de la espada y es que ahora el Red Mage tendrá un nuevo Trait llamado Mana Stack, cada vez que se realice uno de los ataques a melé en un sólo objetivo o el de área, recibirás un mana stack, haciendo que cuando tengas los tres tengas directamente acceso a los finalizadores de combo &lt;strong&gt;Verholy/Verflare&lt;/strong&gt;. Además de que ahora todos los finalizadores son ataques en área. Es decir que Verholy/Verflare, Scorch y Resolution son ataques en área. &lt;strong&gt;Resolution&lt;/strong&gt; es un ataque adicional que tendremos tras utilizar Scorch.&lt;/p&gt;
-
-&lt;p&gt;Otros cambios muy interesantes son en las Utilities, el Embolden ahora bufará tanto daño mágico y daño físico al resto del grupo, además de que &lt;strong&gt;Acceleration&lt;/strong&gt; ahora tendrá 2 cargas acumulables por lo que tendrás más libertad para jugar con los procs del Red Mage. Otra nueva utility es &lt;strong&gt;Magic Barrier&lt;/strong&gt; que aporta una reducción de daño mágico al grupo de un 10%, así como aumentar las curas recibidas por el grupo en un 5%.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/VMMIYN1Ga5g?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 14 Oct 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/media-tour-red-mage/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-red-mage/</guid>
-        
-        <category>noticias</category>
-        
-        <category>endwalker</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
