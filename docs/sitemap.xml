@@ -613,10 +613,6 @@
 <lastmod>2021-10-15T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>https://gaceta-eorzea.com/montura-firebird/</loc>
-<lastmod>2021-10-15T00:00:00+01:00</lastmod>
-</url>
-<url>
 <loc>https://gaceta-eorzea.com/media-tour-sage/</loc>
 <lastmod>2021-10-17T00:00:00+01:00</lastmod>
 </url>
@@ -650,6 +646,10 @@
 </url>
 <url>
 <loc>https://gaceta-eorzea.com/media-tour-war/</loc>
+<lastmod>2021-10-20T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://gaceta-eorzea.com/montura-firebird/</loc>
 <lastmod>2021-10-20T00:00:00+01:00</lastmod>
 </url>
 <url>
@@ -786,5 +786,8 @@
 </url>
 <url>
 <loc>https://gaceta-eorzea.com/page27/</loc>
+</url>
+<url>
+<loc>https://gaceta-eorzea.com/page28/</loc>
 </url>
 </urlset>
