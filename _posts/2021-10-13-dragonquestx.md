@@ -53,7 +53,7 @@ Adicionalmente podremos comprarle a **Toughie en Ul'dah - Steps of Nald (x:8.2, 
 
 #### FATEs
 
-Las misión del **evento** nos **pedirá** hacer una **cadena** de **3 FATEs**, la cual pueden salir en distintas **localizaciones**, podemos ir a **cualquiera de ellas** y hacer las 3 FATEs que necesitamos.
+Las misión del **evento** nos **pedirá** hacer una **cadena** de **2 FATEs**, todas pueden salir en distintas **localizaciones**, podemos ir a **cualquiera de ellas** y hacer las 2 FATEs que necesitamos.
 
 <p align="center">
     <img src="{{ site.baseurl }}/assets/images/articles/noticias/dragonquestx/fate1.jpg" alt="Central Thanalan"/>

@@ -363,4 +363,4 @@ La montura de **Garuda Extreme** nos costara **30 Irregular Tomestones of Lore**
 <br/>
 <sub><sup>Montura Xanthos</sup></sub></p>
 
-Existen ademas **mas recompensas**, como **mejoras de velocidad de ARR**, aunque solo funciona **en el suelo y no volando**, cartas de **Tiple triad** o objetos de housing, pero podeis **revisarlo en los NPC del evento**.
+Existen ademas **mas recompensas**, como **mejoras de velocidad de ARR**, aunque solo funciona **en el suelo y no volando**, cartas de **Tiple triad**, **partituras**, **armaduras** para nuestros **chocobos** o objetos de housing, pero podeis **revisarlo en los NPC del evento**.
