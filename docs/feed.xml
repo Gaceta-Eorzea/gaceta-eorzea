@@ -5,9 +5,33 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Oct 2021 07:44:05 +0100</pubDate>
-    <lastBuildDate>Wed, 20 Oct 2021 07:44:05 +0100</lastBuildDate>
+    <pubDate>Wed, 20 Oct 2021 07:49:51 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Oct 2021 07:49:51 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Warrior Media Tour</title>
+        <description>&lt;p&gt;El &lt;strong&gt;Warrior&lt;/strong&gt; para Endwalker sufre varios cambios importantes. Para empezar el nuevo &lt;strong&gt;Nascent Flash&lt;/strong&gt; ya no será lo que es ahora mismo, sigue siendo un bufo muy bueno que incluye reducción de daño pero su capacidad de self-healing pasa a depender de que tu ejecutes habilidades en lugar de absorver el daño que realizas a los enemigos. A cambio el Warrior recibe nuevas formas de self-healing a través del regen que dejará el Equilibrium a mayores.&lt;/p&gt;
+
+&lt;p&gt;Otro cambio importante en el Warrior es que el funcionamiento de &lt;strong&gt;Inner Release&lt;/strong&gt; cambia completamente. Ahora dará símplemente 3 stacks, por lo que en lugar de poder meter 5 fell cleave en el Inner Release, harás 3 fell cleave. A cambio, al acabar los 3 fell cleaves podrás realizar un ataque extra llamado Primal Rend que es un ataque de potencia 700 al objetivo y un 70% menos al resto de enemigos.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/5wGbt-XjIPI?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 20 Oct 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/media-tour-war/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-war/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Paladín Media Tour</title>
@@ -876,31 +900,6 @@ Tras desbloquear las versiones *Hard*, tendremos que continuar con las versiones
         
         <category>extremes</category>
         
-        
-      </item>
-    
-      <item>
-        <title>Reaper Media Tour</title>
-        <description>&lt;p&gt;Ahora conociendo las habilidades que va a disponer el &lt;strong&gt;Reaper&lt;/strong&gt; podemos hacernos una idea del funcionamiento del nuevo melé que será incluído en Final Fantasy XIV &lt;strong&gt;Endwalker&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;El Reaper tendrá 3 fases de combate, una muy básica que servirá como filler utilizando su combo más básico de melé, lo que te permitirá ir cargando el &lt;strong&gt;Soul Gauge&lt;/strong&gt;. Cuando tengas 50 puntos de Soul Gauge tendrás acceso a poder utilizar las habilidades con tu avatar del vacío llegando a potencias de más de 400, momento en el cual algunas de tus habilidades si tendrán posicionales, siendo muy importante respetarlas para aprovechar al máximo la potencia de tus ataques.&lt;/p&gt;
-
-&lt;p&gt;La tercera fase la obtendrás cuando acumules suficiente &lt;strong&gt;Shroud Gauge&lt;/strong&gt;, permitiéndote utilizar &lt;strong&gt;Enshroud&lt;/strong&gt; y así ser poseído por tu avatar del vacío llevándote a tu mayor burst de daño, momento en el cual tras realizar algunos de sus ataques podrás usar la habilidad &lt;strong&gt;Comunio&lt;/strong&gt; que tiene nada más y nada menos que 1000 de potencia.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/OtktVOk_b9Y?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 15 Oct 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/media-tour-reaper/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-reaper/</guid>
-        
-        <category>noticias</category>
-        
-        <category>endwalker</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
