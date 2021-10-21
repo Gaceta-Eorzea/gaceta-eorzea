@@ -5,9 +5,33 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Oct 2021 07:52:41 +0100</pubDate>
-    <lastBuildDate>Wed, 20 Oct 2021 07:52:41 +0100</lastBuildDate>
+    <pubDate>Thu, 21 Oct 2021 07:44:43 +0100</pubDate>
+    <lastBuildDate>Thu, 21 Oct 2021 07:44:43 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Dragoon Media Tour</title>
+        <description>&lt;p&gt;El &lt;strong&gt;Dragoon&lt;/strong&gt; sigue muy en su línea, salvando la eliminación del &lt;strong&gt;Blood of the Dragoon&lt;/strong&gt; que deja de ser un bufo para convertirse en un trait y la actualización en el combo básico de melé en single target y el combo en área.&lt;/p&gt;
+
+&lt;p&gt;Entre las novedades de estos dos combos nos encontramos la oportunidad de acumular Firstminds’ Focus, lo que nos permitirá ejecutar &lt;strong&gt;Wyrmwind Thrust&lt;/strong&gt; que será un nuevo ataque oGCD. Además de que ahora &lt;strong&gt;Spineshatter Dive&lt;/strong&gt; que podrá acumular dos cargas y lo mismo para el &lt;strong&gt;Life Surge&lt;/strong&gt; que acumulará dos cargas. El Firstminds’ Focus lo obtendrás cada vez que utilices &lt;strong&gt;Draconian Fury&lt;/strong&gt; o &lt;strong&gt;Raiden&lt;/strong&gt; Thrust que son las habilidades que substituyen vuestra primera habilidad de combo en área o combo en single target respectivamente, cada vez que completas un ciclo completo del combo.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/U4UGORT4G2Y?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 21 Oct 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/media-tour-drg/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-drg/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Como conseguir la montura Firebird</title>
@@ -869,32 +893,6 @@ Y no olvidéis seguir a la Gaceta Eorzea en Twitter, ya que si no os perderéis 
         <pubDate>Sun, 17 Oct 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/media-tour-scholar/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-scholar/</guid>
-        
-        <category>noticias</category>
-        
-        <category>endwalker</category>
-        
-        
-        <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Sage Media Tour</title>
-        <description>&lt;p&gt;El &lt;strong&gt;Sage&lt;/strong&gt; será el nuevo healer que será incluído en &lt;strong&gt;Final Fantasy XIV: Endwalker&lt;/strong&gt;. El Sage será un healer de escudos que además tiene una orientación bastante ofensiva gracias a la mecánica de &lt;strong&gt;Kardia&lt;/strong&gt;. Kardia podríamos imaginarlo como una especia de Dancer Partner pero aplicados a healers, aplicándolo normalmente en el main tank, con la idea de que mientras os manteneis haciendo DPS, éste siga recibiendo pequeñas curas de potencia 170.&lt;/p&gt;
-
-&lt;p&gt;Por otra parte &lt;strong&gt;Eucrasia&lt;/strong&gt; será una habilidad destinada a modificar el comportamiento de determinadas habilidades de curación como son &lt;strong&gt;Diagnosis, Prognosis&lt;/strong&gt; o la habilidad de ataque &lt;strong&gt;Dosis&lt;/strong&gt;. Esta modificación hace que diagnosis o prognosis pasen a dejar un escudo en las persona que reciban la cura y en el caso de la habilidad de ataque, la convertirá en un DoT (Daño en el tiempo).&lt;/p&gt;
-
-&lt;p&gt;Además de esto, cada vez que se rompa una de las barreras que apliques, irás recibiendo unos stacks que podrás utilizar en un ataque adicional ofensivo y tener un interesante y completo repertorio de curaciones Off-GCD que te permitirán ir recuperando maná mientras os manteneis curando.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/TVeUBtu_GJg?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sun, 17 Oct 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/media-tour-sage/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-sage/</guid>
         
         <category>noticias</category>
         
