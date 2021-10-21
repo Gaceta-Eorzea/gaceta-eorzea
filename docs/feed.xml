@@ -5,9 +5,35 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Oct 2021 07:44:43 +0100</pubDate>
-    <lastBuildDate>Thu, 21 Oct 2021 07:44:43 +0100</lastBuildDate>
+    <pubDate>Thu, 21 Oct 2021 20:52:48 +0100</pubDate>
+    <lastBuildDate>Thu, 21 Oct 2021 20:52:48 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Dragoon Media Tour</title>
+        <description>&lt;p&gt;El &lt;strong&gt;White Mage&lt;/strong&gt; durante su progreso de nivel 80 a nivel 90 recibe algunas actualizaciones en algunas de sus habilidades. Las curas más habituales del White Mage se ven mejoradas y habilidades como &lt;strong&gt;Thin Air&lt;/strong&gt; o &lt;strong&gt;Divine Benison&lt;/strong&gt; ahora tendrán 2 stacks.&lt;/p&gt;
+
+&lt;p&gt;Además de eso, el white mage recibe 2 nuevas habilidades como son &lt;strong&gt;Aquaveil&lt;/strong&gt; que es una nueva mitigación en single target y la &lt;strong&gt;Lilybell&lt;/strong&gt; que vimos durante las job actions, que va reaccionando curando al grupo cada vez que éste recibe daño hasta consumir sus stacks.&lt;/p&gt;
+
+&lt;p&gt;También es curioso ver como no existe Glare II o Holy II y pasamos directamente a &lt;strong&gt;Glare III&lt;/strong&gt; y &lt;strong&gt;Holy III&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/J8sXMMSaESI?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 21 Oct 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/media-tour-whm/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-whm/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Dragoon Media Tour</title>
@@ -874,32 +900,6 @@ Y no olvidéis seguir a la Gaceta Eorzea en Twitter, ya que si no os perderéis 
         
         
         <category>lore</category>
-        
-      </item>
-    
-      <item>
-        <title>Scholar Media Tour</title>
-        <description>&lt;p&gt;El &lt;strong&gt;Scholar&lt;/strong&gt; durante el trailer de las job actions que pudimos ver hace unas semanas, nos dejó un muy mal sabor de boca, siendo muy poco lo que se pudo ver de su nuevo repertorio.&lt;/p&gt;
-
-&lt;p&gt;La realidad del scholar es que sigue siendo un &lt;strong&gt;healer de escudos excelente&lt;/strong&gt;, al cual se le actualizan la potencia de &lt;strong&gt;physicks y adloquium&lt;/strong&gt;; así como añadir algunas nuevas habilidades como &lt;strong&gt;Protaction&lt;/strong&gt; que es una nueva mitigación y &lt;strong&gt;Expedient&lt;/strong&gt;. Esta última es la famosa habilidad que aumenta la velocidad de movimiento, pero lo que no sabíamos es que además de aumentar la velocidad de movimiento será una mitigación del 10% adicional.&lt;/p&gt;
-
-&lt;p&gt;Por otro lado &lt;strong&gt;Broil&lt;/strong&gt; sufre una nueva actualización a &lt;strong&gt;Broil IV&lt;/strong&gt; llegando a una potencia de 295 y recordando que esta habilidad se ve afectada por la  reducción de los tiempos de casteo siendo mucho más fácil de utilizar en conjunto con los diferentes Off-GCD que tiene el scholar.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/17AEplXiTc0?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sun, 17 Oct 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/media-tour-scholar/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-scholar/</guid>
-        
-        <category>noticias</category>
-        
-        <category>endwalker</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
