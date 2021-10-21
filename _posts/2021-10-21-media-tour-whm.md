@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dragoon Media Tour"
+title: "White Mage Media Tour"
 author: elmira
 categories: [ noticias ]
 tags: [noticias, endwalker]
