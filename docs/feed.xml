@@ -5,9 +5,35 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Oct 2021 16:39:12 +0100</pubDate>
-    <lastBuildDate>Fri, 22 Oct 2021 16:39:12 +0100</lastBuildDate>
+    <pubDate>Sat, 23 Oct 2021 16:25:01 +0100</pubDate>
+    <lastBuildDate>Sat, 23 Oct 2021 16:25:01 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Dancer Media Tour</title>
+        <description>&lt;p&gt;El &lt;strong&gt;Dancer&lt;/strong&gt; recibe unos cuantos cambios que pueden cambiar un poco su gameplay, especialmente llama la atención la corrección en las potencias de los procs del dancer, haciendo que cuando utiliceis &lt;strong&gt;Flourish&lt;/strong&gt; ya no compense utilizar los dos procs de área, ya que estos ahora tendrán menos potencia que los ataques en single target, lo cual es un cambio que tiene bastante sentido.&lt;/p&gt;
+
+&lt;p&gt;Por otro lado recibimos 2 nuevos ataques. Al finalizar un &lt;strong&gt;Technical Step&lt;/strong&gt; (baile largo), podremos utilizar un ataque llamado &lt;strong&gt;Tillana&lt;/strong&gt; que va a extender la duración del efecto del &lt;strong&gt;Standard Finish&lt;/strong&gt;. Además cada vez que useis &lt;strong&gt;Devilment&lt;/strong&gt; recibireis un nuevo bufo llamado &lt;strong&gt;Flourishing Starfall&lt;/strong&gt; que nos permitirá utilizar &lt;strong&gt;Starfall Dance&lt;/strong&gt; que es un nuevo ataque en área de potencia 600 al primer objetivo.&lt;/p&gt;
+
+&lt;p&gt;Dentro de los &lt;strong&gt;Fan Dance&lt;/strong&gt; a mayores recibiremos &lt;strong&gt;Fan Dance 4&lt;/strong&gt; que será un ataque en área de potencia 300 al primer objetivo y un 50% menos al resto de enemigos que sólo podreis utilizar cuando esteis bajo el efecto de &lt;strong&gt;Fourfold Fan Dance&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/y5RVOiUtQGc?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 23 Oct 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/media-tour-dcn/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-dcn/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Samurai Media Tour</title>
@@ -616,381 +642,6 @@ Tras desbloquear las versiones *Hard*, tendremos que continuar con las versiones
         
         
         <category>entrevistas</category>
-        
-      </item>
-    
-      <item>
-        <title>Evento El asombroso tesoro de los Moogle</title>
-        <description>&lt;p&gt;De nuevo tendremos disponible el evento de &lt;strong&gt;asombroso tesoro de los Moogle, Moogle Treasure Trove en Inglés&lt;/strong&gt;, donde podremos conseguir interesantes &lt;strong&gt;recompensas&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Este evento lo podremos realizar &lt;strong&gt;desde&lt;/strong&gt; el &lt;strong&gt;martes 19 de octubre&lt;/strong&gt; a las &lt;strong&gt;10:00&lt;/strong&gt;, &lt;strong&gt;hasta&lt;/strong&gt; la salida del &lt;strong&gt;Endwalker&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;En el evento podremos obtener &lt;strong&gt;Irregular Tomestones of Lore&lt;/strong&gt; las cuales canjearemos por las &lt;strong&gt;recompensas&lt;/strong&gt; que deseemos.&lt;/p&gt;
-
-&lt;h4 id=&quot;adquiriendo-tomestones&quot;&gt;Adquiriendo Tomestones&lt;/h4&gt;
-
-&lt;p&gt;Para adquirir las &lt;strong&gt;Irregular Tomestones of Lore&lt;/strong&gt; debemos realizar actividades que esten &lt;strong&gt;marcadas&lt;/strong&gt; con un icono de un &lt;strong&gt;Moogle&lt;/strong&gt; en el &lt;strong&gt;duty finder&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/duty.png&quot; alt=&quot;Duty Finder&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Actividades Marcadas en el Duty Finder&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Estas &lt;strong&gt;actividades&lt;/strong&gt; nos daran distinto numero de &lt;strong&gt;Tomestones&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-&lt;div class=&quot;span2&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;    
-    &lt;div class=&quot;col-8 border bg-dark&quot;&gt;
-      &lt;font color=&quot;white&quot;&gt;&lt;b&gt;Duty&lt;/b&gt;&lt;/font&gt;
-    &lt;/div&gt;             
-    &lt;div class=&quot;col-4 border bg-dark&quot;&gt;
-        &lt;font color=&quot;white&quot;&gt;&lt;b&gt;&amp;nbsp;Tomes&lt;/b&gt;&lt;/font&gt;
-    &lt;/div&gt;    
-  &lt;/div&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Praetorium
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      10
-    &lt;/div&gt;        
-  &lt;/div&gt;   
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Castrum Meridianum
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      7
-    &lt;/div&gt;        
-  &lt;/div&gt;  
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Amaurot
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      5
-    &lt;/div&gt;        
-  &lt;/div&gt;    
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Frontline / Rivalwings
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      3/5
-    &lt;/div&gt;        
-  &lt;/div&gt;   
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Aetherochemical Research Facility
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      4
-    &lt;/div&gt;        
-  &lt;/div&gt;   
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Baelsar's Wall
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      4
-    &lt;/div&gt;        
-  &lt;/div&gt;   
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Ala Mhigo
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      4
-    &lt;/div&gt;        
-  &lt;/div&gt;   
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Ghimlyt Dark
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      4
-    &lt;/div&gt;        
-  &lt;/div&gt; 
-
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Labyrinth of the Ancients
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      3
-    &lt;/div&gt;        
-  &lt;/div&gt; 
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Syrcus Tower
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      3
-    &lt;/div&gt;        
-  &lt;/div&gt; 
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The World of Darkness
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      3
-    &lt;/div&gt;        
-  &lt;/div&gt; 
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Binding Coil of Bahamut - Turn 1
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      3
-    &lt;/div&gt;        
-  &lt;/div&gt; 
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Binding Coil of Bahamut - Turn 2
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      3
-    &lt;/div&gt;        
-  &lt;/div&gt; 
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Deltascape V4.0
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      2
-    &lt;/div&gt;        
-  &lt;/div&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Sigmascape V4.0
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      2
-    &lt;/div&gt;        
-  &lt;/div&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Alphascape V4.0
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      2
-    &lt;/div&gt;        
-  &lt;/div&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Containment Bay S1T7
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      2
-    &lt;/div&gt;        
-  &lt;/div&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Containment Bay P1T6
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      2
-    &lt;/div&gt;        
-  &lt;/div&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Containment Bay Z1T9
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      2
-    &lt;/div&gt;        
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-Nota: Estas actividades hay que hacerlas &lt;b&gt;sincronizados&lt;/b&gt; a su nivel asi que &lt;b&gt;no podeis usar Undersized Party&lt;/b&gt;.
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;recomendación-para-el-farmeo-de-tomestones&quot;&gt;Recomendación para el farmeo de Tomestones&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Si os gusta hacer instancias:
-    &lt;ul&gt;
-      &lt;li&gt;Amaurot (Nivel 80), bastante rapida si teneis personajes nivel 80 equipados.&lt;/li&gt;
-      &lt;li&gt;Ala Mihgo (nivel 70), la mas rapida si ademas teneis Magos Azules.&lt;/li&gt;
-      &lt;li&gt;The Aetherochemical Research Facility (nivel 60),  es ademas la instancia que mas Poetics da en el juego ya que no hay cofres de loot en los jefes finales, ideal para equipar alguna clase o comprar materiales de las relics de HW.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Si os gusta el JcJ:
-    &lt;ul&gt;
-      &lt;li&gt;Alternar entre Rival Wings y Frontline, si perdéis os dara 3, si ganais 5 y de paso obteneis chapas de JcJ para comprar alguno de los glamours que hay disponible.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Si quereis hacer algo un poco mas AFK:
-    &lt;ul&gt;
-      &lt;li&gt;Praetorium, mientras veis una serie, videos en youtube o algun stream.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;canjear-tomestones&quot;&gt;Canjear Tomestones&lt;/h4&gt;
-
-&lt;p&gt;Para canjear las recompensas debemos hablar con cualquiera de los &lt;strong&gt;Itinerant Moogle&lt;/strong&gt; del evento que esta en las ciudades principales, cerca de la Aetheryte central.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/moguri.png&quot; alt=&quot;Moogle&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Itinerant Moogle&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-        &lt;p align=&quot;center&quot;&gt;
-            &lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/gridania.jpg&quot; alt=&quot;&amp;gt;New Gridania&quot; /&gt;
-            &lt;br /&gt;
-            &lt;sub&gt;&lt;sup&gt;New Gridania&lt;/sup&gt;&lt;/sub&gt;
-        &lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-        &lt;p align=&quot;center&quot;&gt;
-            &lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/ulda.jpg&quot; alt=&quot;Ul'dah&quot; /&gt;
-            &lt;br /&gt;
-            &lt;sub&gt;&lt;sup&gt;Ul'dah, Steps of Nald&lt;/sup&gt;&lt;/sub&gt;
-        &lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-        &lt;p align=&quot;center&quot;&gt;
-            &lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/limsa.jpg&quot; alt=&quot;Limsa Lominsa&quot; /&gt;
-            &lt;br /&gt;
-            &lt;sub&gt;&lt;sup&gt;Limsa Lominsa Lower Decks&lt;/sup&gt;&lt;/sub&gt;
-        &lt;/p&gt;
-    &lt;/div&gt;    
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h4 id=&quot;recompensas-destacadas&quot;&gt;Recompensas destacadas&lt;/h4&gt;
-
-&lt;p&gt;Tendremos disponible la &lt;strong&gt;Inferno Jacket&lt;/strong&gt; por &lt;strong&gt;100 Irregular Tomestones of Lore&lt;/strong&gt;, la cual &lt;strong&gt;solo&lt;/strong&gt; estuvo disponible en una &lt;strong&gt;promoción pasada&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/inferno.jpg&quot; alt=&quot;Inferno Jacket&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Inferno Jacket&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Tambien estará &lt;strong&gt;Modern Aesthetics - Styled for Hire&lt;/strong&gt; por &lt;strong&gt;50 Irregular Tomestones of Lore&lt;/strong&gt;, el cual es un &lt;strong&gt;peinado&lt;/strong&gt; disponible por chapas de &lt;strong&gt;JcJ&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/styled.jpg&quot; alt=&quot;Styled for Hire&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Peinado: Styled for Hire&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Por &lt;strong&gt;7 Irregular Tomestones of Lore&lt;/strong&gt; podremos obtener el minion &lt;strong&gt;Griffin Hatchling&lt;/strong&gt; el cual es obtenible por &lt;strong&gt;400 Centurion Seals&lt;/strong&gt;, lo cual son un bastantes &lt;strong&gt;Hunts de HW o SB&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/griffin.jpg&quot; alt=&quot;Griffin Hatchling&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Minion Griffin Hatchling&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Por &lt;strong&gt;7 Irregular Tomestones of Lore&lt;/strong&gt; podremos obtener el minion &lt;strong&gt;Aurelia Polyp&lt;/strong&gt; el cual es obtenible en &lt;strong&gt;misiones de exploracion del submarino&lt;/strong&gt; dentro del taller, &lt;em&gt;Workshop en Inglés&lt;/em&gt;, de las &lt;strong&gt;Free Company&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/polyp.jpg&quot; alt=&quot;Aurelia Polyp&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Minion Aurelia Polyp&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Tendremos también el &lt;strong&gt;set completo&lt;/strong&gt; de la instancia de &lt;strong&gt;The Swallow’s Compass&lt;/strong&gt;, &lt;strong&gt;por 15 Irregular Tomestones of Lore cada pieza&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/compass.jpg&quot; alt=&quot;Armadura de Swallow's Compass&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Armadura de Swallow's Compass&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Si os gusta hacer &lt;strong&gt;mapas de tesoro&lt;/strong&gt; tendremos disponibles los &lt;strong&gt;Ostensibly Special Timeworm Map&lt;/strong&gt; donde podremos obtener &lt;strong&gt;2 por 30 Irregular Tomestones of Lore&lt;/strong&gt; y &lt;strong&gt;garantizan un portal&lt;/strong&gt; a la instancia del mapa donde podreis obtener &lt;strong&gt;materiales&lt;/strong&gt; bastante &lt;strong&gt;caros&lt;/strong&gt; para &lt;strong&gt;glamours, monturas o emotes y minions&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/map.jpg&quot; alt=&quot;Instancia de Mapa del Tesoro&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Instancia de un Map del Tesoro&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;También estaran disponible las &lt;strong&gt;monturas de las Tibus&lt;/strong&gt; de bestia de &lt;strong&gt;ARR&lt;/strong&gt; por &lt;strong&gt;30 Irregular Tomestones of Lore&lt;/strong&gt; cada una de ellas.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/tribus/arr/laurel_goobbue.jpg&quot; alt=&quot;Montura Laurel Goobbue&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura Laurel Goobbue&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/tribus/arr/bomb_palanquin.jpg&quot; alt=&quot;Montura Bomb Palanquin&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura Bomb Palanquin&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/tribus/arr/cavalry_elbst.jpg&quot; alt=&quot;Montura Cavalry Elbst&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura Cavalry Elbst&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/tribus/arr/direwolf.jpg&quot; alt=&quot;Montura Direwolf&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura Direwolf&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Por ultimo nos queda destacar que habra también algunas &lt;strong&gt;monturas de trials en extreme&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;La montura de &lt;strong&gt;Byakko Extreme&lt;/strong&gt; nos costara &lt;strong&gt;50 Irregular Tomestones of Lore&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/aspicious_kamuy.jpg&quot; width=&quot;600&quot; alt=&quot;Auspicious Kamuy Fife&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura Auspicious Kamuy&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;La montura de &lt;strong&gt;Nidhogg Extreme&lt;/strong&gt; nos costara &lt;strong&gt;50 Irregular Tomestones of Lore&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/dark_lanner.jpg&quot; width=&quot;600&quot; alt=&quot;Dark Lanner Whistle&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura Dark Lanner&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;La montura de &lt;strong&gt;Leviathan Extreme&lt;/strong&gt; nos costara &lt;strong&gt;30 Irregular Tomestones of Lore&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/embarr.jpg&quot; width=&quot;600&quot; alt=&quot;Enbarr Whistle&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura Enbarr&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;La montura de &lt;strong&gt;Garuda Extreme&lt;/strong&gt; nos costara &lt;strong&gt;30 Irregular Tomestones of Lore&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/xanthos.jpg&quot; width=&quot;600&quot; alt=&quot;Xanthos Whistle&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura Xanthos&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Existen ademas &lt;strong&gt;mas recompensas&lt;/strong&gt;, como &lt;strong&gt;mejoras de velocidad de ARR&lt;/strong&gt;, aunque solo funciona &lt;strong&gt;en el suelo y no volando&lt;/strong&gt;, cartas de &lt;strong&gt;Tiple triad&lt;/strong&gt;, &lt;strong&gt;partituras&lt;/strong&gt;, &lt;strong&gt;armaduras&lt;/strong&gt; para nuestros &lt;strong&gt;chocobos&lt;/strong&gt; o objetos de housing, pero podeis &lt;strong&gt;revisarlo en los NPC del evento&lt;/strong&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 Oct 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/moogle-treasure-oct-21/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/moogle-treasure-oct-21/</guid>
-        
-        <category>evento</category>
-        
-        <category>noticias</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
