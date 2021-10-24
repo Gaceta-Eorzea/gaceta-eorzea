@@ -5,9 +5,33 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Oct 2021 11:24:22 +0100</pubDate>
-    <lastBuildDate>Sun, 24 Oct 2021 11:24:22 +0100</lastBuildDate>
+    <pubDate>Sun, 24 Oct 2021 13:09:42 +0100</pubDate>
+    <lastBuildDate>Sun, 24 Oct 2021 13:09:42 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Gunbreaker Media Tour</title>
+        <description>&lt;p&gt;El &lt;strong&gt;Gunbreaker&lt;/strong&gt; entre las actualizaciones destacadas se puede hablar de la actualización del Heart of Stone que pasará a ser &lt;strong&gt;Heart of Corundum&lt;/strong&gt;, una habilidad mucho más completa que añade nuevos efectos de mitigación en el objetivo así como una cura que funciona de forma muy similar a como funcionaría el Excogitation del Scholar.&lt;/p&gt;
+
+&lt;p&gt;Además entre su nuevo repertorio de ataque se añade la actualización del Continuation, permitiéndote utilizar &lt;strong&gt;Hypervelocity&lt;/strong&gt; después de un &lt;strong&gt;Burst Strike&lt;/strong&gt; o la nueva habilidad que consumo 2 cartuchos llamada &lt;strong&gt;Double Down&lt;/strong&gt; que tiene una potencia de 1200. Hay que avisar que ante esta habilidad que consumo 2 cartuchos, el revolver del gunbreaker se verá actualizado y ahora podrás acumular 3 cartuchos para tu sable pistola.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/i0qufFK2Ta4?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 24 Oct 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/media-tour-gnb/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-gnb/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Historia Completa de FFXIV – Parte 5: La Guardia Celestial</title>
@@ -476,30 +500,6 @@ Tras desbloquear las versiones *Hard*, tendremos que continuar con las versiones
         
         
         <category>monturas</category>
-        
-      </item>
-    
-      <item>
-        <title>Warrior Media Tour</title>
-        <description>&lt;p&gt;El &lt;strong&gt;Warrior&lt;/strong&gt; para Endwalker sufre varios cambios importantes. Para empezar el nuevo &lt;strong&gt;Nascent Flash&lt;/strong&gt; ya no será lo que es ahora mismo, sigue siendo un bufo muy bueno que incluye reducción de daño pero su capacidad de self-healing pasa a depender de que tu ejecutes habilidades en lugar de absorver el daño que realizas a los enemigos. A cambio el Warrior recibe nuevas formas de self-healing a través del regen que dejará el Equilibrium a mayores.&lt;/p&gt;
-
-&lt;p&gt;Otro cambio importante en el Warrior es que el funcionamiento de &lt;strong&gt;Inner Release&lt;/strong&gt; cambia completamente. Ahora dará símplemente 3 stacks, por lo que en lugar de poder meter 5 fell cleave en el Inner Release, harás 3 fell cleave. A cambio, al acabar los 3 fell cleaves podrás realizar un ataque extra llamado Primal Rend que es un ataque de potencia 700 al objetivo y un 70% menos al resto de enemigos.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/5wGbt-XjIPI?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Wed, 20 Oct 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/media-tour-war/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-war/</guid>
-        
-        <category>noticias</category>
-        
-        <category>endwalker</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
