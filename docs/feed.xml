@@ -5,9 +5,35 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Oct 2021 14:31:50 +0100</pubDate>
-    <lastBuildDate>Mon, 25 Oct 2021 14:31:50 +0100</lastBuildDate>
+    <pubDate>Mon, 25 Oct 2021 14:39:15 +0100</pubDate>
+    <lastBuildDate>Mon, 25 Oct 2021 14:39:15 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Machinist Media Tour</title>
+        <description>&lt;p&gt;Si te gustaba el &lt;strong&gt;Machinist&lt;/strong&gt; en Shadowbringers, en Endwalker te va a seguir gustando. El job se mantiene muy fiel a las mecáncias que tenía en Shadowbringers, sólo añadiendo algunas nuevas habilidades.&lt;/p&gt;
+
+&lt;p&gt;Aun así, algunas de sus habilidades si pueden suponer un cierto impacto en su funcionamiento al recibir 2 cargas en el &lt;strong&gt;Reassemble&lt;/strong&gt; o la inclusión de la nueva habilidad &lt;strong&gt;Chain Saw&lt;/strong&gt; que será una weaponskill que se añade a las habilidades del estilo Air Anchor o Drill, teniendo exactamente la misma potencia que estas y además siendo una nueva fuente de Batería para poder invocar con más frecuencia la Automaton Queen.&lt;/p&gt;
+
+&lt;p&gt;La Automaton Queen recibe un nuevo finalizador que realizará justo después del &lt;strong&gt;Pile Bunker&lt;/strong&gt;, siendo &lt;strong&gt;Crowned Collider&lt;/strong&gt; un ataque de potencia 750 que realizará el robot justo antes de marcharse.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/3Zx1moaV1B0?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 25 Oct 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/media-tour-mch/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-mch/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Enciclopedia Eorzea: Hydaelyn y Zodiark II</title>
@@ -384,30 +410,6 @@ Y a celebrar la victoria con ese  “alguien” con quien se reencontraría alg�
         <pubDate>Thu, 21 Oct 2021 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/media-tour-whm/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-whm/</guid>
-        
-        <category>noticias</category>
-        
-        <category>endwalker</category>
-        
-        
-        <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Dragoon Media Tour</title>
-        <description>&lt;p&gt;El &lt;strong&gt;Dragoon&lt;/strong&gt; sigue muy en su línea, salvando la eliminación del &lt;strong&gt;Blood of the Dragoon&lt;/strong&gt; que deja de ser un bufo para convertirse en un trait y la actualización en el combo básico de melé en single target y el combo en área.&lt;/p&gt;
-
-&lt;p&gt;Entre las novedades de estos dos combos nos encontramos la oportunidad de acumular Firstminds’ Focus, lo que nos permitirá ejecutar &lt;strong&gt;Wyrmwind Thrust&lt;/strong&gt; que será un nuevo ataque oGCD. Además de que ahora &lt;strong&gt;Spineshatter Dive&lt;/strong&gt; que podrá acumular dos cargas y lo mismo para el &lt;strong&gt;Life Surge&lt;/strong&gt; que acumulará dos cargas. El Firstminds’ Focus lo obtendrás cada vez que utilices &lt;strong&gt;Draconian Fury&lt;/strong&gt; o &lt;strong&gt;Raiden&lt;/strong&gt; Thrust que son las habilidades que substituyen vuestra primera habilidad de combo en área o combo en single target respectivamente, cada vez que completas un ciclo completo del combo.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/U4UGORT4G2Y?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Thu, 21 Oct 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/media-tour-drg/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-drg/</guid>
         
         <category>noticias</category>
         
