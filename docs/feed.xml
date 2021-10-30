@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Oct 2021 12:53:13 +0100</pubDate>
-    <lastBuildDate>Sat, 30 Oct 2021 12:53:13 +0100</lastBuildDate>
+    <pubDate>Sat, 30 Oct 2021 16:41:07 +0100</pubDate>
+    <lastBuildDate>Sat, 30 Oct 2021 16:41:07 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -32,6 +32,30 @@
         
         
         <category>encuentros</category>
+        
+      </item>
+    
+      <item>
+        <title>Monk Media Tour</title>
+        <description>&lt;p&gt;Si hablamos de clases nuevas en &lt;strong&gt;Endwalker&lt;/strong&gt; y en el saco podemos meter el Summoner por todos los cambios, el monk casi sería también una cuarta clase nueva por el cambio en el funcionamiento de sus mecánicas de clase. A pesar de que sus combos básicos de single target y área siguen funcionando exactamente de la misma forma, con el uso del &lt;strong&gt;Perfect Balance&lt;/strong&gt; podremos tener acceso al &lt;strong&gt;Masterful Blitz&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Masterful Blitz&lt;/strong&gt; nos dará acceso a nuevas habilidades que tienen una potencia brutal para lo que estamos acostumbrados al Monk. Habilidades como el nuevo &lt;strong&gt;Elixir Field&lt;/strong&gt; que se va a los 600 de potencia, &lt;strong&gt;Rising Phoenix&lt;/strong&gt; con sus 700 de potencia o la increíble &lt;strong&gt;Phantom Rush&lt;/strong&gt; que tiene nada más y nada menos que 950 de potencia. Esto todo, se conseguirá con la nueva mecánica de los &lt;strong&gt;Beast Chakras&lt;/strong&gt; los cuales cargareis con la ayuda del Perfect Balance y al usar determinados Masterful Blitz, conseguireis activar la Lunar Nidi o la Solar Nidi, consiguiendo al acumular todo el acceso al Phantom Rush.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/m5oaBLO-PRM?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 30 Oct 2021 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/media-tour-mnk/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-mnk/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
         
       </item>
     
@@ -417,32 +441,6 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
         
         
         <category>encuentros</category>
-        
-      </item>
-    
-      <item>
-        <title>Dancer Media Tour</title>
-        <description>&lt;p&gt;El &lt;strong&gt;Dancer&lt;/strong&gt; recibe unos cuantos cambios que pueden cambiar un poco su gameplay, especialmente llama la atención la corrección en las potencias de los procs del dancer, haciendo que cuando utiliceis &lt;strong&gt;Flourish&lt;/strong&gt; ya no compense utilizar los dos procs de área, ya que estos ahora tendrán menos potencia que los ataques en single target, lo cual es un cambio que tiene bastante sentido.&lt;/p&gt;
-
-&lt;p&gt;Por otro lado recibimos 2 nuevos ataques. Al finalizar un &lt;strong&gt;Technical Step&lt;/strong&gt; (baile largo), podremos utilizar un ataque llamado &lt;strong&gt;Tillana&lt;/strong&gt; que va a extender la duración del efecto del &lt;strong&gt;Standard Finish&lt;/strong&gt;. Además cada vez que useis &lt;strong&gt;Devilment&lt;/strong&gt; recibireis un nuevo bufo llamado &lt;strong&gt;Flourishing Starfall&lt;/strong&gt; que nos permitirá utilizar &lt;strong&gt;Starfall Dance&lt;/strong&gt; que es un nuevo ataque en área de potencia 600 al primer objetivo.&lt;/p&gt;
-
-&lt;p&gt;Dentro de los &lt;strong&gt;Fan Dance&lt;/strong&gt; a mayores recibiremos &lt;strong&gt;Fan Dance 4&lt;/strong&gt; que será un ataque en área de potencia 300 al primer objetivo y un 50% menos al resto de enemigos que sólo podreis utilizar cuando esteis bajo el efecto de &lt;strong&gt;Fourfold Fan Dance&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/y5RVOiUtQGc?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sat, 23 Oct 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/media-tour-dcn/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-dcn/</guid>
-        
-        <category>noticias</category>
-        
-        <category>endwalker</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
