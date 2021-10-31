@@ -1,0 +1,148 @@
+- name: Adamantoise
+  id: Adamantoise
+  dc: aether
+  active: true
+
+- name: Cactuar
+  id: cactuar
+  dc: aether
+
+- name: Faerie
+  id: faerie
+  dc: aether
+
+- name: Gilgamesh
+  id: gilgamesh
+  dc: aether
+
+- name: Jenova
+  id: jenova
+  dc: aether
+
+- name: Midgardsormr
+  id: midgardsormr
+  dc: aether
+
+- name: Sargatanas
+  id: sargatanas
+  dc: aether
+
+- name: Siren
+  id: siren
+  dc: aether
+
+- name: Balmung
+  id: balmung
+  dc: crystal
+  active: true
+
+- name: Brynhildr
+  id: brynhildr
+  dc: crystal  
+
+- name: Coeurl
+  id: coeurl
+  dc: crystal  
+
+- name: Diabolos
+  id: diabolos
+  dc: crystal  
+
+- name: Goblin
+  id: goblin
+  dc: crystal  
+
+- name: Malboro
+  id: malboro
+  dc: crystal  
+
+- name: Mateus
+  id: mateus
+  dc: crystal  
+
+- name: Zalera
+  id: zalera
+  dc: crystal
+
+- name: Behemoth
+  id: behemoth
+  dc: primal
+  active: true
+
+- name: Excalibur
+  id: excalibur
+  dc: primal
+
+- name: Exodus
+  id: exodus
+  dc: primal
+
+- name: Famfrit
+  id: famfrit
+  dc: primal
+
+- name: Hyperion
+  id: hyperion
+  dc: primal
+
+- name: Lamia
+  id: lamia
+  dc: primal
+
+- name: Leviathan
+  id: leviathan
+  dc: primal
+
+- name: Ultros
+  id: ultros
+  dc: primal
+
+- name: Cerberus
+  id: cerberus
+  dc: chaos
+  active: true
+
+- name: Louisoix
+  id: louisoix
+  dc: chaos
+
+- name: Moogle
+  id: moogle
+  dc: chaos
+
+- name: Omega
+  id: omega
+  dc: chaos
+
+- name: Ragnarok
+  id: ragnarok
+  dc: chaos
+
+- name: Spriggan
+  id: spriggan
+  dc: chaos
+
+- name: Lich
+  id: lich
+  dc: light
+  active: true
+
+- name: Odin
+  id: odin
+  dc: light
+
+- name: Phoenix
+  id: phoenix
+  dc: light
+
+- name: Shiva
+  id: shiva
+  dc: light
+
+- name: Twintania
+  id: twintania
+  dc: light
+
+- name: Zodiark
+  id: zodiark
+  dc: light

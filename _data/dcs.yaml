@@ -1,0 +1,21 @@
+- name: Aether
+  id: aether
+  region: america
+  active: true
+
+- name: Crystal
+  id: crystal
+  region: america
+
+- name: Primal
+  id: primal
+  region: america  
+
+- name: Chaos
+  id: chaos
+  region: europa
+  active: true
+
+- name: Light
+  id: light
+  region: europa

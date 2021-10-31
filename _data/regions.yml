@@ -1,0 +1,6 @@
+- name: America
+  id: america
+  active: true
+
+- name: Europa
+  id: europa
