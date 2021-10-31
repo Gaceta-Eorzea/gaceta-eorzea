@@ -70,58 +70,58 @@ comments: false
                                     <div class="container">
                                         <div class="span2">
                                         <div class="row">
-                                            <div class="col-4">
+                                            <div class="col-5">
                                             <b>Foco</b>
                                             </div>
-                                            <div class="col">
+                                            <div class="col-7">
                                             {{ fc.foco }}
                                             </div>
                                         </div>
                                         <div class="row">
-                                            <div class="col-4">
+                                            <div class="col-5">
                                             <b>Descripción</b>
                                             </div>
-                                            <div class="col">
+                                            <div class="col-7">
                                             {{ fc.descripcion }}
                                             </div>
                                         </div>
                                         <div class="row">
-                                            <div class="col-4">
+                                            <div class="col-5">
                                             <b>Miembros</b>
                                             </div>
-                                            <div class="col">
+                                            <div class="col-7">
                                             {{ fc.miembros }}
                                             </div>
                                         </div>                                        
                                         <div class="row">
-                                            <div class="col-4">
+                                            <div class="col-5">
                                             <b>Lider</b>
                                             </div>
-                                            <div class="col">
+                                            <div class="col-7">
                                             {{ fc.lider }}
                                             </div>
                                         </div>
                                         <div class="row">
-                                            <div class="col-4">
+                                            <div class="col-5">
                                             <b>Contactos</b>
                                             </div>
-                                            <div class="col">
+                                            <div class="col-7">
                                             {{ fc.contactos }}
                                             </div>
                                         </div>
                                         <div class="row">
-                                            <div class="col-4">
+                                            <div class="col-5">
                                             <b>Redes</b>
                                             </div>
-                                            <div class="col">
+                                            <div class="col-7">
                                             {{ fc.redes }}
                                             </div>
                                         </div>
                                         <div class="row">
-                                            <div class="col-4">
+                                            <div class="col-5">
                                             <b>Dirección</b>
                                             </div>
-                                            <div class="col">
+                                            <div class="col-7">
                                             {{ fc.direccion }}
                                             </div>
                                         </div> 
