@@ -5,9 +5,35 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Nov 2021 08:56:04 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Nov 2021 08:56:04 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Nov 2021 15:31:37 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Nov 2021 15:31:37 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Black Mage Media Tour</title>
+        <description>&lt;p&gt;El cambio más destacable del &lt;strong&gt;Black Mage&lt;/strong&gt; es la pérdida del &lt;strong&gt;Enochian&lt;/strong&gt; como bufo a mantener, convirtiéndose en un trait que actuará de forma permanente. Más allá de esto seguimos teniendo un job centrado en magia elemental que irá alternando entre su fase de fuego, que será la de mayor DPS; y su fase de hielo destinada a recuperar maná.&lt;/p&gt;
+
+&lt;p&gt;Entre las habilidades nuevas se puede destacar la inclusión de &lt;strong&gt;High Fire II&lt;/strong&gt; y &lt;strong&gt;High Blizzard II&lt;/strong&gt; destinadas a potenciar el uso de este tipo de áreas, especialmente en el caso de High Fire II que nos aporta un bufo que mejorará la potencia de nuestros flares. También tendremos un nuevo tipo de magia con un consumo de maná relativamente elevado llamado &lt;strong&gt;Paradox&lt;/strong&gt; que nos permitirá mantener el efecto de Astral Fire III, además de tener un 40% de probabilidades de activar el proc de Fire III.&lt;/p&gt;
+
+&lt;p&gt;O por ejemplo la inclusión de &lt;strong&gt;Amplifier&lt;/strong&gt; que nos permitirá obtener directamente un stack de polyglot, pero teniendo éste un tiempo de recast de 120 segundos. El rey de las explosiones vuelve a Endwalker preparado para continuar haciendo grandísimas explosiones.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/XMBETh11auk?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/media-tour-blm/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-blm/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>¡Lia nos la lía! 10 preguntas a Setzy</title>
@@ -605,63 +631,6 @@ el pilar sobre el que descansa firmemente la fe religiosa en Eorzea.&lt;/p&gt;
         
         
         <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Enciclopedia Eorzea: Hydaelyn y Zodiark II</title>
-        <description>&lt;p&gt;&lt;em&gt;Os traemos página a página la Enciclopedia de Eorzea traducida al Español.&lt;br /&gt;
-Con cientos de páginas que detallan todo, desde la historia y las culturas de Eorzea hasta su geografía y sus habitantes, este tomo elaborado por expertos es un verdadero tesoro de información inestimable.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;La Enciclopedia de Eorzea ofrece una visión en profundidad de las ciudades-estado, las organizaciones y los personajes más importantes del reino, así como de sus diversas profesiones y sus principales practicantes. Los lectores también conocerán a los hombres bestia de Eorzea, sus culturas, costumbres y deidades, y obtendrán datos detallados sobre las innumerables criaturas del reino, desde las más tímidas hasta las más terroríficas.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;hydaelyn-y-zodiark-ii&quot;&gt;HYDAELYN Y ZODIARK II&lt;/h3&gt;
-
-&lt;h4 id=&quot;los-guerreros-de-la-luz&quot;&gt;LOS GUERREROS DE LA LUZ&lt;/h4&gt;
-
-&lt;p&gt;En las lunas anteriores a que la Calamidad golpeara y diera paso a la Séptima Era Umbral, Eorzea fue testigo del surgimiento de improbables héroes que tomaron sus espadas para evitar la inminente perdición. Sin embargo, a pesar de sus innumerables hazañas, los nombres y los rostros de estos valientes hombres y mujeres se han borrado misteriosamente de las mentes de los eorzeanos, y lo único que queda es un resplandor blanco y abrasador que nos ciega de los recuerdos que deberían existir. Estas sombras han sido apodadas desde entonces los Guerreros de la Luz, y aunque sus identidades nunca serán del todo conocidas por la mayoría, sus hazañas vivirán en las leyendas por toda la eternidad.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/lore/enciclopedia/07/warriors2.jpg&quot; alt=&quot;guerreros de la luz&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;el-eco&quot;&gt;EL ECO&lt;/h4&gt;
-&lt;p&gt;Entonces, ¿quiénes fueron estos Guerreros de la Luz que sacaron a Eorzea del precipicio de la destrucción? El estudio de documentos antiguos, desde tomos mohosos hasta esculturas o murales, nos muestra que no son exclusivos de la Sexta Era Astral, y que héroes similares han aparecido antes de cada Calamidad para asegurar la supervivencia de la humanidad.&lt;/p&gt;
-
-&lt;p&gt;Por ejemplo, antes de la gran inundación que marcó el final de la Quinta Era Astral, la leyenda nos habla de doce Arcontes que descendieron a Eorzea para advertir a sus habitantes de la subida de las aguas. También hay relatos del Cercano Oriente que siguen las hazañas de grandes Guerreros conocidos como los Valientes del Zodíaco, guerreros cuya aparición también coincide con una Calamidad pasada. Pero, ¿qué es lo que vincula a estas figuras legendarias con los Guerreros de la Luz que surgieron hace sólo cinco veranos? Una de las respuestas podría ser el Cristal Madre y el poder que, según ciertas  hipótesis, proporciona a quienes son elegidos por Ella. Los mitos eorzeanos están llenos de historias de héroes a los que se les han concedido poderes aparentemente de otro mundo. Aunque gran parte de esto puede atribuirse a los adornos de los bardos que buscan añadir sabor a sus melosas historias de espada y brujería, ¿podría ser que estas historias también digan algo de verdad, ya que los poderes que describen son a menudo similares a los documentados por los Vástagos del Séptimo Amanecer como experimentados por aquellos pocos que han tenido contacto con Hydaelyn? Este poder, conocido como el Eco, se presenta en muchas formas, algunas de las cuales se enumeran a continuación:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;El poder de trascender las palabras&lt;br /&gt;
-Para aquellos bendecidos con el poder de trascender las palabras, el lenguaje ya no supone una barrera para la comunicación intercultural. Las expresiones vocales se desvanecen y son sustituidas por una comprensión interna de las intenciones del otro. A la inversa, las palabras pronunciadas por alguien con este poder son comprendidas inmediatamente por todos, sin necesidad de interpretación lingüística.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;El poder de trascender el tiempo&lt;br /&gt;
-Los poseedores de esta forma del Eco pueden viajar mentalmente hacia atrás en el tiempo para ser testigos de los acontecimientos vividos por otros. Originalmente se pensaba que la proximidad con el poseedor de la memoria era necesaria para la transcensión; sin embargo, recientemente se ha descubierto que el éter nemónico residual que permanece en un lugar también puede desencadenar estos recuerdos en tercera persona.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;El poder de trascender mundos&lt;br /&gt;
-Aunque son raros, también se ha informado de casos de individuos que, a través de la manifestación de la propia Luz de Hydaelyn, pueden caminar por el plano etéreo y comunicarse directamente con el propio planeta.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;la-bendición-de-la-luz&quot;&gt;LA BENDICIÓN DE LA LUZ&lt;/h4&gt;
-&lt;p&gt;Si los recuerdos de los autoproclamados héroes son creíbles, Hydaelyn a menudo intenta ponerse en contacto con aquellos que poseen el Eco, a veces en forma de voz, otras veces en forma de visión, y otras veces en forma de sentidos mejorados o barreras protectoras para protegerse de poderosos hechizos. Estas bendiciones han sido llamadas “bendiciones de la Luz”, pero a pesar de su frecuencia, se sabe poco sobre ellas. Sin embargo, se supone que muchos de los “milagros” que aparecen en los mitos y las leyendas son en realidad casos en los que Hydaelyn otorga su bendición a un individuo.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/lore/enciclopedia/07/blessings2.jpg&quot; alt=&quot;bendicion de la luz&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;em&gt;Traducción de la página 15 de la Enciclopedia de Eorzea por Lia Tales para Gaceta Eorzea.&lt;/em&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 Oct 2021 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/enciclopedia-7/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/enciclopedia-7/</guid>
-        
-        <category>lore</category>
-        
-        <category>enciclopedia</category>
-        
-        
-        <category>lore</category>
         
       </item>
     
