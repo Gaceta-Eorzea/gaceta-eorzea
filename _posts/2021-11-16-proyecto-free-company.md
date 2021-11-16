@@ -2,12 +2,12 @@
 layout: post
 title:  "Proyecto para Promocionar Free Company"
 author: cecile
-categories: [ ]
+categories: [ noticias ]
 tags: [noticias]
 image: assets/images/articles/noticias/directorio/directorio.png
 description: "Proyecto para Promocionar vuestras Free Company"
 featured: false
-hidden: true
+hidden: false
 ---
 
 Empezamos un **nuevo proyecto en colaboración con** <a target="_blank" href="https://www.youtube.com/zarovich">Zarovich</a> donde vamos a poder disponer de un **directorio actualizado de Free Company Hispanas**, el cual nos servirá para que cada una de ellas se pueda **auto-promocionar** y para aquellos que quieran **encontrar** una tengan mas **información** sobre las mismas.
