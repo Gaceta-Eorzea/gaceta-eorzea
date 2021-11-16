@@ -6,11 +6,11 @@ comments: false
 ---
 
 <div class="container">
-{% include youtube.html id='m5oaBLO-PRM' %}
+{% include youtube.html id='W7ksKL08n08' %}
 </div>
-
-
-<i>Este listado esta ordenado <b>alfabéticamente</b></i>.
+<br/>
+Si quieres salir en este **directorio** y en los **videos** que **Zarovich** ira creando **rellena** <a href="https://forms.gle/83z2pDiKRvHPKKxU6" target="_blank">este formulario</a>.<br/>
+<sub><sup><i>Este listado esta ordenado <b>alfabéticamente</b></i>.</sup></sub>
 
 <!-- ## REGIONS -->
 <ul class="nav nav-tabs" id="regionsTab" role="tablist">
