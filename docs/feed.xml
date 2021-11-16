@@ -5,9 +5,35 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Nov 2021 10:20:24 +0000</pubDate>
-    <lastBuildDate>Tue, 16 Nov 2021 10:20:24 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Nov 2021 14:55:21 +0000</pubDate>
+    <lastBuildDate>Tue, 16 Nov 2021 14:55:21 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Proyecto para Promocionar Free Company</title>
+        <description>&lt;p&gt;Empezamos un &lt;strong&gt;nuevo proyecto en colaboración con&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://www.youtube.com/zarovich&quot;&gt;Zarovich&lt;/a&gt; donde vamos a poder disponer de un &lt;strong&gt;directorio actualizado de Free Company Hispanas&lt;/strong&gt;, el cual nos servirá para que cada una de ellas se pueda &lt;strong&gt;auto-promocionar&lt;/strong&gt; y para aquellos que quieran &lt;strong&gt;encontrar&lt;/strong&gt; una tengan mas &lt;strong&gt;información&lt;/strong&gt; sobre las mismas.&lt;/p&gt;
+
+&lt;p&gt;En este proyecto &lt;strong&gt;Zarovich&lt;/strong&gt; nos ira ofreciendo unos &lt;strong&gt;videos&lt;/strong&gt; donde las diversas &lt;strong&gt;Fee Company Hispanas se presentarán&lt;/strong&gt; a la comunidad, pero no os preocupeis sino disponeis de medios para crear el video, o no sabeis como hacerlo, Zarovich os presentara con la información que nos mandeis.&lt;/p&gt;
+
+&lt;p&gt;Para participara teneis que &lt;strong&gt;rellenar&lt;/strong&gt; vuestros datos en el &lt;a href=&quot;https://forms.gle/83z2pDiKRvHPKKxU6&quot; target=&quot;_blank&quot;&gt;siguiente formulario&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por ultimo os dejamos un &lt;strong&gt;video donde se nos explica&lt;/strong&gt; todo al detalle.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/W7ksKL08n08?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/proyecto-free-company/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/proyecto-free-company/</guid>
+        
+        <category>noticias</category>
+        
+        
+      </item>
     
       <item>
         <title>Enciclopedia Eorzea: Los doce III</title>
@@ -799,32 +825,6 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
         
         
         <category>gold saucer</category>
-        
-      </item>
-    
-      <item>
-        <title>Black Mage Media Tour</title>
-        <description>&lt;p&gt;El cambio más destacable del &lt;strong&gt;Black Mage&lt;/strong&gt; es la pérdida del &lt;strong&gt;Enochian&lt;/strong&gt; como bufo a mantener, convirtiéndose en un trait que actuará de forma permanente. Más allá de esto seguimos teniendo un job centrado en magia elemental que irá alternando entre su fase de fuego, que será la de mayor DPS; y su fase de hielo destinada a recuperar maná.&lt;/p&gt;
-
-&lt;p&gt;Entre las habilidades nuevas se puede destacar la inclusión de &lt;strong&gt;High Fire II&lt;/strong&gt; y &lt;strong&gt;High Blizzard II&lt;/strong&gt; destinadas a potenciar el uso de este tipo de áreas, especialmente en el caso de High Fire II que nos aporta un bufo que mejorará la potencia de nuestros flares. También tendremos un nuevo tipo de magia con un consumo de maná relativamente elevado llamado &lt;strong&gt;Paradox&lt;/strong&gt; que nos permitirá mantener el efecto de Astral Fire III, además de tener un 40% de probabilidades de activar el proc de Fire III.&lt;/p&gt;
-
-&lt;p&gt;O por ejemplo la inclusión de &lt;strong&gt;Amplifier&lt;/strong&gt; que nos permitirá obtener directamente un stack de polyglot, pero teniendo éste un tiempo de recast de 120 segundos. El rey de las explosiones vuelve a Endwalker preparado para continuar haciendo grandísimas explosiones.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/XMBETh11auk?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/media-tour-blm/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-blm/</guid>
-        
-        <category>noticias</category>
-        
-        <category>endwalker</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     

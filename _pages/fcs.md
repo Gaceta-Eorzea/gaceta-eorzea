@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Directorio de Hermandades (Free Companies)
+title: Directorio de Free Company
 permalink: /fcs
+image: assets/images/articles/noticias/directorio/directorio.png
 comments: false
 ---
 
@@ -133,7 +134,7 @@ Si quieres salir en este **directorio** y en los **videos** que **Zarovich** ira
                             {% endif %}
                         {% endfor %}         
                         {% if total_fcs == 0 %}
-                            Ahora mismo no tenemos información disponible de Hermandades, <i>Free Companies</i>, en {{ server.name }}.
+                            Ahora mismo no tenemos información disponible de Free Company en {{ server.name }}.
                         {% endif %}                                      
                     </div>
                     {% endif %}
