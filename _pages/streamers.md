@@ -136,16 +136,16 @@ comments: true
             <div class="card p-3 mb-2">
                 <div class="d-flex justify-content-between">
                     <div class="d-flex flex-row align-items-center">
-                        <div class="icon"><a href="https://www.twitch.tv/karionsiand" target="_blank"><img style="border-radius: 50%;" height="100" src="https://static-cdn.jtvnw.net/jtv_user_pictures/aa20efbe-23ad-4eee-b1e6-47dbdec60400-profile_image-70x70.png"></a></div>
+                        <div class="icon"><a href="https://www.twitch.tv/zarovichyt" target="_blank"><img style="border-radius: 50%;" height="100" src="https://static-cdn.jtvnw.net/jtv_user_pictures/aa20efbe-23ad-4eee-b1e6-47dbdec60400-profile_image-70x70.png"></a></div>
                         <div class="ms-2 c-details">
-                            <h5 class="mb-0">&nbsp;<a href="https://www.twitch.tv/karionsiand" target="_blank">Elmira Siand</a></h5><span></span>
+                            <h5 class="mb-0">&nbsp;<a href="https://www.twitch.tv/zarovichyt" target="_blank">Zarovich</a></h5><span></span>
                         </div>
                     </div>
                     <div class="badge"> <span>&nbsp;</span> </div>
                 </div>
                 <div class="mt-5">
-                    <a href="https://www.twitch.tv/karionsiand" target="_blank"><i class="fab fa-twitch">&nbsp;</i>karionsiand</a><br/>
-                    <a href="https://twitter.com/elmira_siand" target="_blank"><i class="fab fa-twitter">&nbsp;</i>Elmira Siand</a><br/>                    
+                    <a href="https://www.twitch.tv/zarovichyt" target="_blank"><i class="fab fa-twitch">&nbsp;</i>ZarovichYT</a><br/>
+                    <a href="https://twitter.com/zarovich_yt" target="_blank"><i class="fab fa-twitter">&nbsp;</i>Zarovich</a><br/>                    
                     <a href="https://www.youtube.com/zarovich" target="_blank"><i class="fab fa-youtube">&nbsp;</i>Zarovich</a>
                 </div>
             </div>
