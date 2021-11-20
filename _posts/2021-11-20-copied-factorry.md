@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guía de The Copied"
+title:  "Guía de The Copied Factory"
 author: zex
 categories: [ encuentros ]
 tags: [guía, encuentros]
