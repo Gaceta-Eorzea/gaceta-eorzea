@@ -9,7 +9,7 @@ description: "Guía de la incursión de alianza de The Copied Factory"
 featured: false
 hidden: false
 ---
-Hoy os traemos una **vídeo guía en Español** de la incursión de alianza de *The Copied Factory**, la cual es la primera de la cadena de **YoRHa: Dark Apocalypse** la cual fue introducida en **Shadowbringers**.
+Hoy os traemos una **vídeo guía en Español** de la incursión de alianza de **The Copied Factory**, la cual es la primera de la cadena de **YoRHa: Dark Apocalypse** la cual fue introducida en **Shadowbringers**.
 
 Tanto si sois **nuevos jugadores** o queréis **conocer mejor las mecánicas** de esta alianza esta guía os será de mucha utilidad para poder completar el contenido como **Campeones de la Luz** que somos.
 
