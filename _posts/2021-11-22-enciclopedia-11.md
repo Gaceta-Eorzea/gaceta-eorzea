@@ -18,8 +18,8 @@ Con cientos de páginas que detallan todo, desde la historia y las culturas de E
 
 ### MONEDA Y MEDIDAS
 
-<p align="center">Los eorzeanos emplean un sistema de unidades y medidas que sirven para cuantificar diversos aspectos de su vida cotidiana.<br/>
-Desde la moneda hasta las unidades de longitud y peso, el conocimiento de estos conceptos y su origen permitirá al lector profundizar en el conocimiento del reino y las referencias empleadas por sus habitantes para describir el mundo que les rodea.</p>
+<i>Los eorzeanos emplean un sistema de unidades y medidas que sirven para cuantificar diversos aspectos de su vida cotidiana.<br/>
+Desde la moneda hasta las unidades de longitud y peso, el conocimiento de estos conceptos y su origen permitirá al lector profundizar en el conocimiento del reino y las referencias empleadas por sus habitantes para describir el mundo que les rodea.</i>
 
 
 #### HISTORIA DE LA MONEDA
