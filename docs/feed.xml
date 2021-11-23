@@ -5,9 +5,33 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Nov 2021 14:14:00 +0000</pubDate>
-    <lastBuildDate>Tue, 23 Nov 2021 14:14:00 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Nov 2021 16:10:28 +0000</pubDate>
+    <lastBuildDate>Tue, 23 Nov 2021 16:10:28 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Bard Media Tour</title>
+        <description>&lt;p&gt;Para aquellos que estais acostumbrados a utilizar el &lt;strong&gt;Bard&lt;/strong&gt; en Shadowbringers, en Endwalker no vais a tener ningún problema con él y es más, tendréis nuevas habilidades a vuestra disposición para hacer su experiencia de juego más completa. La novedad más importante es el añadido de los Coda. Los Coda los irás consiguiendo por cada una de las 3 canciones que vayas ejecutando, y cuando acumules los tres podrás utilizar al máximo de su potencia la nueva habilidad &lt;strong&gt;Radiant Finale&lt;/strong&gt; que incrementará el daño de todo el grupo en un 5% cuando se utiliza en su máxima potencia con los 3 Codas acumulados. Por lo que os tocará seguir haciendo la rotación de las 3 canciones como habeis hecho hasta ahora, pero con este añadido.&lt;/p&gt;
+
+&lt;p&gt;En ataques en área también se añade una actualización al Quick Nock, que pasará a ser &lt;strong&gt;Ladonsbite&lt;/strong&gt; a partir de nivel 82, pero conservando exactamente las mismas mecánicas. A esto se añade que cada vez que utiliceis el Apex Arrow que utilizabais con el Soul Voice, podrás hacer un ataque a continuación de potencia 500 llamado &lt;strong&gt;Blast Arrow&lt;/strong&gt;. En éste vídeo os explico con detalle las novedades del Bardo para la próxima expansión &lt;strong&gt;Endwalker&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/Iuu7a6gAQKs?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/media-tour-brd/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-brd/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>¡Lia nos la lía! 10 preguntas a Zex Krow</title>
@@ -645,37 +669,6 @@ Las hojas caídas del árbol y dejadas pudrir en el Foso son las que crean el In
         <category>lore</category>
         
         <category>enciclopedia</category>
-        
-        
-        <category>lore</category>
-        
-      </item>
-    
-      <item>
-        <title>Historia Completa de FFXIV – Parte 8: Réquiem</title>
-        <description>&lt;p&gt;Tras los eventos ocurridos en “Stormblood”, Lyse, como líder de la resistencia se enfrenta a las dificultades de llevar Ala Mhigo hacia el futuro.
-En esta parte conoceremos también a Asahi, el hermano de Yotsuyu, y su malévolo plan para recuperar a su hermana… o más bien para no dejar que su hermana revele los planes del imperio a nuestro grupo.&lt;/p&gt;
-
-&lt;p&gt;Además, por motivos que desconocemos, a causa de una misteriosa voz que habla a los vástagos en su mente, los miembros del grupo comienzan a entrar en un estado de coma del que no podemos despertarles.&lt;/p&gt;
-
-&lt;p&gt;En el conflicto final con el Imperio, al guerrero de la Luz se le revela una terrible verdad, y es que sus compañeros han viajado (al menos sus mentes) a otro mundo, y que debemos viajar con ellos si queremos evitar la octava calamidad umbral en Hydaelyn.&lt;/p&gt;
-
-&lt;p&gt;Pasaos por el canal de YouTube para vídeos como este y muchos más.
-Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar guías y artículos de prácticamente todo lo que queráis saber sobre el mundo de FFXIV.&lt;/p&gt;
-
-&lt;p&gt;¡Guerreros de la luz, nos vemos en Eorzea!&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/24q_7veLT_U?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/historia-8/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/historia-8/</guid>
-        
-        <category>lore</category>
-        
-        <category>historia FFXIV</category>
         
         
         <category>lore</category>
