@@ -2,7 +2,7 @@
 layout: post
 title:  "Enciclopedia Eorzea: Eterología Básica I"
 author: lia
-categories: [ lore ]
+categories: [ enciclopedia ]
 tags: [lore, enciclopedia]
 image: assets/images/articles/lore/enciclopedia/enciclopedia.jpg
 description: "Traducción desde el Inglés de la Enciclopedia de Eorzea: Eterología Básica I"

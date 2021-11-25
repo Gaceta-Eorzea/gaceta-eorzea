@@ -2,7 +2,7 @@
 layout: post
 title:  "Relatos del Crepúsculo : Abre el corazón a la verdad"
 author: lia
-categories: [ lore ]
+categories: [ relatos ]
 tags: [lore, relatos]
 image: assets/images/articles/lore/crepusculo/01/crepusculo_01.jpg
 description: "Traducción desde el Japonés y el Inglés del relato original: Relatos del Crepúsculo - Abre el corazón a la verdad"

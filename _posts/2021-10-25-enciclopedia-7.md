@@ -2,7 +2,7 @@
 layout: post
 title:  "Enciclopedia Eorzea: Hydaelyn y Zodiark II"
 author: lia
-categories: [ lore ]
+categories: [ enciclopedia ]
 tags: [lore, enciclopedia]
 image: assets/images/articles/lore/enciclopedia/enciclopedia.jpg
 description: "Traducción desde el Inglés de la Enciclopedia de Eorzea: Hydaelyn y Zodiark II"

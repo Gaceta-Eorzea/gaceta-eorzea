@@ -2,7 +2,7 @@
 layout: post
 title:  "Enciclopedia Eorzea: Moneda y Medidas"
 author: lia
-categories: [ lore ]
+categories: [ enciclopedia ]
 tags: [lore, enciclopedia]
 image: assets/images/articles/lore/enciclopedia/enciclopedia.jpg
 description: "Traducción desde el Inglés de la Enciclopedia de Eorzea: Moneda y Medidas"
