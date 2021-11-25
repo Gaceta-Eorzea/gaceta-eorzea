@@ -5,9 +5,33 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Nov 2021 11:15:10 +0000</pubDate>
-    <lastBuildDate>Thu, 25 Nov 2021 11:15:10 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Nov 2021 17:59:53 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Nov 2021 17:59:53 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Ninja Media Tour</title>
+        <description>&lt;p&gt;El &lt;strong&gt;Ninja&lt;/strong&gt; para Endwalker recibe una novedad bastante llamativa que además durante el vídeo de las job actions se pudo ver claramente. A partir de ahora cada vez que hagais el ninjutsu de raiton, podreis continuarlo con un combo de un total de 3 pasos &lt;strong&gt;Raiton&lt;/strong&gt;, &lt;strong&gt;Forked Raiju&lt;/strong&gt; y &lt;strong&gt;Fleeting Raiji&lt;/strong&gt;. Además para el consumo de vuestro ninki gauge, vais a tener las mismas habilidades, pero a partir de Endwalker, cuando saqueis la sombra podreis utilizar &lt;strong&gt;Phantom Kamaitachi&lt;/strong&gt;, que ordenará a la sombra del Bunshin hacer un ataque de potencia 550.&lt;/p&gt;
+
+&lt;p&gt;También se pueden ver cambios tanto en el combo básico de melé del ninja, que lo simplifican un poco más y añaden una nueva habilidad para ayudar con la gestión del huton o por ejemplo en daño en área, para animar al jugador a usar el doton tendreis una nueva habilidad que sólo podreis utilizar cuando el doton esté desplegado.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/kllSLjNWa0E?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/media-tour-nin/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/media-tour-nin/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>FFXIV Gana 2 Golden Joystick 2021</title>
@@ -622,34 +646,6 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
         
         
         <category>entrevistas</category>
-        
-      </item>
-    
-      <item>
-        <title>Proyecto para Promocionar Free Company</title>
-        <description>&lt;p&gt;Empezamos un &lt;strong&gt;nuevo proyecto en colaboración con&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://www.youtube.com/zarovich&quot;&gt;Zarovich&lt;/a&gt; donde vamos a poder disponer de un &lt;strong&gt;directorio actualizado de Free Company Hispanas&lt;/strong&gt;, el cual nos servirá para que cada una de ellas se pueda &lt;strong&gt;auto-promocionar&lt;/strong&gt; y para aquellos que quieran &lt;strong&gt;encontrar&lt;/strong&gt; una tengan mas &lt;strong&gt;información&lt;/strong&gt; sobre las mismas.&lt;/p&gt;
-
-&lt;p&gt;En este proyecto &lt;strong&gt;Zarovich&lt;/strong&gt; nos ira ofreciendo unos &lt;strong&gt;videos&lt;/strong&gt; donde las diversas &lt;strong&gt;Fee Company Hispanas se presentarán&lt;/strong&gt; a la comunidad, pero no os preocupeis sino disponeis de medios para crear el video, o no sabeis como hacerlo, Zarovich os presentara con la información que nos mandeis.&lt;/p&gt;
-
-&lt;p&gt;Para participara teneis que &lt;strong&gt;rellenar&lt;/strong&gt; vuestros datos en el &lt;a href=&quot;https://forms.gle/83z2pDiKRvHPKKxU6&quot; target=&quot;_blank&quot;&gt;siguiente formulario&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Por ultimo os dejamos un &lt;strong&gt;video donde se nos explica&lt;/strong&gt; todo al detalle.&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/W7ksKL08n08?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/proyecto-free-company/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/proyecto-free-company/</guid>
-        
-        <category>noticias</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
