@@ -71,13 +71,19 @@ authors:
       display_name: Borjalos Sopabuena
       avatar: 'assets/images/avatars/borja.jpg'
       twitter: https://twitter.com/Borjalos
-      description: "Un random que juega, se divierte y grita mucho."         
-  elmira:
-      name: Zarovich 
-      display_name: Zarovich 
-      avatar: 'assets/images/avatars/elmira.jpg'
-      twitter: https://www.youtube.com/zarovich
-      description: "Creador de contenido principalmente de Final Fantasy XIV en YouTube, con guías, novedades, comentarios y opinión sobre el juego."        
+      description: "Un random que juega, se divierte y grita mucho."
+  borja:
+      name: Borjalos Sopabuena
+      display_name: Borjalos Sopabuena
+      avatar: 'assets/images/avatars/borja.jpg'
+      twitter: https://twitter.com/Borjalos
+      description: "Un random que juega, se divierte y grita mucho."               
+  fandub:
+      name: Fandub 
+      display_name: FFXIV Fandub 
+      avatar: 'assets/images/avatars/fandub.jpg'
+      twitter: https://twitter.com/FFXIV_Fandub
+      description: "Proyecto de fandub en Español de las escenas de Final Fantasy XIV"        
 # Plugins
 plugins:
   - jekyll-paginate
