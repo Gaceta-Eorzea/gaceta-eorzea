@@ -6,7 +6,7 @@ categories: [ noticias ]
 tags: [evento, noticias]
 image: assets/images/articles/noticias/moogle-oct-21/trove.jpg
 description: "Detalles del evento del asombroso tesoro de los Moogle"
-featured: true
+featured: false
 hidden: false
 ---
 

@@ -5,8 +5,19 @@ title: Portada
 
 {% if page.url == "/" %}
 
-<!-- Featured
+
+
+<!-- Featured 
 ================================================== -->
+{% assign total_destacados = 0 %}
+{% for post in site.posts %}
+    {% if post.featured == true %}
+        {% assign total_destacados = total_destacados | plus:1 %}
+    {% endif %}
+{% endfor %}    
+
+{% if total_destacados != 0 %}
+
 <section class="featured-posts">
     <div class="section-title">
         <h2><span>Destacados</span></h2>
@@ -25,6 +36,24 @@ title: Portada
 
     </div>
 </section>
+
+{% endif %} 
+
+
+<div class="container">    
+    <div class="row">    
+        <div class="col-lg-4 col-md-6 mb-30px card-group" align="center">
+            <a href="/category/enciclopedia/"><img class="img-fluid" src="/assets/images/banners/banner2.jpg" alt="Enciclopedia Eorzea"></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-30px card-group" align="center">
+            <img class="img-fluid" src="/assets/images/banners/banner1.jpg" alt="El Ocular">
+        </div>        
+        <div class="col-lg-4 col-md-6 mb-30px card-group" align="center">
+            <a href="/category/relatos/"><img class="img-fluid" src="/assets/images/banners/banner3.jpg" alt="Relatos"></a>
+        </div>                
+    </div>
+</div>    
+
 
 {% endif %}
 
