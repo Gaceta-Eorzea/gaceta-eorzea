@@ -12,6 +12,8 @@ hidden: false
 *Os traemos página a página la Enciclopedia de Eorzea traducida al Español.
 Con cientos de páginas que detallan todo, desde la historia y las culturas de Eorzea hasta su geografía y sus habitantes, este tomo elaborado por expertos es un verdadero tesoro de información inestimable.*
 
+## CAPÍTULO I : HYDAELYN
+
 ### Eterología Básica I
 
 El éter no sólo es el elemento básico de toda la creación, sino también la energía vital de la que se nutren las distintas escuelas de magia. Sin el conocimiento del éter y su funcionamiento, los estudiosos entenderían mucho menos el mundo y su funcionamiento interno.
