@@ -5,9 +5,133 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Nov 2021 18:23:51 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Nov 2021 18:23:51 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Nov 2021 13:47:33 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Nov 2021 13:47:33 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Consejos de Configuración para Endwalker</title>
+        <description>&lt;p&gt;Con &lt;strong&gt;Endwalker&lt;/strong&gt; a la vuelta de la esquina os vamos a dar unos pequeños &lt;strong&gt;consejos&lt;/strong&gt; de algunos cambios que podéis hacer en la &lt;strong&gt;configuración&lt;/strong&gt; del juego para hacer vuestro inicial mas satisfactorio. La mayoria de estas opciones podemos usarlas solo en la salida de Endwalker y revertirlas posteriormente.&lt;/p&gt;
+
+&lt;h3 id=&quot;aceptando-misiones&quot;&gt;Aceptando Misiones&lt;/h3&gt;
+
+&lt;p&gt;Una de las cosas que a veces se nos hace &lt;strong&gt;dificil&lt;/strong&gt; es tanto &lt;strong&gt;hablar con NPCs o interaccionar con objetos&lt;/strong&gt; en el suelo cuando hay un &lt;strong&gt;gran numero de jugadores encima&lt;/strong&gt; de lo que queremos clickar con el raton.&lt;/p&gt;
+
+&lt;p&gt;El juego dispone de un &lt;strong&gt;solucion&lt;/strong&gt; para esto facilmente usando el &lt;strong&gt;Keybinding de Confirmación&lt;/strong&gt;, por &lt;strong&gt;defecto&lt;/strong&gt; es el numero &lt;strong&gt;0 del teclado numerico&lt;/strong&gt;, aunque podemos &lt;strong&gt;cambiarlo&lt;/strong&gt; en las opciones de &lt;strong&gt;Keybind &amp;gt; System &amp;gt; Confirm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/keybind_01.jpg&quot; alt=&quot;Keybind 01&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez establecido el keybind, o usando el por defecto, podemos ponernos en &lt;strong&gt;frente al NPC o objeto&lt;/strong&gt; que queramos interaccionar y al &lt;strong&gt;pulsar la tecla lo tarjetearemos&lt;/strong&gt;, &lt;strong&gt;aunque haya jugadores encima&lt;/strong&gt; o delate del, de la misma forma una &lt;strong&gt;nueva pulsacion abrirá la misión o usará el objeto&lt;/strong&gt;. (&lt;em&gt;Si seguimos pulsando el 0 podremos ir aceptando las siguientes parte de la conversacion sin tener que hacer click con el raton&lt;/em&gt;).&lt;/p&gt;
+
+&lt;h3 id=&quot;evitando-spoilers&quot;&gt;Evitando Spoilers&lt;/h3&gt;
+
+&lt;p&gt;Muchas veces nos han podido hacer &lt;strong&gt;spoiler la Main Scenario Quest&lt;/strong&gt; a proposito o incluso involuntariamente, con estos cambios intentar &lt;strong&gt;evitar&lt;/strong&gt; algunas de esos spoilers.&lt;/p&gt;
+
+&lt;h4 id=&quot;creando-un-nuevo-chat&quot;&gt;Creando un nuevo chat&lt;/h4&gt;
+
+&lt;p&gt;Para &lt;strong&gt;evitar&lt;/strong&gt; que alguien escribiendo por el &lt;strong&gt;chat de Shout, Yell o Say&lt;/strong&gt; nos fastidie la historia, cosa que &lt;strong&gt;alguna vez ha sucedido&lt;/strong&gt; en el pasado, podemos &lt;strong&gt;crearnos una pestaña de chat&lt;/strong&gt; donde &lt;strong&gt;filtremos&lt;/strong&gt; que mensajes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Primero&lt;/strong&gt; crearemos una &lt;strong&gt;nueva pestaña&lt;/strong&gt; de chat dandole al &lt;strong&gt;simbolo de mas&lt;/strong&gt; que aparece junto a las pestañas existentes, tras lo cual le pondremos un nombre en nuestro ejemplo lo llamaremos: &lt;em&gt;Social&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/chat_01.jpg&quot; alt=&quot;Chat 01&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez creada, o si ya teniamos una, le daremos al &lt;strong&gt;engranaje&lt;/strong&gt; que hay junto a las pestañas.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/chat_02.jpg&quot; alt=&quot;Chat 02&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En esta ventana haremos click en el &lt;strong&gt;botón de la nueva pestaña&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/chat_03.jpg&quot; alt=&quot;Chat 03&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Finalmente haremos click en de &lt;strong&gt;Uncheck All&lt;/strong&gt; y dejaremos &lt;strong&gt;activado&lt;/strong&gt; solo los chat de &lt;strong&gt;Tell, Party, Alliance, Free Company y PvP team&lt;/strong&gt;. (&lt;em&gt;Adicionalmente podeis activar los de chat de emotes si queréis verlos en esta pestaña&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/chat_04.jpg&quot; alt=&quot;Chat 04&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Con esto podremos activar esta pestaña para ver solo los chats filtrados mientras jugamos y de esa forma evitar los chat que nos puedan fastidiar la historia.&lt;/p&gt;
+
+&lt;h4 id=&quot;ocultando-titulos&quot;&gt;Ocultando Titulos&lt;/h4&gt;
+
+&lt;p&gt;En el pasado &lt;strong&gt;ha sucedido&lt;/strong&gt; tambien que determinados &lt;strong&gt;títulos puede ser un spoiler&lt;/strong&gt;, aunque cuando esto ha sucedido Square Enix los cambio a posteriori, sin embargo para evitar que nos pueda suceder podemos &lt;strong&gt;ocultar&lt;/strong&gt; los titulos de los demas jugadores.&lt;/p&gt;
+
+&lt;p&gt;Para ocultar el titulo de los jugadores podemos abrir &lt;strong&gt;Character Configuration&lt;/strong&gt; y elegir en la izquierda &lt;strong&gt;Display Name Settings&lt;/strong&gt;, despues elegiremos en los pestañas superiores &lt;strong&gt;Other&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finalmente tanto en &lt;strong&gt;Party Members&lt;/strong&gt; &amp;gt; &lt;strong&gt;Display Tittle Settings&lt;/strong&gt; como en &lt;strong&gt;Alliance Members&lt;/strong&gt; &amp;gt; &lt;strong&gt;Display Tittle Settings&lt;/strong&gt; lo pondremos a &lt;strong&gt;Hide&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/titulos_01.jpg&quot; alt=&quot;Titulos 1&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ocultando-nombre-de-minions&quot;&gt;Ocultando Nombre de Minions&lt;/h4&gt;
+
+&lt;p&gt;Tambien pueden existir &lt;strong&gt;nombres de minion que sean spoiler&lt;/strong&gt;, asi que podemos igualmente ocultarlos.&lt;/p&gt;
+
+&lt;p&gt;Para ocultar el titulo de los jugadores podemos abrir &lt;strong&gt;Character Configuration&lt;/strong&gt; y elegir en la izquierda &lt;strong&gt;Display Name Settings&lt;/strong&gt;, despues elegiremos en los pestañas superiores &lt;strong&gt;NPCs&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finalmente  en &lt;strong&gt;Minions&lt;/strong&gt; &amp;gt; &lt;strong&gt;Display Tittle Settings&lt;/strong&gt; lo pondremos a &lt;strong&gt;Never&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/minions_01.jpg&quot; alt=&quot;Minions 1&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;mejorando-rendimiento&quot;&gt;Mejorando rendimiento&lt;/h3&gt;
+
+&lt;p&gt;Por último queremos hablaros de unos consejos que podéis usar para &lt;strong&gt;evitar que os bajen mucho los FPS&lt;/strong&gt; por la gran &lt;strong&gt;cantidad de jugadores&lt;/strong&gt; que abra en las zonas, tanto donde cojamos misiones como si posteriormente queremos hacer actividades como The Hunt donde &lt;strong&gt;cientos de jugadores estara en pantalla&lt;/strong&gt; y posiblemente &lt;strong&gt;haciendo habilidades&lt;/strong&gt;, aunque sea tirar un simple peloton nuestra pantalla se llenara de ellos.&lt;/p&gt;
+
+&lt;h4 id=&quot;reduciendo-el-numero-de-jugadores-en-pantalla&quot;&gt;Reduciendo el numero de jugadores en pantalla&lt;/h4&gt;
+
+&lt;p&gt;Mostrar &lt;strong&gt;muchos jugadores en pantalla&lt;/strong&gt; puede ralentizarnos, pero el juego dispone de &lt;strong&gt;opciones para limitar&lt;/strong&gt; cuantos de ellos se muestran.&lt;/p&gt;
+
+&lt;p&gt;Para &lt;strong&gt;reducir&lt;/strong&gt; el numero má&lt;strong&gt;ximo de jugadores en pantalla&lt;/strong&gt; podemos cambiar en System Configuration, seleccionamos en los iconos de la izquierda &lt;strong&gt;Other Settings&lt;/strong&gt; y luego en &lt;strong&gt;Character and Object Quantity&lt;/strong&gt; lo ponemos en &lt;strong&gt;Minimum&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/character_limit.jpg&quot; alt=&quot;Titulos 1&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;quitando-los-numeros-e-iconos-flotantes-de-otros&quot;&gt;Quitando los numeros e iconos flotantes de otros&lt;/h4&gt;
+
+&lt;p&gt;El juego nos muestra con &lt;strong&gt;texto flotante&lt;/strong&gt; tanto el &lt;strong&gt;daño&lt;/strong&gt; como la &lt;strong&gt;sanación&lt;/strong&gt; que se realiza asi como los &lt;strong&gt;iconos&lt;/strong&gt; flotantes de &lt;strong&gt;Buffos y Debuffos&lt;/strong&gt; que obtienen los jugadores, esto incluye el de &lt;strong&gt;todos los jugadores&lt;/strong&gt;, &lt;strong&gt;incluso&lt;/strong&gt; aquellos que &lt;strong&gt;no esten en grupo&lt;/strong&gt; con nosotros. Esto puede &lt;strong&gt;afectarnos cuando hay muchos jugadores&lt;/strong&gt; combatiendo con un enemigo.&lt;/p&gt;
+
+&lt;p&gt;Para hacer que &lt;strong&gt;solo veamos nuestros numeros y iconos&lt;/strong&gt; flotantes de buffos y debuffos de otros jugadores podemos entrar en &lt;strong&gt;Character Configuration&lt;/strong&gt; seleccionar en la izquierda &lt;strong&gt;UI Settings&lt;/strong&gt; y luego en la pestaña superior &lt;strong&gt;HUD&lt;/strong&gt;. Finalmente desactivamos &lt;strong&gt;Display pop-up text&lt;/strong&gt;. (&lt;em&gt;Esto no quita nuestro propio texto e iconos flotantes&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/popup.jpg&quot; alt=&quot;Pop-Up Text&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;eliminar-los-efectos-graficos-de-las-habilidades-de-otros&quot;&gt;Eliminar los efectos graficos de las habilidades de otros&lt;/h4&gt;
+
+&lt;p&gt;Por ultimo podemos &lt;strong&gt;configurar&lt;/strong&gt; como mostramos los &lt;strong&gt;efectos graficos de las habilidades de los jugadores&lt;/strong&gt;, ya que si son &lt;strong&gt;muchos pueden tambien afectarnos al rendimiento&lt;/strong&gt;. Esto es altamente &lt;strong&gt;recomendable si vamos a participar en The Hunt&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Podemos ir a &lt;strong&gt;Character Configuration&lt;/strong&gt; y luego en la izquierda seleccionar &lt;strong&gt;Other Settings&lt;/strong&gt;, en &lt;strong&gt;Battle Effects Settings&lt;/strong&gt; podemos configurarlo en 3 categorias:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Own&lt;/strong&gt; : para &lt;strong&gt;nosotros&lt;/strong&gt; mismos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Party&lt;/strong&gt; : para nuestro &lt;strong&gt;grupo&lt;/strong&gt;, esto no incluye el resto de grupos de la Alianza si estamos en una.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Others&lt;/strong&gt; : El &lt;strong&gt;resto&lt;/strong&gt; de jugadores.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En cada uno podemos elegir &lt;strong&gt;3 modos&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Show All&lt;/strong&gt; : Para ver esas habilidades con &lt;strong&gt;todos sus efectos&lt;/strong&gt; al completo.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Show Limited&lt;/strong&gt; : Muestra &lt;strong&gt;algun efecto leve&lt;/strong&gt; cuando alguien usa una habilidad, como un brillo en el personaje, o un pequeño destello de color.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Show None&lt;/strong&gt; : &lt;strong&gt;No se muestra el efecto&lt;/strong&gt; visual de la habilidad.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nosotros personalmente os &lt;strong&gt;recomendamos&lt;/strong&gt; que lo dejeis como:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Own : Show All&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Party : Show Limited&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Others : Show None&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(&lt;strong&gt;esto no elimina las habilidades mas necesarias de ver como un area de Curación o un escudo de protección&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/battle.jpg&quot; alt=&quot;Battle&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/consejos-cfg-ew/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/consejos-cfg-ew/</guid>
+        
+        <category>guías</category>
+        
+        
+        <category>guías</category>
+        
+      </item>
     
       <item>
         <title>Enciclopedia Eorzea: La Historia de Eorzea</title>
@@ -476,135 +600,6 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
         
         
         <category>entrevistas</category>
-        
-      </item>
-    
-      <item>
-        <title>Enciclopedia Eorzea: Moneda y Medidas</title>
-        <description>&lt;p&gt;&lt;em&gt;Os traemos página a página la Enciclopedia de Eorzea traducida al Español.&lt;br /&gt;
-Con cientos de páginas que detallan todo, desde la historia y las culturas de Eorzea hasta su geografía y sus habitantes, este tomo elaborado por expertos es un verdadero tesoro de información inestimable.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;La Enciclopedia de Eorzea ofrece una visión en profundidad de las ciudades-estado, las organizaciones y los personajes más importantes del reino, así como de sus diversas profesiones y sus principales practicantes. Los lectores también conocerán a los hombres bestia de Eorzea, sus culturas, costumbres y deidades, y obtendrán datos detallados sobre las innumerables criaturas del reino, desde las más tímidas hasta las más terroríficas.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;moneda-y-medidas&quot;&gt;MONEDA Y MEDIDAS&lt;/h3&gt;
-
-&lt;p&gt;&lt;i&gt;Los eorzeanos emplean un sistema de unidades y medidas que sirven para cuantificar diversos aspectos de su vida cotidiana.&lt;br /&gt;
-Desde la moneda hasta las unidades de longitud y peso, el conocimiento de estos conceptos y su origen permitirá al lector profundizar en el conocimiento del reino y las referencias empleadas por sus habitantes para describir el mundo que les rodea.&lt;/i&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;historia-de-la-moneda&quot;&gt;HISTORIA DE LA MONEDA&lt;/h4&gt;
-&lt;p&gt;Cuando llegó la Sexta Calamidad Umbral, que asoló la tierra y se tragó a las antaño orgullosas naciones de magos y sabios, las monedas acuñadas y puestas en circulación por estas civilizaciones perdieron su valor, y la economía de Eorzea volvió a un sistema primitivo de trueque y comercio. A medida que el reino se recuperaba y reconstruía tras los albores de la Sexta Era Astral, las monedas de Mhach y Amdapor volvieron a tener un uso limitado, con valores asignados aproximadamente según el valor de los metales que las componían.&lt;/p&gt;
-
-&lt;p&gt;Cuando las ciudades-estado florecieron, algunos intereses hicieron que tomaran medidas para acuñar sus propias monedas, y Sharlayan e Ishgard no tardaron en seguir su ejemplo. Como el contacto entre las naciones en esta época era limitado, en el mejor de los casos, no se hizo ningún esfuerzo por introducir una estándar universal, y durante años se intercambiaron muchas y variadas monedas por toda la tierra.&lt;/p&gt;
-
-&lt;p&gt;Esto cambió en los años de paz que siguieron a la Guerra de Aurum. El comercio y las relaciones diplomáticas entre las naciones florecieron y, por razones de conveniencia económica, las voces que pedían una moneda universal se hicieron más fuertes.&lt;/p&gt;
-
-&lt;p&gt;En el año 1477 de la Sexta Era Astral, los líderes de las seis grandes ciudades-estado de Eorzea se reunieron y, tras un debate, tomaron la decisión de acuñar una moneda universal que se utilizara en todo el reino. Así, el gil, una moneda utilizada por el antiguo Imperio Allagan, fue reinstaurada como moneda estándar para todo el país.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/lore/enciclopedia/11/monedas.jpg&quot; alt=&quot;Monedas&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sobre el diseño del Gil&lt;/strong&gt;&lt;br /&gt;
-En tiempos de la antigüedad, las monedas solían llevar diseños inspirados en héroes, líderes o imágenes religiosas de las naciones que las acuñaban. Sin embargo, con la introducción del gil como moneda universal, un consenso de expertos de todas las naciones tomó la decisión de adoptar diseños neutrales, no arraigados en las tradiciones de ninguna cultura o nación, en aras de evitar debates innecesarios. Con este fin, se eligió el rostro de Nymeia, la Hiladora, para adornar la moneda de cien gils.&lt;br /&gt;
-Una excepción a la regla son las monedas conmemorativas de un gil emitidas por las grandes compañías para el Día de la Fundación, que llevan las imágenes de los líderes de sus respectivas ciudades-estado.&lt;/p&gt;
-
-&lt;h3 id=&quot;pesos-y-medidas&quot;&gt;PESOS Y MEDIDAS&lt;/h3&gt;
-&lt;p&gt;Los eorzeanos miden la longitud y la distancia en ilms, fulms, yalms y malms. El ilm es la unidad de medida fundamental, que equivale aproximadamente a la longitud del pulgar de un Hyur adulto, y los fulms, yalms y malms, más largos, se calculan utilizando el ilm como base. No hace falta decir que, como el tamaño de las partes del cuerpo puede variar mucho de una persona a otra, estas unidades eran algo imprecisas en los primeros tiempos de su uso. Aunque esto no solía ser un problema en comunidades pequeñas, la confusión no tardó en llegar cuando el comercio se extendió por todo el reino.&lt;/p&gt;
-
-&lt;p&gt;Las cosas llegaron a un punto crítico en el año 986 de la Sexta Era Astral, cuando un pirata que había llegado a Limsa Lominsa para adquirir telas de vela en los mercados negros se enfureció cuando su compra no alcanzó la longitud que creía haber pagado. Aunque existen relatos contradictorios del incidente, la mayoría coincide en que la refriega que siguió dejó unos cincuenta hombres muertos o heridos. El almirante Agatzahr Roehmerlsyn, de Limsa Lominsa, actuó con rapidez y arrestó al pirata que había provocado el alboroto, le cortó el pulgar y declaró que en adelante serviría como medida estándar de un ilm en todo el país. Se fabricaron réplicas de hierro fundido del dedo cortado del bucanero y se distribuyeron por todo el reino para que sirvieran de medida única, y las disputas sobre medidas imprecisas pronto pasaron a ser cosa del pasado.&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;    
-    &lt;div class=&quot;col-4 border bg-secondary&quot;&gt;
-      &lt;font color=&quot;white&quot;&gt;&lt;b&gt;UNIDAD&lt;/b&gt;&lt;/font&gt;
-    &lt;/div&gt;   
-    &lt;div class=&quot;col-8 border bg-secondary&quot;&gt;
-      &lt;font color=&quot;white&quot;&gt;&lt;b&gt;APROXIMACIÓN&lt;/b&gt;&lt;/font&gt;
-    &lt;/div&gt;           
-  &lt;/div&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-        1 ilm
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-        Un pulgar de Hyur adulto, una mora madura
-    &lt;/div&gt;            
-  &lt;/div&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-        1 fulm
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-        12 ilms, un pie de Hyur adulto, una pluma de cola de chocobo maduro
-    &lt;/div&gt;            
-  &lt;/div&gt;     
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-        1 yalm
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-        3 fulms, una hoja de espada bastarda, un macho Lalafell adulto
-    &lt;/div&gt;            
-  &lt;/div&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-        1 malm
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-        1760 yalms, la distancia que un Elezen adulto puede correr en unas diez campanadas. La altura aproximada de O'Ghomoro
-    &lt;/div&gt;            
-  &lt;/div&gt;    
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;    
-    &lt;div class=&quot;col-4 border bg-secondary&quot;&gt;
-      &lt;font color=&quot;white&quot;&gt;&lt;b&gt;UNIDAD&lt;/b&gt;&lt;/font&gt;
-    &lt;/div&gt;   
-    &lt;div class=&quot;col-8 border bg-secondary&quot;&gt;
-      &lt;font color=&quot;white&quot;&gt;&lt;b&gt;APROXIMACIÓN&lt;/b&gt;&lt;/font&gt;
-    &lt;/div&gt;           
-  &lt;/div&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-        1 onze
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-        Un pulgar de Hyur adulto, una moneda de 100 gil
-    &lt;/div&gt;            
-  &lt;/div&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-        1 ponze
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-        16 onzes, una piedra de balanza de mercader, un bloque de mantequilla de kukuru
-    &lt;/div&gt;            
-  &lt;/div&gt;     
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-        1 tonze
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-        2000 ponzes, un gooblue completamente maduro. 600 botellas de tinto Wineport (1 envío estándar marítimo)
-    &lt;/div&gt;            
-  &lt;/div&gt;  
-&lt;/div&gt;
-
-&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;em&gt;Traducción de la página 20 de la Enciclopedia de Eorzea por Lia Tales para Gaceta Eorzea.&lt;/em&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/enciclopedia-11/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/enciclopedia-11/</guid>
-        
-        <category>lore</category>
-        
-        <category>enciclopedia</category>
-        
-        
-        <category>enciclopedia</category>
         
       </item>
     
