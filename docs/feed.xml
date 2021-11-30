@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Nov 2021 14:22:58 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Nov 2021 14:22:58 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Nov 2021 14:55:45 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Nov 2021 14:55:45 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -85,7 +85,7 @@
 
 &lt;p&gt;El juego nos muestra con &lt;strong&gt;texto flotante&lt;/strong&gt; tanto el &lt;strong&gt;daño&lt;/strong&gt; como la &lt;strong&gt;sanación&lt;/strong&gt; que se realiza asi como los &lt;strong&gt;iconos&lt;/strong&gt; flotantes de &lt;strong&gt;Buffos y Debuffos&lt;/strong&gt; que obtienen los jugadores, esto incluye el de &lt;strong&gt;todos los jugadores&lt;/strong&gt;, &lt;strong&gt;incluso&lt;/strong&gt; aquellos que &lt;strong&gt;no esten en grupo&lt;/strong&gt; con nosotros. Esto puede &lt;strong&gt;afectarnos cuando hay muchos jugadores&lt;/strong&gt; combatiendo con un enemigo.&lt;/p&gt;
 
-&lt;p&gt;Para hacer que &lt;strong&gt;solo veamos nuestros numeros y iconos&lt;/strong&gt; flotantes de buffos y debuffos de otros jugadores podemos entrar en &lt;strong&gt;Character Configuration&lt;/strong&gt; seleccionar en la izquierda &lt;strong&gt;UI Settings&lt;/strong&gt; y luego en la pestaña superior &lt;strong&gt;HUD&lt;/strong&gt;. Finalmente desactivamos &lt;strong&gt;Display pop-up text&lt;/strong&gt;. (&lt;em&gt;Esto no quita nuestro propio texto e iconos flotantes&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;Para hacer que &lt;strong&gt;solo veamos nuestros numeros y iconos&lt;/strong&gt; flotantes de buffos y debuffos, y no los de otros jugadores podemos entrar en &lt;strong&gt;Character Configuration&lt;/strong&gt; seleccionar en la izquierda &lt;strong&gt;UI Settings&lt;/strong&gt; y luego en la pestaña superior &lt;strong&gt;HUD&lt;/strong&gt;. Finalmente desactivamos &lt;strong&gt;Display pop-up text&lt;/strong&gt;. (&lt;em&gt;Esto no quita nuestro propio texto e iconos flotantes&lt;/em&gt;)&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/popup.jpg&quot; alt=&quot;Pop-Up Text&quot; /&gt;&lt;/p&gt;
 

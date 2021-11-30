@@ -89,7 +89,7 @@ Para **reducir** el numero má**ximo de jugadores en pantalla** podemos cambiar 
 
 El juego nos muestra con **texto flotante** tanto el **daño** como la **sanación** que se realiza asi como los **iconos** flotantes de **Buffos y Debuffos** que obtienen los jugadores, esto incluye el de **todos los jugadores**, **incluso** aquellos que **no esten en grupo** con nosotros. Esto puede **afectarnos cuando hay muchos jugadores** combatiendo con un enemigo.
 
-Para hacer que **solo veamos nuestros numeros y iconos** flotantes de buffos y debuffos de otros jugadores podemos entrar en **Character Configuration** seleccionar en la izquierda **UI Settings** y luego en la pestaña superior **HUD**. Finalmente desactivamos **Display pop-up text**. (*Esto no quita nuestro propio texto e iconos flotantes*)
+Para hacer que **solo veamos nuestros numeros y iconos** flotantes de buffos y debuffos, y no los de otros jugadores podemos entrar en **Character Configuration** seleccionar en la izquierda **UI Settings** y luego en la pestaña superior **HUD**. Finalmente desactivamos **Display pop-up text**. (*Esto no quita nuestro propio texto e iconos flotantes*)
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/consejos-cfg-ew/popup.jpg" alt="Pop-Up Text"/></p>
 
