@@ -53,9 +53,9 @@ Con esto podremos activar esta pestaña para ver solo los chats filtrados mientr
 
 #### Ocultando Titulos
 
-En el pasado **ha sucedido** tambien que determinados **títulos puede ser un spoiler**, aunque cuando esto ha sucedido Square Enix los cambio a posteriori, sin embargo para evitar que nos pueda suceder podemos **ocultar** los titulos de los demas jugadores.
+En el pasado **ha sucedido** tambien que determinados **títulos puede ser un spoiler**, aunque cuando esto ha sucedido Square Enix los cambio a posteriori, sin embargo para evitar que nos pueda suceder ahora podemos **ocultar** los titulos de los demas jugadores.
 
-Para ocultar el titulo de los jugadores podemos abrir **Character Configuration** y elegir en la izquierda **Display Name Settings**, despues elegiremos en los pestañas superiores **Other**.
+Para ocultar el titulo de los jugadores podemos abrir **Character Configuration** y elegir en la izquierda **Display Name Settings**, despues elegiremos en los pestañas superior **Other**.
 
 Finalmente tanto en **Party Members** > **Display Tittle Settings** como en **Alliance Members** > **Display Tittle Settings** lo pondremos a **Hide**
 
