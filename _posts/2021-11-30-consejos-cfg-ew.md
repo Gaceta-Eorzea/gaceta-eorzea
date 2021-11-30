@@ -10,7 +10,7 @@ featured: false
 hidden: false
 ---
 
-Con **Endwalker** a la vuelta de la esquina os vamos a dar unos pequeños **consejos** de algunos cambios que podéis hacer en la **configuración** del juego para hacer vuestro inicial mas satisfactorio. La mayoria de estas opciones podemos usarlas solo en la salida de Endwalker y revertirlas posteriormente.
+Con **Endwalker** a la vuelta de la esquina os vamos a dar unos pequeños **consejos** de algunos cambios que podéis hacer en la **configuración** del juego para hacer vuestro camino inicial mas satisfactorio. La mayoria de estas opciones podemos usarlas solo en la salida de Endwalker y revertirlas posteriormente.
 
 ### Aceptando Misiones
 
