@@ -25,7 +25,7 @@ Una vez establecido el keybind, o usando el por defecto, podemos ponernos en **f
 
 ### Evitando Spoilers
 
-Muchas veces nos han podido hacer **spoiler la Main Scenario Quest** a proposito o incluso involuntariamente, con estos cambios intentar **evitar** algunas de esos spoilers.
+Muchas veces nos han podido hacer **spoiler la Main Scenario Quest** a proposito o incluso involuntariamente, con estos cambios intentamos **evitar** algunas de esos spoilers.
 
 #### Creando un nuevo chat 
 
