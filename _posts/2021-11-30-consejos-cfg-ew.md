@@ -14,13 +14,13 @@ Con **Endwalker** a la vuelta de la esquina os vamos a dar unos pequeños **cons
 
 ### Aceptando Misiones
 
-Una de las cosas que a veces se nos hace **dificil** es tanto **hablar con NPCs o interaccionar con objetos** en el suelo cuando hay un **gran numero de jugadores encima** de lo que queremos clickar con el raton.
+Una de las cosas que a veces se nos hace **dificil** es tanto el **hablar con NPCs o interaccionar con objetos** en el suelo cuando hay un **gran numero de jugadores encima** de lo que queremos clickar con el raton.
 
 El juego dispone de un **solucion** para esto facilmente usando el **Keybinding de Confirmación**, por **defecto** es el numero **0 del teclado numerico**, aunque podemos **cambiarlo** en las opciones de **Keybind > System > Confirm**.
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/consejos-cfg-ew/keybind_01.jpg" alt="Keybind 01"/></p>
 
-Una vez establecido el keybind, o usando el por defecto, podemos ponernos en **frente al NPC o objeto** que queramos interaccionar y al **pulsar la tecla lo tarjetearemos**, **aunque haya jugadores encima** o delate del, de la misma forma una **nueva pulsacion abrirá la misión o usará el objeto**. (*Si seguimos pulsando el 0 podremos ir aceptando las siguientes parte de la conversacion sin tener que hacer click con el raton*).
+Una vez establecido el keybind, o usando el por defecto, podemos ponernos en **frente al NPC o objeto** que queramos interaccionar y al **pulsar la tecla lo tarjetearemos**, **aunque haya jugadores encima** o delate del, de la misma forma una **nueva pulsacion abrirá la misión o usará el objeto**. (*Si seguimos pulsando el binding podremos ir aceptando las siguientes partes de la conversacion sin tener que hacer click con el raton*).
 
 
 ### Evitando Spoilers
@@ -29,7 +29,7 @@ Muchas veces nos han podido hacer **spoiler la Main Scenario Quest** a proposito
 
 #### Creando un nuevo chat 
 
-Para **evitar** que alguien escribiendo por el **chat de Shout, Yell o Say** nos fastidie la historia, cosa que **alguna vez ha sucedido** en el pasado, podemos **crearnos una pestaña de chat** donde **filtremos** que mensajes.
+Para **evitar** que alguien escribiendo por el **chat de Shout, Yell o Say** nos fastidie la historia, cosa que **alguna vez ha sucedido** en el pasado, podemos **crearnos una pestaña de chat** donde **filtremos** los chat que no queramos ver.
 
 **Primero** crearemos una **nueva pestaña** de chat dandole al **simbolo de mas** que aparece junto a las pestañas existentes, tras lo cual le pondremos un nombre en nuestro ejemplo lo llamaremos: *Social*.
 
@@ -116,7 +116,7 @@ Nosotros personalmente os **recomendamos** que lo dejeis como:
 - **Party : Show Limited**
 - **Others : Show None**
 
-(**esto no elimina las habilidades mas necesarias de ver como un area de Curación o un escudo de protección**)
+(*esto no elimina las habilidades mas necesarias de ver como un area de Curación o un escudo de protección*)
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/guias/consejos-cfg-ew/battle.jpg" alt="Battle"/></p>
 

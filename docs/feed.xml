@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Nov 2021 14:03:08 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Nov 2021 14:03:08 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Nov 2021 14:17:35 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Nov 2021 14:17:35 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -15,13 +15,13 @@
 
 &lt;h3 id=&quot;aceptando-misiones&quot;&gt;Aceptando Misiones&lt;/h3&gt;
 
-&lt;p&gt;Una de las cosas que a veces se nos hace &lt;strong&gt;dificil&lt;/strong&gt; es tanto &lt;strong&gt;hablar con NPCs o interaccionar con objetos&lt;/strong&gt; en el suelo cuando hay un &lt;strong&gt;gran numero de jugadores encima&lt;/strong&gt; de lo que queremos clickar con el raton.&lt;/p&gt;
+&lt;p&gt;Una de las cosas que a veces se nos hace &lt;strong&gt;dificil&lt;/strong&gt; es tanto el &lt;strong&gt;hablar con NPCs o interaccionar con objetos&lt;/strong&gt; en el suelo cuando hay un &lt;strong&gt;gran numero de jugadores encima&lt;/strong&gt; de lo que queremos clickar con el raton.&lt;/p&gt;
 
 &lt;p&gt;El juego dispone de un &lt;strong&gt;solucion&lt;/strong&gt; para esto facilmente usando el &lt;strong&gt;Keybinding de Confirmación&lt;/strong&gt;, por &lt;strong&gt;defecto&lt;/strong&gt; es el numero &lt;strong&gt;0 del teclado numerico&lt;/strong&gt;, aunque podemos &lt;strong&gt;cambiarlo&lt;/strong&gt; en las opciones de &lt;strong&gt;Keybind &amp;gt; System &amp;gt; Confirm&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/keybind_01.jpg&quot; alt=&quot;Keybind 01&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Una vez establecido el keybind, o usando el por defecto, podemos ponernos en &lt;strong&gt;frente al NPC o objeto&lt;/strong&gt; que queramos interaccionar y al &lt;strong&gt;pulsar la tecla lo tarjetearemos&lt;/strong&gt;, &lt;strong&gt;aunque haya jugadores encima&lt;/strong&gt; o delate del, de la misma forma una &lt;strong&gt;nueva pulsacion abrirá la misión o usará el objeto&lt;/strong&gt;. (&lt;em&gt;Si seguimos pulsando el 0 podremos ir aceptando las siguientes parte de la conversacion sin tener que hacer click con el raton&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Una vez establecido el keybind, o usando el por defecto, podemos ponernos en &lt;strong&gt;frente al NPC o objeto&lt;/strong&gt; que queramos interaccionar y al &lt;strong&gt;pulsar la tecla lo tarjetearemos&lt;/strong&gt;, &lt;strong&gt;aunque haya jugadores encima&lt;/strong&gt; o delate del, de la misma forma una &lt;strong&gt;nueva pulsacion abrirá la misión o usará el objeto&lt;/strong&gt;. (&lt;em&gt;Si seguimos pulsando el binding podremos ir aceptando las siguientes partes de la conversacion sin tener que hacer click con el raton&lt;/em&gt;).&lt;/p&gt;
 
 &lt;h3 id=&quot;evitando-spoilers&quot;&gt;Evitando Spoilers&lt;/h3&gt;
 
@@ -29,7 +29,7 @@
 
 &lt;h4 id=&quot;creando-un-nuevo-chat&quot;&gt;Creando un nuevo chat&lt;/h4&gt;
 
-&lt;p&gt;Para &lt;strong&gt;evitar&lt;/strong&gt; que alguien escribiendo por el &lt;strong&gt;chat de Shout, Yell o Say&lt;/strong&gt; nos fastidie la historia, cosa que &lt;strong&gt;alguna vez ha sucedido&lt;/strong&gt; en el pasado, podemos &lt;strong&gt;crearnos una pestaña de chat&lt;/strong&gt; donde &lt;strong&gt;filtremos&lt;/strong&gt; que mensajes.&lt;/p&gt;
+&lt;p&gt;Para &lt;strong&gt;evitar&lt;/strong&gt; que alguien escribiendo por el &lt;strong&gt;chat de Shout, Yell o Say&lt;/strong&gt; nos fastidie la historia, cosa que &lt;strong&gt;alguna vez ha sucedido&lt;/strong&gt; en el pasado, podemos &lt;strong&gt;crearnos una pestaña de chat&lt;/strong&gt; donde &lt;strong&gt;filtremos&lt;/strong&gt; los chat que no queramos ver.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Primero&lt;/strong&gt; crearemos una &lt;strong&gt;nueva pestaña&lt;/strong&gt; de chat dandole al &lt;strong&gt;simbolo de mas&lt;/strong&gt; que aparece junto a las pestañas existentes, tras lo cual le pondremos un nombre en nuestro ejemplo lo llamaremos: &lt;em&gt;Social&lt;/em&gt;.&lt;/p&gt;
 
@@ -117,7 +117,7 @@
   &lt;li&gt;&lt;strong&gt;Others : Show None&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;(&lt;strong&gt;esto no elimina las habilidades mas necesarias de ver como un area de Curación o un escudo de protección&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;(&lt;em&gt;esto no elimina las habilidades mas necesarias de ver como un area de Curación o un escudo de protección&lt;/em&gt;)&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/battle.jpg&quot; alt=&quot;Battle&quot; /&gt;&lt;/p&gt;
 
