@@ -18,7 +18,7 @@ Hoy en 10 preguntas a creadores de contenido de FF14 tenemos a ... **Hyphen**!!
     <i><b>Hyphen</b></i>: ¡Hola! Aquí Hyphen, gracias por tenerme en este espacio.<br/>
       Soy una artista mexicana a la que le encanta el mundo de FFXIV y dibujar a sus personajes, con todo y sus detalles.<br/>
       Suelo involucrarme en proyectos de la comunidad internacional y me gusta apoyar a otros aventureros ya sea en redes o en el juego<br/>
-      Me pueden encontrar en [twitter](https://twitter.com/hyphen1582mx){:target="_blank"}.
+      Me pueden encontrar en <a href="https://twitter.com/hyphen1582mx" target="_blank">twitter</a>.
   </div>
   <div class="card-header">
      <b><i>Lia</i>: Genial, pues ¡vamos allá!</b>
