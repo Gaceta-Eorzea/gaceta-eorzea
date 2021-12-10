@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Dec 2021 10:54:31 +0000</pubDate>
-    <lastBuildDate>Fri, 10 Dec 2021 10:54:31 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Dec 2021 18:37:20 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Dec 2021 18:37:20 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -49,6 +49,31 @@
         
         
         <category>gold saucer</category>
+        
+      </item>
+    
+      <item>
+        <title>Guia Primer Trial Extreme</title>
+        <description>&lt;p&gt;Endwalker tiene unos trials bastante impresionantes, en esta guia vamos a poder mas detalles de sus mecanicas y de como podemos afrontarlo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zodiark Extreme&lt;/strong&gt; es uno de los dos &lt;strong&gt;trials&lt;/strong&gt; que tendreis disponibles al llegar a nivel 90 en &lt;strong&gt;Endwalker&lt;/strong&gt;. Es la forma de poder tener acceso a &lt;strong&gt;joyería de ilvl 580&lt;/strong&gt;, además de que podreis conseguir su &lt;strong&gt;montura&lt;/strong&gt; y algún &lt;strong&gt;material de crafteo&lt;/strong&gt; exclusivo para fabricar el barding.&lt;/p&gt;
+
+&lt;p&gt;Es un &lt;strong&gt;combate&lt;/strong&gt; relativamente &lt;strong&gt;sencillo&lt;/strong&gt;, pero que la &lt;strong&gt;combinación&lt;/strong&gt; de sus mecánicas especialmente a partir de la &lt;strong&gt;fase 2&lt;/strong&gt;, requiere del jugador &lt;strong&gt;prestar atención&lt;/strong&gt; en todo momento, además de que te va a exigir &lt;strong&gt;calcular&lt;/strong&gt; donde &lt;strong&gt;acabarán los ataques&lt;/strong&gt; de Zodiark dependiendo de lo que estés viendo en pantalla. Si durante el combate no muere demasiada gente el &lt;strong&gt;DPS check no es excivamente fuerte&lt;/strong&gt;, así que con que vayais &lt;strong&gt;ilvl 560 será más que suficiente&lt;/strong&gt; para esta fight.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/t1Pdp6PTHIU?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/ew-ex-1/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/ew-ex-1/</guid>
+        
+        <category>encuentros</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>encuentros</category>
         
       </item>
     
@@ -544,32 +569,6 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
         
         
         <category>lore</category>
-        
-      </item>
-    
-      <item>
-        <title>Guía de The Puppet's Bunker</title>
-        <description>&lt;p&gt;Hoy os traemos una &lt;strong&gt;vídeo guía en Español&lt;/strong&gt; de la incursión de alianza de &lt;strong&gt;The Puppet’s Bunker&lt;/strong&gt;, la cual es la segunda de la cadena de &lt;strong&gt;YoRHa: Dark Apocalypse&lt;/strong&gt; la cual fue introducida en &lt;strong&gt;Shadowbringers&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Tanto si sois &lt;strong&gt;nuevos jugadores&lt;/strong&gt; o queréis &lt;strong&gt;conocer mejor las mecánicas&lt;/strong&gt; de esta alianza esta guía os será de mucha utilidad para poder completar el contenido como &lt;strong&gt;Campeones de la Luz&lt;/strong&gt; que somos.&lt;/p&gt;
-
-&lt;p&gt;No olvidéis de comentar el vídeo y &lt;strong&gt;subscribiros&lt;/strong&gt; al &lt;a href=&quot;https://www.youtube.com/channel/UC6WMAsnnQXRP5pWG8dWwwnA&quot; target=&quot;_blank&quot;&gt;canal de Zex Krow&lt;/a&gt; si os ha gustado.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/N1EaiE7NE0M?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/puppets-bunker/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/puppets-bunker/</guid>
-        
-        <category>guía</category>
-        
-        <category>encuentros</category>
-        
-        
-        <category>encuentros</category>
         
       </item>
     
