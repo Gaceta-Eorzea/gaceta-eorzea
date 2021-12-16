@@ -2,12 +2,12 @@
 layout: post
 title: "Guardar Configuración de FFXIV"
 author: kvan
-categories: [  ]
-tags: [evento, noticias]
+categories: [ guías ]
+tags: [ guías ]
 image: assets/images/articles/guias/config/portada.jpg
 description: "Guardar Configuración de FFXIV en la nube"
 featured: false
-hidden: true
+hidden: false
 ---
 
 Final Fantasy XIV nos permite el **guardar la configuració**n tanto de nuestro **personaje** como del **sistema** en la **nube** que nos proporciona el propio juego, de esta forma podemos **guardarla o recuperarla** en cualquier momento.
