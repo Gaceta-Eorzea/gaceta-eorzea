@@ -83,7 +83,13 @@ authors:
       display_name: FFXIV Fandub 
       avatar: 'assets/images/avatars/fandub.jpg'
       twitter: https://twitter.com/FFXIV_Fandub
-      description: "Proyecto de fandub en Español de las escenas de Final Fantasy XIV"        
+      description: "Proyecto de fandub en Español de las escenas de Final Fantasy XIV"
+  kvan:
+      name: I-VÁN 
+      display_name: I-VÁN 
+      avatar: 'assets/images/avatars/kvan.jpg'
+      twitter: https://twitter.com/Kvan0tak
+      description: "Jugador que disfruta con los MMORPG"                   
 # Plugins
 plugins:
   - jekyll-paginate
