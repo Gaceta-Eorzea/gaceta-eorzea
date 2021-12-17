@@ -5,9 +5,112 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Dec 2021 16:04:20 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Dec 2021 16:04:20 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Dec 2021 11:14:34 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Dec 2021 11:14:34 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Cambiar Invocaciones</title>
+        <description>&lt;p&gt;Tanto para los nuevos &lt;strong&gt;invocadores&lt;/strong&gt; o aquellos que ya llevan un tiempo jugando con ellos hoy os queremos contar como podeis &lt;strong&gt;cambiar&lt;/strong&gt; tanto la &lt;strong&gt;apariencia&lt;/strong&gt; como el &lt;strong&gt;tamaño&lt;/strong&gt; de vuestras invocaciones.&lt;/p&gt;
+
+&lt;h4 id=&quot;cambiando-el-tamaño-de-las-invocaciones&quot;&gt;Cambiando el tamaño de las invocaciones&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Aunque&lt;/strong&gt; nuestras invocaciones son &lt;strong&gt;magnificas&lt;/strong&gt; algunas veces quizás queramos que no ocupen &lt;strong&gt;tanto sitio en la pantalla&lt;/strong&gt;, de la misma forma nos puede pasar con las invocaciones &lt;strong&gt;de otros aventureros&lt;/strong&gt;, por eso el juego nos permite cambiar el tamaño de las invocaciones, para ello tendremos que &lt;strong&gt;usar&lt;/strong&gt; el comando &lt;strong&gt;/petsize&lt;/strong&gt;, el cual tiene el siguiente &lt;strong&gt;formato&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+/petsize [invocación] [tamaño]
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;En &lt;strong&gt;invocación&lt;/strong&gt; deberemos elegir &lt;strong&gt;cual&lt;/strong&gt; es a la que queremos &lt;strong&gt;cambiar&lt;/strong&gt; el tamaño:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Demi-Bahamut&lt;/li&gt;
+  &lt;li&gt;Demi-Phoenix&lt;/li&gt;
+  &lt;li&gt;Ruby Ifrit&lt;/li&gt;
+  &lt;li&gt;Topaz Titan&lt;/li&gt;
+  &lt;li&gt;Emerald Garuda&lt;/li&gt;
+  &lt;li&gt;all&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En &lt;strong&gt;tamaño&lt;/strong&gt; deberemos elegir &lt;strong&gt;cual&lt;/strong&gt; es el tamaño que queremos, de &lt;strong&gt;mayor a menor&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;large&lt;/li&gt;
+  &lt;li&gt;medium&lt;/li&gt;
+  &lt;li&gt;small&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Por &lt;strong&gt;ejemplo&lt;/strong&gt; si queremos que &lt;strong&gt;todas&lt;/strong&gt; las invocaciones sean &lt;strong&gt;pequeñas&lt;/strong&gt; deberemos poner:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+/petsize all small
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+Cuando usemos &lt;b&gt;el comando /petsize&lt;/b&gt; el cambio &lt;b&gt;solo&lt;/b&gt; se aplicará y quedara guardado en &lt;b&gt;nuestro cliente&lt;/b&gt; del juego, &lt;b&gt;otros jugadores no estarán afectados&lt;/b&gt; y seguiran viendo las invocaciones &lt;b&gt;como las tengan configuradas&lt;/b&gt;.
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;cambiando-el-aspecto-de-nuestras-invocaciones&quot;&gt;Cambiando el aspecto de nuestras invocaciones&lt;/h4&gt;
+
+&lt;p&gt;Aunque cada una de nuestras &lt;strong&gt;invocaciones&lt;/strong&gt; tiene un aspecto particular podemos decidir &lt;strong&gt;cambiar que aspecto&lt;/strong&gt; tendran cuando sean invocadas, para ello deberemos &lt;strong&gt;hacer previamente la mision&lt;/strong&gt; de nivel 50 &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/ed17840182f/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;An Egi by Any Other Name&lt;a&gt; la cual nos la dará &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/dec3b66e353/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Thubyrgeim&lt;/a&gt; en &lt;strong&gt;Limsa Lominsa Lower Decks X: 4.7 Y: 11.4 (Arcanist Guild)&lt;/strong&gt;.&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez completada podemos &lt;strong&gt;usar&lt;/strong&gt; el comando &lt;strong&gt;/petglamour&lt;/strong&gt; para cambiar su apariencia con el siguiente &lt;strong&gt;formato&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+/petglamour [invocación] [apariencia]
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;En &lt;strong&gt;invocación&lt;/strong&gt; deberemos elegir &lt;strong&gt;cual&lt;/strong&gt; es a la que queremos &lt;strong&gt;cambiar&lt;/strong&gt; la apariencia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Carbuncle&lt;/li&gt;
+  &lt;li&gt;Garuda-Egi&lt;/li&gt;
+  &lt;li&gt;Titan-Egi&lt;/li&gt;
+  &lt;li&gt;Ifrit-Egi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En &lt;strong&gt;apariencia&lt;/strong&gt; debemos elegir cual es la apariencia que &lt;strong&gt;queremos&lt;/strong&gt; que tenga:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Carbuncle&lt;/li&gt;
+  &lt;li&gt;Emerald Carbuncle&lt;/li&gt;
+  &lt;li&gt;Topaz Carbuncle&lt;/li&gt;
+  &lt;li&gt;Ruby Carbuncle&lt;/li&gt;
+  &lt;li&gt;Garuda-Egi&lt;/li&gt;
+  &lt;li&gt;Titan-Egi&lt;/li&gt;
+  &lt;li&gt;Ifrit-Egi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Por &lt;strong&gt;ejemplo&lt;/strong&gt; si queremos que &lt;strong&gt;Garuda-Egi&lt;/strong&gt; aparezca &lt;strong&gt;como&lt;/strong&gt; el &lt;strong&gt;Carbunclo Rubí&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+/petglamour &quot;Garuda-Egi&quot; &quot;Ruby Carbuncle&quot;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Si queremos&lt;/strong&gt; hacer que la invocacion tenga la apariencia &lt;strong&gt;predeterminada&lt;/strong&gt; podemos &lt;strong&gt;omitir la apariencia&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por &lt;strong&gt;ejemplo&lt;/strong&gt; para devolver a &lt;strong&gt;Garuda-Egi&lt;/strong&gt; su &lt;strong&gt;apariencia por defecto&lt;/strong&gt; podremos poner:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+/petglamour &quot;Garuda-Egi&quot;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+Cuando usemos &lt;b&gt;el comando /petglamour&lt;/b&gt; el cambio &lt;b&gt;solo&lt;/b&gt; se aplicará, y sera guardado, &lt;b&gt;en nuestras&lt;/b&gt; invocaciones, además el cambio &lt;b&gt;será visible por todos los jugadores&lt;/b&gt;. Las invocaciones &lt;b&gt;de otros&lt;/b&gt; jugadores &lt;b&gt;no&lt;/b&gt; se verán &lt;b&gt;afectadas&lt;/b&gt;.
+&lt;/blockquote&gt;
+
+&lt;p&gt;Con esto terminados esta pequeña guia que esperamos que os sea de utilidad.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/invocaciones/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/invocaciones/</guid>
+        
+        <category>guías</category>
+        
+        
+        <category>guías</category>
+        
+      </item>
     
       <item>
         <title>Guardar Configuración de FFXIV</title>
@@ -419,130 +522,6 @@ Una vez &lt;b&gt;completado las misiones&lt;/b&gt; tambien tendremos disponibles
         
         
         <category>fandub</category>
-        
-      </item>
-    
-      <item>
-        <title>Consejos de Configuración para Endwalker</title>
-        <description>&lt;p&gt;Con &lt;strong&gt;Endwalker&lt;/strong&gt; a la vuelta de la esquina os vamos a dar unos pequeños &lt;strong&gt;consejos&lt;/strong&gt; de algunos cambios que podéis hacer en la &lt;strong&gt;configuración&lt;/strong&gt; del juego para hacer vuestro camino inicial mas satisfactorio. La mayoria de estas opciones podemos usarlas solo en la salida de Endwalker y revertirlas posteriormente.&lt;/p&gt;
-
-&lt;h3 id=&quot;aceptando-misiones&quot;&gt;Aceptando Misiones&lt;/h3&gt;
-
-&lt;p&gt;Una de las cosas que a veces se nos hace &lt;strong&gt;dificil&lt;/strong&gt; es tanto el &lt;strong&gt;hablar con NPCs o interaccionar con objetos&lt;/strong&gt; en el suelo cuando hay un &lt;strong&gt;gran numero de jugadores encima&lt;/strong&gt; de lo que queremos clickar con el raton.&lt;/p&gt;
-
-&lt;p&gt;El juego dispone de un &lt;strong&gt;solucion&lt;/strong&gt; para esto facilmente usando el &lt;strong&gt;Keybinding de Confirmación&lt;/strong&gt;, por &lt;strong&gt;defecto&lt;/strong&gt; es el numero &lt;strong&gt;0 del teclado numerico&lt;/strong&gt;, aunque podemos &lt;strong&gt;cambiarlo&lt;/strong&gt; en las opciones de &lt;strong&gt;Keybind &amp;gt; System &amp;gt; Confirm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/keybind_01.jpg&quot; alt=&quot;Keybind 01&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Una vez establecido el keybind, o usando el por defecto, podemos ponernos en &lt;strong&gt;frente al NPC o objeto&lt;/strong&gt; que queramos interaccionar y al &lt;strong&gt;pulsar la tecla lo tarjetearemos&lt;/strong&gt;, &lt;strong&gt;aunque haya jugadores encima&lt;/strong&gt; o delate del, de la misma forma una &lt;strong&gt;nueva pulsacion abrirá la misión o usará el objeto&lt;/strong&gt;. (&lt;em&gt;Si seguimos pulsando el binding podremos ir aceptando las siguientes partes de la conversacion sin tener que hacer click con el raton&lt;/em&gt;).&lt;/p&gt;
-
-&lt;h3 id=&quot;evitando-spoilers&quot;&gt;Evitando Spoilers&lt;/h3&gt;
-
-&lt;p&gt;Muchas veces nos han podido hacer &lt;strong&gt;spoiler la Main Scenario Quest&lt;/strong&gt; a proposito o incluso involuntariamente, con estos cambios intentamos &lt;strong&gt;evitar&lt;/strong&gt; algunas de esos spoilers.&lt;/p&gt;
-
-&lt;h4 id=&quot;creando-un-nuevo-chat&quot;&gt;Creando un nuevo chat&lt;/h4&gt;
-
-&lt;p&gt;Para &lt;strong&gt;evitar&lt;/strong&gt; que alguien escribiendo por el &lt;strong&gt;chat de Shout, Yell o Say&lt;/strong&gt; nos fastidie la historia, cosa que &lt;strong&gt;alguna vez ha sucedido&lt;/strong&gt; en el pasado, podemos &lt;strong&gt;crearnos una pestaña de chat&lt;/strong&gt; donde &lt;strong&gt;filtremos&lt;/strong&gt; los chat que no queramos ver.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Primero&lt;/strong&gt; crearemos una &lt;strong&gt;nueva pestaña&lt;/strong&gt; de chat dandole al &lt;strong&gt;simbolo de mas&lt;/strong&gt; que aparece junto a las pestañas existentes, tras lo cual le pondremos un nombre en nuestro ejemplo lo llamaremos: &lt;em&gt;Social&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/chat_01.jpg&quot; alt=&quot;Chat 01&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Una vez creada, o si ya teniamos una, le daremos al &lt;strong&gt;engranaje&lt;/strong&gt; que hay junto a las pestañas.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/chat_02.jpg&quot; alt=&quot;Chat 02&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;En esta ventana haremos click en el &lt;strong&gt;botón de la nueva pestaña&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/chat_03.jpg&quot; alt=&quot;Chat 03&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Finalmente haremos click en de &lt;strong&gt;Uncheck All&lt;/strong&gt; y dejaremos &lt;strong&gt;activado&lt;/strong&gt; solo los chat de &lt;strong&gt;Tell, Party, Alliance, Free Company y PvP team&lt;/strong&gt;. (&lt;em&gt;Adicionalmente podeis activar los de chat de emotes si queréis verlos en esta pestaña&lt;/em&gt;)&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/chat_04.jpg&quot; alt=&quot;Chat 04&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Con esto podremos activar esta pestaña para ver solo los chats filtrados mientras jugamos y de esa forma evitar los chat que nos puedan fastidiar la historia.&lt;/p&gt;
-
-&lt;h4 id=&quot;ocultando-titulos&quot;&gt;Ocultando Titulos&lt;/h4&gt;
-
-&lt;p&gt;En el pasado &lt;strong&gt;ha sucedido&lt;/strong&gt; tambien que determinados &lt;strong&gt;títulos puede ser un spoiler&lt;/strong&gt;, aunque cuando esto ha sucedido Square Enix los cambio a posteriori, sin embargo para evitar que nos pueda suceder ahora podemos &lt;strong&gt;ocultar&lt;/strong&gt; los titulos de los demas jugadores.&lt;/p&gt;
-
-&lt;p&gt;Para ocultar el titulo de los jugadores podemos abrir &lt;strong&gt;Character Configuration&lt;/strong&gt; y elegir en la izquierda &lt;strong&gt;Display Name Settings&lt;/strong&gt;, despues elegiremos en los pestañas superior &lt;strong&gt;Other&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Finalmente tanto en &lt;strong&gt;Party Members&lt;/strong&gt; &amp;gt; &lt;strong&gt;Display Tittle Settings&lt;/strong&gt; como en &lt;strong&gt;Alliance Members&lt;/strong&gt; &amp;gt; &lt;strong&gt;Display Tittle Settings&lt;/strong&gt; lo pondremos a &lt;strong&gt;Hide&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/titulos_01.jpg&quot; alt=&quot;Titulos 1&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ocultando-nombre-de-minions&quot;&gt;Ocultando Nombre de Minions&lt;/h4&gt;
-
-&lt;p&gt;Tambien pueden existir &lt;strong&gt;nombres de minion que sean spoiler&lt;/strong&gt;, asi que podemos igualmente ocultarlos.&lt;/p&gt;
-
-&lt;p&gt;Para ocultar el titulo de los jugadores podemos abrir &lt;strong&gt;Character Configuration&lt;/strong&gt; y elegir en la izquierda &lt;strong&gt;Display Name Settings&lt;/strong&gt;, despues elegiremos en los pestañas superiores &lt;strong&gt;NPCs&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Finalmente  en &lt;strong&gt;Minions&lt;/strong&gt; &amp;gt; &lt;strong&gt;Display Tittle Settings&lt;/strong&gt; lo pondremos a &lt;strong&gt;Never&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/minions_01.jpg&quot; alt=&quot;Minions 1&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;mejorando-rendimiento&quot;&gt;Mejorando rendimiento&lt;/h3&gt;
-
-&lt;p&gt;Por último queremos hablaros de unos consejos que podéis usar para &lt;strong&gt;evitar que os bajen mucho los FPS&lt;/strong&gt; por la gran &lt;strong&gt;cantidad de jugadores&lt;/strong&gt; que abra en las zonas, tanto donde cojamos misiones como si posteriormente queremos hacer actividades como The Hunt donde &lt;strong&gt;cientos de jugadores estara en pantalla&lt;/strong&gt; y posiblemente &lt;strong&gt;haciendo habilidades&lt;/strong&gt;, aunque sea tirar un simple peloton nuestra pantalla se llenara de ellos.&lt;/p&gt;
-
-&lt;h4 id=&quot;reduciendo-el-numero-de-jugadores-en-pantalla&quot;&gt;Reduciendo el numero de jugadores en pantalla&lt;/h4&gt;
-
-&lt;p&gt;Mostrar &lt;strong&gt;muchos jugadores en pantalla&lt;/strong&gt; puede ralentizarnos, pero el juego dispone de &lt;strong&gt;opciones para limitar&lt;/strong&gt; cuantos de ellos se muestran.&lt;/p&gt;
-
-&lt;p&gt;Para &lt;strong&gt;reducir&lt;/strong&gt; el numero má&lt;strong&gt;ximo de jugadores en pantalla&lt;/strong&gt; podemos cambiar en System Configuration, seleccionamos en los iconos de la izquierda &lt;strong&gt;Other Settings&lt;/strong&gt; y luego en &lt;strong&gt;Character and Object Quantity&lt;/strong&gt; lo ponemos en &lt;strong&gt;Minimum&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/character_limit.jpg&quot; alt=&quot;Titulos 1&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;quitando-los-numeros-e-iconos-flotantes-de-otros&quot;&gt;Quitando los numeros e iconos flotantes de otros&lt;/h4&gt;
-
-&lt;p&gt;El juego nos muestra con &lt;strong&gt;texto flotante&lt;/strong&gt; tanto el &lt;strong&gt;daño&lt;/strong&gt; como la &lt;strong&gt;sanación&lt;/strong&gt; que se realiza asi como los &lt;strong&gt;iconos&lt;/strong&gt; flotantes de &lt;strong&gt;Buffos y Debuffos&lt;/strong&gt; que obtienen los jugadores, esto incluye el de &lt;strong&gt;todos los jugadores&lt;/strong&gt;, &lt;strong&gt;incluso&lt;/strong&gt; aquellos que &lt;strong&gt;no esten en grupo&lt;/strong&gt; con nosotros. Esto puede &lt;strong&gt;afectarnos cuando hay muchos jugadores&lt;/strong&gt; combatiendo con un enemigo.&lt;/p&gt;
-
-&lt;p&gt;Para hacer que &lt;strong&gt;solo veamos nuestros numeros y iconos&lt;/strong&gt; flotantes de buffos y debuffos, y no los de otros jugadores podemos entrar en &lt;strong&gt;Character Configuration&lt;/strong&gt; seleccionar en la izquierda &lt;strong&gt;UI Settings&lt;/strong&gt; y luego en la pestaña superior &lt;strong&gt;HUD&lt;/strong&gt;. Finalmente desactivamos &lt;strong&gt;Display pop-up text&lt;/strong&gt;. (&lt;em&gt;Esto no quita nuestro propio texto e iconos flotantes&lt;/em&gt;)&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/popup.jpg&quot; alt=&quot;Pop-Up Text&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;eliminar-los-efectos-graficos-de-las-habilidades-de-otros&quot;&gt;Eliminar los efectos graficos de las habilidades de otros&lt;/h4&gt;
-
-&lt;p&gt;Por ultimo podemos &lt;strong&gt;configurar&lt;/strong&gt; como mostramos los &lt;strong&gt;efectos graficos de las habilidades de los jugadores&lt;/strong&gt;, ya que si son &lt;strong&gt;muchos pueden tambien afectarnos al rendimiento&lt;/strong&gt;. Esto es altamente &lt;strong&gt;recomendable si vamos a participar en The Hunt&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Podemos ir a &lt;strong&gt;Character Configuration&lt;/strong&gt; y luego en la izquierda seleccionar &lt;strong&gt;Other Settings&lt;/strong&gt;, en &lt;strong&gt;Battle Effects Settings&lt;/strong&gt; podemos configurarlo en 3 categorias:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Own&lt;/strong&gt; : para &lt;strong&gt;nosotros&lt;/strong&gt; mismos.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Party&lt;/strong&gt; : para nuestro &lt;strong&gt;grupo&lt;/strong&gt;, esto no incluye el resto de grupos de la Alianza si estamos en una.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Others&lt;/strong&gt; : El &lt;strong&gt;resto&lt;/strong&gt; de jugadores.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;En cada uno podemos elegir &lt;strong&gt;3 modos&lt;/strong&gt; :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Show All&lt;/strong&gt; : Para ver esas habilidades con &lt;strong&gt;todos sus efectos&lt;/strong&gt; al completo.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Show Limited&lt;/strong&gt; : Muestra &lt;strong&gt;algun efecto leve&lt;/strong&gt; cuando alguien usa una habilidad, como un brillo en el personaje, o un pequeño destello de color.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Show None&lt;/strong&gt; : &lt;strong&gt;No se muestra el efecto&lt;/strong&gt; visual de la habilidad.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nosotros personalmente os &lt;strong&gt;recomendamos&lt;/strong&gt; que lo dejeis como:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Own : Show All&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Party : Show Limited&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Others : Show None&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;(&lt;em&gt;esto no elimina las habilidades mas necesarias de ver como un area de Curación o un escudo de protección&lt;/em&gt;)&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/consejos-cfg-ew/battle.jpg&quot; alt=&quot;Battle&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/consejos-cfg-ew/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/consejos-cfg-ew/</guid>
-        
-        <category>guías</category>
-        
-        
-        <category>guías</category>
         
       </item>
     
