@@ -233,7 +233,7 @@ var documents = [{
     "id": 46,
     "url": "https://gaceta-eorzea.com/el-ocular-01/",
     "title": "El Ocular Podcast: Aflojando Cinturones | Repaso pre-expansión",
-    "body": "2021/12/18 - El pasado 25 de Noviembre, unos pocos dias antes del acceso anticipado de Endwalker tuvimos la primera entrega del Podcast de El Ocular con Choco Feru, Habeces, Lia Tales y la colaboración de Cecile. En esta ocasión el Podcast se centró en hacer un repaso a la información de ultima hora antes de Endwalker y de consejos a tener en cuenta en el lanzamiento. Podeis ver el Podcast a completo en el video a continuación.   "
+    "body": "2021/12/18 - El pasado 25 de Noviembre, unos pocos dias antes del acceso anticipado de Endwalker tuvimos la primera entrega del Podcast de El Ocular con Choco Feru, Noah, Lia Tales y la colaboración de Cecile. En esta ocasión el Podcast se centró en hacer un repaso a la información de ultima hora antes de Endwalker y de consejos a tener en cuenta en el lanzamiento. Podeis ver el Podcast a completo en el video a continuación.   "
     }, {
     "id": 47,
     "url": "https://gaceta-eorzea.com/invocaciones/",

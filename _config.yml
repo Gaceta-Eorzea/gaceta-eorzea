@@ -95,7 +95,7 @@ authors:
       display_name: "El Ocular"
       avatar: 'assets/images/avatars/ocular.jpg'
       twitter: https://twitter.com/OcularEl
-      description: "Podcast dedicado a FFXIV presentado por ChocoFeru, Elanor, Habeces y Lia Tales"
+      description: "Podcast dedicado a FFXIV presentado por ChocoFeru, Elanor, Noah y Lia Tales"
   # Plugins
 plugins:
   - jekyll-paginate
