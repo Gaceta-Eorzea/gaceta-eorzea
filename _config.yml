@@ -90,7 +90,13 @@ authors:
       avatar: 'assets/images/avatars/kvan.jpg'
       twitter: https://twitter.com/Kvan0tak
       description: "Jugador que disfruta con los MMORPG"                   
-# Plugins
+  ocular:
+      name: Ocular 
+      display_name: "El Ocular"
+      avatar: 'assets/images/avatars/ocular.jpg'
+      twitter: https://twitter.com/OcularEl
+      description: "Podcast dedicado a FFXIV presentado por ChocoFeru, Elanor, Habeces y Lia Tales"
+  # Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
