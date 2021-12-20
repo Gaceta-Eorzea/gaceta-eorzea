@@ -96,6 +96,12 @@ authors:
       avatar: 'assets/images/avatars/ocular.jpg'
       twitter: https://twitter.com/OcularEl
       description: "Podcast dedicado a FFXIV presentado por ChocoFeru, Elanor, Noah y Lia Tales"
+  kenta:
+      name: Kenta 
+      display_name: "Kenta"
+      avatar: 'assets/images/avatars/kenta.jpg'
+      twitter: https://twitter.com/IIIKentaIII
+      description: "Aficionado de los teclados, ordenadores y videojuegos. Lo más seguro es que esté farmeando algo mientras lees esto"      
   # Plugins
 plugins:
   - jekyll-paginate

@@ -5,9 +5,82 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Dec 2021 10:07:47 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Dec 2021 10:07:47 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Dec 2021 17:02:29 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Dec 2021 17:02:29 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Configurando la Interfaz: Introducción al HUD</title>
+        <description>&lt;p&gt;El HUD es una de esas cosas que vemos en todos los juegos pero que no se le presta la atención o el cariño que se merece. En el caso de Final Fantasy XIV, ponen a nuestro alcance variedad de herramientas para que no solo podamos organizarlo como prefiramos como usuarios, además se  pueden hacer cosas muy creativas y aquí vamos a enseñaros como.&lt;/p&gt;
+
+&lt;h4 id=&quot;introducción&quot;&gt;Introducción&lt;/h4&gt;
+
+&lt;p&gt;La interfaz que el juego proporciona de forma por defecto es bastante simple y con la intención de no ahogar al usuario primerizo en mucha información y eso se puede ver por ejemplo en el hecho de que de las 10 barras de habilidades disponibles que tenemos a nuestro alcance, solo 3 de ellas están visibles de primeras, pero eso se puede arreglar muy fácilmente accediendo al configurador de HUD desde el menú de sistema pulsando la tecla “Escape” y seleccionando “HUD layout”.&lt;/p&gt;
+
+&lt;h4 id=&quot;hud-layout&quot;&gt;HUD Layout&lt;/h4&gt;
+
+&lt;p&gt;Esto abre un menú que puede parecer demasiado si es la primera vez que lo ves, pero es bastante intuitivo&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/2.jpg&quot; alt=&quot;hud 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Desde aquí puedes mover los diferentes paneles que representan cada apartado del HUD, como el indicador de la Main Scenario Quest, el minimapa, todas las diferentes barras, ya sean de habilidades, exp, vida del objetivo y demás y más. Para hacer esto basta seleccionar el panel que quieras mover y arrastrar con el ratón hasta donde se desea colocar, además de eso también se pueden hacer ciertas modificaciones a los paneles, como ajustar el tamaño y/o transparencia en todos, y algunos cuentan con opciones adicionales, como cambiar los indicadores de recursos de las clases a un modo simplificado o en el caso de las barras de vida del objetivo y los bufos, la capacidad de separarlo en varias partes para una mayor versatilidad a la hora de la configuración.&lt;/p&gt;
+
+&lt;p&gt;La primera vez mientras se trastea con todo los paneles y se juega un poco con todas las opciones, es posible notar que las barras adicionales, 7 de las 10 totales, tienen las letras que representan el panel que es en morado. Esto quiere decir que dichos paneles están ocultos, ocultar y descubrir cualquier panel se puede hacer de dos formas, o bien haciendo click derecho en el panel o con el menú que proporciona la herramienta desde donde puedes cambiar entre 4 hud totales, copiar la configuración de uno a otro, seleccionar un panel concreto con la lista que proporciona la herramienta y una menú con forma de engranaje que tiene al lado de la lista desde el que se pueden hacer todos los cambios de lo que tengas seleccionado, entre otros, el de ocultar o no dicho panel.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/3.jpg&quot; alt=&quot;hud 3&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;edición-del-hud&quot;&gt;Edición del HUD&lt;/h4&gt;
+
+&lt;p&gt;Una vez familiarizados con la herramienta y cómo funciona, se puede proceder a modificarlo al gusto, el resultado de esto va a variar de persona a persona así que no es necesario que se siga todo al pie de la letra si es algo que no se desea. Si bien el HUD por defecto muestra toda la información que se necesita, puede no hacer un gran trabajo a la hora de hacerlo de forma eficiente, tienes mucha información esparcida a lo largo de la pantalla y a veces eso puede dificultar a los jugadora a la hora de recolectar información rápida en contenido que pueda resultar más difícil o requiere de rápidas secuencias.&lt;/p&gt;
+
+&lt;p&gt;Para ellos una de las primeras cosas que se pueden hacer es reubicar el donde podemos ver nuestros bufos, que de normal están en la parte superior derecha de la pantalla, mientras que nuestro debufos están situados en la parte superior, justo encima de la barra de vida el objetivo, lo cual puede llevar a malinterpretación de información.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/4.jpg&quot; alt=&quot;hud 4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Un lugar común donde poner estos dos indicadores suele ser en la parte de abajo del hud cerca de las barras de skills, para de un solo vistazo ver más información esencial que de lo que veríamos de forma normal.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/5.jpg&quot; alt=&quot;hud 5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Otra cosa que también se puede ajustar son las propias barras en sí, juntandolas y bajandolas más, intercambiando posición con la barra de vida, para así ganar más espacio visual con el que podemos fijarnos en la arena y las mecánicas que puedan estar ocurriendo.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/6.jpg&quot; alt=&quot;hud 6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En el caso de los tanks y los healers sobretodo, también puede resultar muy útil mover el panel de lo miembros del grupo a un lugar más céntrico en lugar de tenerlo en la esquina superior izquierda de la pantalla y lo mismo se puede decir de la lista de todos los enemigos con los que estás en combate.&lt;/p&gt;
+
+&lt;p&gt;Una cosa que también se puede hacer para mejorar aún más la experiencia de esto es hacer los cambios que se consideren oportunos según la actividad que quieras hacer y cambiar entre los diferentes perfiles de HUD de forma acorde, es posible que no se quiera tener la misma distribución de barras, paneles, grupo y demás como dps y como healer por ejemplo.&lt;/p&gt;
+
+&lt;h4 id=&quot;barras-adicionales&quot;&gt;Barras adicionales&lt;/h4&gt;
+
+&lt;p&gt;Una vez dejadas las barras a nuestro gusto, el siguiente paso con el que se puede seguir es el de añadir barras adicionales para tener funciones prácticas del juego que usamos de forma a menuda al alcance de un click, como lo pueden ser el cambiar entre las diferentes clases que se usan o el añadir ciertos menús como pueden ser el de emotes o las monturas.&lt;/p&gt;
+
+&lt;p&gt;Para hacer esto desde la herramienta del HUD seleccionaremos una de las barras que no están siendo utilizadas y la moveremos hasta una posición de nuestro agrado, como la función de estas barras es el de la utilidad fuera de combate el lugar en el que se elija poner es mucho más libre.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/7.jpg&quot; alt=&quot;hud 7&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para añadir clases por ejemplo a una barra para poder cambiar entre ellas con un solo click, todo lo que tienes que hacer es abrir el menú de “Character”, desplegar la sección de “Gear set” y arrastrar el set que quieras hasta la barra. En el caso de que no tengas ningún set creado, la forma de hacerlo desde el desplegable, hacer click en el símbolo del “+” que está en la parte superior del mismo.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/8.jpg&quot; alt=&quot;hud 8&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para añadir menús como emotes y demás puedes abrir “Actions &amp;amp; Traits” y desde ahí se puede proceder a añadir varias cosas, desde acciones útiles para cualquier clase, como menús, ya sea el de emotes, waymarks, etc.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/9.jpg&quot; alt=&quot;hud 9&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Espero que está introducción al HUD de Final Fantasy XIV y sus posibilidades os resulte de ayuda.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/guia-ui-01/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/guia-ui-01/</guid>
+        
+        <category>guías</category>
+        
+        <category>nuevos jugadores</category>
+        
+        <category>interfaz</category>
+        
+        
+        <category>guías</category>
+        
+      </item>
     
       <item>
         <title>Historia Completa de FFXIV – Parte 11: Vuelta a Casa</title>
@@ -351,177 +424,6 @@ Una vez &lt;b&gt;completado las misiones&lt;/b&gt; tambien tendremos disponibles
         
         
         <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>¡Lia nos la lía! 10 preguntas a Hyphen</title>
-        <description>&lt;p&gt;&lt;em&gt;10 preguntas a creadores de contenido es una serie de mini entrevistas en las que os iremos presentando un poquillo a varios creadores de contenido de la comunidad, no sólo de twitch o youtube sino de otros ámbitos también.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Hoy en 10 preguntas a creadores de contenido de FF14 tenemos a … &lt;strong&gt;Hyphen&lt;/strong&gt;!!&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Hyphen&lt;/b&gt;&lt;/i&gt;: ¡Hola! Aquí Hyphen, gracias por tenerme en este espacio.&lt;br /&gt;
-      Soy una artista mexicana a la que le encanta el mundo de FFXIV y dibujar a sus personajes, con todo y sus detalles.&lt;br /&gt;
-      Suelo involucrarme en proyectos de la comunidad internacional y me gusta apoyar a otros aventureros ya sea en redes o en el juego&lt;br /&gt;
-      Me pueden encontrar en &lt;a href=&quot;https://twitter.com/hyphen1582mx&quot; target=&quot;_blank&quot;&gt;twitter&lt;/a&gt;.
-  &lt;/div&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: Genial, pues ¡vamos allá!&lt;/b&gt;
-  &lt;/div&gt;  
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿Cuándo empezaste en FFXIV?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Hyphen&lt;/b&gt;&lt;/i&gt;: Tengo la beta registrada, pero por cuestiones de equipo, no pude jugarla mucho tiempo. Ya en forma, empecé a jugar en el 2014; un poco después de la salida del parche 2.3
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿Qué fue lo que te atrajo de FFXIV y porqué te decantaste por él y no otros juegos del estilo?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Hyphen&lt;/b&gt;&lt;/i&gt;:   Siempre me han gustado los MMORPG, más que nada jugaba Maple Story y Mabinogi, pero siempre como pasatiempo, nada a lo que realmente le dedicara mucho tiempo o recursos.&lt;br /&gt;
-    &lt;br /&gt;
-    Realmente yo me acerqué a XIV por ser un Final Fantasy. Soy fan de la franquicia y cuando me enteré de su existencia solo pensé “no se diga más”. Fuera de eso, realmente no me han llamado la atención otros juegos del estilo, por lo que agradezco mucho la gran variedad de contenido que tiene FFXIV
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_hyphen/hyphen_art_1.jpg&quot; alt=&quot;Hyphen Art 1&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿Con qué job empezaste y por qué?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Hyphen&lt;/b&gt;&lt;/i&gt;:  ¡Monk! Bueno, realmente Pugilist...pero seguí fielmente el camino.&lt;br /&gt;
-    Me gustan las artes marciales y en cualquier juego, sin dudarlo, escogeré primero a quien dé puños y patadas como técnica de combate principal
-  &lt;/div&gt;    
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: Tienes algún gazapo o anécdota de novato en FFXIV que nos puedas contar? ¿Qué te hubiera gustado saber en aquel momento que sabes ahora?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Hyphen&lt;/b&gt;&lt;/i&gt;: En mis tiempos…. jajaja,varias cosas que me hubieran ayudado cuando empecé ya no son válidas; pero tanto como anécdota y como conocimiento general, el saber que FFXIV es un juego online que no es 100% gratuito es algo que siempre es bueno saber.&lt;br /&gt;
-    &lt;br /&gt;
-    Cuando empecé, creí que con comprarlo para mi consola ya sería mío y que solo necesitaba internet, luego de los 30 días que te dan al comprarlo me di cuenta de que así no es como funciona, por eso pasé mucho tiempo haciendo todos mis avances en las campañas de free log in.&lt;br /&gt;
-    &lt;br /&gt;
-    Hoy en día está la fabulosa free trial sin límite de tiempo y realmente puedes hacer muchas cosas, pero cuando me encuentro con gente que no sabe qué hacer después, a veces se sorprenden de que no solo tienes que comprar el juego y las expansiones, si no que también hay que pagar por el tiempo de juego.&lt;br /&gt;
-    Esa es información que me parece importante saber cuándo empiezas a dedicarle tiempo a FFXIV.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿A qué dedicas la mayor parte de tu tiempo en FFXIV?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Hyphen&lt;/b&gt;&lt;/i&gt;: Cuando hay historia que hacer, eso es lo que hago el 90% del tiempo, pero todo con calma. También me gusta hacer raids, subir a mi ritmo mis jobs y embarcarme en el ocean fishing. Siempre hay algo que hacer.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: Empezaste como Monk  pero ¿qué job juegas ahora? ¿Sigue siendo el mismo? Y si no es así, ¿por qué decidiste cambiar de job?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Hyphen&lt;/b&gt;&lt;/i&gt;:  Soy Monk main desde el día 1… Creo que pertenezco a un pequeño grupo de jugadores que siguen teniendo como main el job con el que empezaron.&lt;br /&gt;
-    En parte porque me gusta mucho, en parte porque durante mucho tiempo solo jugaba durante un periodo corto de tiempo y me concentraba más a la MSQ que a subir otro job.&lt;br /&gt;
-    Con el tiempo subí AST solo por un conjunto de healer que me encantó y quería tener; quería ver la historia de DRK y lo desbloqueé; y para completar mi “uno de cada uno” subí RDM y DNC. 
-    Me gusta tener tantas opciones, por lo que realmente no estoy apurada en subir el resto de los jobs.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_hyphen/hyphen_art_2.jpg&quot; alt=&quot;Hyphen Art 2&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿Qué esperas ver en el futuro en FFXIV?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Hyphen&lt;/b&gt;&lt;/i&gt;: Disfruté mucho la serie de raids de Nier, en especial Tower at Paradigm's Breach por sus mecánicas y combinaciones, por lo que me gustaría ver más raids originales de XIV y dungeons con mecánicas a las que no estamos acostumbrados.&lt;br /&gt;
-    &lt;br /&gt;
-    Quisiera también ver cómo implementan a las chicas Hrothgar y pues la curiosidad de que jobs o tipo de personajes nos esperan a futuro
-    &lt;br /&gt;
-    Pero estaría mintiendo si no digo que me comen las ansias de saber el desenlace de la historia y cómo evolucionará todo con el contenido de 7.0 en adelante, especialmente con nuestro WOL y NPCs favoritos.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿Desde cuándo dibujas FFXIV y cuál fue la razón por la que comenzaste a hacerlo?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;i&gt;&lt;b&gt;Hyphen&lt;/b&gt;&lt;/i&gt;:  Dibujo desde que era niña, pero FFXIV en específico, aproximadamente unos 5 años.&lt;br /&gt;
-    Comencé a dibujar en los momentos en los que no podía jugar, para ver a mi WOL y crear varias interacciones de ella con los NPC. Desde ahí me alegra poder dibujar no solo a mi personaje sino el de otras personas también. 
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_hyphen/hyphen_art_3.jpg&quot; alt=&quot;Hyphen Art 3&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¿Qué tipo de contenido podemos esperarnos en tu twitter?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;&lt;i&gt;&lt;b&gt;Hyphen&lt;/b&gt;&lt;/i&gt;:  En mi perfil pueden encontrar las diversas comisiones que he hecho junto con el contenido de mi WOL y el de mis amigos, con una pizca de fan art 2D y 3D de otras franquicias. 
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: Y por último, pero no menos importante, ¿qué le dirías a alguien que está empezando el juego por primera vez?&lt;/b&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-body&quot;&gt;&lt;i&gt;&lt;b&gt;Hyphen&lt;/b&gt;&lt;/i&gt;: Sé que puede parecer un poco lento y un poco abrumador el tener tantas opciones, botones y misiones desde el inicio, pero lo importante a mi parecer es que avances a tu propio ritmo. ¿Quieres pasar 100 horas en Gpose? Adelante, ¿subir al nivel máximo todos los jobs? Increible, ¿conocer todo el lore? ¿decorar tu casa? ¡Hazlo! Se trata de pasarla bien y divertirse.&lt;br /&gt;
-  No tengan miedo de hacer preguntas tanto en internet como dentro del juego, todos fuimos nuevos alguna vez.&lt;br /&gt;
-  ¡Espero que sus aventuras en Eorzea sean de lo mejor!
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_hyphen/hyphen_art_4.jpg&quot; alt=&quot;Hyphen Art 4&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;&lt;i&gt;Lia&lt;/i&gt;: ¡Muchísimas gracias por haberte tomado el tiempo de responder nuestras preguntas Hyphen! No os olvidéis de darle like y seguirla en twitter y nos vemos en la próxima entrega de Lia nos la lía &amp;lt;3&lt;/b&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/entrevistas/lia_hyphen/lia_hyphen.jpg&quot; alt=&quot;Lia y Hyphen&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/lia_hyphen/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/lia_hyphen/</guid>
-        
-        <category>entrevistas</category>
-        
-        <category>creadores</category>
-        
-        <category>comunidad</category>
-        
-        
-        <category>entrevistas</category>
         
       </item>
     
