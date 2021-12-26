@@ -5,9 +5,38 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Dec 2021 15:00:45 +0000</pubDate>
-    <lastBuildDate>Sat, 25 Dec 2021 15:00:45 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Dec 2021 13:17:39 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Dec 2021 13:17:39 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>La Historia de Edda y el Palacio de los Muertos</title>
+        <description>&lt;p&gt;No todos los aventureros tienen la suerte de ser guerreros de la luz, y por lo tanto, cuando estos fallecen… lo hacen para siempre.&lt;/p&gt;
+
+&lt;p&gt;En este vídeo especial de Halloween, os cuento la historia del grupo de aventureros de Edda Pureheart y todas las desgracias que les ocurren en su camino a la gloria.&lt;/p&gt;
+
+&lt;p&gt;Una historia más oscura y tétrica dentro del mundo de Erozea, que hará que se os pongan los pelos de punta.&lt;/p&gt;
+
+&lt;p&gt;Pasaos por el canal de YouTube para vídeos como este y muchos más.
+Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar guías y artículos de prácticamente todo lo que queráis saber sobre el mundo de FFXIV.&lt;/p&gt;
+
+&lt;p&gt;¡Guerreros de la luz, nos vemos en Eorzea!&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/uRaPQRQIHSE?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/historia-edda/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/historia-edda/</guid>
+        
+        <category>lore</category>
+        
+        
+        <category>lore</category>
+        
+      </item>
     
       <item>
         <title>Evento: Heavensturn (Año Nuevo)</title>
@@ -493,29 +522,6 @@ Cuando usemos &lt;b&gt;el comando /petglamour&lt;/b&gt; el cambio &lt;b&gt;solo&
         
         
         <category>guías</category>
-        
-      </item>
-    
-      <item>
-        <title>Guia Segundo Trial Extreme</title>
-        <description>&lt;p&gt;Os traemos la guia del segundo trial de Endwalker, la cual nos servirá para poder completarlo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hydaelyn Extreme&lt;/strong&gt; es un combate que ya depende más de que &lt;strong&gt;cada miembro&lt;/strong&gt; del grupo &lt;strong&gt;sepa lo que debe hacer&lt;/strong&gt; en cada una de las mecánicas. En esta guía os &lt;strong&gt;explico las diferentes mecánicas&lt;/strong&gt; que os encontrareis a lo largo del combate y como podeis &lt;strong&gt;resolverlas&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/vyJyyVkX8bw?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/ew-ex-2/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/ew-ex-2/</guid>
-        
-        <category>encuentros</category>
-        
-        <category>endwalker</category>
-        
-        
-        <category>encuentros</category>
         
       </item>
     
