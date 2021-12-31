@@ -5,7 +5,7 @@ author: elmira
 categories: [ ]
 tags: [ jobs ]
 image: assets/images/articles/guias/jobs/red-ew.jpg
-description: "Solucion del Fashion Report del 31 Diciembre de 2021."
+description: "Guia Red Mage en Endwalker"
 featured: false
 hidden: true
 ---
