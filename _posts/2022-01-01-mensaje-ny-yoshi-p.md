@@ -19,14 +19,12 @@ Aqui el Productor y Director Naoki Yoshida.
 
 Aunque desafortunadamente tuvimos que retrasar en dos semanas la salida de Endwalker con respecto a la fecha planeada, fué el 7 de Diciembre cuando finalmente vio a la luz la conlusión de la saga de Hydaelyn y Zodiark, la cual comenzó en la 1.0. Justo ahora son 11 años desde que me incorporé al FFXIV, y puedo sentir que he puesto todo lo que tengo en esta expansion. Estoy expectante en conocer la impresión que os dejara a cada uno de vosotros.
 
-Dejado a un lado el contenido del juego, la gran afluencia de jugadores desde todas las partes del mundo desde mediados de año asi como el impacto en el suministro de componentes para nuestros servidor por el Covid-19 nos ha llevado a unas increíblemente largas colas de entrada, quiero de nuevo pediros mis mas sinceras disculpas. Ahora mismo estamos trabajando en mejorar la situación, tanto añadiendo nuevos data centers como mundos en todas las regiones, mientras lo hacemos os pedimos que tengáis paciencia.
+Dejado a un lado el contenido del juego, la gran afluencia de jugadores desde todas las partes del mundo desde mediados de año asi como el impacto en el suministro de componentes para nuestros servidores por el Covid-19 nos ha llevado a unas increíblemente largas colas de entrada, quiero de nuevo pediros mis mas sinceras disculpas. Ahora mismo estamos trabajando en mejorar la situación, tanto añadiendo nuevos data centers como mundos en todas las regiones, mientras lo hacemos os pedimos que tengáis paciencia.
 
 
 Ahora que, como el titulo sugiere, Endwalker completa la historia que ha sido hilada desde la 1.0, FFXIV esta aun lejos de terminar, ahora mismo estamos en el proceso de creación de las nuevas aventuras y caminos para todos vosotros Guerreros de la Luz y Aventureros.
 
 De hecho, ahora que pienso en la siguiente aventura, me doy cuenta de una nota en un pedazo de papel que hay en mi mesa, la que curiosamente tiene un poema.
-
-As a matter of fact, just as I was thinking about the next adventure, I noticed that a piece of paper had been left on my desk. And what should be written on it but another poem!
 
 <blockquote>
 La luna se agita frente al sol, 
