@@ -5,9 +5,39 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Jan 2022 11:32:59 +0000</pubDate>
-    <lastBuildDate>Sat, 01 Jan 2022 11:32:59 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Jan 2022 19:37:01 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Jan 2022 19:37:01 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Historia Completa de FFXIV – Parte 12: Apocalipsis</title>
+        <description>&lt;p&gt;De vuelta en Eorzea y con los conocimientos obtenidos en el Primero, Los Vástagos del Séptimo Amanecer se esfuerzan al máximo para ayudar a todos aquellos que lo necesiten, tanto en el conflicto.&lt;/p&gt;
+
+&lt;p&gt;Pero de la nada, unas misteriosas torres aparecen por todo el mundo, absorbiendo el éter del ambiente y subyugando a todo aquel que se acerque a ellas.
+Con la nueva magia para curar la subyugación, las tribus bestia de Eorzea parecen confiar más en la Gran Compañía de Eorzea y se unen a nuestra contienda con el Imperio Garleano.
+En el vídeo os cuento el épico desenlace de Shadowbringers, así que no os lo podéis perder.
+Pasaos por el canal de YouTube para vídeos como este y muchos más.
+Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar guías y artículos de prácticamente todo lo que queráis saber sobre el mundo de FFXIV.&lt;/p&gt;
+
+&lt;p&gt;¡Guerreros de la luz, nos vemos en Eorzea!&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/NFHDChg-lw0?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/historia-12/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/historia-12/</guid>
+        
+        <category>lore</category>
+        
+        <category>historia FFXIV</category>
+        
+        
+        <category>lore</category>
+        
+      </item>
     
       <item>
         <title>Felicitación de Año Nuevo de Yoshida</title>
@@ -440,30 +470,6 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
         
         
         <category>lore</category>
-        
-      </item>
-    
-      <item>
-        <title>El Ocular Podcast: Aflojando Cinturones | Repaso pre-expansión</title>
-        <description>&lt;p&gt;El pasado 25 de Noviembre, unos pocos dias antes del acceso anticipado de Endwalker tuvimos la primera entrega del Podcast de  &lt;a href=&quot;https://twitter.com/OcularEl&quot; target=&quot;_blank&quot;&gt;El Ocular&lt;/a&gt; con &lt;a href=&quot;https://twitter.com/ChocoFeru&quot; target=&quot;_blank&quot;&gt;Choco Feru&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/Habeces4&quot; target=&quot;_blank&quot;&gt;Noah&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/LiaTales_ffxiv&quot; target=&quot;_blank&quot;&gt;Lia Tales&lt;/a&gt; y la colaboración de &lt;a href=&quot;https://twitter.com/JuanMedinaCode&quot; target=&quot;_blank&quot;&gt;Cecile&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;En esta ocasión el Podcast se centró en hacer un repaso a la información de ultima hora antes de Endwalker y de consejos a tener en cuenta en el lanzamiento. Podeis ver el Podcast a completo en el video a continuación.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/XEaoDUcQ-iU?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/el-ocular-01/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/el-ocular-01/</guid>
-        
-        <category>ocular</category>
-        
-        <category>podcast</category>
-        
-        
-        <category>ocular</category>
         
       </item>
     
