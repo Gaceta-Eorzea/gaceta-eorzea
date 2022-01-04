@@ -5,9 +5,293 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Jan 2022 11:44:19 +0000</pubDate>
-    <lastBuildDate>Mon, 03 Jan 2022 11:44:19 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Jan 2022 08:10:07 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Jan 2022 08:10:07 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Resumen de las notas del parche 6.05</title>
+        <description>&lt;p&gt;Este es un &lt;strong&gt;resumen&lt;/strong&gt; de las principales puntos de las notas del &lt;strong&gt;parche 6.05&lt;/strong&gt;, aunque os recomendamos revisar las notas completas en este &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/a03d26b7aca93ae712a2f0f298076f0dc763f7ad&quot; target=&quot;_blank&quot;&gt;enlace&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;ajuste-del-sistema-de-combate&quot;&gt;Ajuste del Sistema de Combate&lt;/h4&gt;
+
+&lt;h5 id=&quot;pugilistmonk&quot;&gt;Pugilist/Monk&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Arm of the Destroyer&lt;/strong&gt; :	Cuando estes bajo el efecto de &lt;strong&gt;Perfect Balance&lt;/strong&gt;, también dará el &lt;strong&gt;Chakra de Raptor&lt;/strong&gt;, &lt;strong&gt;incluso&lt;/strong&gt; cuando &lt;strong&gt;no&lt;/strong&gt; tengas &lt;strong&gt;objetivo&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rockbreaker&lt;/strong&gt; : Cuando estes bajo el efecto de &lt;strong&gt;Perfect Balance&lt;/strong&gt;, también dará el &lt;strong&gt;Chakra de Opo-opo&lt;/strong&gt;, &lt;strong&gt;incluso&lt;/strong&gt; cuando &lt;strong&gt;no&lt;/strong&gt; tengas &lt;strong&gt;objetivo&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Four-point Fury&lt;/strong&gt; : Cuando estes bajo el efecto de &lt;strong&gt;Perfect Balance&lt;/strong&gt;, también dará el &lt;strong&gt;Chakra de Coeurl&lt;/strong&gt;, &lt;strong&gt;incluso&lt;/strong&gt; cuando &lt;strong&gt;no&lt;/strong&gt; tengas &lt;strong&gt;objetivo&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shadow of the Destroyer&lt;/strong&gt; : Cuando estes bajo el efecto de &lt;strong&gt;Perfect Balance&lt;/strong&gt;, también dará el &lt;strong&gt;Chakra de Raptor&lt;/strong&gt;, &lt;strong&gt;incluso&lt;/strong&gt; cuando &lt;strong&gt;no&lt;/strong&gt; tengas &lt;strong&gt;objetivo&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Elixir Field&lt;/strong&gt; : Ahora nos dará &lt;strong&gt;Lunar Nadi&lt;/strong&gt; y &lt;strong&gt;Formless Fist&lt;/strong&gt; &lt;strong&gt;incluso&lt;/strong&gt; cuando &lt;strong&gt;no&lt;/strong&gt; tengas &lt;strong&gt;objetivo&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Flint Strike&lt;/strong&gt; : Ahora nos dará &lt;strong&gt;Solar Nadi&lt;/strong&gt; y &lt;strong&gt;Formless Fist&lt;/strong&gt; &lt;strong&gt;incluso&lt;/strong&gt; cuando &lt;strong&gt;no&lt;/strong&gt; tengas &lt;strong&gt;objetivo&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rising Phoenix&lt;/strong&gt; : Ahora nos dará &lt;strong&gt;Solar Nadi&lt;/strong&gt; y &lt;strong&gt;Formless Fist&lt;/strong&gt; &lt;strong&gt;incluso&lt;/strong&gt; cuando &lt;strong&gt;no&lt;/strong&gt; tengas &lt;strong&gt;objetivo&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dragoon&quot;&gt;Dragoon&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Wyrmwind Thrust&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;370 a 420&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Geirskogul&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;250 a 260&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nastrond&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;350 a 360&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ninja&quot;&gt;Ninja&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Raiton&lt;/strong&gt; : El &lt;strong&gt;estado&lt;/strong&gt; que proporciona tras su ejecución ha sido cambiado de &lt;strong&gt;“Forked Raiju Ready” a “Raiju Ready.”&lt;/strong&gt;, y su &lt;strong&gt;duración&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;15 a 30 segundos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bunshin&lt;/strong&gt; : El efecto &lt;strong&gt;The Phantom Kamaitachi Ready&lt;/strong&gt; no expirará cuando expira el efecto de &lt;strong&gt;Bunshin&lt;/strong&gt;. Esta &lt;strong&gt;acción cambiará a Phantom Kamaitachi&lt;/strong&gt; cuando se &lt;strong&gt;ejecute&lt;/strong&gt;, el &lt;strong&gt;efecto de Phantom Kamaitachi Ready&lt;/strong&gt; durará &lt;strong&gt;45 seconds&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phantom Kamaitachi&lt;/strong&gt; : Su ejecución &lt;strong&gt;no consumirá cargas&lt;/strong&gt; de &lt;strong&gt;Bunshin&lt;/strong&gt;. El &lt;strong&gt;aumento&lt;/strong&gt; al &lt;strong&gt;Gauge de Ninki&lt;/strong&gt; Gauge ha sido cambiado de &lt;strong&gt;5 a 10&lt;/strong&gt;, nota: &lt;em&gt;Anteriormente la ejecución de Phantom Kamaitachi y el efecto de Bunshin aumentaba el Gauge de Ninki en 5 cada uno, 10 en total, por lo cual este cambio nos hará ganar 10 igualmente&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Forked Raiju&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;400 a 560&lt;/strong&gt;. El efecto de &lt;strong&gt;otorgar&lt;/strong&gt; &lt;strong&gt;“Fleeting Raiju Ready”&lt;/strong&gt; ha sido &lt;strong&gt;eliminado&lt;/strong&gt;. El &lt;strong&gt;requerimiento&lt;/strong&gt; de &lt;strong&gt;estar bajo el efecto&lt;/strong&gt; de &lt;strong&gt;“Forked Raiju Ready”&lt;/strong&gt; a sido &lt;strong&gt;cambiado&lt;/strong&gt; a estar bajo el efecto de &lt;strong&gt;“Raiju Ready”&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fleeting Raiju&lt;/strong&gt; :  Ahora los jugadores &lt;strong&gt;no correrán al objetivo&lt;/strong&gt; en ejecución  El &lt;strong&gt;rango&lt;/strong&gt; se ha reducido de 2&lt;strong&gt;0 a 3 yalms&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;450 a 560&lt;/strong&gt;. El &lt;strong&gt;requerimiento&lt;/strong&gt; de estar bajo el efecto de &lt;strong&gt;“Fleeting Raiju Ready”&lt;/strong&gt; ha &lt;strong&gt;cambiado&lt;/strong&gt; a estar bajo el &lt;strong&gt;efecto de “Raiju Ready”&lt;/strong&gt;. Ahora &lt;strong&gt;se puede colocar en las barras&lt;/strong&gt; de acción.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;samurai&quot;&gt;Samurai&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Higanbana&lt;/strong&gt; : El &lt;strong&gt;rango&lt;/strong&gt; ha sido incrementado de &lt;strong&gt;3 a 6 yalms&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kaeshi: Higanbana&lt;/strong&gt; : El &lt;strong&gt;rango&lt;/strong&gt; ha sido incrementado de &lt;strong&gt;3 a 6 yalms&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Midare Setsugekka&lt;/strong&gt; : El &lt;strong&gt;rango&lt;/strong&gt; ha sido incrementado de &lt;strong&gt;3 a 6 yalms&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kaeshi: Setsugekka&lt;/strong&gt; : El &lt;strong&gt;rango&lt;/strong&gt; ha sido incrementado de &lt;strong&gt;3 a 6 yalms&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;reaper&quot;&gt;Reaper&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Arcane Crest&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; de curación de &lt;strong&gt;Crest of Time Returned&lt;/strong&gt;  ha sido reducida de &lt;strong&gt;100 a 50&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dancer&quot;&gt;Dancer&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Standard Finish&lt;/strong&gt; : La &lt;strong&gt;categoría de la acción&lt;/strong&gt; ha sido cambiada &lt;strong&gt;de ability a weaponskill&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Technical Finish&lt;/strong&gt; : La &lt;strong&gt;categoría de la acción&lt;/strong&gt; ha sido cambiada &lt;strong&gt;de ability a weaponskill&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tillana&lt;/strong&gt; : La &lt;strong&gt;categoría de la acción&lt;/strong&gt; ha sido cambiada &lt;strong&gt;de ability a weaponskill&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;summoner&quot;&gt;Summoner&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fountain of Fire&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;430 a 520&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Brand of Purgatory&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;180 a 240&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;scholar&quot;&gt;Scholar&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fey Union&lt;/strong&gt; : El &lt;strong&gt;rango&lt;/strong&gt; ha sido incrementado &lt;strong&gt;de 15 a 30 yalms&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;el-modo-savage-de-pandæmonium-asphodelos-ha-sido-habilitado&quot;&gt;El modo Savage de Pandæmonium: Asphodelos ha sido habilitado&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_05/605_06.jpg&quot; alt=&quot;Pandæmonium: Asphodelos 1&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_05/605_07.jpg&quot; alt=&quot;Pandæmonium: Asphodelos 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El &lt;strong&gt;ilevel mínimo&lt;/strong&gt; para acceder via &lt;strong&gt;dutty finder&lt;/strong&gt; de cada círculo es de &lt;strong&gt;570,575,580 y 580&lt;/strong&gt; respectivamente.&lt;/p&gt;
+
+&lt;p&gt;Para &lt;strong&gt;desbloquear este modo&lt;/strong&gt; debemos hablar con &lt;strong&gt;Nemjiji&lt;/strong&gt; en &lt;strong&gt;Labyrinthos (X:8.4 Y:27.4)&lt;/strong&gt;, lógicamente require que hayamos completado el modo normal anteriormente.&lt;/p&gt;
+
+&lt;p&gt;Al &lt;strong&gt;completar cualquiera de los duties en savage&lt;/strong&gt; tendremos disponibles en el &lt;strong&gt;loot&lt;/strong&gt; &lt;strong&gt;cofres de Asphodelos&lt;/strong&gt; que se &lt;strong&gt;transformaran en el equipo o armas correspondientes&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Si tu &lt;strong&gt;grupo contiene jugadores&lt;/strong&gt; que ya han &lt;strong&gt;completado ese circulo esa semana&lt;/strong&gt; el numero de cofres que &lt;strong&gt;aparecerá se reducirá&lt;/strong&gt;, de la misma forma &lt;strong&gt;no podrán obtener objetos si ya lo han completado esa semana&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Adicionalmente obtendremos Asphodelos Mythos&lt;/strong&gt; que podremos &lt;strong&gt;cambiar&lt;/strong&gt; por distintas &lt;strong&gt;piezas&lt;/strong&gt; de savage.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;col-6 border bg-dark&quot; align=&quot;center&quot;&gt;
+        &lt;font color=&quot;white&quot;&gt;&lt;b&gt;Pieza&lt;/b&gt;&lt;/font&gt;
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-dark&quot; align=&quot;center&quot;&gt;
+        &lt;font color=&quot;white&quot;&gt;&lt;b&gt;Mythos&lt;/b&gt;&lt;/font&gt;
+    &lt;/div&gt;        
+  &lt;/div&gt; 
+  &lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Weapons
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos IV x 8
+    &lt;/div&gt;        
+  &lt;/div&gt;  
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Arma de Paladin
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos IV x 5
+    &lt;/div&gt;    
+  &lt;/div&gt;
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Escudo de Paladin
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos IV x 3
+    &lt;/div&gt;    
+  &lt;/div&gt;
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Cabeza
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos II x 6
+    &lt;/div&gt;    
+  &lt;/div&gt; 
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Pecho
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos IV x 8
+    &lt;/div&gt;    
+  &lt;/div&gt; 
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Manos
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos II x 6
+    &lt;/div&gt;    
+  &lt;/div&gt;            
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Piernas
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos III x 8
+    &lt;/div&gt;    
+  &lt;/div&gt;  
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Zapatos
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos II x 6
+    &lt;/div&gt;    
+  &lt;/div&gt;  
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Accesorios
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos I x 4
+    &lt;/div&gt;    
+  &lt;/div&gt;  
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Radiant Roborant 
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos III x 4
+    &lt;/div&gt;    
+  &lt;/div&gt;  
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Radiant Twine
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos III x 4
+    &lt;/div&gt;    
+  &lt;/div&gt;  
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Radiant Coating
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos II x 4
+    &lt;/div&gt;    
+  &lt;/div&gt;  
+&lt;/div&gt;
+
+&lt;p&gt;También con ello podremos &lt;strong&gt;comprar los token&lt;/strong&gt; que necesitamos para &lt;strong&gt;aumentar el equipo de Allagan tomestones of astronomy&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;col-6 border bg-dark&quot; align=&quot;center&quot;&gt;
+        &lt;font color=&quot;white&quot;&gt;&lt;b&gt;Tokens&lt;/b&gt;&lt;/font&gt;
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-dark&quot; align=&quot;center&quot;&gt;
+        &lt;font color=&quot;white&quot;&gt;&lt;b&gt;Mythos&lt;/b&gt;&lt;/font&gt;
+    &lt;/div&gt;        
+  &lt;/div&gt; 
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Radiant Roborant 
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos III x 4
+    &lt;/div&gt;    
+  &lt;/div&gt;  
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Radiant Twine
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos III x 4
+    &lt;/div&gt;    
+  &lt;/div&gt;  
+  &lt;div class=&quot;row&quot;&gt; 
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Radiant Coating
+    &lt;/div&gt;    
+    &lt;div class=&quot;col-6 border bg-light&quot; align=&quot;center&quot;&gt;
+        Asphodelos Mythos II x 4
+    &lt;/div&gt;    
+  &lt;/div&gt;  
+&lt;/div&gt;
+
+&lt;h3 id=&quot;nuevos-tomestone-de-astronomy&quot;&gt;Nuevos tomestone de Astronomy&lt;/h3&gt;
+
+&lt;p&gt;Tendremos disponible los nuevos &lt;strong&gt;Allagan tomestones of astronomy&lt;/strong&gt;, con un &lt;strong&gt;cap semanal de 450&lt;/strong&gt; y un c&lt;strong&gt;ap global de 2000&lt;/strong&gt;. Recordamos que &lt;strong&gt;esta expansion las armas&lt;/strong&gt; costaran &lt;strong&gt;500 tomestone&lt;/strong&gt; en lugar de los 1000 habituales.&lt;/p&gt;
+
+&lt;p&gt;Como &lt;strong&gt;también&lt;/strong&gt; es habitual las &lt;strong&gt;ruletas&lt;/strong&gt; han sido &lt;strong&gt;cambiadas&lt;/strong&gt; para otorgar &lt;strong&gt;tanto Allagan tomestones of astronomy&lt;/strong&gt; como &lt;strong&gt;Allagan tomestones of aphorism&lt;/strong&gt; si las hacemos a &lt;strong&gt;máximo nivel&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h5 id=&quot;nueva-instancia-de-mapas-de-tesoro&quot;&gt;Nueva instancia de mapas de tesoro&lt;/h5&gt;
+
+&lt;p&gt;Se ha habilitado la &lt;strong&gt;nueva instancia de mapas&lt;/strong&gt; de tesoro &lt;strong&gt;Excitatron 6000&lt;/strong&gt;, los cuales se podrán abrir en los mapas de &lt;strong&gt;Kumbhiraskin&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_05/605_01.jpg&quot; alt=&quot;Excitatron 6000&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;nuevos-muebles-de-housing&quot;&gt;Nuevos muebles de Housing&lt;/h4&gt;
+
+&lt;p&gt;Se han añadido muebles del &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/2f74d0a912777c3270f1b7b2d9c4eeec8d7bd69e&quot; target=&quot;_blank&quot;&gt;concurso de diseño del 2019&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_05/605_02.jpg&quot; alt=&quot;Muebles Concurso 2019 - 1&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_05/605_03.jpg&quot; alt=&quot;Muebles Concurso 2019 - 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Se han añadido muebles adicionales.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_05/605_04.jpg&quot; alt=&quot;Muebles adicionales 1&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_05/605_05.jpg&quot; alt=&quot;Muebles adicionales 2&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;nuevos-objetos&quot;&gt;Nuevos Objetos&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_05/605_08.jpg&quot; alt=&quot;Nuevas Objetos 1&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_05/605_09.jpg&quot; alt=&quot;Nuevas Objetos 2&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;nuevas-recetas&quot;&gt;Nuevas Recetas&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_05/605_10.jpg&quot; alt=&quot;Nuevas Recetas 1&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_05/605_11.jpg&quot; alt=&quot;Nuevas Recetas 2&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;nuevo-minion&quot;&gt;Nuevo Minion&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_05/605_12.jpg&quot; alt=&quot;Nuevo Minion&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/resumen-6-05/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/resumen-6-05/</guid>
+        
+        <category>parches</category>
+        
+        <category>EW</category>
+        
+        <category>6.05</category>
+        
+        
+        <category>parches</category>
+        
+      </item>
     
       <item>
         <title>Enciclopedia Eorzea: La Historia de Eorzea II</title>
@@ -431,79 +715,6 @@ Los &lt;b&gt;Allagan tomestones of astronomy&lt;/b&gt; no estarán en el juego &
         
         
         <category>parches</category>
-        
-      </item>
-    
-      <item>
-        <title>Configurando la Interfaz: Introducción al HUD</title>
-        <description>&lt;p&gt;El HUD es una de esas cosas que vemos en todos los juegos pero que no se le presta la atención o el cariño que se merece. En el caso de Final Fantasy XIV, ponen a nuestro alcance variedad de herramientas para que no solo podamos organizarlo como prefiramos como usuarios, además se  pueden hacer cosas muy creativas y aquí vamos a enseñaros como.&lt;/p&gt;
-
-&lt;h4 id=&quot;introducción&quot;&gt;Introducción&lt;/h4&gt;
-
-&lt;p&gt;La interfaz que el juego proporciona de forma por defecto es bastante simple y con la intención de no ahogar al usuario primerizo en mucha información y eso se puede ver por ejemplo en el hecho de que de las 10 barras de habilidades disponibles que tenemos a nuestro alcance, solo 3 de ellas están visibles de primeras, pero eso se puede arreglar muy fácilmente accediendo al configurador de HUD desde el menú de sistema pulsando la tecla “Escape” y seleccionando “HUD layout”.&lt;/p&gt;
-
-&lt;h4 id=&quot;hud-layout&quot;&gt;HUD Layout&lt;/h4&gt;
-
-&lt;p&gt;Esto abre un menú que puede parecer demasiado si es la primera vez que lo ves, pero es bastante intuitivo&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/2.jpg&quot; alt=&quot;hud 2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Desde aquí puedes mover los diferentes paneles que representan cada apartado del HUD, como el indicador de la Main Scenario Quest, el minimapa, todas las diferentes barras, ya sean de habilidades, exp, vida del objetivo y demás y más. Para hacer esto basta seleccionar el panel que quieras mover y arrastrar con el ratón hasta donde se desea colocar, además de eso también se pueden hacer ciertas modificaciones a los paneles, como ajustar el tamaño y/o transparencia en todos, y algunos cuentan con opciones adicionales, como cambiar los indicadores de recursos de las clases a un modo simplificado o en el caso de las barras de vida del objetivo y los bufos, la capacidad de separarlo en varias partes para una mayor versatilidad a la hora de la configuración.&lt;/p&gt;
-
-&lt;p&gt;La primera vez mientras se trastea con todo los paneles y se juega un poco con todas las opciones, es posible notar que las barras adicionales, 7 de las 10 totales, tienen las letras que representan el panel que es en morado. Esto quiere decir que dichos paneles están ocultos, ocultar y descubrir cualquier panel se puede hacer de dos formas, o bien haciendo click derecho en el panel o con el menú que proporciona la herramienta desde donde puedes cambiar entre 4 hud totales, copiar la configuración de uno a otro, seleccionar un panel concreto con la lista que proporciona la herramienta y una menú con forma de engranaje que tiene al lado de la lista desde el que se pueden hacer todos los cambios de lo que tengas seleccionado, entre otros, el de ocultar o no dicho panel.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/3.jpg&quot; alt=&quot;hud 3&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;edición-del-hud&quot;&gt;Edición del HUD&lt;/h4&gt;
-
-&lt;p&gt;Una vez familiarizados con la herramienta y cómo funciona, se puede proceder a modificarlo al gusto, el resultado de esto va a variar de persona a persona así que no es necesario que se siga todo al pie de la letra si es algo que no se desea. Si bien el HUD por defecto muestra toda la información que se necesita, puede no hacer un gran trabajo a la hora de hacerlo de forma eficiente, tienes mucha información esparcida a lo largo de la pantalla y a veces eso puede dificultar a los jugadora a la hora de recolectar información rápida en contenido que pueda resultar más difícil o requiere de rápidas secuencias.&lt;/p&gt;
-
-&lt;p&gt;Para ellos una de las primeras cosas que se pueden hacer es reubicar el donde podemos ver nuestros bufos, que de normal están en la parte superior derecha de la pantalla, mientras que nuestro debufos están situados en la parte superior, justo encima de la barra de vida el objetivo, lo cual puede llevar a malinterpretación de información.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/4.jpg&quot; alt=&quot;hud 4&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Un lugar común donde poner estos dos indicadores suele ser en la parte de abajo del hud cerca de las barras de skills, para de un solo vistazo ver más información esencial que de lo que veríamos de forma normal.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/5.jpg&quot; alt=&quot;hud 5&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Otra cosa que también se puede ajustar son las propias barras en sí, juntandolas y bajandolas más, intercambiando posición con la barra de vida, para así ganar más espacio visual con el que podemos fijarnos en la arena y las mecánicas que puedan estar ocurriendo.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/6.jpg&quot; alt=&quot;hud 6&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;En el caso de los tanks y los healers sobretodo, también puede resultar muy útil mover el panel de lo miembros del grupo a un lugar más céntrico en lugar de tenerlo en la esquina superior izquierda de la pantalla y lo mismo se puede decir de la lista de todos los enemigos con los que estás en combate.&lt;/p&gt;
-
-&lt;p&gt;Una cosa que también se puede hacer para mejorar aún más la experiencia de esto es hacer los cambios que se consideren oportunos según la actividad que quieras hacer y cambiar entre los diferentes perfiles de HUD de forma acorde, es posible que no se quiera tener la misma distribución de barras, paneles, grupo y demás como dps y como healer por ejemplo.&lt;/p&gt;
-
-&lt;h4 id=&quot;barras-adicionales&quot;&gt;Barras adicionales&lt;/h4&gt;
-
-&lt;p&gt;Una vez dejadas las barras a nuestro gusto, el siguiente paso con el que se puede seguir es el de añadir barras adicionales para tener funciones prácticas del juego que usamos de forma a menuda al alcance de un click, como lo pueden ser el cambiar entre las diferentes clases que se usan o el añadir ciertos menús como pueden ser el de emotes o las monturas.&lt;/p&gt;
-
-&lt;p&gt;Para hacer esto desde la herramienta del HUD seleccionaremos una de las barras que no están siendo utilizadas y la moveremos hasta una posición de nuestro agrado, como la función de estas barras es el de la utilidad fuera de combate el lugar en el que se elija poner es mucho más libre.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/7.jpg&quot; alt=&quot;hud 7&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Para añadir clases por ejemplo a una barra para poder cambiar entre ellas con un solo click, todo lo que tienes que hacer es abrir el menú de “Character”, desplegar la sección de “Gear set” y arrastrar el set que quieras hasta la barra. En el caso de que no tengas ningún set creado, la forma de hacerlo desde el desplegable, hacer click en el símbolo del “+” que está en la parte superior del mismo.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/8.jpg&quot; alt=&quot;hud 8&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Para añadir menús como emotes y demás puedes abrir “Actions &amp;amp; Traits” y desde ahí se puede proceder a añadir varias cosas, desde acciones útiles para cualquier clase, como menús, ya sea el de emotes, waymarks, etc.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/01/9.jpg&quot; alt=&quot;hud 9&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Espero que está introducción al HUD de Final Fantasy XIV y sus posibilidades os resulte de ayuda.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/guia-ui-01/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/guia-ui-01/</guid>
-        
-        <category>guías</category>
-        
-        <category>nuevos jugadores</category>
-        
-        <category>interfaz</category>
-        
-        
-        <category>guías</category>
         
       </item>
     
