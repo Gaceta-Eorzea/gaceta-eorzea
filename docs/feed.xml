@@ -5,9 +5,40 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jan 2022 20:03:32 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Jan 2022 20:03:32 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Jan 2022 09:18:04 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Jan 2022 09:18:04 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Evento: All Saints' Wake (Halloween)</title>
+        <description>&lt;p&gt;Ya tenemos los &lt;strong&gt;detalles&lt;/strong&gt; de el próximo evento de &lt;strong&gt;All Saints’ Wake&lt;/strong&gt; el cual es la celebración del &lt;strong&gt;Halloween&lt;/strong&gt; en Final Fantasy XIV.&lt;/p&gt;
+
+&lt;p&gt;Este evento lo podremos realizar &lt;strong&gt;desde&lt;/strong&gt; el &lt;strong&gt;Jueves 20 de Enero&lt;/strong&gt; a las 09:00 hasta el &lt;strong&gt;Miercoles 2 de Febrero&lt;/strong&gt; a las 16:59.&lt;/p&gt;
+
+&lt;p&gt;Para empezar el evento deberemos aceptar la &lt;strong&gt;misión de nivel 15 All Clowns’ Wake&lt;/strong&gt;, la cual nos la dará &lt;strong&gt;Adventurers’ Guild Investigator en Old Gridania X:10.4 Y:8.4&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/all-saints-2022/quest.jpg&quot; alt=&quot;All Clowns' Wake&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tras &lt;strong&gt;completar las misiones&lt;/strong&gt; de evento obtendremos &lt;strong&gt;nuevas recompensas&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/all-saints-2022/recompensas.jpg&quot; alt=&quot;recompensas&quot; /&gt;
+    &lt;br /&gt;
+    En este caso tendremos un &lt;b&gt;disfraz de payaso&lt;/b&gt;, incluido una nueva &lt;b&gt;Face Paint&lt;/b&gt; (usable en la personalización de personaje) y &lt;b&gt;adornos&lt;/b&gt; para el &lt;b&gt;housing&lt;/b&gt;.
+&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/all-saints-2022/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/all-saints-2022/</guid>
+        
+        <category>evento</category>
+        
+        <category>noticias</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Enciclopedia Eorzea: El Nacimiento de un Imperio I</title>
@@ -673,27 +704,6 @@ Liberados de nuestro difícil pasado.
         <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
         <link>https://gaceta-eorzea.com/mensaje-ny-yoshi-p/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/mensaje-ny-yoshi-p/</guid>
-        
-        <category>jobs</category>
-        
-        
-        <category>jobs</category>
-        
-      </item>
-    
-      <item>
-        <title>Guia Red Mage en Endwalker</title>
-        <description>&lt;p&gt;El &lt;strong&gt;Red Mage&lt;/strong&gt; es una de las &lt;strong&gt;clases más clásicas y representativas&lt;/strong&gt; de Final Fantasy. Un &lt;strong&gt;caster&lt;/strong&gt; con capacidad de realizar &lt;strong&gt;ataques a melé&lt;/strong&gt; a través de su estoque el cual encanta con la magia que tiene acumulada tras utilizar una &lt;strong&gt;combinación de magia negra y magia blanca&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Esta vez os traigo la &lt;strong&gt;guía&lt;/strong&gt; del Red Mage, completamente &lt;strong&gt;actualizada&lt;/strong&gt; a los cambios de &lt;strong&gt;Endwalker&lt;/strong&gt;, en donde os comento sus &lt;strong&gt;mecánicas&lt;/strong&gt; más básicas, sus &lt;strong&gt;habilidades&lt;/strong&gt;, el &lt;strong&gt;openner&lt;/strong&gt; y algunos &lt;strong&gt;consejos&lt;/strong&gt; sobre como jugarlo.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/aA-AdrRpREI?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/redmage-ew/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/redmage-ew/</guid>
         
         <category>jobs</category>
         
