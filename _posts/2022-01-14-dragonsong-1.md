@@ -24,14 +24,14 @@ Pero la Furia no le oyó. Al doblar la esquina, el corazón se le atascó en la 
 
 Extinguida toda esperanza, las fuerzas del muchacho acabaron por abandonarlo y cayó de rodillas. Con una mano temblorosa, se acercó a acariciar el pelo blanco como la nieve de su hermano, con lágrimas que dibujaban pálidas líneas en sus mejillas ennegrecidas por el hollín. Pero la pena pronto dio paso a la rabia. Maldijo a Nidhogg y a su prole por atacar su pueblo natal, Ferndale y arrebatarle todo lo que apreciaba. Y maldijo al destino por condenarlo a seguir viviendo.
 
-\- *¡Ey! ¡Despierta! ¿Todavía vives, verdad?* - guiado por la voz del hombre Estinien despertó de su pesadilla. 
-\- *¿Al... Alberic?* - A través de sus ojos borrosos, distinguió una silueta masculina. Con la cabeza nublada, murmuró el primer nombre que le vino a la mente, el de su maestro y mentor. Sin embargo, parecía tratarse de una persona diferente.
-\- *¿Sir Alberic? Parece que aún estás algo confuso. Toma, bebe esto y aclara tu mente*.
+\- *¡Ey! ¡Despierta! ¿Todavía vives, verdad?* - guiado por la voz del hombre Estinien despertó de su pesadilla.<br/> 
+\- *¿Al... Alberic?* - A través de sus ojos borrosos, distinguió una silueta masculina. Con la cabeza nublada, murmuró el primer nombre que le vino a la mente, el de su maestro y mentor. Sin embargo, parecía tratarse de una persona diferente.<br/> 
+\- *¿Sir Alberic? Parece que aún estás algo confuso. Toma, bebe esto y aclara tu mente*. 
 
 Estinien aceptó agradecido el pellejo ofrecido y bebió con avidez, el agua alivió su garganta reseca y restauró sus sentidos. Tras una larga pausa, echó una mirada al hombre de pelo oscuro que estaba agachado a su lado con mirada preocupada en su rostro. Su armadura lo identificaba como un Caballero del Templo. Según sus cálculos, probablemente no superaba los veinte años, al igual que él. Estinien lo había visto antes, pero no tenía un nombre que ponerle a su cara. Desde que se unió a la orden, siempre había sido una especie de lobo solitario, evitando el contacto con sus camaradas en favor de perfeccionar su habilidad con la lanza para poder cazar dragones.
 
 
-\- *Gracias. Siento haberte causado problemas eh…*- comenzó a decir Estinien sin ser capaz de continuar la frase.
+\- *Gracias. Siento haberte causado problemas eh…*- comenzó a decir Estinien sin ser capaz de continuar la frase.<br/> 
 \- *Vaya vaya, ¿así que a pesar de estar en el mismo batallón ni siquiera recuerdas mi nombre?* - respondió el caballero de pelo oscuro, con un toque de diversión en su voz. -  *Mi nombre es Aymeric, y me temo que somos los únicos supervivientes*.
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/relatos/dragonson-1/dragonson-1.png" alt="Aymeric"/></p>
@@ -40,9 +40,9 @@ Dicho esto, Estinien miró a su alrededor y respiró hondo. El campo calcinado e
 
 Él y su unidad habían sido enviados a Ever Lakes en respuesta a un avistamiento de dragones. Mientras atravesaban un terreno montañoso, una enorme bestia roja había descendido sobre ellos. La mitad pereció ante su abrasador aliento antes de que pudieran sacar sus armas. Liderando el contraataque, Estinien había logrado herir y repeler al dragón, pero aparentemente había inhalado una gran cantidad de humo lo que hizo que se desplomara. Aunque el aire se había despejado, el hedor de la hierba quemada aún persistía. *Combustible para ese maldito sueño*. El recuerdo, junto con la escena de la carnicería, avivó en él un fuego que siempre ardía: la venganza. *Los asesinos de mis padres…de mi hermano… no dejaré que un sólo dragón quede con vida*.
 
-\- *Tener mala suerte es lo único que se me da bien*. - Estinien se puso en pie. Todavía algo mareado cogió una lanza de un cadáver cercano para reemplazar la que había perdido y, satisfecho con su punta, se dio la vuelta para marcharse.
-\- *¡Ey! ¡Para volver a la Santa Sede hay que ir en la dirección contraria!* - gritó el caballero de pelo negro llamado Aymeric intentando detenerle.
-\- *Ya que te has salvado deberías volver a la capital. Yo iré a arreglar cuentas*.
+\- *Tener mala suerte es lo único que se me da bien*. - Estinien se puso en pie. Todavía algo mareado cogió una lanza de un cadáver cercano para reemplazar la que había perdido y, satisfecho con su punta, se dio la vuelta para marcharse.<br/> 
+\- *¡Ey! ¡Para volver a la Santa Sede hay que ir en la dirección contraria!* - gritó el caballero de pelo negro llamado Aymeric intentando detenerle.<br/> 
+\- *Ya que te has salvado deberías volver a la capital. Yo iré a arreglar cuentas*.<br/> 
 \- *¡¿Piensas ir a cazarlo tú sólo?! ¡¡Es una locura!! Para empezar aunque quisieras perseguirle, ¡ni siquiera sabes a dónde ha ido el dragón que nos atacó!*
 
 Estinien miró hacia atrás y sonrió.
@@ -74,9 +74,9 @@ Haciendo acopio de lo que le quedaba de fuerza, saltó al aire. Y a la altura de
 
 Y así fue como Estinien cazó a su primer dragón. Sólo entonces se dio cuenta de la flecha que sobresalía de uno de sus ojos. Momentos después, una figura conocida salió de las sombras para situarse a su lado, con un arco largo en la mano. Estinien frunció el ceño.
 
-\- *Tu…¿no volviste a casa?*
-\- *No digas tonterías. No soy tan despiadado como para abandonar a un compañero herido al que le ha dado por ir a cazar un dragón él sólo.*
-\- *Gracias. Siento haberte causado problemas eh…* - una sonrisa amarga se formó en los labios del joven de cabello azabache. 
+\- *Tu…¿no volviste a casa?*<br/> 
+\- *No digas tonterías. No soy tan despiadado como para abandonar a un compañero herido al que le ha dado por ir a cazar un dragón él sólo.*<br/> 
+\- *Gracias. Siento haberte causado problemas eh…* - una sonrisa amarga se formó en los labios del joven de cabello azabache.<br/> 
 \- *Con esta ya me debes dos. Cuando volvamos a la capital tendrás que invitarme a una cerveza. ¡Ah y por cierto! Mi nombre es Aymeric, será mejor que al menos recuerdes el nombre del hombre que se convertirá en tu mejor amigo.* - Esta vez fue el turno de Estinien que no pudo evitar devolverle una sonrisa amarga.
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/relatos/dragonson-1/dragonson-3.png" alt="Aymeric y Estinien"/></p>
