@@ -10,7 +10,7 @@ featured: false
 hidden: false
 ---
 
-*Después de mil años bajo el yugo de la iglesia, el puedo de Ishgard da sus primeros pasos hacia una vida en convivencia con sus antaño enemigos, los dragones. A lo largo de ocho historias cortas, conoceremos un poco más sobre los protagonistas de esta guerra milenaria y nos adentraremos en sus recuerdos y las historias que marcaron su vida.*
+*Después de mil años bajo el yugo de la iglesia, el pueblo de Ishgard da sus primeros pasos hacia una vida en convivencia con sus antaño enemigos, los dragones. A lo largo de ocho historias cortas, conoceremos un poco más sobre los protagonistas de esta guerra milenaria y nos adentraremos en sus recuerdos y las historias que marcaron su vida.*
 
 <sub><sup>Traducción del relato [original](https://jp.finalfantasyxiv.com/lodestone/special/2015/short_stories/?utm_source=lodestone&utm_medium=pc_playguide&utm_campaign=eu_2015short_stories){:target="_blank"} publicado en la lodestone.</sup></sub>
 
