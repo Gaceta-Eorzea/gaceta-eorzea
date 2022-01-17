@@ -18,7 +18,7 @@ Con cientos de páginas que detallan todo, desde la historia y las culturas de E
 
 ### EL NACIMIENTO DE UN IMPERIO I
 
-*Hace aproximadamente 5.000 años, la civilización eorzeana alcanzó lo que podría considerarse su punto álgido, al menos en el sentido del avance tecnológico e influencia general sobre el resto de Hydaelyn, con la llegada del Imperio Allagan y su expansión por el norte hasta Ilsabard, por el este hasta Othard y por el sur hasta Meracydia. 
+*Hace aproximadamente 5.000 años, la civilización eorzeana alcanzó lo que podría considerarse su punto álgido, al menos en el sentido del avance tecnológico e influencia general sobre el resto de Hydaelyn, con la llegada del Imperio Allagan y su expansión por el norte hasta Ilsabard, por el este hasta Othard y por el sur hasta Meracydia.<br/> 
 La siguiente sección examina el ascenso y la caída de la época más próspera del reino.*
 
 
