@@ -91,4 +91,6 @@ Los científicos allagan ya habían descubierto técnicas para devolver temporal
   </div>
 </div>
 
+<br/>
+
 <sub><sup>*Traducción de la página 25 de la Enciclopedia de Eorzea por Lia Tales para Gaceta Eorzea.*</sup></sub>
