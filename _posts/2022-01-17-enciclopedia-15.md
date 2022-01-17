@@ -68,7 +68,7 @@ Los científicos allagan ya habían descubierto técnicas para devolver temporal
 <div class="container">
   <div class="row">
     <div class="col-xl">
-      <img src="{{ site.baseurl }}/assets/images/articles/lore/enciclopedia/15/amon.jpg" alt="Amon"/>
+      <img src="{{ site.baseurl }}/assets/images/articles/lore/enciclopedia/15/glasyaabolas.jpg" alt="Glasya Labolas"/>
     </div>
     <div class="col">
         <h4>GLASYA LABOLAS</h4>
@@ -86,7 +86,7 @@ Los científicos allagan ya habían descubierto técnicas para devolver temporal
         <sub><sup><i>Líder de una de las muchas rebeliones que estallaron en los últimos años del Imperio Allagan, los anales impresos retratan a Phlegethon como un villano asesino. Sin embargo, los escritos de la gente común revelan que el general era un héroe del pueblo. A pesar de ser adorado, el líder revolucionario fue finalmente capturado por agentes del imperio y su cuerpo fue alterado a la fuerza mediante la brujería y la ciencia, y su mente fue rota y condicionada a obedecer.</i></sup></sub>
     </div>
     <div class="col-xl">
-      <img src="{{ site.baseurl }}/assets/images/articles/lore/enciclopedia/15/scylla.jpg" alt="Scylla"/>
+      <img src="{{ site.baseurl }}/assets/images/articles/lore/enciclopedia/15/generalphlegthon.jpg" alt="General Phlegthon"/>
     </div>    
   </div>
 </div>
