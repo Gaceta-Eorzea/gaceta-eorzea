@@ -5,9 +5,39 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Jan 2022 09:23:11 +0000</pubDate>
-    <lastBuildDate>Thu, 20 Jan 2022 09:23:11 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Jan 2022 11:13:10 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Jan 2022 11:13:10 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Fashion Report 21 Enero 2022</title>
+        <description>&lt;p&gt;Esta semana de nuevo &lt;a href=&quot;https://twitter.com/kaiyokostar&quot; target=&quot;_blank&quot;&gt;Kaiyoko Star&lt;/a&gt; ha publicado la solución para el Fashion Report, la cual podéis ver a continuación.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion220121/freport_208.jpg&quot; alt=&quot;Fashion Report 208&quot; /&gt;
+&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;Fashion Report 208&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;Para hacer los &lt;strong&gt;80 puntos&lt;/strong&gt; de manera fácil y ganar los &lt;strong&gt;60,000 MGP&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;En &lt;strong&gt;guantes&lt;/strong&gt; &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/43823c803ff/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Cotton Halfgloves&lt;/a&gt; que podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/5c0bdbdc542/?item=791b438d0fe&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Domitien&lt;/a&gt; en &lt;strong&gt;Old Gridania (X:14.3 Y:9.8)&lt;/strong&gt; en la categoría &lt;em&gt;Purchase Purchase Diciple of the Hand/Land Gear &amp;gt; Purchase Gear (Lv. 1-9)&lt;/em&gt; por 336 gil, esta pieza es &lt;b&gt;equipable&lt;/b&gt; para &lt;b&gt;todas las clases&lt;/b&gt;.&lt;/li&gt;
+  &lt;li&gt;En &lt;strong&gt;zapatos&lt;/strong&gt; &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/eda9833fcae/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Bronze Sabatons&lt;/a&gt; que podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/5c0bdbdc542/?item=791b438d0fe&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Domitien&lt;/a&gt; en &lt;strong&gt;Old Gridania (X:14.3 Y:9.8)&lt;/strong&gt; en la categoría &lt;em&gt;Purchase Purchase Diciple of War Gear &amp;gt; Purchase Gear (Lv. 1-9)&lt;/em&gt; por 268 gil, esta pieza es &lt;b&gt;equipable&lt;/b&gt; por &lt;b&gt;GLA / MRD / PLD WAR / DRK / GNB&lt;/b&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/fashion220121/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/fashion220121/</guid>
+        
+        <category>gold saucer</category>
+        
+        <category>eventos</category>
+        
+        <category>semanales</category>
+        
+        
+        <category>gold saucer</category>
+        
+      </item>
     
       <item>
         <title>Enciclopedia Eorzea: El Nacimiento de un Imperio II</title>
@@ -474,102 +504,6 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
         
         
         <category>lore</category>
-        
-      </item>
-    
-      <item>
-        <title>Configurando la Interfaz: Opciones del Interfaz</title>
-        <description>&lt;p&gt;En la &lt;a href=&quot;/guia-ui-01/&quot; target=&quot;_blank&quot;&gt;anterior guía&lt;/a&gt; dimos los primeros pasos con la herramienta del HUD de Final Fantasy XIV. Esta vez vamos mirar otras opciones más allá de cambiar la ubicación de las barras de combates y los diversos paneles que tenemos a nuestra disposición, con el fin de tener una interfaz aún más a nuestro gusto.&lt;/p&gt;
-
-&lt;h4 id=&quot;introducción&quot;&gt;Introducción&lt;/h4&gt;
-
-&lt;p&gt;Si bien los paneles que tenemos y podemos mover en el HUD son una de la parte más visible del mismo, no es todo lo que parte de el. También tenemos indicadores diversos, como efectos negativos y positivos que nos afectan tanto a nosotros como al enemigo que tenemos fijado y otra opciones diversas de las que se hablaron ligeramente en la anterior guía, que esta vez vamos a ver con algo más de profundidad.&lt;/p&gt;
-
-&lt;h4 id=&quot;opciones-fuera-de-hud-layout&quot;&gt;Opciones fuera de HUD Layout&lt;/h4&gt;
-
-&lt;p&gt;Además de los que hicimos en el post anterior con el HUD Layout, tenemos varias opciones que están fuera de esta herramienta. Para ello tenemos que abrir el menú pulsando la tecla “Escape” pero esta vez seleccionaremos “Character Configuration”. Aquí tenemos tanto la capacidad de alternar los controles entre mando y teclado, como de configurar diversos aspectos del juego, como algunas opciones para los controles o varios aspectos del menú, que es sobre lo que vamos a hablar a continuación. De los 6 menús que tenemos aquí, en los que nos vamos a centrar ahora son “Item Settings” y “UI Settings”&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/02/2.jpg&quot; alt=&quot;settings 2&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;item-settings&quot;&gt;Item Settings&lt;/h4&gt;
-
-&lt;p&gt;Si bien las opciones que tenemos disponibles en este apartado no son muchas, si que pueden marcar una diferencia en la experiencia habitual que tenemos dentro del juego. Siendo las más notables las dos primeras opciones, que son, Inventory Interface y Retainer Inventory Interface.&lt;/p&gt;
-
-&lt;p&gt;Lo que hacen estas dos opciones es dar la capacidad de elegir cuántos espacios del inventario queremos ver, tanto de nuestro inventario personal como del de nuestros retainer. En el caso del jugador tenemos tres opciones “Normal” que es la opción seleccionada por defecto en la que solo vemos una sección de objetos por pestaña con 6 pestañas totales, de las cuales 4 son para objetos, otra es para la sección de objetos clave y otra para los cristales dedicados paral crafting.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/02/3.jpg&quot; alt=&quot;settings 3&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;La siguiente opción que tenemos es “Expanded” en la que pasamos a ver dos secciones de inventario por pestaña con un total de 4 pestañas, dos de ellas dedicadas a nuestros objetos.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/02/4.jpg&quot; alt=&quot;settings 4&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Y por último, pero no por ello menos importante, tenemos “Open All” en la pasamos a tener solo dos pestañas, una de ellas dedicada a los objetos y la otra para los objetos clave y los cristales.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/02/5.jpg&quot; alt=&quot;settings 5&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;En el caso de los retainers tenemos solo dos opciones, “Normal” y “Expanded” que funcionan exactamente igual que las mencionadas arriba para el inventario personal. Las otras opciones que tenemos dentro de “Item Settings” son las de hacer que todo las piezas de armas, armaduras y joyería que podamos conseguir en lugar de ir directamente a nuestro Armoury Chest se guarden en nuestro inventario, la opción de eliminar el degradado que tienen las piezas cuando las vemos con una clase que no las puede equipar y varias opciones para configurar como más pensemos conveniente el cómo funciona la opción de auto ordenar las cosas que tenemos en los inventarios.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/02/6.jpg&quot; alt=&quot;settings 6&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Esto es todo para la sección de “Inventory settings”, ahora vamos a pasar a la siguiente opción, “UI Settings”. En el caso de que estáis dando vuestros primeros pasos en el juego y no sepáis muy bien qué son los retainers o cómo funcionan, tenemos &lt;a href=&quot;/retainer/&quot; target=&quot;_blank&quot;&gt;una guía&lt;/a&gt; que cubre en profundidad el tema.&lt;/p&gt;
-
-&lt;h4 id=&quot;ui-settings&quot;&gt;UI Settings&lt;/h4&gt;
-
-&lt;p&gt;Este menú se divide en 3 pestañas, “General”, “HUD” y “Party List”. “General” es la primera que vemos según seleccionamos este menú, y las primeras opciones que tiene giran en torno al comportamiento del menú principal según el tipo de control que queramos usar, seguido por varias opciones para ajustar cómo se comporta el mapa cuando lo tenemos abierto.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/02/7.jpg&quot; alt=&quot;settings 7&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Después de eso tenemos una parte llamada “Help” esto se refiere a esa ventana flotante que aparece cuando ponemos el cursor sobre cualquier objeto y habilidad, esto es llamado “Tooltip”. y primero tenemos opciones para cambiar cómo se comporta con los objetos, si queremos verlo o no y con qué botón queremos alternar si lo que muestra lo hace en calidad normal o en alta calidad, en el caso de que sea aplicable. Luego están las opciones para configurar cómo se comporta con las habilidades, en qué posición aparece la ventana y el tamaño que tiene.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/02/8.jpg&quot; alt=&quot;settings 8&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Después tenemos “Recomendarions” que trata sobre esa ventana que vemos siempre que entramos al juego y lo que muestra es una lista de cosas que el juego te recomienda hacer, como por ejemplo las ruletas diarias y en está sección tenemos dos opciones para desactivar muestre la ventana entre transiciones de zonas y otra para que no la muestre cuando entramos al juego.&lt;/p&gt;
-
-&lt;p&gt;Justo debajo tenemos “Playguide” que es una pequeña ventana que en el caso de darle a “Yes” te lleva a la Lodestone, tiene las mismas dos opciones que la anterior para activarla y desactivarla.
-Por último tenemos “Achivements” donde solo se muestra una opción y es para mostrar los logros que estamos cerca de completar como una de las notificaciones dentro del juego que desaparece al cabo de unos segundos, o como una ventana independiente.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/02/9.jpg&quot; alt=&quot;settings 9&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Con eso vemos todo lo que esta sección tiene para ofrecernos y podemos pasar a la siguiente pestaña que es la de “HUD”. Aquí tenemos diferentes opciones que todas tienen que ver con que cosas queremos mostrar o no en pantalla, empezando por los textos flotantes que se muestran en pantalla, la barra de vida y mana, la barra de exp, la representación de nuestras bolsas de inventario.&lt;/p&gt;
-
-&lt;p&gt;Después está la opción para mostrar la “Duty List”, cuantas misiones en curso queremos ver mostradas a la vez, con un máximo de 5 y opciones para esconderla cuando estamos dentro de una duty.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/02/10.jpg&quot; alt=&quot;settings 10&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;También tenemos opciones para mostrar u ocultar el minimapa, la cantidad de gil que tenemos, mostrar diferentes relojes según nuestras necesidades o mostrar los 3, estos relojes son: La hora de Eorzea, que es por la que se rigen varias cosas como algunos nodos de recolección o peces a la hora de pescarlos, la hora local de la zona donde vives y la hora del server, está última muestra la hora de donde está ubicado el server para todos los jugadores que juegan en el independiente de su franja horaria.&lt;/p&gt;
-
-&lt;p&gt;También podemos elegir si mostrar o no el nombre del mundo actual en el que estamos, de la barra de límite, de la guía de la Main Scenario Quest, o si queremos que se oculte de forma automática cuando terminas con todas las misiones y la opción de si queremos ver los retratos de los diferentes npcs del juego cuando hablan con nosotros en varias ocasiones.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/02/11.jpg&quot; alt=&quot;settings 11&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Por último en esta sección tenemos varias opciones sobre los enemigos, siendo la primera la opción de si queremos mostrar solo los efectos negativos que infligimos solo nosotros o si queremos que se muestren todos los efectos negativos que el objetivo está sufriendo, esto puede resultar útil si te cuesta encontrar los que estás aplicando para saber cuándo aplicarlos de nuevo o si estas jugando junto con otra persona que está usando la misma clase y no puedes diferenciar entre los dos efectos.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/02/14.jpg&quot; alt=&quot;settings 14&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Después de eso tenemos la opción de mostrar la “Enmity List” que es una lista de todos los enemigos con los que estamos en combate y se también da la opción de mostrar la barra de progreso de las acciones que están lanzando, tenemos una opción parecida para cuando hacemos focus target y por último tenemos la opción de mostrar un porcentaje de cuanta vida le que da al enemigo junto a su barra de salud.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/02/12.jpg&quot; alt=&quot;settings 12&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;En la tercera pestaña tenemos “Party List”, en la que podemos elegir si mostrar o no la lista de la gente con la que estamos jugando en grupo, como queremos que se muestren sus nombres. la opción de esconder la lista cuando estamos solos y cuantos efectos queremos ver al lado de cada miembro del grupo, con un mínimo de 5 efectos y un máximo de 10, luego tenemos la opción para quitar o mostrar la lista de los miembros de otras alianzas para cuando se está haciendo contenido con más de 8 personas como pueden ser las alliance raids, por ejemplo.&lt;/p&gt;
-
-&lt;p&gt;Y por último en esté menú tenemos la capacidad de configurar en qué orden queremos que se muestren los miembros del grupo según el tipo de clase que estemos jugando en ese momento.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/02/13.jpg&quot; alt=&quot;settings 13&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Y con esto concluye la guía, espero que os resulte de mucha utilidad.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/guia-ui-02/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/guia-ui-02/</guid>
-        
-        <category>guías</category>
-        
-        <category>nuevos jugadores</category>
-        
-        <category>interfaz</category>
-        
-        
-        <category>guías</category>
         
       </item>
     
