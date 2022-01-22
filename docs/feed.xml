@@ -5,9 +5,96 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Jan 2022 12:34:35 +0000</pubDate>
-    <lastBuildDate>Fri, 21 Jan 2022 12:34:35 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Jan 2022 11:38:46 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Jan 2022 11:38:46 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Configurando la Interfaz: Menú de macros</title>
+        <description>&lt;p&gt;Ya tenemos cubiertos los &lt;a href=&quot;/guia-ui-01/&quot; target=&quot;_blank&quot;&gt;fundamentos básicos&lt;/a&gt; de configuración del HUD y de las &lt;a href=&quot;/guia-ui-02/&quot; target=&quot;_blank&quot;&gt;varias opciones&lt;/a&gt; que tenemos en el menú para configurar otras cosas más allá de los paneles. Ahora vamos a entrar en un terreno que puede parecer algo más intimidante, pero con nuestra ayuda os daréis cuenta de que es más sencillo de lo que parece.&lt;/p&gt;
+
+&lt;h4 id=&quot;introducción&quot;&gt;Introducción&lt;/h4&gt;
+
+&lt;p&gt;Para hacer esto la vamos a retomar desde donde lo dejamos en la primera guía con aquella barra adicional que posicionamos en un lateral del HUD, con la que además de monturas, podemos hacer más cosas interesantes, como por ejemplo, poner diferentes consumibles que queremos usar para no sobre poblar las barras que tenemos para las habilidades, o como es el objetivo de esta guía, hacer una macro para mostrar u ocultar las diferentes clases que queremos mostrar.&lt;br /&gt;
+Vamos a preparar el terreno para hacer esto abriendo otra vez la herramienta de HUD Layout para coger una hotbar adicional que tenemos ocultas y moverla justo al lado de la que movimos ya en la primera guía, está será la hotbar en la que pongamos nuestras clases para cambiar entre ellas con un click y también será la vamos a mostrar y ocultar con un botón que vamos a hacer en el menú de macros.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/03/2.jpg&quot; alt=&quot;macros 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para eso vamos a pulsar de nuevo el “Escape” para mostrar el menú de sistema y le daremos a “User Macros”. Las posibilidades que da esta herramienta son muchas, desde crear macros para que hagan una secuencia de habilidades a la hora de fabricar objetos a  ocultar o mostrar diferentes paneles del HUD, las posibilidades son muchas, aunque el objetivo de hoy es lo  segundo.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/03/3.jpg&quot; alt=&quot;macros 3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Como veréis  dentro de esta herramienta tenemos dos pestañas entre las que elegir, ambas pueden tener hasta un máximo de 100 macros, se diferencian en que la pestaña de individual solo para el personaje que con el que estás en el momento en el que creas la macro, mientras que la shared son para todos los posibles personajes que se puedan tener creados.&lt;/p&gt;
+
+&lt;h4 id=&quot;introducción-a-las-macros&quot;&gt;Introducción a las macros&lt;/h4&gt;
+
+&lt;p&gt;Vamos a empezar por la macro más básica para alcanzar nuestra meta, que es la de mostrar y ocultar la barra que queramos con un solo click sin tener que abrir la herramienta del HUD. Para esto todo lo que tenemos que hacer es seleccionar el hueco de macro que queramos y después la caja de texto grande que tenemos a la derecha. Una vez hecho solo tenemos que escribir lo que queremos que haga la macro, en este caso es mostrar y ocultar la hotbar número 7, si quereis hacer esto con otra hotbar todo lo que tenéis que hacer es cambiar el número por la que queráis ocultar:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+    /hotbar display 7 [on/off]
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Después de esto, solo queda poner el nombre que deseéis a la macro y seleccionar un icono de los que ofrece el juego haciendo click en el símbolo de la macro que está encima de la caja de texto.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/03/4.jpg&quot; alt=&quot;macros 4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora solo tenemos que arrastrar la macro a la hotbar, una vez puesta cada vez que hagamos click en ella mostrará y ocultará la hotbar número 7 y en esta hotbar podemos poner las clases que queremos usar para poder cambiar entre ellas con rapidez sin tener que entrar en los gearsets. El resultado debería ser algo parecido a esto:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/03/5.gif&quot; alt=&quot;macros 5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Esto puede escalar a varios niveles de complejidad contra más quieras hacer con este tipo de herramientas, como por ejemplo, separar las clases que quieres jugar en los diferentes roles que tiene el juego, otra sección diferente solo para los tipos diferentes de consumibles que quieras usar como comidas, pociones, etc o incluso crear una macro para mostrar en la barra una selección de tus gestos favoritos.&lt;/p&gt;
+
+&lt;h4 id=&quot;macros-en-profundidad&quot;&gt;Macros en profundidad&lt;/h4&gt;
+
+&lt;p&gt;Para hacer todo esto vamos a necesitar algo más que la herramienta de macros y para eso tenemos volver al menú del sistema del juego y entrar en “Character Configuration”, lo único que esta vez vamos a entrar en la sección de “Hotbar Settings”, aquí tenemos que hacer un par de cosas, lo primero que podemos hacer es seleccionar la opción de “Hide unassigned slots” esto lo que hará será esconder todos los huecos de las hotbars que no tengan nada en ella, cosa que ayuda a despejar el interfaz, también podéis seleccionar la opción de “Display hotbar numbers” si no queréis que el juego muestre los números de las hotbars.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/03/6.jpg&quot; alt=&quot;macros 6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aunque realmente nos interesa es la pestaña de “Sharing”, aquí podemos seleccionar cuales de las 10 Hotbars que tenemos son “Shared Hotbar”, que son aquellas que muestran siempre el mismo contenido independiente de la clase que tengas, aquellas que no tengan esta función activadas pasarán a ser hotbars independientes según la clase, como son por defecto las 3 primeras, en las que vemos las habilidades de combate según lo que estemos jugando.&lt;/p&gt;
+
+&lt;p&gt;Para tener el máximo de opciones posibles entras las que elegir, podemos dejar dos de las 10 hotbars compartidas y el resto dejarlas sin seleccionar, en mi caso serán la 1 y la 8, pero podéis seleccionar las dos que prefiráis. Con esto el contenido de esas dos hotbars será el mismo sin importar la clase con la que se esté jugando.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/03/7.jpg&quot; alt=&quot;macros 7&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora que tenemos esta parte configurada, lo siguiente que nos interesa es mover las hotbars de forma correspondiente, podemos empezar por mover la hotbar en la que teníamos nuestras clases para cambiar entre ellas encima de la macro que las muestra y las oculta y también podemos quitar por ahora las clases que tengamos ahí puestas si queremos hacer algo que tenga algo más de profundidad. Después de eso cogemos 3 de las barras para las que no tengamos ningún uso y que no sean las que están configuradas como shared y las ponemos al lado de la que tenemos oculta, algo tal que así:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/03/8.jpg&quot; alt=&quot;macros 8&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A continuación lo que podemos hacer es cambiarnos a una clase cualquiera, por ejemplo minero, y en una de las barras que no tengamos pensado usar y esté configurada como no compartida podemos poner, por ejemplo, las clases de combate que queramos usar, algo tal que así, por ejemplo:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/03/9.jpg&quot; alt=&quot;macros 9&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora lo que tenemos que hacer es la macro para esto se muestre solo cuando queramos cambiar de clases, para eso todo lo que tenemos que hacer es volver al menú de macros para hacer una. En este caso el objetivo de la macro es copiar la hotbar número 10 del minero, donde pusimos las clases de combate y copiarlo a la hotbar 10 de la clase que sea que estemos usando en ese momento.&lt;/p&gt;
+
+&lt;p&gt;Para ellos tenemos que hacer una macro de dos líneas que son las siguientes:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+    /hotbar copy MIN 10 current 10
+    /hotbar display 10 [on/off]
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Ponemos un nombre para saber qué hace la macro y un icono acorde y ponerla en la barra que ocultamos con la primera macro. Este es el resultado:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/ui/03/12.gif&quot; alt=&quot;macros 12&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Esta macro se puede replicar con la hotbar y clase que se quiera, todo lo que tenéis que hacer es copiar las dos líneas de la macro y cambiar los número de la hotbar que quieres copiar y de la que quieres que se muestre y de la clase que quieras copiar la hotbar.&lt;/p&gt;
+
+&lt;p&gt;Con esto termina la guía sobre las macros y algunas de las cosas que puedes conseguir con ellas, esperamos que os sea de ayuda.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/guia-ui-03/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/guia-ui-03/</guid>
+        
+        <category>guías</category>
+        
+        <category>nuevos jugadores</category>
+        
+        <category>interfaz</category>
+        
+        
+        <category>guías</category>
+        
+      </item>
     
       <item>
         <title>Relatos desde las Sombras : Dedicatoria Final</title>
@@ -689,65 +776,6 @@ Podremos ir a la &lt;b&gt;habitación #108&lt;/b&gt; donde podremos &lt;b&gt;tra
         
         
         <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Enciclopedia Eorzea: El Nacimiento de un Imperio I</title>
-        <description>&lt;p&gt;&lt;em&gt;Os traemos página a página la Enciclopedia de Eorzea traducida al Español.&lt;br /&gt;
-Con cientos de páginas que detallan todo, desde la historia y las culturas de Eorzea hasta su geografía y sus habitantes, este tomo elaborado por expertos es un verdadero tesoro de información inestimable.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;La Enciclopedia de Eorzea ofrece una visión en profundidad de las ciudades-estado, las organizaciones y los personajes más importantes del reino, así como de sus diversas profesiones y sus principales practicantes. Los lectores también conocerán a los hombres bestia de Eorzea, sus culturas, costumbres y deidades, y obtendrán datos detallados sobre las innumerables criaturas del reino, desde las más tímidas hasta las más terroríficas.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;el-nacimiento-de-un-imperio-i&quot;&gt;EL NACIMIENTO DE UN IMPERIO I&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Hace aproximadamente 5.000 años, la civilización eorzeana alcanzó lo que podría considerarse su punto álgido, al menos en el sentido del avance tecnológico e influencia general sobre el resto de Hydaelyn, con la llegada del Imperio Allagan y su expansión por el norte hasta Ilsabard, por el este hasta Othard y por el sur hasta Meracydia.&lt;br /&gt; 
-La siguiente sección examina el ascenso y la caída de la época más próspera del reino.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;el-hallazgo-de-saint-coinach&quot;&gt;EL HALLAZGO DE SAINT COINACH&lt;/h4&gt;
-
-&lt;p&gt;Hace casi seis siglos, un joven decidido de Ul’dah llamado Coinach tropezaría con lo que resultaría ser el mayor descubrimiento de la Sexta Era Astral, las reliquias del gran Imperio Allagan.&lt;/p&gt;
-
-&lt;p&gt;Coinach, seminarista de la Orden de Nald’thal, era muy inteligente y obtenía siempre las mejores notas entre sus compañeros. La orden tenía grandes esperanzas en el joven prodigio y lo imaginaba como un futuro líder de la iglesia. Estas esperanzas se desmoronaron cuando Coinach se encaprichó con las historias de un imperio perdido hace mucho tiempo y mencionado brevemente en las escrituras sagradas, los Allag. A pesar de estar a menos de un año de graduarse, abandonó abruptamente sus estudios y comenzó una febril búsqueda de conocimientos sobre un tema que la mayoría de la orden consideraba, en el mejor de los casos, como una alegoría. Haciendo oídos sordos a las súplicas de sus profesores, Coinach fue expulsado del seminario y finalmente condenado al ostracismo por sus compañeros más cercanos. Sin embargo, se convirtió en comerciante, y cada moneda que ganaba la invertía en la adquisición de tomos antiguos y en la supervisión de excavaciones exploratorias en lugares remotos del reino. No fue hasta el año anterior a su fallecimiento, más de cinco décadas después de que comenzara su búsqueda, que Coinach encontró finalmente lo que buscaba en un rincón poco poblado de Mor Dhona.&lt;/p&gt;
-
-&lt;p&gt;Antes era el hazmerreír de los círculos académicos, ahora Coinach era un héroe. Las universidades le rogaban que se uniera a su personal, mientras que patrocinadores de toda Eorzea le colmaban de monedas para financiar futuras excavaciones. Una mayor reivindicación se consiguió tras su muerte, cuando fue canonizado, no por la orden que lo abandonó, sino por los seguidores de Althyk, el Custodio. El nombre de Coinach sigue vivo hasta hoy en día en el Hallazgo de San Coinach, una organización dedicada a la continuación del trabajo del arqueólogo epónimo.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/lore/enciclopedia/14/ruinas.jpg&quot; alt=&quot;ruinas&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;la-tercera-era-astral-el-surgimiento-de-un-imperio&quot;&gt;LA TERCERA ERA ASTRAL: EL SURGIMIENTO DE UN IMPERIO&lt;/h5&gt;
-
-&lt;p&gt;Las comunidades que surgieron tras la Calamidad del Fuego, aunque temerosas de los dioses, se mostraron cautelosas a la hora de convertirlos de nuevo en el centro de su sociedad. La búsqueda de lo divino había provocado la ira de los cielos, así que para evitar un destino similar, la humanidad optó por poner distancia entre ella y los dioses. Como resultado, la sociedad comenzó a centrarse en los talentos individuales de su gente. La fe en los dioses dio paso a la fe en uno mismo. Con esta nueva confianza, la humanidad comenzó a producir algunas de las mejores mentes de la historia. Cada día se hacían nuevos descubrimientos en ciencia y tecnología. La civilización avanzaba a un ritmo nunca visto en las dos Eras Astrales anteriores, y al frente se encontraba un hombre que vería cómo esa civilización llegaba a los rincones más lejanos de Hydaelyn, Xande.&lt;/p&gt;
-
-&lt;p&gt;Considerado por muchos como un genio por derecho propio, el ambicioso Xande utilizó su asombrosa inteligencia y carisma para construir una nación que, aunque fundada en la ciencia, no negaba la magia de la Segunda Era Astral. Los pocos descendientes de los sacerdotes y brujas de la Segunda Era Astral fueron bienvenidos y se les dio un lugar donde pudieran perfeccionar sus habilidades y ejercerlas para el bien del pueblo. A medida que Xande aprendía más sobre el potencial de la magia, asignó a muchos de estos “magos” a su recién formado ejército, donde su incomparable fuerza en el campo de batalla permitió al joven líder subyugar las tierras vecinas con pocas bajas allaganas. En menos de un año, Allag era la mayor nación de Eorzea y Xande se coronó emperador.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/lore/enciclopedia/14/tumba.jpg&quot; alt=&quot;tumba&quot; /&gt;&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;&lt;i&gt;A su muerte, el emperador Xande fue enterrado en una tumba construida dentro de una caverna cristalina situada en Mor Dhona, con el razonamiento de que gracias a los niveles concentrados de energía etérea pura se podría reparar la carne corrupta y restaurar el alma de Xande en su nuevo cuerpo. Las consecuencias reales fueron muy diferentes.&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;los-orígenes-de-la-eteroquímica&quot;&gt;LOS ORÍGENES DE LA ETEROQUÍMICA&lt;/h4&gt;
-
-&lt;p&gt;No hace falta decir que el Imperio Allagan nunca habría sobrevivido, y mucho menos se habría expandido y prosperado, si no hubiera sido por el poder del plantel de magos elegidos por Xande. Sin embargo, su contribución más importante al imperio no fue únicamente el tejido de hechizos, sino la incorporación de sus magias a los principios científicos existentes. Las máquinas de asedio mejoradas con hechizos lanzaban proyectiles más lejos y con más precisión. Las grúas de rueda hechizadas levantaban bloques diez veces su carga máxima con la mitad de mano de obra. Una vez desvelados los secretos del éter, se aplicaron no sólo a la guerra, sino a las necesidades cotidianas de la sociedad, desde la construcción hasta la medicina, pasando por el transporte y la comunicación. El campo llegó a conocerse como eteroquímica, y sobre su base los allaganos cabalgarían hacia una Edad de Oro de prosperidad.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/lore/enciclopedia/14/edadoro.jpg&quot; alt=&quot;Edad de Oro&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;em&gt;Traducción de la página 24 de la Enciclopedia de Eorzea por Lia Tales para Gaceta Eorzea.&lt;/em&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/enciclopedia-14/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/enciclopedia-14/</guid>
-        
-        <category>lore</category>
-        
-        <category>enciclopedia</category>
-        
-        
-        <category>enciclopedia</category>
         
       </item>
     
