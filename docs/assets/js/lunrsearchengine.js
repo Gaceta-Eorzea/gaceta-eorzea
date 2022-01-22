@@ -273,7 +273,7 @@ var documents = [{
     "id": 54,
     "url": "https://gaceta-eorzea.com/fashion220121/",
     "title": "Fashion Report 21 Enero 2022",
-    "body": "2022/01/21 - Esta semana de nuevo Kaiyoko Star ha publicado la solución para el Fashion Report, la cual podéis ver a continuación. Fashion Report 208 Para hacer los 80 puntos de manera fácil y ganar los 60,000 MGP:  En guantes Cotton Halfgloves que podéis comprar a Domitien en Old Gridania (X:14. 3 Y:9. 8) en la categoría Purchase Purchase Diciple of the Hand/Land Gear &gt; Purchase Gear (Lv. 1-9) por 336 gil, esta pieza es equipable para todas las clases.  En zapatos Bronze Sabatons que podéis comprar a Domitien en Old Gridania (X:14. 3 Y:9. 8) en la categoría Purchase Purchase Diciple of War Gear &gt; Purchase Gear (Lv. 1-9) por 268 gil, esta pieza es equipable por GLA / MRD / PLD WAR / DRK / GNB. "
+    "body": "2022/01/21 - Esta semana de nuevo Kaiyoko Star ha publicado la solución para el Fashion Report, la cual podéis ver a continuación. Fashion Report 208 Para hacer los 80 puntos de manera fácil y ganar los 60,000 MGP:  En guantes Cotton Halfgloves que podéis comprar a Domitien en Old Gridania (X:14. 3 Y:9. 8) en la categoría Purchase Purchase Diciple of the Hand/Land Gear &gt; Purchase Gear (Lv. 10-19) por 336 gil, esta pieza es equipable para todas las clases.  En zapatos Bronze Sabatons que podéis comprar a Domitien en Old Gridania (X:14. 3 Y:9. 8) en la categoría Purchase Purchase Diciple of War Gear &gt; Purchase Gear (Lv. 10-19) por 672 gil, esta pieza es equipable por GLA / MRD / PLD WAR / DRK / GNB. "
     }, {
     "id": 55,
     "url": "https://gaceta-eorzea.com/enciclopedia-15/",
