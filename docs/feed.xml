@@ -5,9 +5,39 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Jan 2022 12:22:13 +0000</pubDate>
-    <lastBuildDate>Sat, 22 Jan 2022 12:22:13 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Jan 2022 14:18:01 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Jan 2022 14:18:01 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Historia de Raid – Omega</title>
+        <description>&lt;p&gt;Los Herreros de Garlond, el grupo de ingenieros e investigadores de Cid, nos citan para contarnos que creen haber encontrado el lugar donde aterrizó el arma Omega tras su combate contra Shinryu.&lt;/p&gt;
+
+&lt;p&gt;Al adentrarnos en “El Pozo” nos encontraremos en una extraña simulación donde la poderosa Omega nos hará enfrentarnos a enemigos míticos de otros juegos de la saga Final Fantasy en un extraño torneo al más puro estilo “Dragon Ball”.
+Aquí conoceremos a Alpha, el adorable chocobo que nos hará plantarnos qué significa ser un ser humano o el concepto del alma.&lt;/p&gt;
+
+&lt;p&gt;Pasaos por el canal de YouTube para vídeos como este y muchos más.
+Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar guías y artículos de prácticamente todo lo que queráis saber sobre el mundo de FFXIV.&lt;/p&gt;
+
+&lt;p&gt;¡Guerreros de la luz, nos vemos en Eorzea!&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/JdSSOePpYxA?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/omega/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/omega/</guid>
+        
+        <category>lore</category>
+        
+        <category>raid</category>
+        
+        
+        <category>lore</category>
+        
+      </item>
     
       <item>
         <title>Configurando la Interfaz: Menú de macros</title>
@@ -729,53 +759,6 @@ El sanguíneo sendero que le había llevado por colinas y valles, bosques y llan
         
         
         <category>relatos</category>
-        
-      </item>
-    
-      <item>
-        <title>Evento: All Saints' Wake (Halloween)</title>
-        <description>&lt;p&gt;Ya tenemos los &lt;strong&gt;detalles&lt;/strong&gt; de el próximo evento de &lt;strong&gt;All Saints’ Wake&lt;/strong&gt; el cual es la celebración del &lt;strong&gt;Halloween&lt;/strong&gt; en Final Fantasy XIV.&lt;/p&gt;
-
-&lt;p&gt;Este evento lo podremos realizar &lt;strong&gt;desde&lt;/strong&gt; el &lt;strong&gt;Jueves 20 de Enero&lt;/strong&gt; a las 09:00 hasta el &lt;strong&gt;Miercoles 2 de Febrero&lt;/strong&gt; a las 16:59.&lt;/p&gt;
-
-&lt;p&gt;Para empezar el evento deberemos aceptar la &lt;strong&gt;misión de nivel 15 All Clowns’ Wake&lt;/strong&gt;, la cual nos la dará &lt;strong&gt;Adventurers’ Guild Investigator en Old Gridania X:10.4 Y:8.4&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/all-saints-2022/quest.jpg&quot; alt=&quot;All Clowns' Wake&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tras &lt;strong&gt;completar las misiones&lt;/strong&gt; de evento obtendremos &lt;strong&gt;nuevas recompensas&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/all-saints-2022/recompensas.jpg&quot; alt=&quot;recompensas&quot; /&gt;
-    &lt;br /&gt;
-    En este caso tendremos un &lt;b&gt;disfraz de payaso&lt;/b&gt;, incluido una nueva &lt;b&gt;Face Paint&lt;/b&gt; (usable en la personalización de personaje) y &lt;b&gt;adornos&lt;/b&gt; para el &lt;b&gt;housing&lt;/b&gt;.
-&lt;/p&gt;
-
-&lt;blockquote&gt;
-El evento tiene una dungeon llamado &lt;b&gt;Phamtom's Feast&lt;/b&gt; que se hace con habilidades especiales y &lt;b&gt;4 jugadores&lt;/b&gt; que nos da &lt;b&gt;6 Pumking Cookies&lt;/b&gt; cada vez que la hagamos, necesitamos &lt;b&gt;12 para el traje completo&lt;/b&gt;.&lt;br /&gt;
-&lt;br /&gt;
-Lo haremos una vez en las misiones de historia pero podemos &lt;b&gt;repetir&lt;/b&gt; hablando &lt;b&gt;Harlequin Guide&lt;/b&gt; en &lt;b&gt;Mih Khetto's Amphitheatre&lt;/b&gt; en &lt;b&gt;Old Gridania&lt;/b&gt;.
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-&lt;b&gt;Tenemos&lt;/b&gt; tambén el evento de la &lt;b&gt;Mansion Encantada&lt;/b&gt;, como otros años podremos &lt;b&gt;entrar&lt;/b&gt; hablando &lt;b&gt;Genial Guiser&lt;/b&gt; en &lt;b&gt;Mih Khetto's Amphitheatre&lt;/b&gt; en &lt;b&gt;Old Gridania&lt;/b&gt;.&lt;br /&gt;
-&lt;br /&gt;
-Podremos ir a la &lt;b&gt;habitación #108&lt;/b&gt; donde podremos &lt;b&gt;transformarnos&lt;/b&gt; en distintos &lt;b&gt;personajes&lt;/b&gt; de la historia y hacernos &lt;b&gt;gpose&lt;/b&gt;, en esta ocasión incluyen personajes de &lt;b&gt;Shadowbringers&lt;/b&gt;.
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/all-saints-2022/gpose.jpg&quot; alt=&quot;NPC Pose&quot; /&gt;&lt;/p&gt;
-
-
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/all-saints-2022/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/all-saints-2022/</guid>
-        
-        <category>evento</category>
-        
-        <category>noticias</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
