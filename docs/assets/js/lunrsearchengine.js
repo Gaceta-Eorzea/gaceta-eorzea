@@ -263,7 +263,7 @@ var documents = [{
     "id": 52,
     "url": "https://gaceta-eorzea.com/el-ocular-03/",
     "title": "El Ocular Podcast: Teorías Conspiratorias | Lo que está por venir",
-    "body": "2022/01/23 - El pasado 21 de Enero tuvimos la tercera entrega del Podcast de El Ocular con Choco Feru, Noah, Lia Tales, Elanor y de invitado Aryn. En esta ocasión el Podcast se centró en Teorías Conspiratorias y lo que está por venir en esta expansión. Podéis ver el Podcast al completo en el video a continuación. No os olvidéis de seguir el canal y darle like si os ha gustado. En este podcast hay múltiples spoilers de la MSQ de Endwalker, por lo cual tener cuidado cuando lo veáis si aún no la habéis completado.   "
+    "body": "2022/01/23 - El pasado 21 de Enero tuvimos la tercera entrega del Podcast de El Ocular con Choco Feru, Noah, Lia Tales, Elanor y de invitado Aryn. En esta ocasión el Podcast se centró en Teorías Conspiratorias y lo que está por venir en esta expansión. Podéis ver el Podcast al completo en el vídeo a continuación. No os olvidéis de seguir el canal y darle like si os ha gustado. En este podcast hay múltiples spoilers de la MSQ de Endwalker, por lo cual tener cuidado cuando lo veáis si aún no la habéis completado.   "
     }, {
     "id": 53,
     "url": "https://gaceta-eorzea.com/guia-ui-03/",
@@ -323,7 +323,7 @@ var documents = [{
     "id": 64,
     "url": "https://gaceta-eorzea.com/el-ocular-02/",
     "title": "El Ocular Podcast: Repaso de Endwalker | Spoilingway",
-    "body": "2022/01/10 - El pasado 8 de Enero tuvimos la segunda entrega del Podcast de El Ocular con Choco Feru, Noah, Lia Tales y Elanor. En esta ocasión el Podcast se centró en hacer un repaso sobre Endwalker y sobre todo el Lore y posibles teorías. Podéis ver el Podcast a completo en el video a continuación, no os olvidéis de seguir el canal y darle like si os ha gustado. En este podcast hay múltiples spoilers de la MSQ de Endwalker, por lo cual tener cuidado cuando lo veáis si aún no la habéis completado.   "
+    "body": "2022/01/10 - El pasado 8 de Enero tuvimos la segunda entrega del Podcast de El Ocular con Choco Feru, Noah, Lia Tales y Elanor. En esta ocasión el Podcast se centró en hacer un repaso sobre Endwalker y sobre todo el Lore y posibles teorías. Podéis ver el Podcast a completo en el vídeo a continuación. No os olvidéis de seguir el canal y darle like si os ha gustado. En este podcast hay múltiples spoilers de la MSQ de Endwalker, por lo cual tener cuidado cuando lo veáis si aún no la habéis completado.   "
     }, {
     "id": 65,
     "url": "https://gaceta-eorzea.com/bahamut/",
@@ -403,7 +403,7 @@ var documents = [{
     "id": 80,
     "url": "https://gaceta-eorzea.com/el-ocular-01/",
     "title": "El Ocular Podcast: Aflojando Cinturones | Repaso pre-expansión",
-    "body": "2021/12/18 - El pasado 25 de Noviembre, unos pocos dias antes del acceso anticipado de Endwalker tuvimos la primera entrega del Podcast de El Ocular con Choco Feru, Noah, Lia Tales y la colaboración de Cecile. En esta ocasión el Podcast se centró en hacer un repaso a la información de ultima hora antes de Endwalker y de consejos a tener en cuenta en el lanzamiento. Podeis ver el Podcast a completo en el video a continuación.   "
+    "body": "2021/12/18 - El pasado 25 de Noviembre, unos pocos dias antes del acceso anticipado de Endwalker tuvimos la primera entrega del Podcast de El Ocular con Choco Feru, Noah, Lia Tales y la colaboración de Cecile. En esta ocasión el Podcast se centró en hacer un repaso a la información de ultima hora antes de Endwalker y de consejos a tener en cuenta en el lanzamiento. Podeis ver el Podcast a completo en el vídeo a continuación.   "
     }, {
     "id": 81,
     "url": "https://gaceta-eorzea.com/invocaciones/",
