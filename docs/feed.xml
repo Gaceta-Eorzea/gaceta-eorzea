@@ -5,9 +5,28 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Jan 2022 17:45:09 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Jan 2022 17:45:09 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Jan 2022 17:59:01 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Jan 2022 17:59:01 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Guia Red Mage en Endwalker</title>
+        <description>&lt;p&gt;En &lt;strong&gt;Endwalker&lt;/strong&gt; una de los dos jobs introducidos fué el &lt;strong&gt;Reaper&lt;/strong&gt;. En éste vídeo os hablo de todas sus &lt;strong&gt;habilidades&lt;/strong&gt;, &lt;strong&gt;combos&lt;/strong&gt; y como funciona la &lt;strong&gt;mecánica&lt;/strong&gt; de la clase, además de hablaros del &lt;strong&gt;openner&lt;/strong&gt; más general y algunos &lt;strong&gt;consejos&lt;/strong&gt; a la hora de utilizar el Reaper. Aquí teneis la guía del Reaper.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/iTb1-Hrl8DE?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/reaper-ew/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/reaper-ew/</guid>
+        
+        <category>jobs</category>
+        
+        
+        <category>jobs</category>
+        
+      </item>
     
       <item>
         <title>Enciclopedia Eorzea: El Nacimiento de un Imperio III</title>
@@ -684,36 +703,6 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
         
         
         <category>lore</category>
-        
-      </item>
-    
-      <item>
-        <title>Fashion Report 14 Enero 2022</title>
-        <description>&lt;p&gt;Esta semana de nuevo &lt;a href=&quot;https://twitter.com/kaiyokostar&quot; target=&quot;_blank&quot;&gt;Kaiyoko Star&lt;/a&gt; ha publicado la solución para el Fashion Report, la cual podéis ver a continuación.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion220114/freport_207.jpg&quot; alt=&quot;Fashion Report 207&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Fashion Report 207&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Para hacer los &lt;strong&gt;80 puntos&lt;/strong&gt; de manera fácil y ganar los &lt;strong&gt;60,000 MGP&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;En &lt;strong&gt;cabeza&lt;/strong&gt; &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/acc5f06d64e/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Cotton Sugarloaf Hat&lt;/a&gt; que podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/5c0bdbdc542/?item=791b438d0fe&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Domitien&lt;/a&gt; en &lt;strong&gt;Old Gridania (X:14.3 Y:9.8)&lt;/strong&gt; en la categoría &lt;em&gt;Purchase Purchase Diciple of Magic Gear &amp;gt; Purchase Gear (Lv. 20-29)&lt;/em&gt; por 771 gil.&lt;/li&gt;
-  &lt;li&gt;En &lt;strong&gt;Guantes cualquier pieza teñida&lt;/strong&gt; con &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/2db18e9a29d/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Slate Gray Dye&lt;/a&gt;,  el cual podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/a28cf0441f4/?item=70849afadc9&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Alaric&lt;/a&gt; en &lt;strong&gt;Old Gridania (X:14.3 Y:8.8)&lt;/strong&gt; por 216 gil.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/fashion220114/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/fashion220114/</guid>
-        
-        <category>gold saucer</category>
-        
-        <category>eventos</category>
-        
-        <category>semanales</category>
-        
-        
-        <category>gold saucer</category>
         
       </item>
     
