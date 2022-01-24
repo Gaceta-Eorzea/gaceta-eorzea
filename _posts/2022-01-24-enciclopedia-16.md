@@ -26,10 +26,15 @@ El ingenio de Amon y su naturaleza obsesiva se convirtieron en peligrosos aliado
 
 Tal y como había predicho Amon, el regreso de Xande había revitalizado el imperio, encendiendo un fuego en los corazones de los complacientes y proporcionándoles un propósito. Las filas del ejército se engrosaron con nuevos reclutas, las fábricas comenzaron a contratar trabajadores manuales para satisfacer la creciente demanda de armamento y los círculos académicos bullían con nuevos descubrimientos e inventos. El Imperio Allagan volvería a ser grande, y el camino hacia la grandeza se dirigía al sur. Sin embargo, las gentes de Meracydia no estaban dispuestos a renunciar a sus hogares sin luchar. Mientras que la primera oleada de ataques del imperio tuvo mucho éxito debido a que fueron inesperados, las siguientes incursiones en Meracydia resultaron más difíciles. Los pueblos nativos del sur del continente se unieron bajo el liderazgo de los dragones, que también reclamaban el dominio de Meracydia. Aunque no tenían parangón en los Tres Grandes Continentes, las bestias de guerra quiméricas del Ejército Imperial no eran rival para el aliento ardiente de los dragones, y se produjeron innumerables bajas. Sin embargo, esto sólo sirvió para motivar aún más a los científicos de Allag en su impía búsqueda de poder a través de la manipulación biológica, y no tardaron en crear abominaciones que superaban el poder de la Horda de Meracydia. En una batalla decisiva y sangrienta, los allagan mataron al wyrm del amanecer, Bahamut, allanando el camino para la ocupación inmediata... o eso creían.
 
+
 <div class="container">
   <div class="row">
     <div class="col">
-        <h4>KALIYA</h4>
+    <h4>KALIYA</h4>
+    </div>
+  </div>        
+  <div class="row">
+    <div class="col">        
         <sub><sup><i>Producto del ingenio mecánico y biológico, esta aberración de acero macizo Kaliya fue desarrollada en la Instalación de Investigación Eteroquímica de Azys Lla para combatir las legiones de dragones de Meracydia. Esta hidra mecanizada podía resistir no sólo los ataques de colmillos y garras afiladas, sino también las llamas candentes del aliento de dragón, y demostró ser inestimable en las campañas emprendidas en el continente austral. Tan eficaz fue la creación, que los allagan acabaron colocando una dentro de la cárcel de metal de Bahamut para custodiar al gran wyrm.</i></sup></sub>
     </div>
     <div class="col-xl">
@@ -53,7 +58,11 @@ La victoria sobre los eikons debería haber marcado el fin del conflicto en Mera
 <div class="container">
   <div class="row">
     <div class="col">
-        <h4>BAHAMUT</h4>
+    <h4>BAHAMUT</h4>
+    </div>
+  </div>  
+  <div class="row">
+    <div class="col">        
         <sub><sup><i>Uno de los de la primera cría, Bahamut vivió durante incontables siglos como gobernante de los cielos del sur hasta que fue asesinado por el Imperio Allagan, hambriento de poder. Cuando la wyrm del crepúsculo Tiamat se enteró del inoportuno destino de su amado, decidió, con la ayuda de la horda de dragones restante de Meracydia, ignorar las advertencias de sus parientes e intentar invocar el espíritu de Bahamut. Sin embargo, su dolor y angustia, combinados con la rabia de sus parientes, corrompieron su espíritu cuando regresó de la Corriente de la Vida, y el resultado fue un tirano loco que se parecía poco a lo que una vez fue el dragón del amanecer.</i></sup></sub>
     </div>
     <div class="col-xl">
