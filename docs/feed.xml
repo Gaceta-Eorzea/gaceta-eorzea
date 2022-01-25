@@ -5,9 +5,137 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Jan 2022 18:12:08 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Jan 2022 18:12:08 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Jan 2022 08:15:46 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Jan 2022 08:15:46 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Resumen de las notas del parche 6.08</title>
+        <description>&lt;p&gt;Este es un &lt;strong&gt;resumen&lt;/strong&gt; de las principales puntos de las notas del &lt;strong&gt;parche 6.08&lt;/strong&gt;, aunque os recomendamos revisar las notas completas en este &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/c4996dc0b5b02f481cd4b54621b26c98f57bd358&quot; target=&quot;_blank&quot;&gt;enlace&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;ajuste-del-sistema-de-combate&quot;&gt;Ajuste del Sistema de Combate&lt;/h4&gt;
+
+&lt;h5 id=&quot;paladin&quot;&gt;Paladin&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Spirits Within&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;250 a 270&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Expiacion&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;300 a 340&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blade of Faith&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;250 a 420&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blade of Truth&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;350 a 500&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blade of Valor&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;420 a 580&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;marauder--warrior&quot;&gt;Marauder / Warrior&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Tomahawk&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;100 a 150&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;monk&quot;&gt;Monk&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Phantom Rush&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;1000 a 1150&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dragoon&quot;&gt;Dragoon&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Dragon Sight&lt;/strong&gt; : &lt;strong&gt;Rango&lt;/strong&gt; aumentado de &lt;strong&gt;12y a 30y&lt;/strong&gt;.&lt;br /&gt;
+  El jugador &lt;strong&gt;objetivo&lt;/strong&gt; &lt;strong&gt;no&lt;/strong&gt; tiene que estar a &lt;strong&gt;12y para seguir recibiendo&lt;/strong&gt; el efecto de &lt;strong&gt;Left Eye&lt;/strong&gt;.&lt;br /&gt;
+  La &lt;strong&gt;animación de canalización&lt;/strong&gt; del efecto entre el dragoon y el objetivo se ha &lt;strong&gt;eliminada&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Raiden Thrust&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;260 a 280&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Stardiver&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;500 a 620&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Heavens’ Thrust&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;430 a 480&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Chaotic Spring&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;240 a 260&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rear&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;280 a 300&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;rogue--ninja&quot;&gt;Rogue / Ninja&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Spinning Edge&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;200 a 210&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gust Slash&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;140 a 160&lt;/strong&gt;.&lt;br /&gt;
+La &lt;strong&gt;potencia del combo&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;300 a 320&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aeolian Edge&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;120 a 140&lt;/strong&gt;.&lt;br /&gt;
+La &lt;strong&gt;potencia del ataque por detrás&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;180 a 200&lt;/strong&gt;.
+La &lt;strong&gt;potencia del combo&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;340 a 360&lt;/strong&gt;.
+La &lt;strong&gt;potencia del combo de ataque por detrás&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;400 a 420&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Armor Crush&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;120 a 140&lt;/strong&gt;.&lt;br /&gt;
+La &lt;strong&gt;potencia del ataque por el flanco&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;180 a 200&lt;/strong&gt;.
+La &lt;strong&gt;potencia del combo&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;340 a 340&lt;/strong&gt;.
+La &lt;strong&gt;potencia del combo de ataque por el flanco&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;380 a 400&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hyosho Ranryu&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;1200 a 1300&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;samurai&quot;&gt;Samurai&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hakaze&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;150 a 180&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Jinpu&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;250 a 280&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shifu&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;250 a 280&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ogi Namikiri&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;800 a 900&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kaeshi: Namikiri&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;1200 a 1350&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;machinist&quot;&gt;Machinist&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Drill&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;550 a 570&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Air Anchor&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;550 a 570&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Chain Saw&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;550 a 570&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;dancer&quot;&gt;Dancer&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Cascade&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;180 a 220&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fountain&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;240 a 280&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reverse Cascade&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;240 a 280&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fountainfall&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;300 a 340&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Technical Finish&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;1080 a 1200&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;thaumaturge--black-mage&quot;&gt;Thaumaturge / Black Mage&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fire III&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;240 a 260&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blizzard III&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;240 a 260&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blizzard IV&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;300 a 310&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fire IV&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;300 a 310&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Xenoglossy&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;660 a 760&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;summoner&quot;&gt;Summoner&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Astral Impulse&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;430 a 440&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ruby Rite&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;430 a 450&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fountain of Fire&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;520 a 540&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sistema&quot;&gt;Sistema&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;El &lt;strong&gt;data center de Oceania&lt;/strong&gt; esta &lt;strong&gt;disponible&lt;/strong&gt; y puede ser elegido en el menu del juego.&lt;/li&gt;
+  &lt;li&gt;Hacer una &lt;strong&gt;transferencia&lt;/strong&gt; a un &lt;strong&gt;servidor marcado&lt;/strong&gt; como “&lt;strong&gt;New&lt;/strong&gt; World” (nuevo mundo) aplicara bono de &lt;strong&gt;doble experiencia hasta nivel 80&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Se ha &lt;strong&gt;añadido&lt;/strong&gt; una &lt;strong&gt;opción&lt;/strong&gt; en la configuración del sistema para habilitar &lt;strong&gt;DualSense / DUALSHOCK 4 en Windows&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Al activar el &lt;strong&gt;Spatial Audio desactivara el Ecualizador&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/resumen-6-08/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/resumen-6-08/</guid>
+        
+        <category>parches</category>
+        
+        <category>EW</category>
+        
+        <category>6.05</category>
+        
+        
+        <category>parches</category>
+        
+      </item>
     
       <item>
         <title>Guia Red Mage en Endwalker</title>
@@ -682,35 +810,6 @@ Con cientos de páginas que detallan todo, desde la historia y las culturas de E
         
         
         <category>enciclopedia</category>
-        
-      </item>
-    
-      <item>
-        <title>Historia de Raid – Alexander</title>
-        <description>&lt;p&gt;De repente y de la nada, en las tierras altas de Dravania, una gigantesca fortaleza móvil aparece en medio del rio Thaliak.
-Junto con Y’shtola y Cid Nan Garlond debemos descubrir porqué la inmensa estructura metálica está absorbiendo el éter del ambiente a un ritmo tan desorbitado, que si continuase así acabaría con todo el éter de la zona.
-Acompañados de una cazarecompensas Au Ra llamada Mide, nos adentraremos en Alexander para resolver los misterios del presente, pero también los del pasado y los del futuro.&lt;/p&gt;
-
-&lt;p&gt;Pasaos por el canal de YouTube para vídeos como este y muchos más.
-Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar guías y artículos de prácticamente todo lo que queráis saber sobre el mundo de FFXIV.&lt;/p&gt;
-
-&lt;p&gt;¡Guerreros de la luz, nos vemos en Eorzea!&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/L6I79b5vkOM?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/alexander/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/alexander/</guid>
-        
-        <category>lore</category>
-        
-        <category>raid</category>
-        
-        
-        <category>lore</category>
         
       </item>
     
