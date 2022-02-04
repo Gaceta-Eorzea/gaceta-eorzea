@@ -268,7 +268,7 @@ var documents = [{
     "id": 53,
     "url": "https://gaceta-eorzea.com/valentione-2022/",
     "title": "Evento: Valentione's Day (San Valentín)",
-    "body": "2022/02/01 - Ya tenemos los detalles de el próximo evento de Valentione’s Day el cual es la celebración de San Valentin en Final Fantasy XIV. Este evento lo podremos realizar desde el Martes 8 de Febrero a las 09:00 hasta el Lunes 21 de Febrero a las 16:59. Para empezar el evento deberemos aceptar la misión de nivel 15 No Love Lost, la cual nos la dará Lisette dee Valentione en Old Gridania X:10. 2 Y:9. 4.  Tras completar las misiones de evento obtendremos nuevas recompensas:       En este caso tendremos Postmoogle Barding, una armadura para nuestro Chocobo y Valentione Mobile un adorno colgable para housing. "
+    "body": "2022/02/01 - Ya tenemos los detalles de el próximo evento de Valentione’s Day el cual es la celebración de San Valentin en Final Fantasy XIV. Este evento lo podremos realizar desde el Martes 8 de Febrero a las 09:00 hasta el Lunes 21 de Febrero a las 16:59. Para empezar el evento deberemos aceptar la misión de nivel 15 No Love Lost, la cual nos la dará Lisette dee Valentione en Old Gridania X:10. 2 Y:9. 4.  Tras completar las misiones de evento obtendremos nuevas recompensas:       En este caso tendremos Postmoogle Barding, una armadura para nuestro Chocobo y Valentione Mobile un adorno colgable para housing. Actualización del 4 de Febrero       También tendremos unos nuevos primas que hace medio corazón a la izquierda o derecha por lo cual necesitaremos a otra persona para hacer un corazón completo y poder hacernos una foto como la que veis en la imagen. "
     }, {
     "id": 54,
     "url": "https://gaceta-eorzea.com/enciclopedia-17/",
