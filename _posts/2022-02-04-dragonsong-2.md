@@ -67,7 +67,7 @@ Era la sonrisa de un dragón.
 
 *-Entonces cabalga sobre mi espalda, hija de la ilusión. Aquel que ha robado el ojo de mi hermano de cría se dirige a  Azys Lla... al igual que aquellos que portan su gemelo y planean darle caza.*
 
-*-¿Puedes saber dónde están los ojos del dragón? *
+*-¿Puedes saber dónde están los ojos del dragón?*
 
 El Dragón Sagrado resopló en afirmación.
 
@@ -98,4 +98,26 @@ Un enorme acorazado garleano surgió de las profundidades y se posicionó detrá
 *-Ha llegado el momento de utilizar el don de Hydaelyn.*
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/relatos/dragonson-2/ysayle.png" alt="Ysayle"/></p>
+
+Ysayle apretó el cristal contra su pecho y sintió que el frío se colaba en su piel. Lo apretó más fuerte que nunca.
+
+*-Se ha derramado demasiada sangre en mi nombre. ¿Y todo para qué? Por una falsa causa que creé en falta del calor de una amistad. Shiva... Hraesvelgr...espero que me perdonéis. Pero incluso ahora, no puedo dejar de lado mi sueño, mi sueño de un mañana en el que ningún niño tenga que congelarse solo en la nieve.*
+
+Cuando el Dragón Sagrado alcanzó el cielo sobre el gigantesco acorazado del Ejército Imperial, Ysayle cerró los ojos y se dejó caer desde su espalda.
+Sintiendo su determinación, el Hraesvelgr emitió un rugido de dolor.
+
+Hace mil años, el Dragón Sagrado que devoró a su ser amado, juró no volver a matar a nadie y, fue por esa razón que ella, tampoco pidió su ayuda en esta batalla entre los humanos.
+Ysayle sintió que se alejaba mientras caía y mil fuegos florecían a su alrededor. Lentamente, abrió los ojos y dijo: 
+
+*-Gracias, Hraesvelgr.*
+
+Después de escuchar su rugido y sentir el dolor del Dragón Sagrado, Ysayle se enfrentó a la batalla final.
+
+Y entonces habló.
+
+*-Santa Shiva...¡No! Oh mi propia diosa nacida de mis esperanzas y sueños. ¡Por última vez, te lo suplico! ¡Llena este recipiente con tu luz! ¡Apacigua el odio dentro de nuestros corazones y bendícenos con la gracia eterna!*
+
+El cristal en su mano se volvió liviano y se derritió. Y ella se convirtió una vez más en la diosa del hielo. El deseo de la Santa Shiva del mito de Halone, la diosa del glaciar y la guerra que había escuchado desde su infancia, se mezclaron con ella y se convirtió en su propia diosa creada en este mundo para…
+
+Para darles esperanza, a sus verdaderos amigos…
 
