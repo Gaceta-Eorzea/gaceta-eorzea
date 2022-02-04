@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Relatos de la Guerra Canto de Dragón : Entre Amigos y Dragones"
+title: "Relatos de la Guerra Canto de Dragón : La Diosa del Hielo"
 author: lia
 categories: [ relatos ]
 tags: [lore, relatos]
 image: assets/images/articles/relatos/dragonson-1/portada.jpg
-description: "Traducción al castellano de los relatos del lodestone, Relatos de la Guerra Canto de Dragón : Entre Amigos y Dragones"
+description: "Traducción al castellano de los relatos del lodestone, Relatos de la Guerra Canto de Dragón : La Diosa del Hielo"
 featured: false
 hidden: false
 ---
