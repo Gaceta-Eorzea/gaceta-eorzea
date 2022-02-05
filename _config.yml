@@ -101,7 +101,14 @@ authors:
       display_name: "Kenta"
       avatar: 'assets/images/avatars/kenta.jpg'
       twitter: https://twitter.com/IIIKentaIII
-      description: "Aficionado de los teclados, ordenadores y videojuegos. Lo más seguro es que esté farmeando algo mientras lees esto"      
+      description: "Aficionado de los teclados, ordenadores y videojuegos. Lo más seguro es que esté farmeando algo mientras lees esto"
+  eirene:
+      name: eirene 
+      display_name: "Eirene Themisen"
+      avatar: 'assets/images/avatars/eirene.jpg'
+      twitter: https://twitter.com/eireneland
+      description: "Diseñadora gráfica y proyecto de psicóloga. 50% española y 50% italiana. Los juegos que más me han acompañado en mi vida son: WoW, Diablo III, Los Sims y, desde hace un tiempo, FFXIV."      
+  # Plugins            
   # Plugins
 plugins:
   - jekyll-paginate
