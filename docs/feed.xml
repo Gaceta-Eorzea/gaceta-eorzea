@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Feb 2022 11:00:49 +0000</pubDate>
-    <lastBuildDate>Sun, 06 Feb 2022 11:00:49 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Feb 2022 12:53:59 +0000</pubDate>
+    <lastBuildDate>Sun, 06 Feb 2022 12:53:59 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -41,40 +41,44 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
       </item>
     
       <item>
-        <title>El mundo del Glamour: primeros pasos</title>
-        <description>&lt;p&gt;Hola a todos/as, soy Eirene y os traigo una &lt;strong&gt;guía de Glamour completa para principiantes y no tan principiantes&lt;/strong&gt;. En esta guía explicaré como usar todo el tema del Glamour y &lt;strong&gt;algún consejo extra que puede ayudarte&lt;/strong&gt;. Está hecha en base a mi &lt;strong&gt;experiencia personal&lt;/strong&gt; e iré comentando cosas que he ido viendo a lo largo del tiempo y que son interesantes de saber. Comencé a jugar hace poco más de un año y esto es todo lo que he aprendido de cómo funciona el Glamour hasta ahora. Es la primera vez que hago una guía e intentaré que quede todo explicado de la forma más sencilla posible. ¡Vamos a ello!&lt;/p&gt;
+        <title>El Mundo del Glamour: Primeros Pasos</title>
+        <description>&lt;p&gt;Hola a todos/as, soy Eirene y os traigo una &lt;strong&gt;guía de &lt;em&gt;Glamour&lt;/em&gt; completa para principiantes y no tan principiantes&lt;/strong&gt;. En esta guía explicaré como usar todo el tema del &lt;em&gt;Glamour&lt;/em&gt; y &lt;strong&gt;algún consejo extra que puede ayudarte&lt;/strong&gt;. Está hecha en base a mi &lt;strong&gt;experiencia personal&lt;/strong&gt; e iré comentando cosas que he ido viendo a lo largo del tiempo y que son interesantes de saber. Comencé a jugar hace poco más de un año y esto es todo lo que he aprendido de cómo funciona el &lt;em&gt;Glamour&lt;/em&gt; hasta ahora. Es la primera vez que hago una guía e intentaré que quede todo explicado de la forma más sencilla posible. ¡Vamos a ello!&lt;/p&gt;
 
 &lt;h3 id=&quot;contenido&quot;&gt;Contenido&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#introducción&quot;&gt;Introducción&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#desbloqueando-las-funciones-de-glamour&quot;&gt;Desbloqueando las funciones de glamour&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#desbloqueando-las-funciones-de-glamour&quot;&gt;Desbloqueando las funciones de &lt;em&gt;Glamour&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#accediendo-a-los-armarios&quot;&gt;Accediendo a los armarios&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#diferenciando-armoire-de-glamour-dresser&quot;&gt;Diferenciando &lt;em&gt;Armoire&lt;/em&gt; de &lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#guardando-objetos-en-el-glamour-dresser-y-armoire&quot;&gt;Guardando objetos en el &lt;em&gt;Glamour Dresser&lt;/em&gt; y &lt;em&gt;Armoire&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#sacando-un-objeto-del-glamour-dresser-o-armoire&quot;&gt;Sacando un objeto del &lt;em&gt;Glamour Dresser&lt;/em&gt; o &lt;em&gt;Armoire&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#a&quot;&gt;Coloreando piezas, el mundo de los tintes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#a&quot;&gt;Descubriendo los &lt;em&gt;Glamour Plates&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#a&quot;&gt;Restricciones del equipo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#a&quot;&gt;Aplicando un Glamour fuera de la habitación&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#a&quot;&gt;Glamours distintos para jobs que comparten equipo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#a&quot;&gt;Glamoureando equipo “a mano”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#a&quot;&gt;Despedida&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#coloreando-piezas-el-mundo-de-los-tintes&quot;&gt;Coloreando piezas, el mundo de los tintes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#descubriendo-los-glamour-plates&quot;&gt;Descubriendo los &lt;em&gt;Glamour Plates&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#restricciones-del-equipo&quot;&gt;Restricciones del equipo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#aplicando-un-glamour-fuera-de-la-habitación&quot;&gt;Aplicando un Glamour fuera de la habitación&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#glamours-distintos-para-jobs-que-comparten-equipo&quot;&gt;Glamours distintos para jobs que comparten equipo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#glamoureando-equipo-a-mano&quot;&gt;Glamoureando equipo “a mano”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#despedida&quot;&gt;Despedida&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;introducción&quot;&gt;Introducción&lt;/h4&gt;
 
 &lt;p&gt;Si eres nuevo/a en FFXIV, lo primero de todo &lt;strong&gt;¡bienvenido/a!&lt;/strong&gt; Espero que estés disfrutando del juego y sigas haciéndolo.&lt;br /&gt;
-¡Ahora sí, al lío! Habrás descubierto que hay un &lt;strong&gt;sistema llamado Glamour&lt;/strong&gt;, gracias al cual puedes tener equipada la mejor pieza para tu clase/job, pero con la apariencia de la que más te guste. Ahora bien, ¿cómo se usa el Glamour? Empecemos por el principio y vayamos paso por paso.&lt;/p&gt;
+¡Ahora sí, al lío! Habrás descubierto que hay un &lt;strong&gt;sistema llamado &lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt;, gracias al cual puedes tener equipada la mejor pieza para tu clase/job, pero con la apariencia de la que más te guste. Ahora bien, ¿cómo se usa el Glamour? Empecemos por el principio y vayamos paso por paso.&lt;/p&gt;
 
-&lt;h4 id=&quot;desbloqueando-las-funciones-de-glamour&quot;&gt;Desbloqueando las funciones de glamour&lt;/h4&gt;
+&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;desbloqueando-las-funciones-de-glamour&quot;&gt;Desbloqueando las funciones de &lt;em&gt;Glamour&lt;/em&gt;&lt;/h4&gt;
 
 &lt;blockquote&gt;
-Vamos a hacer un paréntesis para los jugadores nuevos. El Glamour y los tintes se desbloquean en &lt;i&gt;Western Thanalan&lt;/i&gt;, en las coordenadas X: 12.5 Y: 14.1, hablando con &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/bb7ebd31069/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Swyrgeim&lt;/a&gt;, que te dará varias misiones azules con un “+”. Dale a este &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/bb7ebd31069/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;enlace&lt;/a&gt; para más información.&lt;br /&gt;
+Vamos a hacer un paréntesis para los jugadores nuevos. El *Glamour* y los tintes se desbloquean en &lt;i&gt;Western Thanalan&lt;/i&gt;, en las coordenadas X: 12.5 Y: 14.1, hablando con &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/bb7ebd31069/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Swyrgeim&lt;/a&gt;, que te dará varias misiones azules con un “+”. Dale a este &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/bb7ebd31069/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;enlace&lt;/a&gt; para más información.&lt;br /&gt;
 &lt;br /&gt;
 &lt;i&gt;Si la MSQ (&lt;i&gt;Main Scenario Quest&lt;/i&gt;) aún no te ha llevado hasta allí, ten un poco de paciencia y sigue haciéndola hasta que llegues.&lt;/i&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Además, un poco más a la derecha de este NPC, en las coordenadas X: 12.0 Y: 15.1 tenemos a un NPC llamado &lt;em&gt;Goberin&lt;/em&gt;, que vende &lt;strong&gt;&lt;em&gt;Glamour Prism&lt;/em&gt;&lt;/strong&gt; (ahora hablaremos de ellos pero &lt;strong&gt;cómprate unos cuantos&lt;/strong&gt;) y también unos objetos que hacen que nuestras piezas de equipo se puedan glamourear como transparentes. Yo que tu me compraba una de cada y las metía en el &lt;em&gt;Glamour Dresser&lt;/em&gt; (ahora llegamos a qué es eso, no te preocupes). Para ello clic en el NPC, le das a “&lt;em&gt;Purchase Glamouring Items&lt;/em&gt;” y compras uno de cada de los objetos que aparecen en blanco (casco, pechera, guantes, joyas, etc).&lt;/p&gt;
+&lt;p&gt;Además, un poco más a la derecha de este NPC, en las coordenadas X: 12.0 Y: 15.1 tenemos a un NPC llamado &lt;em&gt;Goberin&lt;/em&gt;, que vende &lt;strong&gt;&lt;em&gt;Glamour Prism&lt;/em&gt;&lt;/strong&gt; (ahora hablaremos de ellos pero &lt;strong&gt;cómprate unos cuantos&lt;/strong&gt;) y también unos objetos que hacen que nuestras piezas de equipo se puedan glamourear como transparentes. Yo que tú me compraba una de cada y las metía en el &lt;em&gt;Glamour Dresser&lt;/em&gt; (ahora llegamos a qué es eso, no te preocupes). Para ello clic en el NPC, le das a “&lt;em&gt;Purchase Glamouring Items&lt;/em&gt;” y compras uno de cada de los objetos que aparecen en blanco (casco, pechera, guantes, joyas, etc).&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;accediendo-a-los-armarios&quot;&gt;Accediendo a los armarios&lt;/h4&gt;
 
@@ -107,15 +111,17 @@ El icono del &lt;strong&gt;medio&lt;/strong&gt; es el icono del &lt;em&gt;Glamou
 El icono de la &lt;strong&gt;izquierda&lt;/strong&gt; es referente a los tintes.&lt;br /&gt;
 Si el icono está de este color &lt;strong&gt;blanco&lt;/strong&gt;, significa que ese objeto es apto para esa función. Si alguno de ellos estuviese en &lt;strong&gt;color gris&lt;/strong&gt;, significa que esa particularidad no la tiene.&lt;/p&gt;
 
-&lt;h4 id=&quot;diferenciando-armoire-de-glamour-dresser&quot;&gt;Diferenciando Armoire de Glamour Dresser&lt;/h4&gt;
+&lt;h4 id=&quot;diferenciando-armoire-de-glamour-dresser&quot;&gt;Diferenciando &lt;em&gt;Armoire&lt;/em&gt; de &lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/h4&gt;
 
 &lt;p&gt;Ahora bien, ¿qué diferencia hay entre &lt;em&gt;Armoire&lt;/em&gt; y &lt;em&gt;Glamour Dresser&lt;/em&gt;? &lt;strong&gt;El &lt;em&gt;Armoire&lt;/em&gt; no tiene límite de espacio&lt;/strong&gt; de almacenaje pero &lt;strong&gt;sólo&lt;/strong&gt; puedes meter &lt;strong&gt;objetos de tienda o de eventos&lt;/strong&gt;. Si tienes alguno ni lo dudes, metelo ahí. El &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt; tiene &lt;strong&gt;400 huecos totales&lt;/strong&gt; (actualmente) de almacenaje, puedes meter todo tipo de piezas de equipo y, si las tiñes antes de meterlas, se guardan teñidas. Ahora llegaremos a esta parte, pero primero hay que hablar de algo importante: los &lt;em&gt;glamour prism&lt;/em&gt;.&lt;br /&gt;
 Estos &lt;strong&gt;prismas de glamour&lt;/strong&gt;, que se obtienen en la &lt;em&gt;Grand Company&lt;/em&gt;, en vendedores normales o de pvp, se craftean con profesiones de crafteo o se pueden comprar en el &lt;em&gt;Market Board&lt;/em&gt;, sirven para poder &lt;strong&gt;poner una pieza de equipo dentro del &lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt;. ¡Por este motivo necesitarás unos cuantos!&lt;/p&gt;
 
+&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;guardando-objetos-en-el-glamour-dresser-y-armoire&quot;&gt;Guardando objetos en el &lt;em&gt;Glamour Dresser&lt;/em&gt; y &lt;em&gt;Armoire&lt;/em&gt;&lt;/h4&gt;
 
 &lt;p&gt;Ahora vamos a hablar de cómo guardar objetos para luego poder glamourear nuestro equipo.&lt;br /&gt;
-Al darle clic al Glamour Dresser veremos lo siguiente:&lt;/p&gt;
+Al darle clic al &lt;em&gt;Glamour Dresser&lt;/em&gt; veremos lo siguiente:&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/glamour/primerospasos/3.jpg&quot; alt=&quot;3&quot; /&gt;&lt;/p&gt;
 
@@ -126,9 +132,13 @@ En la ventana de la &lt;strong&gt;derecha&lt;/strong&gt;, tras hacer la selecci�
 
 &lt;p&gt;El &lt;strong&gt;&lt;em&gt;Armoire&lt;/em&gt;&lt;/strong&gt; funciona parecido. Haces clic encima, seleccionas “&lt;em&gt;Store an item&lt;/em&gt;” y se te abre una ventana donde aparecen todos los objetos que pueden ir dentro. Si esa lista está vacía es que ninguno puede ir allí dentro.&lt;/p&gt;
 
-&lt;h4 id=&quot;sacando-un-objeto-del-glamour-dresser-o-armoire&quot;&gt;Sacando un objeto del Glamour Dresser o Armoire&lt;/h4&gt;
+&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;sacando-un-objeto-del-glamour-dresser-o-armoire&quot;&gt;Sacando un objeto del &lt;em&gt;Glamour Dresser&lt;/em&gt; o &lt;em&gt;Armoire&lt;/em&gt;&lt;/h4&gt;
 
 &lt;p&gt;En ambos casos, &lt;strong&gt;las piezas se pueden sacar cuando quieras&lt;/strong&gt;. En el caso del &lt;em&gt;Glamour Dresser&lt;/em&gt;, en la ventana de la izquierda de la foto de arriba, le das clic derecho al objeto que quieres sacar de allí y seleccionas “&lt;em&gt;Restore item&lt;/em&gt;”. Una vez hecho eso, la pieza aparecerá en tu inventario o en tu &lt;em&gt;Armory Chest&lt;/em&gt;. En el &lt;em&gt;Armoire&lt;/em&gt;, al darle &lt;em&gt;click&lt;/em&gt; seleccionas “&lt;em&gt;Remove an item&lt;/em&gt;”, lo seleccionas y lo restauras. De vez en cuando va bien hacer limpieza del &lt;em&gt;Glamour Dresser&lt;/em&gt; porque se van acumulando cosas que a lo mejor no estás usando en ese momento. Puedes guardarlas en un &lt;em&gt;retainer&lt;/em&gt; hasta que las quieras volver a utilizar, por ejemplo.&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;coloreando-piezas-el-mundo-de-los-tintes&quot;&gt;Coloreando piezas, el mundo de los tintes.&lt;/h4&gt;
 
@@ -136,6 +146,8 @@ En la ventana de la &lt;strong&gt;derecha&lt;/strong&gt;, tras hacer la selecci�
 
 &lt;p&gt;&lt;strong&gt;En el Armoire no puedes guardar algo teñido, pero en el Glamour dresser, si&lt;/strong&gt;. El tema aquí es que hay tintes que son caros y tu, a lo mejor, esa pieza siempre la vas a querer usar de color blanco puro (es algo que me pasó al principio). Por dicho motivo, antes de meter una pieza en el Glamour Dresser o una vez dentro (en la ventana de la izquierda de la foto de arriba), clicas con el botón derecho sobre la pieza y seleccionas “Dye”. Tienes que tener en el inventario el tinte que quieras ponerle, lo seleccionas de la lista de tintes, le das a aceptar y listo, teñido.&lt;br /&gt;
 Si quieres teñir algo del Armoire tienes dos opciones: o lo tiñes desde los Plates (a continuación vemos cómo funcionan los Plates) siempre que lo uses (con un tinte barato) o lo sacas del Armoire, lo tiñes y lo pones en el Glamour Dresser ya teñido. Te ocupará un hueco, sí, pero no tendrás que gastar ese tinte caro cada vez que lo pongas en un Plate.&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;descubriendo-los-glamour-plates&quot;&gt;Descubriendo los &lt;em&gt;Glamour Plates&lt;/em&gt;&lt;/h4&gt;
 
@@ -148,7 +160,60 @@ Si quieres teñir algo del Armoire tienes dos opciones: o lo tiñes desde los Pl
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/glamour/primerospasos/9.jpg&quot; alt=&quot;9&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;La diferencia de teñirla aquí o antes es que &lt;strong&gt;este tinte se aplica solo al plate&lt;/strong&gt; y no a la pieza que tienes guardada. Si la guardaste de color blanco, por ejemplo, ese color se guardará, pero en el Plate podrás teñirla de nuevo del color que tu quieras. Si volvieses a seleccionar esa pieza para un Plate, volvería a aparecer blanca. Por eso es &lt;strong&gt;importante teñir las piezas antes&lt;/strong&gt;, porque de lo contrario gastarías una cantidad de blanco (por ejemplo) demasiado grande cada vez que quieras hacer un Plate. Si ya la has almacenado de ese color, no tienes que volver a teñirla cada vez. Eso si, hago una matización. &lt;strong&gt;Los &lt;em&gt;Plates&lt;/em&gt;&lt;/strong&gt; que guardes se quedarán guardados hasta que los modifiques, no se borran solos, pero llega un momento que vas cambiando tanto de Glamour que tienes más glamours que Plates y te renta tener ese pantalón (ejemplo) ya teñido de blanco o del color que sea para que, cuando quieras usarlo, no tengas que gastar el tinte. Además, también disponemos de un objeto para quitar el tinte y devolver el color de base del objeto. Se llama &lt;em&gt;Terebinth&lt;/em&gt; y lo venden los mismos NPC’s de las ciudades que te venden tintes.&lt;br /&gt;
-Una vez tengas listo tu &lt;em&gt;Glamour Plate&lt;/em&gt;, le das a Save y, si quieres, a Apply.&lt;/p&gt;
+Una vez tengas listo tu &lt;em&gt;Glamour Plate&lt;/em&gt;, le das a &lt;em&gt;Save&lt;/em&gt; y, si quieres, a &lt;em&gt;Apply&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;restricciones-del-equipo&quot;&gt;Restricciones del equipo&lt;/h4&gt;
+
+&lt;p&gt;Como sabrás, hay piezas de equipo para todas las clases y otras específicas. No podrás glamourear una pieza de “&lt;em&gt;Discipline of War&lt;/em&gt;” en un &lt;em&gt;Summoner&lt;/em&gt;, por ejemplo.&lt;br /&gt;
+Además, &lt;strong&gt;no podrás glamourear una pieza que sea de mayor nivel o item level que la que lleves equipada&lt;/strong&gt;. En los casos en los que te mejora el item level, mejor saca esa pieza del &lt;em&gt;Glamour Dresser&lt;/em&gt;, póntela y luego ya la volverás a meter en el armario correspondiente cuando te equipes algo mejor.&lt;br /&gt;
+Otra pregunta que me surge de esto: ¿puedo meter algo en el &lt;em&gt;Glamour Dresser&lt;/em&gt;, ponerlo en un Plate y luego sacarlo del &lt;em&gt;Dresser&lt;/em&gt; y equiparmelo (porque es lo que más me mejora) o guardarlo y que se quede en ese &lt;em&gt;Plate&lt;/em&gt;? Sí. Puedes. Yo lo he hecho con el equipo actual de la raid.&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;aplicando-un-glamour-fuera-de-la-habitación&quot;&gt;Aplicando un &lt;em&gt;Glamour&lt;/em&gt; fuera de la habitación&lt;/h4&gt;
+
+&lt;p&gt;¿Puedo cambiar el &lt;em&gt;Glamour&lt;/em&gt; siempre que quiera?&lt;br /&gt;
+El &lt;em&gt;Glamour&lt;/em&gt; lo puedes cambiar siempre y cuando estés &lt;strong&gt;en una ciudad principal&lt;/strong&gt; y zonas de housing. En medio del campo no puedes aplicar un glamour a una clase/job. Vamos a verlo.&lt;/p&gt;
+
+&lt;p&gt;Abriendo la ventana de personaje (la &lt;em&gt;C&lt;/em&gt; por defecto), encima de nuestra arma, tenemos unos iconos. Dependiendo de donde hayas llegado con la MSQ tendrás más o menos (lo hemos visto antes, al principio de esta guía), pero el que nos compete es el del centro “Glamour Plate”, que tiene de icono unas cartitas.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/glamour/primerospasos/7.jpg&quot; alt=&quot;7&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;glamours-distintos-para-jobs-que-comparten-equipo&quot;&gt;Glamours distintos para jobs que comparten equipo&lt;/h4&gt;
+
+&lt;p&gt;¿Puedo tener dos jobs del mismo nivel y con el mismo equipo, pero con dos glamours distintos?&lt;/p&gt;
+
+&lt;blockquote&gt;
+Vamos a hacer un paréntesis antes de hablar de esto. Tenemos un personaje con varios &lt;i&gt;jobs&lt;/i&gt; y, para cambiarnos entre ellos, disponemos de una herramienta muy útil. En la ventana de Character (la &lt;i&gt;C&lt;/i&gt; por defecto), a partir del nivel 15 de la MSQ, disponemos de los “&lt;i&gt;Gear Set List&lt;/i&gt;” (el icono de la derecha de los tres iconos que tenemos encima del arma), desde donde podemos administrar cómodamente los conjuntos de equipo que utilizamos en los diferentes &lt;i&gt;jobs&lt;/i&gt;, guardando y actualizando su configuración.
+&lt;/blockquote&gt;
+
+&lt;p&gt;Aquí vamos a ir un paso más allá. Vamos a poner un ejemplo. Tengo dos curanderos al mismo nivel y con el mismo equipo puesto, pero quiero que tengan dos glamours distintos. ¿Se puede? La respuesta es sí y ahora vamos a ver como hacerlo.&lt;br /&gt;
+En la última foto, vemos esos tres iconos encima del arma, ¿verdad? El de la derecha es el que nos interesa: “&lt;em&gt;Gear Set List&lt;/em&gt;”. En esta lista es donde guardamos los sets de cada clase/job y, desde la misma, nos cambiamos de clase/job. Desde esta misma lista se enlazan los Plates para que, por ejemplo, tu &lt;strong&gt;&lt;em&gt;Astrologian&lt;/em&gt;&lt;/strong&gt; y tu &lt;strong&gt;&lt;em&gt;White Mage&lt;/em&gt; lleven el mismo equipo y tengan aspectos distintos&lt;/strong&gt;. A estos dos también podemos añadir Scholar y Sage (comparten equipo), pero es un ejemplo. Vamos a ver como hacerlo.&lt;br /&gt;
+Teniendo esa lista abierta, &lt;strong&gt;click derecho&lt;/strong&gt; sobre el Astrologian en nuestro caso y seleccionamos “Link to Glamour Plate”. Seleccionamos el &lt;em&gt;Plate&lt;/em&gt; que queremos y le damos a “&lt;em&gt;Link Gear Set&lt;/em&gt;”, botón que encontrarás en la parte inferior de los &lt;em&gt;Plates&lt;/em&gt;, igual que el &lt;em&gt;“Apply”&lt;/em&gt;. &lt;strong&gt;Hacemos lo mismo&lt;/strong&gt; con el &lt;em&gt;White Mage&lt;/em&gt; y el resultado será el siguiente:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/glamour/primerospasos/5.jpg&quot; alt=&quot;5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Si a la &lt;strong&gt;derecha&lt;/strong&gt; aparecen esas &lt;strong&gt;cartitas&lt;/strong&gt; es que ese &lt;em&gt;job&lt;/em&gt; tiene &lt;strong&gt;enlazado&lt;/strong&gt; un &lt;em&gt;Plate de Glamour&lt;/em&gt;. En mi caso, el &lt;em&gt;Reaper&lt;/em&gt;, el &lt;em&gt;Summoner&lt;/em&gt; y el &lt;em&gt;Dragoon&lt;/em&gt;, no lo tienen, pero los de arriba si. Haciendo el mismo &lt;em&gt;click&lt;/em&gt; derecho ahora, podremos modificar el &lt;em&gt;Plate&lt;/em&gt; enlazado o, directamente, quitarlo.&lt;/p&gt;
+
+&lt;p&gt;Hacer este enlace nos permite tener varias apariencias en la misma ropa dependiendo del job en el que estemos puestos, pero tiene un inconveniente y es que no funciona muy bien fuera de las ciudades. Podemos hacer algo al respecto para minimizar estos inconvenientes. Siempre se aplicará el último &lt;em&gt;Glamour&lt;/em&gt; que hayamos utilizado en una zona de descanso como la ciudad o zona de &lt;em&gt;housing&lt;/em&gt;. Es sencillo.&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;glamoureando-equipo-a-mano&quot;&gt;Glamoureando equipo “a mano”&lt;/h4&gt;
+
+&lt;p&gt;Vamos a añadir una última cosa antes de terminar esta guía. Más allá del &lt;em&gt;Glamour Dresser&lt;/em&gt;, también podemos glamourear algo a mano. Hacemos &lt;strong&gt;&lt;em&gt;click&lt;/em&gt; derecho sobre la pieza que queremos cambiar de aspecto&lt;/strong&gt;, le damos a “&lt;em&gt;Cast Glamour&lt;/em&gt;” y elegimos la pieza a mano.&lt;br /&gt; Esto puede ser útil, por ejemplo, si tenemos una &lt;strong&gt;&lt;em&gt;relic&lt;/em&gt;&lt;/strong&gt; en un paso concreto que nos gusta (no se puede meter en el &lt;em&gt;Glamour Dresser&lt;/em&gt;), no queremos terminarla para tener las réplicas (las réplicas se pueden meter en el &lt;em&gt;Glamour Dresser&lt;/em&gt;) y queremos usar esa apariencia actual. Podemos hacer esto y glamourear a mano, por así decirlo. Debemos conservar el objeto original para glamourearlo de nuevo cuando cambiemos el objeto al cual le hemos aplicado la apariencia y cada vez se gastará un glamour prism. Es un método más costoso en cuanto a prismas, pero es útil para casos como el del ejemplo.&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;despedida&quot;&gt;Despedida&lt;/h4&gt;
+
+&lt;p&gt;Esto es todo para esta guía de iniciación en el glamour. Es un poco complicado y denso, muy denso, ya lo sé. He intentado explicarlo lo mejor posible y espero que lo hayas entendido todo bien. &lt;strong&gt;Te animo&lt;/strong&gt; a probarlo e indagar un poco, toqueteando estas cosas y haciéndote a la interfaz, ¡seguro que te sale bien! Si tienes alguna duda, ¡ponlo en comentarios! Espero que hayas disfrutado de la guía y que te haya podido ayudar aunque sea un poquito. ¡Espero que sigas disfrutando de este juego! ¡Nos vemos por Eorzea!&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/glamour/primerospasos/despedida.jpg&quot; alt=&quot;despedida&quot; /&gt;&lt;/p&gt;
 </description>
@@ -156,9 +221,9 @@ Una vez tengas listo tu &lt;em&gt;Glamour Plate&lt;/em&gt;, le das a Save y, si 
         <link>https://gaceta-eorzea.com/glamour-01/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/glamour-01/</guid>
         
-        <category>guías,</category>
+        <category>guías</category>
         
-        <category>glamour]</category>
+        <category>glamour</category>
         
         
       </item>
