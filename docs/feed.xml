@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Feb 2022 10:13:21 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Feb 2022 10:13:21 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Feb 2022 10:46:26 +0000</pubDate>
+    <lastBuildDate>Mon, 07 Feb 2022 10:46:26 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -49,7 +49,7 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
   &lt;li&gt;&lt;a href=&quot;#introducción&quot;&gt;Introducción&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#desbloqueando-las-funciones-de-glamour&quot;&gt;Desbloqueando las funciones de &lt;em&gt;Glamour&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#accediendo-a-los-armarios&quot;&gt;Accediendo a los armarios&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diferenciando-armoire-de-glamour-dresser&quot;&gt;Diferenciando &lt;em&gt;Armoire&lt;/em&gt; de &lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diferenciando-glamour-dresser-de-armoire&quot;&gt;Diferenciando &lt;em&gt;Glamour Dresser&lt;/em&gt; de &lt;em&gt;Armoire&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#guardando-objetos-en-el-glamour-dresser-y-armoire&quot;&gt;Guardando objetos en el &lt;em&gt;Glamour Dresser&lt;/em&gt; y &lt;em&gt;Armoire&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#sacando-un-objeto-del-glamour-dresser-o-armoire&quot;&gt;Sacando un objeto del &lt;em&gt;Glamour Dresser&lt;/em&gt; o &lt;em&gt;Armoire&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#coloreando-piezas-el-mundo-de-los-tintes&quot;&gt;Coloreando piezas, el mundo de los tintes&lt;/a&gt;&lt;/li&gt;
@@ -102,18 +102,18 @@ Ejemplo:&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/glamour/primerospasos/8.jpg&quot; alt=&quot;8&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Este objeto es una pechera (&lt;em&gt;Body&lt;/em&gt;) de paladín (&lt;em&gt;PLD&lt;/em&gt;) de &lt;em&gt;item level&lt;/em&gt; 55 que se puede equipar desde nivel 50 (de paso estamos repasando donde se ven esas cosas), pero eso ahora nos da igual.&lt;br /&gt;
+&lt;p&gt;Este objeto es una pechera (&lt;em&gt;Body&lt;/em&gt;) de paladín (&lt;em&gt;PLD&lt;/em&gt;) de &lt;em&gt;Item level&lt;/em&gt; 55 que se puede equipar desde nivel 50 (de paso estamos repasando donde se ven esas cosas), pero eso ahora nos da igual.&lt;br /&gt;
 &lt;strong&gt;Mira arriba a la derecha de la foto&lt;/strong&gt;. ¿Ves esos tres iconos blanquecinos?&lt;br /&gt;
 El icono de la &lt;strong&gt;derecha&lt;/strong&gt; del todo es el icono del &lt;em&gt;Armoire&lt;/em&gt;.&lt;br /&gt;
 El icono del &lt;strong&gt;medio&lt;/strong&gt; es el icono del &lt;em&gt;Glamour Dresser&lt;/em&gt;.&lt;br /&gt;
 El icono de la &lt;strong&gt;izquierda&lt;/strong&gt; es referente a los tintes.&lt;br /&gt;
-Si el icono está de este color &lt;strong&gt;blanco&lt;/strong&gt;, significa que ese objeto es apto para esa función. Si alguno de ellos estuviese en &lt;strong&gt;color gris&lt;/strong&gt;, significa que esa particularidad no la tiene.&lt;/p&gt;
+Si el icono está de este color &lt;strong&gt;blanco&lt;/strong&gt;, significaría que ese objeto es apto para esa función. Si alguno de ellos estuviese en &lt;strong&gt;color gris&lt;/strong&gt;, significa que esa particularidad no la tiene.&lt;/p&gt;
 
 &lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;diferenciando-armoire-de-glamour-dresser&quot;&gt;Diferenciando &lt;em&gt;Armoire&lt;/em&gt; de &lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;diferenciando-glamour-dresser-de-armoire&quot;&gt;Diferenciando &lt;em&gt;Glamour Dresser&lt;/em&gt; de &lt;em&gt;Armoire&lt;/em&gt;&lt;/h4&gt;
 
-&lt;p&gt;Ahora bien, ¿qué diferencia hay entre &lt;em&gt;Armoire&lt;/em&gt; y &lt;em&gt;Glamour Dresser&lt;/em&gt;? &lt;strong&gt;El &lt;em&gt;Armoire&lt;/em&gt; no tiene límite de espacio&lt;/strong&gt; de almacenaje pero &lt;strong&gt;sólo&lt;/strong&gt; puedes meter &lt;strong&gt;objetos de tienda o de eventos&lt;/strong&gt;. Si tienes alguno ni lo dudes, metelo ahí. El &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt; tiene &lt;strong&gt;400 huecos totales&lt;/strong&gt; (actualmente) de almacenaje, puedes meter todo tipo de piezas de equipo y, si las tiñes antes de meterlas, se guardan teñidas. Ahora llegaremos a esta parte, pero primero hay que hablar de algo importante: los &lt;em&gt;Glamour prism&lt;/em&gt;.&lt;br /&gt;
+&lt;p&gt;Ahora bien, ¿qué diferencia hay entre &lt;em&gt;Glamour Dresser&lt;/em&gt; y &lt;em&gt;Armoire&lt;/em&gt;? &lt;strong&gt;El &lt;em&gt;Armoire&lt;/em&gt; no tiene límite de espacio&lt;/strong&gt; de almacenaje pero &lt;strong&gt;sólo&lt;/strong&gt; puedes meter &lt;strong&gt;objetos de tienda o de eventos&lt;/strong&gt;. Si tienes alguno ni lo dudes, metelo ahí. El &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt; tiene &lt;strong&gt;400 huecos totales&lt;/strong&gt; (actualmente) de almacenaje, puedes meter todo tipo de piezas de equipo y, si las tiñes antes de meterlas, se guardan teñidas. Ahora llegaremos a esta parte, pero primero hay que hablar de algo importante: los &lt;em&gt;Glamour prism&lt;/em&gt;.&lt;br /&gt;
 Estos &lt;strong&gt;prismas de &lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt;, que se obtienen en la &lt;em&gt;Grand Company&lt;/em&gt;, en vendedores normales o de &lt;em&gt;PvP&lt;/em&gt;, se crean con profesiones de &lt;em&gt;crafteo&lt;/em&gt; o se pueden comprar en el &lt;em&gt;Market Board&lt;/em&gt;, sirven para poder &lt;strong&gt;poner una pieza de equipo dentro del &lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt;. ¡Por este motivo necesitarás unos cuantos!&lt;/p&gt;
 
 &lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
@@ -125,8 +125,8 @@ Al darle &lt;em&gt;Click&lt;/em&gt; al &lt;em&gt;Glamour Dresser&lt;/em&gt; vere
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/glamour/primerospasos/3.jpg&quot; alt=&quot;3&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;La ventana de la &lt;strong&gt;izquierda&lt;/strong&gt; es nuestro &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt;. Podemos verlo por apartados (los iconos de arriba), podemos filtrarlo por clase/&lt;em&gt;job&lt;/em&gt; (el desplegable donde pone “&lt;em&gt;all&lt;/em&gt;”) y podemos ver también los huecos que nos quedan abajo a la derecha de esa ventana (si, voy un poco apurada, tengo que hacer limpieza).&lt;br /&gt;
-En la ventana de la &lt;strong&gt;derecha&lt;/strong&gt;, tras hacer la selección que se aprecia arriba, podemos ver todos los objetos de mi inventario que pueden ir al &lt;em&gt;Glamour Dresser&lt;/em&gt; (si antes has comprado los objetos transparentes que te dije y no están en tu inventario, posiblemente los tengas en el &lt;em&gt;Armory Chest&lt;/em&gt;, miralo con &lt;em&gt;Control + C&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;La ventana de la &lt;strong&gt;izquierda&lt;/strong&gt; es nuestro &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt;. Podemos verlo por apartados (los iconos de arriba), podemos filtrarlo por clase/&lt;em&gt;job&lt;/em&gt; (el desplegable donde pone “&lt;em&gt;all&lt;/em&gt;”) y podemos ver también los huecos que nos quedan abajo a la derecha de esa ventana (sí, voy un poco apurada, tengo que hacer limpieza).&lt;br /&gt;
+En la ventana de la &lt;strong&gt;derecha&lt;/strong&gt;, tras hacer la selección que se aprecia arriba, podemos ver todos los objetos de mi inventario que pueden ir al &lt;em&gt;Glamour Dresser&lt;/em&gt; (si antes has comprado los objetos transparentes que te dije y no están en tu inventario, posiblemente los tengas en el &lt;em&gt;Armory Chest&lt;/em&gt;, míralo con &lt;em&gt;Control + C&lt;/em&gt;).&lt;/p&gt;
 
 &lt;p&gt;Para &lt;strong&gt;meter un objeto nuevo en el &lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt; (teniendo &lt;strong&gt;&lt;em&gt;Glamour Prisms&lt;/em&gt; en el inventario&lt;/strong&gt;), solo hace falta hacerle &lt;em&gt;Click&lt;/em&gt; al objeto desde la ventana que tenemos en la foto, aceptamos y se añade. La &lt;strong&gt;pieza&lt;/strong&gt; tiene que estar &lt;strong&gt;reparada&lt;/strong&gt; y puede que el juego te avise de que se va a perder la progresión del objeto. Dale a aceptar y listo. Lo que se resetea es el progreso del uso del objeto para que cree una &lt;em&gt;materia&lt;/em&gt; y en equipo bajo no tiene importancia, así que adelante.&lt;/p&gt;
 
@@ -159,7 +159,7 @@ Si quieres teñir algo del &lt;em&gt;Armoire&lt;/em&gt; tienes dos opciones: o l
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/glamour/primerospasos/9.jpg&quot; alt=&quot;9&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;La diferencia de teñirla aquí o antes es que &lt;strong&gt;este tinte se aplica solo al &lt;em&gt;Plate&lt;/em&gt;&lt;/strong&gt; y no a la pieza que tienes guardada. Si la guardaste de color blanco, por ejemplo, ese color se guardará, pero en el &lt;em&gt;Plate&lt;/em&gt; podrás teñirla de nuevo del color que tu quieras. Si volvieses a seleccionar esa pieza para un Plate, volvería a aparecer blanca. Por eso es &lt;strong&gt;importante teñir las piezas antes&lt;/strong&gt;, porque de lo contrario gastarías una cantidad de blanco (por ejemplo) demasiado grande cada vez que quieras hacer un &lt;em&gt;Plate&lt;/em&gt;. Si ya la has almacenado de ese color, no tienes que volver a teñirla cada vez. Eso si, hago una matización. &lt;strong&gt;Los &lt;em&gt;Plates&lt;/em&gt;&lt;/strong&gt; que guardes se quedarán guardados hasta que los modifiques, no se borran solos, pero llega un momento que vas cambiando tanto de &lt;em&gt;Glamour&lt;/em&gt; que tienes más &lt;em&gt;Glamours&lt;/em&gt; que &lt;em&gt;Plates&lt;/em&gt; y te renta tener ese pantalón (ejemplo) ya teñido de blanco o del color que sea para que, cuando quieras usarlo, no tengas que gastar el tinte. Además, también disponemos de un objeto para quitar el tinte y devolver el color de base del objeto. Se llama &lt;em&gt;Terebinth&lt;/em&gt; y lo venden los mismos &lt;em&gt;NPC’s&lt;/em&gt; de las ciudades que te venden tintes.&lt;br /&gt;
+&lt;p&gt;La diferencia de teñirla aquí o antes es que &lt;strong&gt;este tinte se aplica solo al &lt;em&gt;Plate&lt;/em&gt;&lt;/strong&gt; y no a la pieza que tienes guardada. Si la guardaste de color blanco, por ejemplo, ese color se guardará, pero en el &lt;em&gt;Plate&lt;/em&gt; podrás teñirla de nuevo del color que tú quieras. Si volvieses a seleccionar esa pieza para un &lt;em&gt;Plate&lt;/em&gt;, volvería a aparecer blanca. Por eso es &lt;strong&gt;importante teñir las piezas antes&lt;/strong&gt;, porque de lo contrario gastarías una cantidad de blanco (por ejemplo) demasiado grande cada vez que quieras hacer un &lt;em&gt;Plate&lt;/em&gt;. Si ya la has almacenado de ese color, no tienes que volver a teñirla cada vez. Eso si, hago una matización. &lt;strong&gt;Los &lt;em&gt;Plates&lt;/em&gt;&lt;/strong&gt; que guardes se quedarán guardados hasta que los modifiques, no se borran solos, pero llega un momento que vas cambiando tanto de &lt;em&gt;Glamour&lt;/em&gt; que tienes más &lt;em&gt;Glamours&lt;/em&gt; que &lt;em&gt;Plates&lt;/em&gt; y te renta tener ese pantalón (ejemplo) ya teñido de blanco o del color que sea para que, cuando quieras usarlo, no tengas que gastar el tinte. Además, también disponemos de un objeto para quitar el tinte y devolver el color de base del objeto. Se llama &lt;em&gt;Terebinth&lt;/em&gt; y lo venden los mismos &lt;em&gt;NPC’s&lt;/em&gt; de las ciudades que te venden tintes.&lt;br /&gt;
 Una vez tengas listo tu &lt;em&gt;Glamour Plate&lt;/em&gt;, le das a &lt;em&gt;Save&lt;/em&gt; y, si quieres, a &lt;em&gt;Apply&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
@@ -167,7 +167,7 @@ Una vez tengas listo tu &lt;em&gt;Glamour Plate&lt;/em&gt;, le das a &lt;em&gt;S
 &lt;h4 id=&quot;restricciones-del-equipo&quot;&gt;Restricciones del equipo&lt;/h4&gt;
 
 &lt;p&gt;Como sabrás, hay piezas de equipo para todas las clases / &lt;em&gt;jobs&lt;/em&gt; y otras específicas. No podrás &lt;em&gt;glamourear&lt;/em&gt; una pieza de “&lt;em&gt;Discipline of War&lt;/em&gt;” en un &lt;em&gt;Summoner&lt;/em&gt;, por ejemplo.&lt;br /&gt;
-Además, &lt;strong&gt;no podrás &lt;em&gt;glamourear&lt;/em&gt; una pieza que sea de mayor nivel o &lt;em&gt;Item Level&lt;/em&gt; que la que lleves equipada&lt;/strong&gt;. En los casos en los que te mejora el item level, mejor saca esa pieza del &lt;em&gt;Glamour Dresser&lt;/em&gt;, póntela y luego ya la volverás a meter cuando te equipes algo mejor.&lt;br /&gt;
+Además, &lt;strong&gt;no podrás &lt;em&gt;glamourear&lt;/em&gt; una pieza que sea de mayor nivel o &lt;em&gt;Item Level&lt;/em&gt; que la que lleves equipada&lt;/strong&gt;. En los casos en los que te mejora el &lt;em&gt;Item Level&lt;/em&gt;, mejor saca esa pieza del &lt;em&gt;Glamour Dresser&lt;/em&gt;, póntela y luego ya la volverás a meter cuando te equipes algo mejor.&lt;br /&gt;
 Otra pregunta que me surge de esto: ¿puedo meter algo en el &lt;em&gt;Glamour Dresser&lt;/em&gt;, ponerlo en un &lt;em&gt;Plate&lt;/em&gt; y luego sacarlo del &lt;em&gt;Dresser&lt;/em&gt; y equiparmelo (porque es lo que más me mejora) o guardarlo y que se quede en ese &lt;em&gt;Plate&lt;/em&gt;? Sí. Puedes. Yo lo he hecho con el equipo actual de la raid.&lt;/p&gt;
 
 &lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
