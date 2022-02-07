@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Feb 2022 15:20:51 +0000</pubDate>
-    <lastBuildDate>Sun, 06 Feb 2022 15:20:51 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Feb 2022 10:13:21 +0000</pubDate>
+    <lastBuildDate>Mon, 07 Feb 2022 10:13:21 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -64,7 +64,7 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
 &lt;h4 id=&quot;introducción&quot;&gt;Introducción&lt;/h4&gt;
 
 &lt;p&gt;Si eres nuevo/a en FFXIV, lo primero de todo &lt;strong&gt;¡bienvenido/a!&lt;/strong&gt; Espero que estés disfrutando del juego y sigas haciéndolo.&lt;br /&gt;
-¡Ahora sí, al lío! Habrás descubierto que hay un &lt;strong&gt;sistema llamado &lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt;, gracias al cual puedes tener equipada la mejor pieza para tu clase/job, pero con la apariencia de la que más te guste. Ahora bien, ¿cómo se usa el Glamour? Empecemos por el principio y vayamos paso por paso.&lt;/p&gt;
+¡Ahora sí, al lío! Habrás descubierto que hay un &lt;strong&gt;sistema llamado &lt;em&gt;Glamour&lt;/em&gt;&lt;/strong&gt;, gracias al cual puedes tener equipada la mejor pieza para tu clase/&lt;em&gt;job&lt;/em&gt;, pero con la apariencia de la que más te guste. Ahora bien, ¿cómo se usa el &lt;em&gt;Glamour&lt;/em&gt;? Empecemos por el principio y vayamos paso por paso.&lt;/p&gt;
 
 &lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 
@@ -76,18 +76,18 @@ Vamos a hacer un paréntesis para los jugadores nuevos. El &lt;i&gt;Glamour&lt;/
 &lt;i&gt;Si la MSQ (&lt;i&gt;Main Scenario Quest&lt;/i&gt;) aún no te ha llevado hasta allí, ten un poco de paciencia y sigue haciéndola hasta que llegues.&lt;/i&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Además, un poco más a la derecha de este NPC, en las coordenadas X: 12.0 Y: 15.1 tenemos a un NPC llamado &lt;em&gt;Goberin&lt;/em&gt;, que vende &lt;strong&gt;&lt;em&gt;Glamour Prism&lt;/em&gt;&lt;/strong&gt; (ahora hablaremos de ellos pero &lt;strong&gt;cómprate unos cuantos&lt;/strong&gt;) y también unos objetos que hacen que nuestras piezas de equipo se puedan &lt;strong&gt;&lt;em&gt;glamourear&lt;/em&gt; como transparentes&lt;/strong&gt;. Yo que tú me compraba uno de cada y los metía en el &lt;em&gt;Glamour Dresser&lt;/em&gt; (ahora llegamos a qué es eso, no te preocupes). Para ello &lt;em&gt;Click&lt;/em&gt; en el NPC, le das a “&lt;em&gt;Purchase Glamouring Items&lt;/em&gt;” y compras uno de cada de los objetos que aparecen en blanco (casco, pechera, guantes, joyas, etc).&lt;/p&gt;
+&lt;p&gt;Además, un poco más a la derecha de este &lt;em&gt;NPC&lt;/em&gt;, en las coordenadas X: 12.0 Y: 15.1 tenemos a un &lt;em&gt;NPC&lt;/em&gt; llamado &lt;em&gt;Goberin&lt;/em&gt;, que vende &lt;strong&gt;&lt;em&gt;Glamour Prism&lt;/em&gt;&lt;/strong&gt; (ahora hablaremos de ellos pero &lt;strong&gt;cómprate unos cuantos&lt;/strong&gt;) y también unos objetos que hacen que nuestras piezas de equipo se puedan &lt;strong&gt;&lt;em&gt;glamourear&lt;/em&gt; como transparentes&lt;/strong&gt;. Yo que tú me compraba uno de cada y los metía en el &lt;em&gt;Glamour Dresser&lt;/em&gt; (ahora llegamos a qué es eso, no te preocupes). Para ello &lt;em&gt;Click&lt;/em&gt; en el &lt;em&gt;NPC&lt;/em&gt;, le das a “&lt;em&gt;Purchase Glamouring Items&lt;/em&gt;” y compras uno de cada de los objetos que aparecen en blanco (casco, pechera, guantes, joyas, etc).&lt;/p&gt;
 
 &lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;accediendo-a-los-armarios&quot;&gt;Accediendo a los armarios&lt;/h4&gt;
 
-&lt;p&gt;Una vez hecho y aclarado lo anterior, lo primero de todo para llegar hasta el Glamour, es encontrar el armario:&lt;/p&gt;
+&lt;p&gt;Una vez hecho y aclarado lo anterior, lo primero de todo para llegar hasta el &lt;em&gt;Glamour&lt;/em&gt;, es encontrar el armario:&lt;/p&gt;
 
-&lt;p&gt;En las ciudades principales encontraremos un NPC bajo cuyo nombre pone &lt;strong&gt;“Innkeep”&lt;/strong&gt;. El de la foto más abajo es el de &lt;em&gt;Gridania&lt;/em&gt;, que lo podremos encontrar en &lt;em&gt;New Gridania&lt;/em&gt; en las coordenadas X: 8.5 Y: 11.2.&lt;br /&gt;
+&lt;p&gt;En las ciudades principales encontraremos un &lt;em&gt;NPC&lt;/em&gt; bajo cuyo nombre pone &lt;strong&gt;&lt;em&gt;“Innkeep”&lt;/em&gt;&lt;/strong&gt;. El de la foto más abajo es el de &lt;em&gt;Gridania&lt;/em&gt;, que lo podremos encontrar en &lt;em&gt;New Gridania&lt;/em&gt; en las coordenadas X: 8.5 Y: 11.2.&lt;br /&gt;
 En &lt;em&gt;Limsa Lominsa&lt;/em&gt; lo encontraremos en &lt;em&gt;Upper Decks&lt;/em&gt; en las coordenadas X: 11.5 Y: 11.4.&lt;br /&gt;
 En &lt;em&gt;Ul’dah&lt;/em&gt; lo encontraremos en &lt;em&gt;Steps of Nald&lt;/em&gt; en las coordenadas X: 11.7 Y: 9.5.&lt;br /&gt;
-También tenemos un &lt;em&gt;Glamour Dresser&lt;/em&gt; y Armoire en los Barracones del escuadrón en nuestra &lt;em&gt;Grand Company&lt;/em&gt;.&lt;/p&gt;
+También tenemos un &lt;em&gt;Glamour Dresser&lt;/em&gt; y &lt;em&gt;Armoire&lt;/em&gt; en los Barracones del escuadrón en nuestra &lt;em&gt;Grand Company&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Al hablar con él, te permite acceder a &lt;strong&gt;una habitación instanciada solo para ti&lt;/strong&gt;.&lt;/p&gt;
 
@@ -102,7 +102,7 @@ Ejemplo:&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/glamour/primerospasos/8.jpg&quot; alt=&quot;8&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Este objeto es una pechera (Body) de paladín (PLD) de item level 55 que se puede equipar desde nivel 50 (de paso estamos repasando donde se ven esas cosas), pero eso ahora nos da igual.&lt;br /&gt;
+&lt;p&gt;Este objeto es una pechera (&lt;em&gt;Body&lt;/em&gt;) de paladín (&lt;em&gt;PLD&lt;/em&gt;) de &lt;em&gt;item level&lt;/em&gt; 55 que se puede equipar desde nivel 50 (de paso estamos repasando donde se ven esas cosas), pero eso ahora nos da igual.&lt;br /&gt;
 &lt;strong&gt;Mira arriba a la derecha de la foto&lt;/strong&gt;. ¿Ves esos tres iconos blanquecinos?&lt;br /&gt;
 El icono de la &lt;strong&gt;derecha&lt;/strong&gt; del todo es el icono del &lt;em&gt;Armoire&lt;/em&gt;.&lt;br /&gt;
 El icono del &lt;strong&gt;medio&lt;/strong&gt; es el icono del &lt;em&gt;Glamour Dresser&lt;/em&gt;.&lt;br /&gt;
@@ -125,10 +125,10 @@ Al darle &lt;em&gt;Click&lt;/em&gt; al &lt;em&gt;Glamour Dresser&lt;/em&gt; vere
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/glamour/primerospasos/3.jpg&quot; alt=&quot;3&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;La ventana de la &lt;strong&gt;izquierda&lt;/strong&gt; es nuestro &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt;. Podemos verlo por apartados (los iconos de arriba), podemos filtrarlo por clase/job (el desplegable donde pone “all”) y podemos ver también los huecos que nos quedan abajo a la derecha de esa ventana (si, voy un poco apurada, tengo que hacer limpieza).&lt;br /&gt;
+&lt;p&gt;La ventana de la &lt;strong&gt;izquierda&lt;/strong&gt; es nuestro &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt;. Podemos verlo por apartados (los iconos de arriba), podemos filtrarlo por clase/&lt;em&gt;job&lt;/em&gt; (el desplegable donde pone “&lt;em&gt;all&lt;/em&gt;”) y podemos ver también los huecos que nos quedan abajo a la derecha de esa ventana (si, voy un poco apurada, tengo que hacer limpieza).&lt;br /&gt;
 En la ventana de la &lt;strong&gt;derecha&lt;/strong&gt;, tras hacer la selección que se aprecia arriba, podemos ver todos los objetos de mi inventario que pueden ir al &lt;em&gt;Glamour Dresser&lt;/em&gt; (si antes has comprado los objetos transparentes que te dije y no están en tu inventario, posiblemente los tengas en el &lt;em&gt;Armory Chest&lt;/em&gt;, miralo con &lt;em&gt;Control + C&lt;/em&gt;).&lt;/p&gt;
 
-&lt;p&gt;Para &lt;strong&gt;meter un objeto nuevo en el &lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt; (teniendo &lt;strong&gt;&lt;em&gt;Glamour Prisms&lt;/em&gt; en el inventario&lt;/strong&gt;), solo hace falta hacerle &lt;em&gt;Click&lt;/em&gt; al objeto desde la ventana que tenemos en la foto, aceptamos y se añade. La &lt;strong&gt;pieza&lt;/strong&gt; tiene que estar &lt;strong&gt;reparada&lt;/strong&gt; y puede que el juego te avise de que se va a perder la progresión del objeto. Dale a aceptar y listo. Lo que se resetea es el progreso del uso del objeto para que cree una materia y en equipo bajo no tiene importancia, así que adelante.&lt;/p&gt;
+&lt;p&gt;Para &lt;strong&gt;meter un objeto nuevo en el &lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt; (teniendo &lt;strong&gt;&lt;em&gt;Glamour Prisms&lt;/em&gt; en el inventario&lt;/strong&gt;), solo hace falta hacerle &lt;em&gt;Click&lt;/em&gt; al objeto desde la ventana que tenemos en la foto, aceptamos y se añade. La &lt;strong&gt;pieza&lt;/strong&gt; tiene que estar &lt;strong&gt;reparada&lt;/strong&gt; y puede que el juego te avise de que se va a perder la progresión del objeto. Dale a aceptar y listo. Lo que se resetea es el progreso del uso del objeto para que cree una &lt;em&gt;materia&lt;/em&gt; y en equipo bajo no tiene importancia, así que adelante.&lt;/p&gt;
 
 &lt;p&gt;El &lt;strong&gt;&lt;em&gt;Armoire&lt;/em&gt;&lt;/strong&gt; funciona parecido. Haces &lt;em&gt;Click&lt;/em&gt; encima, seleccionas “&lt;em&gt;Store an item&lt;/em&gt;” y se te abre una ventana donde aparecen todos los objetos que pueden ir dentro. Si esa lista está vacía es que ninguno puede ir allí dentro.&lt;/p&gt;
 
@@ -144,7 +144,7 @@ En la ventana de la &lt;strong&gt;derecha&lt;/strong&gt;, tras hacer la selecci�
 
 &lt;p&gt;Pasemos a hablar de los tintes. Este es un tema importante.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;En el Armoire no puedes guardar algo teñido, pero en el Glamour dresser, si&lt;/strong&gt;. El tema aquí es que hay tintes que son caros y tú, a lo mejor, esa pieza siempre la vas a querer usar de color blanco puro (es algo que me pasó al principio). Por dicho motivo, antes de meter una pieza en el Glamour Dresser o una vez dentro (en la ventana de la izquierda de la foto de arriba), &lt;em&gt;Click Derecho&lt;/em&gt; sobre la pieza y seleccionas “&lt;em&gt;Dye&lt;/em&gt;”. Tienes que tener en el inventario el tinte que quieras ponerle, lo seleccionas de la lista de tintes, le das a aceptar y listo, teñido.&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;En el &lt;em&gt;Armoire&lt;/em&gt; no puedes guardar algo teñido, pero en el &lt;em&gt;Glamour Dresser&lt;/em&gt;, si&lt;/strong&gt;. El tema aquí es que hay tintes que son caros y tú, a lo mejor, esa pieza siempre la vas a querer usar de color blanco puro (es algo que me pasó al principio). Por dicho motivo, antes de meter una pieza en el &lt;em&gt;Glamour Dresser&lt;/em&gt; o una vez dentro (en la ventana de la izquierda de la foto de arriba), &lt;em&gt;Click Derecho&lt;/em&gt; sobre la pieza y seleccionas “&lt;em&gt;Dye&lt;/em&gt;”. Tienes que tener en el inventario el tinte que quieras ponerle, lo seleccionas de la lista de tintes, le das a aceptar y listo, teñido.&lt;br /&gt;
 Si quieres teñir algo del &lt;em&gt;Armoire&lt;/em&gt; tienes dos opciones: o lo tiñes desde los &lt;em&gt;Plates&lt;/em&gt; (a continuación vemos cómo funcionan los &lt;em&gt;Plates&lt;/em&gt;) siempre que lo uses (con un tinte barato) o lo sacas del &lt;em&gt;Armoire&lt;/em&gt;, lo tiñes y lo pones en el &lt;em&gt;Glamour Dresser&lt;/em&gt; ya teñido. Te ocupará un hueco, sí, pero no tendrás que gastar ese tinte caro cada vez que lo pongas en un &lt;em&gt;Plate&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
@@ -155,7 +155,7 @@ Si quieres teñir algo del &lt;em&gt;Armoire&lt;/em&gt; tienes dos opciones: o l
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/glamour/primerospasos/4.jpg&quot; alt=&quot;4&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Aquí podemos editar los &lt;strong&gt;15 &lt;em&gt;Plates&lt;/em&gt;&lt;/strong&gt;, seleccionando las cosas desde la ventana de la &lt;strong&gt;derecha&lt;/strong&gt; y pudiendo &lt;strong&gt;acceder al &lt;em&gt;Armoire&lt;/em&gt;&lt;/strong&gt; desde esa ventana. Funciona igual, por apartados y con posibilidad de filtrar por clase/job. Vas haciendole &lt;em&gt;Click&lt;/em&gt; a cada huequito del &lt;em&gt;Glamour Plate&lt;/em&gt; (izquierda) y vas poniendo la pieza que quieras (derecha). Aquí puedes teñir las piezas que se puedan teñír (&lt;em&gt;Click Derecho&lt;/em&gt; encima de la pieza en el hueco del &lt;em&gt;Plate&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Aquí podemos editar los &lt;strong&gt;15 &lt;em&gt;Plates&lt;/em&gt;&lt;/strong&gt;, seleccionando las cosas desde la ventana de la &lt;strong&gt;derecha&lt;/strong&gt; y pudiendo &lt;strong&gt;acceder al &lt;em&gt;Armoire&lt;/em&gt;&lt;/strong&gt; desde esa ventana. Funciona igual, por apartados y con posibilidad de filtrar por clase/&lt;em&gt;job&lt;/em&gt;. Vas haciendole &lt;em&gt;Click&lt;/em&gt; a cada huequito del &lt;em&gt;Glamour Plate&lt;/em&gt; (izquierda) y vas poniendo la pieza que quieras (derecha). Aquí puedes teñir las piezas que se puedan teñír (&lt;em&gt;Click Derecho&lt;/em&gt; encima de la pieza en el hueco del &lt;em&gt;Plate&lt;/em&gt;).&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/glamour/primerospasos/9.jpg&quot; alt=&quot;9&quot; /&gt;&lt;/p&gt;
 
@@ -197,9 +197,9 @@ Teniendo esa lista abierta, &lt;strong&gt;&lt;em&gt;Click Derecho&lt;/em&gt;&lt;
 
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/glamour/primerospasos/5.jpg&quot; alt=&quot;5&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Si a la &lt;strong&gt;derecha&lt;/strong&gt; aparecen esas &lt;strong&gt;cartitas&lt;/strong&gt; es que ese &lt;em&gt;job&lt;/em&gt; tiene &lt;strong&gt;enlazado&lt;/strong&gt; un &lt;em&gt;Plate de Glamour&lt;/em&gt;. En mi caso, el &lt;em&gt;Reaper&lt;/em&gt;, el &lt;em&gt;Summoner&lt;/em&gt; y el &lt;em&gt;Dragoon&lt;/em&gt;, no lo tienen, pero los de arriba si. Haciendo el mismo &lt;em&gt;Click&lt;/em&gt; derecho ahora, podremos modificar el &lt;em&gt;Plate&lt;/em&gt; enlazado o, directamente, quitarlo.&lt;/p&gt;
+&lt;p&gt;Si a la &lt;strong&gt;derecha&lt;/strong&gt; aparecen esas &lt;strong&gt;cartitas&lt;/strong&gt; es que ese &lt;em&gt;job&lt;/em&gt; tiene &lt;strong&gt;enlazado&lt;/strong&gt; un &lt;em&gt;Plate de Glamour&lt;/em&gt;. En mi caso, el &lt;em&gt;Reaper&lt;/em&gt;, el &lt;em&gt;Summoner&lt;/em&gt; y el &lt;em&gt;Dragoon&lt;/em&gt;, no lo tienen, pero los de arriba si. Haciendo el mismo &lt;em&gt;Click Derecho&lt;/em&gt; ahora, podremos modificar el &lt;em&gt;Plate&lt;/em&gt; enlazado o, directamente, quitarlo.&lt;/p&gt;
 
-&lt;p&gt;Hacer este enlace nos permite tener varias apariencias en la misma ropa dependiendo del job en el que estemos puestos, pero tiene un inconveniente y es que no funciona muy bien fuera de las ciudades. Podemos hacer algo al respecto para minimizar estos inconvenientes. Siempre se aplicará el último &lt;em&gt;Glamour&lt;/em&gt; que hayamos utilizado en una zona de descanso como la ciudad o zona de &lt;em&gt;Housing&lt;/em&gt;. Es sencillo.&lt;/p&gt;
+&lt;p&gt;Hacer este enlace nos permite tener varias apariencias en la misma ropa dependiendo del &lt;em&gt;job&lt;/em&gt; en el que estemos puestos, pero tiene un inconveniente y es que no funciona muy bien fuera de las ciudades. Podemos hacer algo al respecto para minimizar estos inconvenientes. Siempre se aplicará el último &lt;em&gt;Glamour&lt;/em&gt; que hayamos utilizado en una zona de descanso como la ciudad o zona de &lt;em&gt;Housing&lt;/em&gt;. Es sencillo.&lt;/p&gt;
 
 &lt;p&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;&lt;a href=&quot;#contenido&quot;&gt;▲ Volver ▲&lt;/a&gt;&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 
