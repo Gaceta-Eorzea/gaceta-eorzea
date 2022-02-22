@@ -49,3 +49,16 @@ En la próxima expansión **Endwalker** veremos el desenlace del arco argumental
   <img slot="before" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-4/yanxia/yanxia_d.jpg" />
   <img slot="after" src="{{ site.baseurl }}/assets/images/articles/multimedia/hydaelyn-zodiak-4/yanxia/yanxia_n.jpg" />
 </img-comparison-slider>
+
+<script
+  type="module"
+  src="https://unpkg.com/img-comparison-slider@3/dist/component/component.esm.js"
+></script>
+<script
+  nomodule=""
+  src="https://unpkg.com/img-comparison-slider@3/dist/component/component.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/img-comparison-slider@3/dist/collection/styles/initial.css"
+/>
