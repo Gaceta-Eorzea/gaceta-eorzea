@@ -5,9 +5,36 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Mar 2022 16:37:51 +0000</pubDate>
-    <lastBuildDate>Fri, 04 Mar 2022 16:37:51 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Mar 2022 13:47:44 +0000</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2022 13:47:44 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Lore de las Clases de FFXIV: Los Sabios</title>
+        <description>&lt;p&gt;De reciente incorporación, los extraños sabios no han sido vistos en Eorzea hasta ahora, quizás por su origen Sharlayano.
+Estos antiguos médicos, acabaron fusionando las disciplinas de la medicina, la eterologia y la hechicería para formar su propia disciplina, llamada Somanóutica. 
+Hábiles tanto sanando a sus aliados como hiriendo a sus enemigos, los altruistas sabios viajaran ahora por el mundo para ayudar a todo aquel que lo necesite.
+Y no olvidéis seguir a la Gaceta Eorzea en Twitter, ya que si no os perderéis éste y muchísimos otros artículos muy pero que muy interesantes.&lt;/p&gt;
+
+&lt;p&gt;¡Guerreros de la luz, nos vemos en Eorzea!&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/D-CZoSmTSsk?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/loree-sage/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/loree-sage/</guid>
+        
+        <category>lore</category>
+        
+        <category>clases</category>
+        
+        
+        <category>lore</category>
+        
+      </item>
     
       <item>
         <title>Resumen Live Letter #69 (Detalles sobre el parche 6.1)</title>
@@ -292,25 +319,6 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
         
         
         <category>lore</category>
-        
-      </item>
-    
-      <item>
-        <title>Guia Dragoon en Endwalker</title>
-        <description>&lt;p&gt;Esta vez os traigo la guía del &lt;strong&gt;Dragoon&lt;/strong&gt;. Uno de los &lt;strong&gt;jobs más clásicos&lt;/strong&gt; de la saga Final Fantasy, también presente en Final Fantasy XIV. Guía completamente actualizada a Endwalker para el Dragoon, comentando sus habilidades y la mecánica principal del Dragoon así como el &lt;strong&gt;openner&lt;/strong&gt; y algunos &lt;strong&gt;consejos&lt;/strong&gt; para el uso del job o para &lt;strong&gt;optimizar&lt;/strong&gt; el job.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/-xN69o11k94?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/dragoon-ew/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/dragoon-ew/</guid>
-        
-        <category>jobs</category>
-        
-        
-        <category>jobs</category>
         
       </item>
     
