@@ -4,7 +4,7 @@ title: "Evento El asombroso tesoro de los Moogle"
 author: cecile
 categories: [ noticias ]
 tags: [evento, noticias]
-image: assets/images/articles/noticias/moogle-oct-21/trove.jpg
+image: assets/images/articles/noticias/moogle-mar-22/scripture.jpg
 description: "Detalles del evento del asombroso tesoro de los Moogle"
 featured: false
 hidden: false
