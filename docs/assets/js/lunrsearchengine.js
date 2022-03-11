@@ -283,7 +283,7 @@ var documents = [{
     "id": 56,
     "url": "https://gaceta-eorzea.com/fashion220311/",
     "title": "Fashion Report 11 Marzo 2022",
-    "body": "2022/03/11 - Esta semana de nuevo Kaiyoko Star ha publicado la solución para el Fashion Report, la cual podéis ver a continuación. Fashion Report 215 Para hacer los 80 puntos de manera fácil y ganar los 60,000 MGP:  En pantalones Leather Culottes que podéis comprar a Domitien en Old Gridania (X:14. 3 Y:9. 8) en la categoría Purchase Purchase Disciple of the Hand and Land Gear &gt; Purchase Gear (Lv. 1-9) por 135 gil.  En pantalones Leather Shoes que podéis comprar a Domitien en Old Gridania (X:14. 3 Y:9. 8) en la categoría Purchase Purchase Disciple of the Hand and Land Gear &gt; Purchase Gear (Lv. 1-9) por 115 gil. "
+    "body": "2022/03/11 - Esta semana de nuevo Kaiyoko Star ha publicado la solución para el Fashion Report, la cual podéis ver a continuación. Fashion Report 215 Para hacer los 80 puntos de manera fácil y ganar los 60,000 MGP:  En pantalones Leather Culottes que podéis comprar a Domitien en Old Gridania (X:14. 3 Y:9. 8) en la categoría Purchase Purchase Disciple of the Hand and Land Gear &gt; Purchase Gear (Lv. 1-9) por 135 gil.  En zapatos Leather Shoes que podéis comprar a Domitien en Old Gridania (X:14. 3 Y:9. 8) en la categoría Purchase Purchase Disciple of the Hand and Land Gear &gt; Purchase Gear (Lv. 1-9) por 115 gil. "
     }, {
     "id": 57,
     "url": "https://gaceta-eorzea.com/el-ocular-06/",
