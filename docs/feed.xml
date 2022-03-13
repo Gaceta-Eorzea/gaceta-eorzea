@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Mar 2022 09:20:59 +0000</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2022 09:20:59 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2022 09:37:15 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2022 09:37:15 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -33,6 +33,25 @@ Y no olvidéis seguir a la Gaceta Eorzea en Twitter, ya que si no os perderéis 
         
         
         <category>lore</category>
+        
+      </item>
+    
+      <item>
+        <title>Guia Gunbreaker en Endwalker</title>
+        <description>&lt;p&gt;El &lt;strong&gt;Gunbreaker&lt;/strong&gt; es uno de los 4 &lt;strong&gt;tanks&lt;/strong&gt; de Final Fantasy XIV, siendo un tank que tiene una de las rotaciones para hacer &lt;strong&gt;daños más interesantes&lt;/strong&gt; y también más &lt;strong&gt;rápidas&lt;/strong&gt;, además de suplir todas sus funcionalidades como tank con su colección de bufos. En éste vídeo te explico sus &lt;strong&gt;habilidades&lt;/strong&gt;, &lt;strong&gt;mecánica&lt;/strong&gt; básica del job, el &lt;strong&gt;openner&lt;/strong&gt; y algunos &lt;strong&gt;consejos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/90rdr7QDHG0?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/gunbreaker-ew/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/gunbreaker-ew/</guid>
+        
+        <category>jobs</category>
+        
+        
+        <category>jobs</category>
         
       </item>
     
@@ -625,33 +644,6 @@ Nota: Estas actividades hay que hacerlas &lt;b&gt;sincronizados&lt;/b&gt; a su n
         
         
         <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Lore de las Clases de FFXIV: Los Sabios</title>
-        <description>&lt;p&gt;De reciente incorporación, los extraños sabios no han sido vistos en Eorzea hasta ahora, quizás por su origen Sharlayano.&lt;br /&gt;
-Estos antiguos médicos, acabaron fusionando las disciplinas de la medicina, la eterologia y la hechicería para formar su propia disciplina, llamada Somanóutica.&lt;br /&gt;
-Hábiles tanto sanando a sus aliados como hiriendo a sus enemigos, los altruistas sabios viajaran ahora por el mundo para ayudar a todo aquel que lo necesite.&lt;br /&gt;
-Y no olvidéis seguir a la Gaceta Eorzea en Twitter, ya que si no os perderéis éste y muchísimos otros artículos muy pero que muy interesantes.&lt;/p&gt;
-
-&lt;p&gt;¡Guerreros de la luz, nos vemos en Eorzea!&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/D-CZoSmTSsk?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/loree-sage/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/loree-sage/</guid>
-        
-        <category>lore</category>
-        
-        <category>clases</category>
-        
-        
-        <category>lore</category>
         
       </item>
     
