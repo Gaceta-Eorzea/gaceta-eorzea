@@ -107,7 +107,12 @@ authors:
       display_name: "Eirene Themisen"
       avatar: 'assets/images/avatars/eirene.jpg'
       twitter: https://twitter.com/eireneland
-      description: "Diseñadora gráfica y proyecto de psicóloga. 50% española y 50% italiana. Los juegos que más me han acompañado en mi vida son: WoW, Diablo III, Los Sims y, desde hace un tiempo, FFXIV."      
+      description: "Diseñadora gráfica y proyecto de psicóloga. 50% española y 50% italiana. Los juegos que más me han acompañado en mi vida son: WoW, Diablo III, Los Sims y, desde hace un tiempo, FFXIV."
+  kayda:
+      name: Kayda
+      display_name: "Kayda"
+      avatar: 'assets/images/avatars/kayda.jpg'
+      description: "Traductora y aficionada a los videojuegos. Estoy en Moogle (Chaos) jugando como RDM y GNB."           
   # Plugins            
   # Plugins
 plugins:

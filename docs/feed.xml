@@ -5,9 +5,86 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Mar 2022 11:10:11 +0000</pubDate>
-    <lastBuildDate>Fri, 11 Mar 2022 11:10:11 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2022 08:53:38 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2022 08:53:38 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Diario de desarrollo: Una corona digna de una princesa</title>
+        <description>&lt;p&gt;&lt;em&gt;Os traemos la traducción una &lt;a href=&quot;https://na.finalfantasyxiv.com/blog/003294.html&quot; target=&quot;_blank&quot;&gt;nueva entrada en el blog&lt;/a&gt; de los desarrolladores de Final Fantasy XIV centrada en el próximo evento estacional, que tendrá lugar durante el mes de marzo dedicado al Día de las Mujercitas (Little Ladies’ Day)&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;10/03/2022&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;¡Hola!&lt;/p&gt;
+
+&lt;p&gt;Soy Sicycre, del equipo de Comunidad. ¿Os podéis creer que ya sea marzo? Pronto habrá un cambio de estación, pero ¿sabéis qué más se viene? Un evento temporal que ocurre durante la transición entre el invierno y la primavera: el &lt;strong&gt;Día de las Mujercitas (Little Ladies’ Day)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hoy os quiero hablar de los detalles del evento y sus recompensas.&lt;/p&gt;
+
+&lt;h4 id=&quot;duración-del-evento&quot;&gt;Duración del evento&lt;/h4&gt;
+
+&lt;p&gt;Inicio: lunes 14 de marzo a las 09:00 (hora peninsular).&lt;br /&gt;
+Fin: jueves 31 de marzo a las 15:59 (hora peninsular).&lt;/p&gt;
+
+&lt;h4 id=&quot;cómo-participar&quot;&gt;Cómo participar&lt;/h4&gt;
+
+&lt;p&gt;Habla con Marabel en Ul’dah - Steps of Nald (X:10.1 Y:8.7) para empezar la misión.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/01/imagen_1.jpg&quot; alt=&quot;Marabel&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;misión-fashion-face-off&quot;&gt;Misión: Fashion Face-off&lt;/h4&gt;
+
+&lt;p&gt;Marabel busca a alguien que le ayude a prepararse para el desfile del Día de las Mujercitas. Al verte pasar, se ha fijado en ti y se le ha iluminado la mirada.&lt;/p&gt;
+
+&lt;h4 id=&quot;recompensas&quot;&gt;Recompensas&lt;/h4&gt;
+
+&lt;p&gt;Equipamiento: &lt;strong&gt;Little Lady’s Crown&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/01/imagen_2.jpg&quot; alt=&quot;Razas y Géneros&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Varios gurús de la moda me han dicho que esta corona queda muy elegante cuando te la colocas hacia un lado. Pruébala con distintos conjuntos, ¡es apta para todas las razas y géneros!&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/01/imagen_3.jpg&quot; alt=&quot;Razas y Géneros&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Además, los vendedores que aparecen durante el evento temporal tendrán dos tipos de &lt;strong&gt;confeti&lt;/strong&gt; disponibles: &lt;strong&gt;melocotón&lt;/strong&gt; (Peach Confetti) y &lt;strong&gt;cereza&lt;/strong&gt; (Cherry Confetti). Yo siempre intento comprar para todo el año. Son objetos que dan un toque especial a las capturas de pantalla, así que es buena idea acumularlos.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/01/imagen_4.jpg&quot; alt=&quot;Confetti&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Bueno, eso es todo por hoy. Es hora de celebrar la llegada de la primavera con el evento del Día de las Mujercitas. ¡Espero ver un montón de fotos por ahí!&lt;/p&gt;
+
+&lt;p&gt;¡Hasta la próxima!&lt;/p&gt;
+
+&lt;p&gt;Sicycre&lt;/p&gt;
+
+&lt;p&gt;Equipo de Comunidad&lt;/p&gt;
+
+&lt;blockquote&gt;
+Si queréis saber mas del &lt;b&gt;evento&lt;/b&gt; y sus &lt;b&gt;recompensas&lt;/b&gt; pasar por &lt;a href=&quot;/little-ladies-2022&quot;&gt;la detallada entrada&lt;/a&gt; que hicimos en la gaceta sobre el mismo.
+&lt;blockquote&gt;
+&lt;/blockquote&gt;&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/devblog-01/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/devblog-01/</guid>
+        
+        <category>traducion</category>
+        
+        <category>diario</category>
+        
+        
+        <category>diario</category>
+        
+      </item>
     
       <item>
         <title>Fashion Report 11 Marzo 2022</title>
@@ -569,37 +646,6 @@ Y no olvidéis seguir a la Gaceta Eorzea en Twitter, ya que si no os perderéis 
         
         
         <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Fashion Report 4 Marzo 2022</title>
-        <description>&lt;p&gt;Esta semana de nuevo &lt;a href=&quot;https://twitter.com/kaiyokostar&quot; target=&quot;_blank&quot;&gt;Kaiyoko Star&lt;/a&gt; ha publicado la solución para el Fashion Report, la cual podéis ver a continuación.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion220304/freport_214.jpg&quot; alt=&quot;Fashion Report 214&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Fashion Report 214&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Para hacer los &lt;strong&gt;80 puntos&lt;/strong&gt; de manera fácil y ganar los &lt;strong&gt;60,000 MGP&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;En &lt;strong&gt;cabeza&lt;/strong&gt; &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/025216fe9ea/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Stablemaid’s Hat &lt;/a&gt; que podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/5c0bdbdc542/?item=791b438d0fe&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Domitien&lt;/a&gt; en &lt;strong&gt;Old Gridania (X:14.3 Y:9.8)&lt;/strong&gt; en la categoría &lt;em&gt;Purchase Purchase Disciple of the Hand and Land Gear &amp;gt; Purchase Gear (Lv. 10-19)&lt;/em&gt; por 282 gil.&lt;/li&gt;
-  &lt;li&gt;En &lt;strong&gt;pecho cualquier pieza teñida&lt;/strong&gt; con &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/e8e16900586/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Opo-opo Brown Dye&lt;/a&gt;,  el cual podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/a28cf0441f4/?item=70849afadc9&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Alaric&lt;/a&gt; en &lt;strong&gt;Old Gridania (X:14.3 Y:8.8)&lt;/strong&gt; por 40 gil.&lt;/li&gt;
-  &lt;li&gt;En &lt;strong&gt;guantes cualquier pieza teñida&lt;/strong&gt; con &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/8a87f50e179/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Sky Blue Dye&lt;/a&gt;,  el cual podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/a28cf0441f4/?item=70849afadc9&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Alaric&lt;/a&gt; en &lt;strong&gt;Old Gridania (X:14.3 Y:8.8)&lt;/strong&gt; por 40 gil.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/fashion220304/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/fashion220304/</guid>
-        
-        <category>gold saucer</category>
-        
-        <category>eventos</category>
-        
-        <category>semanales</category>
-        
-        
-        <category>gold saucer</category>
         
       </item>
     
