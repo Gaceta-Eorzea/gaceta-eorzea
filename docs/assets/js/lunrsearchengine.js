@@ -288,7 +288,7 @@ var documents = [{
     "id": 57,
     "url": "https://gaceta-eorzea.com/fandub-2/",
     "title": "FFXIV Fandub : Hacia un Nuevo Mañana",
-    "body": "2022/03/14 - ¡Os traemos la segundas de nuestras escenas dobladas al español! No olvidéis seguirnos en twitter para estar al tanto de futuras audiciones y proyectos. CRÉDITOS: Actores de Doblaje::  WoL: Aarón Alisaie: Belén Berbis Alphinaud: Aryn Thancred: Alejandro Robledo Ryne: Teresuky A. Farron Urianger: Sia Krassen Y’shtola: AquaYuki❄️Dirección de Doblaje::  Lia TalesTraducción desde el Japonés::  Lia TalesTraducción desde el Inglés::  Saya Min Balaris ElaCorrección y Revisión::  Ela Saya MinAdaptación de Diálogos::  Saya Min Ela LiaEdición de Audio::  Alejandro Robledo LiaEdición de Video::  Aryn Lia ElaDiseño de Imágenes y Logos::  Lokewen ReigarXIV  "
+    "body": "2022/03/14 - ¡Os traemos la segundas de nuestras escenas dobladas al español! No olvidéis seguirnos en twitter para estar al tanto de futuras audiciones y proyectos. CRÉDITOS: Actores de Doblaje::  WoL: Aarón Alisaie: Belén Berbis Alphinaud: Aryn Thancred: Alejandro Robledo Ryne: Teresuky A. Farron Urianger: Sia Krassen Y’shtola: AquaYuki❄️ Lyna: AuraDirección de Doblaje::  Lia TalesTraducción desde el Japonés::  Lia TalesTraducción desde el Inglés::  Saya Min Balaris ElaCorrección y Revisión::  Ela Saya MinAdaptación de Diálogos::  Saya Min Ela LiaEdición de Audio::  Alejandro Robledo LiaEdición de Video::  Aryn Lia ElaDiseño de Imágenes y Logos::  Lokewen ReigarXIV  "
     }, {
     "id": 58,
     "url": "https://gaceta-eorzea.com/loree-reaper/",
