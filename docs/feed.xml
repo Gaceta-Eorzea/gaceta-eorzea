@@ -5,9 +5,70 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Mar 2022 16:07:37 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Mar 2022 16:07:37 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Mar 2022 17:00:55 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Mar 2022 17:00:55 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Evento de Twitch: The Unending Journey</title>
+        <description>&lt;p&gt;Se acaba de anunciar la primera edición de este año de The Unending Journey, un evento de Twitch en el que los jugadores podrán unirse al equipo de Comunidad de Europa para participar en diversas actividades.&lt;/p&gt;
+
+&lt;p&gt;En esta edición, el equipo de Comunidad se adentrará en &lt;strong&gt;&lt;em&gt;Pandaemonium&lt;/em&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;em&gt;Asphodelos&lt;/em&gt;&lt;/strong&gt; (&lt;strong&gt;&lt;em&gt;Savage&lt;/em&gt;&lt;/strong&gt;) y en la nueva mazmorra de caza de tesoros, &lt;strong&gt;&lt;em&gt;The Excitatron 6000&lt;/em&gt;&lt;/strong&gt;. ¡También se hará una sesión de fotos!&lt;/p&gt;
+
+&lt;p&gt;Habrá dos versiones del evento, una en inglés y otra en francés.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Francés: viernes 18 de marzo a las 18:00 (hora peninsular).&lt;/li&gt;
+  &lt;li&gt;Inglés: viernes 25 de marzo a las 19:00 (hora peninsular).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En ambos casos, el punto de encuentro para aquellos que quieran participar en las actividades será la &lt;em&gt;aetheryte&lt;/em&gt; principal de &lt;em&gt;Old Sharlayan&lt;/em&gt; en &lt;strong&gt;Ragnarok (Chaos)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Podéis ver el evento a través del &lt;a href=&quot;https://www.twitch.tv/finalfantasyxiv&quot; target=&quot;_blank&quot;&gt;canal oficial de Final Fantasy XIV&lt;/a&gt; en Twitch. Además, sortearán los siguientes artículos durante la retransmisión.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/noticias/unending-mar-22/imagen_2.jpg&quot; alt=&quot;Premio 1&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/noticias/unending-mar-22/imagen_3.jpg&quot; alt=&quot;Premio 2&quot; /&gt;
+    &lt;/div&gt;    
+  &lt;/div&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/noticias/unending-mar-22/imagen_4.jpg&quot; alt=&quot;Premio 3&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-xl&quot;&gt;
+      &lt;img src=&quot;/assets/images/articles/noticias/unending-mar-22/imagen_5.jpg&quot; alt=&quot;Premio 4&quot; /&gt;
+    &lt;/div&gt;    
+  &lt;/div&gt;  
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para participar en el sorteo, debéis seguir los siguientes pasos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Iniciar sesión con vuestra cuenta de Twitch o crear una cuenta en caso de no tenerla.&lt;/li&gt;
+  &lt;li&gt;Estar presente durante la retransmisión del evento.&lt;/li&gt;
+  &lt;li&gt;El equipo de Comunidad hará una o varias preguntas relacionadas con Final Fantasy XIV. Debéis escribir una única respuesta a cada pregunta en el chat de la retransmisión. Dependiendo de la dificultad de la(s) pregunta(s), se podrá escribir más de una respuesta.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Además, los participantes deberán ser mayores de 18 años y residir en cualquiera de los territorios elegibles (entre ellos España). Si queréis saber más detalles, recomendamos revisar las &lt;a href=&quot;https://forum.square-enix.com/ffxiv/threads/345398-Official-Rules-for-The-Wolves-Den-The-FFXIV-EU-PvP-Stream-Contests?p=4402349#post4402349&quot; target=&quot;_blank&quot;&gt;normas oficiales del sorteo&lt;/a&gt; (en inglés).&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/unending-mar-22/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/unending-mar-22/</guid>
+        
+        <category>noticias</category>
+        
+        <category>twitch</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>FFXIV Fandub : Hacia un Nuevo Mañana</title>
@@ -372,332 +433,6 @@ Con cientos de páginas que detallan todo, desde la historia y las culturas de E
         
         
         <category>enciclopedia</category>
-        
-      </item>
-    
-      <item>
-        <title>Evento El asombroso tesoro de los Moogle</title>
-        <description>&lt;p&gt;De nuevo tendremos disponible el evento de &lt;strong&gt;asombroso tesoro de los Moogle, Moogle Treasure Trove en Inglés&lt;/strong&gt;, donde podremos conseguir interesantes &lt;strong&gt;recompensas&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Este evento lo podremos realizar &lt;strong&gt;desde&lt;/strong&gt; el &lt;strong&gt;Lunes 14 de Marzo&lt;/strong&gt; a las &lt;strong&gt;10:00&lt;/strong&gt;, &lt;strong&gt;hasta&lt;/strong&gt; la salida del &lt;strong&gt;parche 6.1&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;En el evento podremos obtener &lt;strong&gt;Irregular Tomestones of Scripture&lt;/strong&gt; las cuales canjearemos por las &lt;strong&gt;recompensas&lt;/strong&gt; que deseemos.&lt;/p&gt;
-
-&lt;h4 id=&quot;adquiriendo-tomestones&quot;&gt;Adquiriendo Tomestones&lt;/h4&gt;
-
-&lt;p&gt;Para adquirir las &lt;strong&gt;Irregular Tomestones of Scripture&lt;/strong&gt; debemos realizar actividades que esten &lt;strong&gt;marcadas&lt;/strong&gt; con un icono de un &lt;strong&gt;Moogle&lt;/strong&gt; en el &lt;strong&gt;duty finder&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/duty.png&quot; alt=&quot;Duty Finder&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Actividades Marcadas en el Duty Finder&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Estas &lt;strong&gt;actividades&lt;/strong&gt; nos daran distinto numero de &lt;strong&gt;Tomestones&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-&lt;div class=&quot;span2&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;    
-    &lt;div class=&quot;col-8 border bg-dark&quot;&gt;
-      &lt;font color=&quot;white&quot;&gt;&lt;b&gt;Duty&lt;/b&gt;&lt;/font&gt;
-    &lt;/div&gt;             
-    &lt;div class=&quot;col-4 border bg-dark&quot;&gt;
-        &lt;font color=&quot;white&quot;&gt;&lt;b&gt;&amp;nbsp;Tomes&lt;/b&gt;&lt;/font&gt;
-    &lt;/div&gt;    
-  &lt;/div&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Praetorium
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      10
-    &lt;/div&gt;        
-  &lt;/div&gt;   
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Castrum Meridianum
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      7
-    &lt;/div&gt;        
-  &lt;/div&gt;  
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Dun Scaith
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      7
-    &lt;/div&gt;        
-  &lt;/div&gt;    
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Weepingi City of Mhach
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      5
-    &lt;/div&gt;        
-  &lt;/div&gt;   
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Borderland Ruins (PvP)
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      3/5
-    &lt;/div&gt;        
-  &lt;/div&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Seal Rock (PvP)
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      3/5
-    &lt;/div&gt;        
-  &lt;/div&gt;   
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Fields of Glory (PvP)
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      3/5
-    &lt;/div&gt;        
-  &lt;/div&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Onsal Hakair (PvP)
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      3/5
-    &lt;/div&gt;        
-  &lt;/div&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Hidden Gorge (PvP)
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      3/5
-    &lt;/div&gt;        
-  &lt;/div&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Copperbell Mines (Hard)
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      4
-    &lt;/div&gt;        
-  &lt;/div&gt;   
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Pharos Sirius
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      4
-    &lt;/div&gt;        
-  &lt;/div&gt;   
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Keeper of the Lake
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      4
-    &lt;/div&gt;        
-  &lt;/div&gt;   
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Aurum Vale
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      4
-    &lt;/div&gt;        
-  &lt;/div&gt; 
-
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Void Ark
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      3
-    &lt;/div&gt;        
-  &lt;/div&gt; 
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Dzemael Darkhold
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      3
-    &lt;/div&gt;        
-  &lt;/div&gt; 
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Wreath of Snakes
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      2
-    &lt;/div&gt;        
-  &lt;/div&gt; 
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Hells' Kier
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      2
-    &lt;/div&gt;        
-  &lt;/div&gt; 
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      The Jade Stoa
-    &lt;/div&gt;        
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-      2
-    &lt;/div&gt;        
-  &lt;/div&gt; 
-
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-Nota: Estas actividades hay que hacerlas &lt;b&gt;sincronizados&lt;/b&gt; a su nivel asi que &lt;b&gt;no podeis usar Unrestricted Party&lt;/b&gt;.
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;canjear-tomestones&quot;&gt;Canjear Tomestones&lt;/h4&gt;
-
-&lt;p&gt;Para canjear las recompensas debemos hablar con cualquiera de los &lt;strong&gt;Itinerant Moogle&lt;/strong&gt; del evento que esta en las ciudades principales, cerca de la Aetheryte central.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/moguri.png&quot; alt=&quot;Moogle&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Itinerant Moogle&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-        &lt;p align=&quot;center&quot;&gt;
-            &lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/gridania.jpg&quot; alt=&quot;&amp;gt;New Gridania&quot; /&gt;
-            &lt;br /&gt;
-            &lt;sub&gt;&lt;sup&gt;New Gridania&lt;/sup&gt;&lt;/sub&gt;
-        &lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-        &lt;p align=&quot;center&quot;&gt;
-            &lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/ulda.jpg&quot; alt=&quot;Ul'dah&quot; /&gt;
-            &lt;br /&gt;
-            &lt;sub&gt;&lt;sup&gt;Ul'dah, Steps of Nald&lt;/sup&gt;&lt;/sub&gt;
-        &lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-        &lt;p align=&quot;center&quot;&gt;
-            &lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/limsa.jpg&quot; alt=&quot;Limsa Lominsa&quot; /&gt;
-            &lt;br /&gt;
-            &lt;sub&gt;&lt;sup&gt;Limsa Lominsa Lower Decks&lt;/sup&gt;&lt;/sub&gt;
-        &lt;/p&gt;
-    &lt;/div&gt;    
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h4 id=&quot;recompensas-destacadas&quot;&gt;Recompensas destacadas&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/moogle-mar-22/destacada.jpg&quot; alt=&quot;Destacados&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Mameshiba Earring (100) / Euphonious Kamuy Fife - Suzaku (50)/ Tamamo Headband (30) &lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Tambien estará &lt;strong&gt;Modern Aesthetics - Controlled Chaos&lt;/strong&gt; por &lt;strong&gt;50 Irregular Tomestones of Scripture&lt;/strong&gt;, el cual es un &lt;strong&gt;peinado&lt;/strong&gt; disponible por &lt;strong&gt;1,800 Skybuilders Scrips (Firmament)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/moogle-mar-22/controlled-chaos.jpg&quot; alt=&quot;Controlled Chaos&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Peinado: Controlled Chaos&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Por &lt;strong&gt;7 Irregular Tomestones of Scripture&lt;/strong&gt; podremos obtener el minion &lt;strong&gt;Behemoth Heir&lt;/strong&gt; el cual es obtenible por &lt;strong&gt;400 Centurion Seals&lt;/strong&gt;, lo cual son un bastantes &lt;strong&gt;Hunts de HW o SB&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-mar-22/behemoth-hair.jpg&quot; alt=&quot;Behemoth Heir&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Minion Griffin Hatchling&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Por &lt;strong&gt;7 Irregular Tomestones of Scripture&lt;/strong&gt; podremos obtener el minion &lt;strong&gt;Ivon Coeurlfist Doll&lt;/strong&gt; el cual es drop de &lt;strong&gt;The Temple of the Fist&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-mar-22/ivon.jpg&quot; alt=&quot;Ivon Coeurlfist Doll&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Minion Aurelia Polyp&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Tendremos también el &lt;strong&gt;set completo&lt;/strong&gt; de &lt;strong&gt;Late Allagan&lt;/strong&gt;, por &lt;strong&gt;15 Irregular Tomestones of Scripture&lt;/strong&gt; cada pieza, estos set se compran con &lt;strong&gt;chapas de PvP&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-mar-22/late-allagan.jpg&quot; alt=&quot;Set Late Allagan de Maiming (Dragoon / Reaper)&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Set Late Allagan de Maiming (Dragoon / Reaper)&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Si os gusta hacer &lt;strong&gt;mapas de tesoro&lt;/strong&gt; tendremos disponibles los &lt;strong&gt;Ostensibly Special Timeworm Map (Nivel 80)&lt;/strong&gt; donde podremos obtener &lt;strong&gt;2 por 30 Irregular Tomestones of Scripture&lt;/strong&gt; y &lt;strong&gt;garantizan un portal&lt;/strong&gt; a la instancia del mapa donde podreis obtener &lt;strong&gt;materiales&lt;/strong&gt; bastante &lt;strong&gt;caros&lt;/strong&gt; para &lt;strong&gt;glamours o housing&lt;/strong&gt;, ademas tambien hay &lt;strong&gt;monturas, emotes y minions&lt;/strong&gt; exclusivos de mapas.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-oct-21/map.jpg&quot; alt=&quot;Instancia de Mapa del Tesoro&quot; /&gt;
-    &lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Instancia de un Map del Tesoro&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;También estaran disponible alguna de las &lt;strong&gt;monturas de las Tibus&lt;/strong&gt; de bestia de &lt;strong&gt;ARR&lt;/strong&gt; por &lt;strong&gt;30 Irregular Tomestones of Scripture&lt;/strong&gt; cada una de ellas.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/tribus/arr/laurel_goobbue.jpg&quot; alt=&quot;Montura Laurel Goobbue&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura Laurel Goobbue&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/tribus/arr/cavalry_drake.jpg&quot; alt=&quot;Montura Cavalry Draken&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura Cavalry Drake&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Por ultimo nos queda destacar que habra también algunas &lt;strong&gt;monturas de trials en extreme&lt;/strong&gt; por &lt;strong&gt;30 Irregular Tomestones of Scripture&lt;/strong&gt; cada una de ellas.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-mar-22/aithon.jpg&quot; width=&quot;600&quot; alt=&quot;Montura Aithon (Ifrit Extreme)&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura Aithon (Ifrit Extreme)&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-mar-22/boreas.jpg&quot; width=&quot;600&quot; alt=&quot;Montura Boreas (Shiva Extreme)&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura Boreas (Shiva Extreme)&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-mar-22/white-lanner.jpg&quot; width=&quot;600&quot; alt=&quot;Montura White Lanner (Bismarck Extreme)&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura White Lanner (Bismarck Extreme)&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moogle-mar-22/rose-lanner.jpg&quot; width=&quot;600&quot; alt=&quot;Montura Rose Lanner (Ravana Extreme)&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Montura Rose Lanner (Ravana Extreme)&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Existen ademas &lt;strong&gt;mas recompensas&lt;/strong&gt;, como &lt;strong&gt;mejoras de velocidad de ARR&lt;/strong&gt;, aunque solo funciona &lt;strong&gt;en el suelo y no volando&lt;/strong&gt;, cartas de &lt;strong&gt;Tiple triad&lt;/strong&gt;, &lt;strong&gt;partituras&lt;/strong&gt;, o objetos de housing, pero podeis &lt;strong&gt;revisarlo en los NPC del evento&lt;/strong&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/moogle-treasure-mar-22/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/moogle-treasure-mar-22/</guid>
-        
-        <category>evento</category>
-        
-        <category>noticias</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
