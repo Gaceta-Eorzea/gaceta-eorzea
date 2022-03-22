@@ -34,5 +34,6 @@ Habrá diferentes premios y categorías para todos los gustos, y un desfile libr
 </p>
 
 <p align="center">
-¡Os esperamos!
+<b>¡Os esperamos!</b><br/>
+<img src="{{ site.baseurl }}/assets/images/articles/comunidad/festival-primavera/grupo.png" alt="Grupo"/>
 </p>
