@@ -1153,6 +1153,10 @@
 <lastmod>2022-03-21T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>https://gaceta-eorzea.com/festival-primavera/</loc>
+<lastmod>2022-03-22T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://gaceta-eorzea.com/about</loc>
 </url>
 <url>
@@ -1232,6 +1236,9 @@
 </url>
 <url>
 <loc>https://gaceta-eorzea.com/category/diario/</loc>
+</url>
+<url>
+<loc>https://gaceta-eorzea.com/category/comunidad/</loc>
 </url>
 <url>
 <loc>https://gaceta-eorzea.com/page2/</loc>
@@ -1373,5 +1380,8 @@
 </url>
 <url>
 <loc>https://gaceta-eorzea.com/page48/</loc>
+</url>
+<url>
+<loc>https://gaceta-eorzea.com/page49/</loc>
 </url>
 </urlset>
