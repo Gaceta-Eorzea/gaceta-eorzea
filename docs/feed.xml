@@ -5,9 +5,39 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Mar 2022 20:53:07 +0000</pubDate>
-    <lastBuildDate>Fri, 25 Mar 2022 20:53:07 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Mar 2022 12:13:57 +0100</pubDate>
+    <lastBuildDate>Sun, 27 Mar 2022 12:13:57 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Historia Completa de Endwalker – Parte 5: Nivel 84-86</title>
+        <description>&lt;p&gt;A nuestro regreso a Etheirys, el Foro Sharlayano les comunica a sus ciudadanos una importante noticia: El Fin de los Días es real, pues a causa de un descubrimiento realizado años atrás habían conseguido hablar con la mismísima Hydaelyn, quien les confirmó el evento apocalíptico y les dio una misión. Salvar a las gentes de Etheirys usando la luna como vehículo para encontrar un nuevo hogar.&lt;/p&gt;
+
+&lt;p&gt;Al poco tiempo, eventos catastróficos asolan Thavnair. Una horda de extraños monstruos asola la isla, haciendo que sus ciudadanos se transformen en horribles seres y destrozando todo a su paso.&lt;br /&gt;
+Deberemos viajar de nuevo a Thavnair y ayudar en lo que podamos para evitar que el mal se propague.&lt;/p&gt;
+
+&lt;p&gt;Pasaos por el canal de YouTube para vídeos como este y muchos más.
+Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar guías y artículos de prácticamente todo lo que queráis saber sobre el mundo de FFXIV.&lt;/p&gt;
+
+&lt;p&gt;¡Guerreros de la luz, nos vemos en Eorzea!&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/tyqsxBvRMok?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/historia-ew-5/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/historia-ew-5/</guid>
+        
+        <category>lore</category>
+        
+        <category>historia FFXIV</category>
+        
+        
+        <category>lore</category>
+        
+      </item>
     
       <item>
         <title>Fashion Report 25 Marzo 2022</title>
@@ -357,83 +387,6 @@ Y no olvidéis seguir a la Gaceta Eorzea en Twitter, ya que si no os perderéis 
         
         
         <category>jobs</category>
-        
-      </item>
-    
-      <item>
-        <title>Diario de desarrollo: Una corona digna de una princesa</title>
-        <description>&lt;p&gt;&lt;em&gt;Os traemos la traducción una &lt;a href=&quot;https://na.finalfantasyxiv.com/blog/003294.html&quot; target=&quot;_blank&quot;&gt;nueva entrada en el blog&lt;/a&gt; de los desarrolladores de Final Fantasy XIV centrada en el próximo evento estacional, que tendrá lugar durante el mes de marzo dedicado al Día de las Mujercitas (Little Ladies’ Day)&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;10/03/2022&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;¡Hola!&lt;/p&gt;
-
-&lt;p&gt;Soy Sicycre, del equipo de Comunidad. ¿Os podéis creer que ya sea marzo? Pronto habrá un cambio de estación, pero ¿sabéis qué más se viene? Un evento estacional que ocurre durante la transición entre el invierno y la primavera: el &lt;strong&gt;Día de las Mujercitas (Little Ladies’ Day)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Hoy os quiero hablar de los detalles del evento y sus recompensas.&lt;/p&gt;
-
-&lt;h4 id=&quot;duración-del-evento&quot;&gt;Duración del evento&lt;/h4&gt;
-
-&lt;p&gt;Inicio: lunes 14 de marzo a las 09:00 (hora peninsular).&lt;br /&gt;
-Fin: jueves 31 de marzo a las 15:59 (hora peninsular).&lt;/p&gt;
-
-&lt;h4 id=&quot;cómo-participar&quot;&gt;Cómo participar&lt;/h4&gt;
-
-&lt;p&gt;Habla con Marabel en Ul’dah - Steps of Nald (X:10.1 Y:8.7) para empezar la misión.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/01/imagen_1.jpg&quot; alt=&quot;Marabel&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&quot;misión-fashion-face-off&quot;&gt;Misión: Fashion Face-off&lt;/h4&gt;
-
-&lt;p&gt;Marabel busca a alguien que le ayude a prepararse para el desfile del Día de las Mujercitas. Al verte pasar, se ha fijado en ti y se le ha iluminado la mirada.&lt;/p&gt;
-
-&lt;h4 id=&quot;recompensas&quot;&gt;Recompensas&lt;/h4&gt;
-
-&lt;p&gt;Equipamiento: &lt;strong&gt;Little Lady’s Crown&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/01/imagen_2.jpg&quot; alt=&quot;Razas y Géneros&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Varios gurús de la moda me han dicho que esta corona queda muy elegante cuando te la colocas hacia un lado. Pruébala con distintos conjuntos, ¡es apta para todas las razas y géneros!&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/01/imagen_3.jpg&quot; alt=&quot;Razas y Géneros&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Además, los vendedores que aparecen durante el evento estacional tendrán dos tipos de &lt;strong&gt;confeti&lt;/strong&gt; disponibles: &lt;strong&gt;melocotón&lt;/strong&gt; (Peach Confetti) y &lt;strong&gt;cereza&lt;/strong&gt; (Cherry Confetti). Yo siempre intento comprar para todo el año. Son objetos que dan un toque especial a las capturas de pantalla, así que es buena idea acumularlos.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/01/imagen_4.jpg&quot; alt=&quot;Confetti&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Bueno, eso es todo por hoy. Es hora de celebrar la llegada de la primavera con el evento del Día de las Mujercitas. ¡Espero ver un montón de fotos por ahí!&lt;/p&gt;
-
-&lt;p&gt;¡Hasta la próxima!&lt;/p&gt;
-
-&lt;p&gt;Sicycre&lt;/p&gt;
-
-&lt;p&gt;Equipo de Comunidad&lt;/p&gt;
-
-&lt;blockquote&gt;
-Si queréis saber más del &lt;b&gt;evento&lt;/b&gt; y sus &lt;b&gt;recompensas&lt;/b&gt; pasad por &lt;a href=&quot;/little-ladies-2022&quot;&gt;la detallada entrada&lt;/a&gt; que hicimos en la gaceta sobre el mismo.
-&lt;blockquote&gt;
-&lt;/blockquote&gt;&lt;/blockquote&gt;
-</description>
-        <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/devblog-01/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/devblog-01/</guid>
-        
-        <category>traducion</category>
-        
-        <category>diario</category>
-        
-        
-        <category>diario</category>
         
       </item>
     
