@@ -5,9 +5,215 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Apr 2022 11:04:01 +0100</pubDate>
-    <lastBuildDate>Fri, 01 Apr 2022 11:04:01 +0100</lastBuildDate>
+    <pubDate>Sun, 03 Apr 2022 16:00:02 +0100</pubDate>
+    <lastBuildDate>Sun, 03 Apr 2022 16:00:02 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Resumen Live Letter #70: Detalles sobre el parche 6.1 (JcJ)</title>
+        <description>&lt;p&gt;xxxxxxxxxxx&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Apr 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/live-letter-70-2/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/live-letter-70-2/</guid>
+        
+        <category>noticias</category>
+        
+        <category>carta del productor</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Resumen Live Letter #70: Detalles sobre el parche 6.1 (General)</title>
+        <description>&lt;p&gt;El 1 de abril de 2022 se retransmitió la Live Letter número 70, centrada en una segunda ronda de novedades que vendrán con el parche 6.1. En este artículo se muestra un resumen de los principales puntos de la presentación.&lt;/p&gt;
+
+&lt;h4 id=&quot;tráiler-y-fecha-de-lanzamiento-del-parche-61&quot;&gt;Tráiler y fecha de lanzamiento del parche 6.1&lt;/h4&gt;
+&lt;p&gt;La &lt;em&gt;Live Letter&lt;/em&gt; arrancó con un tráiler del esperado parche 6.1: &lt;em&gt;Newfound Adventure&lt;/em&gt;, que podéis ver a continuación. Después, se anunció la fecha de lanzamiento del parche: &lt;strong&gt;12 de abril de 2022&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/KSjTEMCVIx8?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;nuevas-misiones-de-historia-y-misiones-secundarias&quot;&gt;Nuevas misiones de historia y misiones secundarias&lt;/h4&gt;
+
+&lt;p&gt;El parche abre un nuevo capítulo en la historia del juego tras finalizar la saga de &lt;em&gt;Zodiark&lt;/em&gt; y &lt;em&gt;Hydaelyn&lt;/em&gt;, por lo que habrá nuevas misiones de la historia principal.
+Además, se añadirá una gran cantidad de líneas argumentales y misiones secundarias que, en la mayoría de casos, saldrán después del lanzamiento del parche:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Tataru’s Grand Endeavour&lt;/em&gt;, una nueva línea argumental secundaria (parche 6.1x).&lt;/li&gt;
+  &lt;li&gt;Misiones de rol adicionales: se podrán desbloquear al completar todas las series de misiones de rol de &lt;em&gt;Endwalker&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Nuevo arco de la historia de &lt;em&gt;Hildibrand&lt;/em&gt; (parche 6.15).&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Omega: Beyond the Rift&lt;/em&gt;, una serie de misiones que amplían la historia de &lt;em&gt;Omega&lt;/em&gt; (parche 6.1x).
+-* Custom Deliveries: Ameliance Leveilleur* (parche 6.15).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sistema-de-ayudantes-duty-support-system&quot;&gt;Sistema de ayudantes (Duty Support System)&lt;/h4&gt;
+
+&lt;p&gt;Se trata de un nuevo sistema similar al sistema &lt;em&gt;Trust&lt;/em&gt;, en el que podrás realizar contenido multijugador, en especial mazmorras, con ayuda de personajes no jugables. En el parche 6.1, estará disponible el contenido de &lt;em&gt;A Realm Reborn&lt;/em&gt; (parche 2.0).&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-2.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;mejoras-en-a-realm-reborn-parche-20&quot;&gt;Mejoras en A Realm Reborn (parche 2.0)&lt;/h4&gt;
+
+&lt;p&gt;Con la llegada del parche 6.1, se van a implementar cambios para mejorar la experiencia de juego en &lt;em&gt;A Realm Reborn&lt;/em&gt;. Van a renovar algunas de las mazmorras para que sean más amenas.También van a hacer cambios en contenidos del final del parche 2.0, como &lt;em&gt;Cape Westwind&lt;/em&gt; y &lt;em&gt;Praetorium&lt;/em&gt;, y en la ruleta de historia principal (&lt;em&gt;Main Scenario Roulette&lt;/em&gt;), tal y como anunciaron en una &lt;em&gt;Live Letter&lt;/em&gt; anterior.&lt;/p&gt;
+
+&lt;h4 id=&quot;nuevo-contenido-multijugador&quot;&gt;Nuevo contenido multijugador&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mazmorra relacionada con la historia principal.&lt;/li&gt;
+  &lt;li&gt;Enfrentamiento en versión Extreme: &lt;em&gt;The Minstrel’s Ballad: Endsinger’s Aria&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Enfrentamiento en versión Unreal: &lt;em&gt;Ultima Weapon&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Ultimate: &lt;em&gt;Dragonsong’s Reprise&lt;/em&gt; (parche 6.11, dos semanas después del lanzamiento del parche 6.1).&lt;/li&gt;
+  &lt;li&gt;Alliance Raid: &lt;em&gt;Myths of the Realm: Aglaia&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-3.jpg&quot; alt=&quot;Myths of the Realm: Aglaia&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;nuevos-peinados-para-los-hrothgar&quot;&gt;Nuevos peinados para los Hrothgar&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-4.jpg&quot; alt=&quot;Nuevos peinados para los Hrothgar&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;ajustes-de-las-profesiones&quot;&gt;Ajustes de las profesiones&lt;/h4&gt;
+
+&lt;p&gt;En esta parte de la Live Letter han hablado de algunos de los cambios que sufrirán ciertas profesiones en el próximo parche, pero estos no son todos los ajustes que van a realizar.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;MCH&lt;/strong&gt;: la potencia de algunas habilidades, como Heat &lt;em&gt;Blast&lt;/em&gt;, &lt;em&gt;Wildfire&lt;/em&gt; y &lt;em&gt;Drill&lt;/em&gt;, será mayor.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SAM&lt;/strong&gt;: las habilidades &lt;em&gt;Midare Setsugekka&lt;/em&gt;, &lt;em&gt;Kaeshi&lt;/em&gt;: &lt;em&gt;Setsugekka&lt;/em&gt;, &lt;em&gt;Ogi Namikiri&lt;/em&gt; y &lt;em&gt;Kaeshi&lt;/em&gt;: &lt;em&gt;Namikiri&lt;/em&gt; asestarán golpes críticos. Además, se eliminará &lt;em&gt;Hissatsu Kaiten&lt;/em&gt; y se ajustará la potencia de ciertas habilidades.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;NIN&lt;/strong&gt;: la habilidad &lt;em&gt;Mug&lt;/em&gt; otorgará a los enemigos un estado que hará que reciban más daño por parte de ataques de todo el equipo. Además, &lt;em&gt;Trick Attack&lt;/em&gt; pasará a aumentar el daño causado solo por el usuario y se ajustará la potencia de ciertas habilidades.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;DRK&lt;/strong&gt;: al usar &lt;em&gt;Living Dead&lt;/em&gt;, se recuperará vida de forma considerable a medida que se dan golpes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;DRG&lt;/strong&gt; y RDM: el tiempo de bloqueo de ciertas animaciones será menor.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SMN&lt;/strong&gt;: en vez de &lt;em&gt;Carbuncle&lt;/em&gt;, será el personaje jugable quien lance la habilidad &lt;em&gt;Searing Light&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;WHM&lt;/strong&gt;: el radio de alcance de &lt;em&gt;Cure III&lt;/em&gt; y &lt;em&gt;Asylum&lt;/em&gt; será mayor. Además, se podrá poner fin a &lt;em&gt;Liturgy of the Bell&lt;/em&gt; cuando se quiera, lo que permitirá recuperar una cierta cantidad de vida en función del número de stacks que queden.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SCH&lt;/strong&gt;: el radio de alcance de &lt;em&gt;Sacred Soil&lt;/em&gt; será mayor. Además, el estado que confiere la habilidad &lt;em&gt;Expedient&lt;/em&gt; pasará a durar 10 segundos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;nueva-tribu-arkasodara&quot;&gt;Nueva tribu: Arkasodara&lt;/h4&gt;
+
+&lt;p&gt;Esta tribu de Thavnair proporciona una nueva serie de misiones diarias que se podrán hacer con profesiones centradas en el combate. Se ha mostrado la zona en la que se encuentra, además de su montura.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-5.jpg&quot; alt=&quot;Nueva tribu: Arkasodara&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;otras-monturas&quot;&gt;Otras Monturas&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-6.jpg&quot; alt=&quot;Otras Monturas&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;minions&quot;&gt;Minions&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-7.jpg&quot; alt=&quot;Minions&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;accesorios&quot;&gt;Accesorios&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-8.jpg&quot; alt=&quot;Accesorios&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;probador-de-atuendos-de-pago-dream-fitting&quot;&gt;Probador de atuendos de pago (Dream Fitting)&lt;/h4&gt;
+
+&lt;p&gt;Esta función estará disponible en las posadas y se accede a ella a través de la cama.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-9.jpg&quot; alt=&quot;Probador de atuendos de pago (Dream Fitting)&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;nueva-zona-residencial-en-ishgard-empyreum&quot;&gt;Nueva zona residencial en Ishgard: Empyreum&lt;/h4&gt;
+
+&lt;p&gt;A partir del lanzamiento del parche 6.1 se podrán comprar parcelas en Empyreum. Todas ellas estarán sujetas al nuevo sistema de compra por sorteo y habrá una mayor cantidad de parcelas reservadas a Free Companies.&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+Pronto publicaremos un artículo con información más detallada sobre la nueva zona residencial y el sistema de sorteos.
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;equipamiento-de-la-alliance-raid-y-glamour&quot;&gt;Equipamiento de la Alliance Raid y glamour&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-10.jpg&quot; alt=&quot;Equipamiento de la Alliance Raid y glamour&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;nuevo-diseño-de-casa-y-muebles&quot;&gt;Nuevo diseño de casa y muebles&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-11.jpg&quot; alt=&quot;Nuevo diseño de casa y muebles&quot; /&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-12.jpg&quot; alt=&quot;Nuevo diseño de casa y muebles&quot; /&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-13.jpg&quot; alt=&quot;Nuevo diseño de casa y muebles&quot; /&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-14.jpg&quot; alt=&quot;Nuevo diseño de casa y muebles&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h5 id=&quot;fichas-de-jugador-adventurer-plates&quot;&gt;Fichas de jugador (Adventurer Plates)&lt;/h5&gt;
+
+&lt;p&gt;Con el parche 6.1, sacarán una versión beta de esta nueva función. Las fichas de jugador constan de tres partes: un diseño de ficha, información sobre el jugador y un retrato. Todas ellas se personalizan por separado.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-15.jpg&quot; alt=&quot;Adventurer Plate&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Diseño de ficha: personaliza cada elemento a tu gusto o usa uno de los diversos diseños que vienen por defecto.&lt;/li&gt;
+  &lt;li&gt;Información sobre el jugador: puedes concretar tus horarios de juego, profesión favorita, título y tipo de contenido que te interesa.&lt;/li&gt;
+  &lt;li&gt;Retrato: elige la pose, expresión y fondo, así como los ajustes de luz y de la cámara. Podrás guardar más de un retrato e intercambiarlos cuando quieras.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cabe destacar también que se podrá elegir quién puede ver tu ficha: todo el mundo, solo amigos o nadie.&lt;/p&gt;
+
+&lt;h4 id=&quot;novedades-del-modo-jugador-contra-jugador&quot;&gt;Novedades del modo Jugador contra Jugador&lt;/h4&gt;
+
+&lt;p&gt;El modo Jugador contra Jugador recibirá un montón de cambios y contenido nuevo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reforma de las habilidades y Limit Breaks para cada profesión.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Crystalline Conflic&lt;/em&gt;t, un nuevo tipo de encuentro por equipos.&lt;/li&gt;
+  &lt;li&gt;Sistema de recompensas.&lt;/li&gt;
+  &lt;li&gt;Sistema de clasificación.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En el siguiente &lt;a href=&quot;/live-letter-70-2/&quot; target=&quot;_blank&quot;&gt;enlace&lt;/a&gt; podrás encontrar un artículo con información más detallada de estas novedades.&lt;/p&gt;
+
+&lt;h4 id=&quot;otras-novedades&quot;&gt;Otras novedades&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;The Unending Codex: glosario de términos y lore.&lt;/li&gt;
+  &lt;li&gt;Viaje entre Data Centers (parche 6.18).&lt;/li&gt;
+  &lt;li&gt;Incorporación del parche 6.0 y parte del parche 6.1 a New Game +.&lt;/li&gt;
+  &lt;li&gt;Glamour: más ranuras para guardar conjuntos y posibilidad de cambiarte de conjunto en cualquier santuario.&lt;/li&gt;
+  &lt;li&gt;Nuevas animaciones de inactividad para los parasoles.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;anuncios&quot;&gt;Anuncios&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Vuelve el evento en colaboración con &lt;em&gt;GARO&lt;/em&gt;: además de las recompensas anteriores, se añadirán logros, títulos y atuendos para las profesiones que salieron en &lt;em&gt;Shadowbringers&lt;/em&gt; y &lt;em&gt;Endwalker&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Concierto de &lt;em&gt;The Primals&lt;/em&gt; en &lt;em&gt;Japón&lt;/em&gt;: se celebrará el 4 y 5 de junio de forma presencial, pero también se podrán comprar entradas para asistir de forma virtual.&lt;/li&gt;
+  &lt;li&gt;Miniálbum &lt;em&gt;THE PRIMALS - Beyond the Shadow&lt;/em&gt;: contiene cuatro temas de &lt;em&gt;Endwalker&lt;/em&gt; y se lanzará el 25 de mayo. Su precio es de 17,99 €.&lt;/li&gt;
+  &lt;li&gt;Varios productos de merchandising de &lt;em&gt;The Primals&lt;/em&gt; exclusivos para &lt;em&gt;Japón&lt;/em&gt;: disponibles del 1 al 21 de abril.&lt;/li&gt;
+  &lt;li&gt;Libro de arte &lt;em&gt;The Art of resurrection - Among the Stars&lt;/em&gt;: primer libro de arte de &lt;em&gt;Endwalker&lt;/em&gt;, que saldrá a la venta el 13 de septiembre. Su precio es de 34,99 € y viene con un minion de la nave &lt;em&gt;Ragnarok&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Auriculares inmersivos &lt;em&gt;Panasonic SoundSlayer FINAL FANTASY® XIV Online Edition&lt;/em&gt;: reserva disponible para &lt;em&gt;España&lt;/em&gt;; se lanzarán a principios de abril.&lt;/li&gt;
+  &lt;li&gt;Tareas de mantenimiento y lectura de las notas de parche: el &lt;strong&gt;11 de abril a las 13:00&lt;/strong&gt; (hora peninsular), &lt;em&gt;Yoshida&lt;/em&gt; leerá las notas de parche. El &lt;strong&gt;mantenimiento&lt;/strong&gt; previo al lanzamiento del parche** durará 24 horas**.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 03 Apr 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/live-letter-70-1/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/live-letter-70-1/</guid>
+        
+        <category>noticias</category>
+        
+        <category>carta del productor</category>
+        
+        
+      </item>
     
       <item>
         <title>Fashion Report 1 Abril 2022</title>
@@ -287,154 +493,6 @@ Y no olvidéis seguir a la Gaceta Eorzea en Twitter, ya que si no os perderéis 
         
         
         <category>gold saucer</category>
-        
-      </item>
-    
-      <item>
-        <title>Evento de Twitch: The Unending Journey</title>
-        <description>&lt;p&gt;Se acaba de anunciar la primera edición de este año de The Unending Journey, un evento de Twitch en el que los jugadores podrán unirse al equipo de Comunidad de Europa para participar en diversas actividades.&lt;/p&gt;
-
-&lt;p&gt;En esta edición, el equipo de Comunidad se adentrará en &lt;strong&gt;&lt;em&gt;Pandaemonium&lt;/em&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;em&gt;Asphodelos&lt;/em&gt;&lt;/strong&gt; (&lt;strong&gt;&lt;em&gt;Savage&lt;/em&gt;&lt;/strong&gt;) y en la nueva mazmorra de caza de tesoros, &lt;strong&gt;&lt;em&gt;The Excitatron 6000&lt;/em&gt;&lt;/strong&gt;. ¡También se hará una sesión de fotos!&lt;/p&gt;
-
-&lt;p&gt;Habrá dos versiones del evento, una en inglés y otra en francés.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Francés: viernes 18 de marzo a las 18:00 (hora peninsular).&lt;/li&gt;
-  &lt;li&gt;Inglés: viernes 25 de marzo a las 19:00 (hora peninsular).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;En ambos casos, el punto de encuentro para aquellos que quieran participar en las actividades será la &lt;em&gt;aetheryte&lt;/em&gt; principal de &lt;em&gt;Old Sharlayan&lt;/em&gt; en &lt;strong&gt;Ragnarok (Chaos)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Podéis ver el evento a través del &lt;a href=&quot;https://www.twitch.tv/finalfantasyxiv&quot; target=&quot;_blank&quot;&gt;canal oficial de Final Fantasy XIV&lt;/a&gt; en Twitch. Además, sortearán los siguientes artículos durante la retransmisión.&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/noticias/unending-mar-22/imagen_2.jpg&quot; alt=&quot;Premio 1&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/noticias/unending-mar-22/imagen_3.jpg&quot; alt=&quot;Premio 2&quot; /&gt;
-    &lt;/div&gt;    
-  &lt;/div&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/noticias/unending-mar-22/imagen_4.jpg&quot; alt=&quot;Premio 3&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/noticias/unending-mar-22/imagen_5.jpg&quot; alt=&quot;Premio 4&quot; /&gt;
-    &lt;/div&gt;    
-  &lt;/div&gt;  
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Para participar en el sorteo, debéis seguir los siguientes pasos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Iniciar sesión con vuestra cuenta de Twitch o crear una cuenta en caso de no tenerla.&lt;/li&gt;
-  &lt;li&gt;Estar presente durante la retransmisión del evento.&lt;/li&gt;
-  &lt;li&gt;El equipo de Comunidad hará una o varias preguntas relacionadas con Final Fantasy XIV. Debéis escribir una única respuesta a cada pregunta en el chat de la retransmisión. Dependiendo de la dificultad de la(s) pregunta(s), se podrá escribir más de una respuesta.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Además, los participantes deberán ser mayores de 18 años y residir en cualquiera de los territorios elegibles (entre ellos España). Si queréis saber más detalles, recomendamos revisar las &lt;a href=&quot;https://forum.square-enix.com/ffxiv/threads/345398-Official-Rules-for-The-Wolves-Den-The-FFXIV-EU-PvP-Stream-Contests?p=4402349#post4402349&quot; target=&quot;_blank&quot;&gt;normas oficiales del sorteo&lt;/a&gt; (en inglés).&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/unending-mar-22/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/unending-mar-22/</guid>
-        
-        <category>noticias</category>
-        
-        <category>twitch</category>
-        
-        
-        <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>FFXIV Fandub : Hacia un Nuevo Mañana</title>
-        <description>&lt;p&gt;¡Os traemos la segundas de nuestras escenas dobladas al español!&lt;/p&gt;
-
-&lt;p&gt;No olvidéis seguirnos en &lt;a href=&quot;https://twitter.com/FFXIV_Fandub&quot; target=&quot;_blank&quot;&gt;twitter&lt;/a&gt; para estar al tanto de futuras audiciones y proyectos.&lt;/p&gt;
-
-&lt;h3 id=&quot;créditos&quot;&gt;CRÉDITOS&lt;/h3&gt;
-
-&lt;h4 id=&quot;actores-de-doblaje&quot;&gt;Actores de Doblaje:&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;WoL: &lt;a href=&quot;https://twitter.com/Stillone999&quot; target=&quot;_blank&quot;&gt;Aarón&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Alisaie: &lt;a href=&quot;https://twitter.com/latriplebe&quot; target=&quot;_blank&quot;&gt;Belén Berbis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Alphinaud: &lt;a href=&quot;https://twitter.com/Aryn_XIV&quot; target=&quot;_blank&quot;&gt;Aryn&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Thancred: &lt;a href=&quot;https://twitter.com/Lyokard&quot; target=&quot;_blank&quot;&gt;Alejandro Robledo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Ryne: &lt;a href=&quot;https://twitter.com/Teresuky21&quot; target=&quot;_blank&quot;&gt;Teresuky A. Farron&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Urianger: &lt;a href=&quot;https://twitter.com/SiaKrassen&quot; target=&quot;_blank&quot;&gt;Sia Krassen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Y’shtola: &lt;a href=&quot;https://twitter.com/AquaYuki_121&quot; target=&quot;_blank&quot;&gt;AquaYuki❄️&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Lyna: &lt;a href=&quot;https://twitter.com/OkamiKurotsuki&quot; target=&quot;_blank&quot;&gt;Aura&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;dirección-de-doblaje&quot;&gt;Dirección de Doblaje:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/LiaTales_ffxiv&quot; target=&quot;_blank&quot;&gt;Lia Tales&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;traducción-desde-el-japonés&quot;&gt;Traducción desde el Japonés:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/LiaTales_ffxiv&quot; target=&quot;_blank&quot;&gt;Lia Tales&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;traducción-desde-el-inglés&quot;&gt;Traducción desde el Inglés:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Sayameka&quot; target=&quot;_blank&quot;&gt;Saya Min&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/aedrias&quot; target=&quot;_blank&quot;&gt;Balaris&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/trencapins&quot; target=&quot;_blank&quot;&gt;Ela&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;corrección-y-revisión&quot;&gt;Corrección y Revisión:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/trencapins&quot; target=&quot;_blank&quot;&gt;Ela&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Sayameka&quot; target=&quot;_blank&quot;&gt;Saya Min&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;adaptación-de-diálogos&quot;&gt;Adaptación de Diálogos:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Sayameka&quot; target=&quot;_blank&quot;&gt;Saya Min&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/trencapins&quot; target=&quot;_blank&quot;&gt;Ela&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/LiaTales_ffxiv&quot; target=&quot;_blank&quot;&gt;Lia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;edición-de-audio&quot;&gt;Edición de Audio:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Lyokard&quot; target=&quot;_blank&quot;&gt;Alejandro Robledo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/LiaTales_ffxiv&quot; target=&quot;_blank&quot;&gt;Lia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;edición-de-video&quot;&gt;Edición de Video:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Aryn_XIV&quot; target=&quot;_blank&quot;&gt;Aryn&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/LiaTales_ffxiv&quot; target=&quot;_blank&quot;&gt;Lia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/trencapins&quot; target=&quot;_blank&quot;&gt;Ela&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;diseño-de-imágenes-y-logos&quot;&gt;Diseño de Imágenes y Logos:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Lokewen&quot; target=&quot;_blank&quot;&gt;Lokewen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Reigar_XIV&quot; target=&quot;_blank&quot;&gt;ReigarXIV&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/n00lLNlsJYs?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/fandub-2/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/fandub-2/</guid>
-        
-        <category>lore</category>
-        
-        <category>fandub</category>
-        
-        
-        <category>fandub</category>
         
       </item>
     
