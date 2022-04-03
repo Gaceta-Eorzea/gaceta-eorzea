@@ -5,13 +5,63 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Apr 2022 16:00:02 +0100</pubDate>
-    <lastBuildDate>Sun, 03 Apr 2022 16:00:02 +0100</lastBuildDate>
+    <pubDate>Sun, 03 Apr 2022 17:19:02 +0100</pubDate>
+    <lastBuildDate>Sun, 03 Apr 2022 17:19:02 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Resumen Live Letter #70: Detalles sobre el parche 6.1 (JcJ)</title>
-        <description>&lt;p&gt;xxxxxxxxxxx&lt;/p&gt;
+        <description>&lt;p&gt;Durante la Live Letter del 1 de abril, han compartido una gran cantidad de información sobre los &lt;strong&gt;cambios y novedades&lt;/strong&gt; del modo &lt;strong&gt;Jugador contra Jugador&lt;/strong&gt; que introducirán a partir del parche 6.1.&lt;/p&gt;
+
+&lt;p&gt;Para empezar, van a &lt;strong&gt;reformar todas las habilidades&lt;/strong&gt; del modo Jugador contra Jugador y van a hacer &lt;strong&gt;Limit Breaks para cada profesión&lt;/strong&gt;. Además, se pondrá fin a &lt;strong&gt;&lt;em&gt;The Feast&lt;/em&gt;&lt;/strong&gt; y &lt;strong&gt;&lt;em&gt;Rival Wings&lt;/em&gt;&lt;/strong&gt; no estará disponible por un tiempo, ya que quieren hacerle cambios.&lt;/p&gt;
+
+&lt;p&gt;Una de las principales novedades será &lt;strong&gt;&lt;em&gt;Crystalline Conflict&lt;/em&gt;&lt;/strong&gt;, un tipo de encuentro por equipos (&lt;strong&gt;5 jugadores&lt;/strong&gt;, sin restricción de rol) que consiste en tomar el control de un cristal que se encuentra en el centro del campo de batalla y llevarlo hasta la meta, que está cerca de la base del equipo contrario.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-2.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Existirán tres tipos de partidas: &lt;strong&gt;amistosas&lt;/strong&gt;, &lt;strong&gt;clasificatorias&lt;/strong&gt; y &lt;strong&gt;personalizadas&lt;/strong&gt;. Los encuentros durarán como máximo 5 minutos, se podrá esprintar siempre que se quiera (excepto al usar otras acciones) y todas las profesiones tendrán su propia habilidad de cura.&lt;br /&gt;
+Al inicio de cada encuentro, se mostrarán los &lt;strong&gt;retratos&lt;/strong&gt; de las fichas de jugador de cada participante.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-3.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Otra gran novedad será el &lt;strong&gt;sistema de recompensas&lt;/strong&gt;. Con la llegada de cada parche se celebrará una nueva “&lt;strong&gt;serie&lt;/strong&gt;”. Si juegas a cualquier tipo de contenido del modo Jugador contra Jugador durante esta, ganarás experiencia de serie. Podrás subir de nivel en la serie gracias a la experiencia que ganes y obtendrás recompensas por cada nuevo nivel.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-4.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Entre los &lt;strong&gt;premios&lt;/strong&gt; hay equipamiento, emotes, elementos para personalizar las fichas de jugador y una &lt;strong&gt;nueva divisa&lt;/strong&gt;, los cristales trofeo (&lt;em&gt;Trophy Crystals&lt;/em&gt;), que se podrán usar para comprar ciertos artículos en Wolves’ Den. Al comienzo de una nueva serie, volverás al primer nivel y las recompensas serán diferentes, pero tus cristales trofeo se mantendrán. Si no has conseguido alguna de las recompensas especiales de la serie anterior, podrás usar cristales trofeo para comprarlas durante la serie actual, pero dejarán de estar disponibles a partir de la siguiente serie.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-5.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Además, se ha detallado cómo va a funcionar el &lt;strong&gt;sistema de clasificación&lt;/strong&gt; a partir del próximo parche. De momento, &lt;strong&gt;solo estará disponible en &lt;em&gt;Crystalline Conflict&lt;/em&gt;&lt;/strong&gt;.&lt;br /&gt;
+Durante la temporada de clasificación, podrás alcanzar un puesto dentro de una determinada &lt;strong&gt;división&lt;/strong&gt; (&lt;em&gt;tier&lt;/em&gt;) en función de la cantidad de partidas que hayas ganado. Al final de la temporada, recibirás &lt;strong&gt;recompensas&lt;/strong&gt; según tu división y puesto en la clasificación.&lt;/p&gt;
+
+&lt;p&gt;Las divisiones comprendidas entre Bronce y Diamante contarán con subcategorías a las que llamarán “&lt;strong&gt;&lt;em&gt;risers&lt;/em&gt;&lt;/strong&gt;”. Para progresar y pasar de división, habrá que &lt;strong&gt;escalar&lt;/strong&gt; por las &lt;strong&gt;subcategorías&lt;/strong&gt;. Por ejemplo, si eres Bronce 3, deberás subir hasta Bronce 1 para poder pasar a la división Plata y, cuando esto ocurra, empezarás en Plata 3.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-6.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Por cada victoria, recibirás una &lt;strong&gt;estrella&lt;/strong&gt; y deberás conseguir una cierta cantidad de estrellas para avanzar a la siguiente subcategoría. En caso de derrota, perderás una estrella. Si te quedas sin estrellas, bajarás de subcategoría, pero nunca podrás bajar de división.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-7.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Además, se va a añadir una &lt;strong&gt;nueva división&lt;/strong&gt;, más alta que Diamante: &lt;strong&gt;Cristal&lt;/strong&gt;. Para acceder a ella, deberás llegar a Diamante 1 y ganar una partida en posesión de tres estrellas. Tu puesto en esta división se determinará en función de tu &lt;strong&gt;crédito&lt;/strong&gt;, que dependerá de los resultados de las partidas.&lt;/p&gt;
+
+&lt;p&gt;Por último, se ha mostrado el &lt;strong&gt;cronograma&lt;/strong&gt; del parche 6.1. Durante este, se celebrará &lt;strong&gt;una serie del sistema de recompensas&lt;/strong&gt;, mientras que habrá &lt;strong&gt;dos temporadas de clasificación&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-8.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Apr 2022 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/live-letter-70-2/</link>
@@ -46,11 +96,11 @@ Además, se añadirá una gran cantidad de líneas argumentales y misiones secun
   &lt;li&gt;&lt;em&gt;Tataru’s Grand Endeavour&lt;/em&gt;, una nueva línea argumental secundaria (parche 6.1x).&lt;/li&gt;
   &lt;li&gt;Misiones de rol adicionales: se podrán desbloquear al completar todas las series de misiones de rol de &lt;em&gt;Endwalker&lt;/em&gt;.&lt;/li&gt;
   &lt;li&gt;Nuevo arco de la historia de &lt;em&gt;Hildibrand&lt;/em&gt; (parche 6.15).&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Omega: Beyond the Rift&lt;/em&gt;, una serie de misiones que amplían la historia de &lt;em&gt;Omega&lt;/em&gt; (parche 6.1x).
--* Custom Deliveries: Ameliance Leveilleur* (parche 6.15).&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Omega: Beyond the Rift&lt;/em&gt;, una serie de misiones que amplían la historia de &lt;em&gt;Omega&lt;/em&gt; (parche 6.1x).&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Custom Deliveries: Ameliance Leveilleur&lt;/em&gt; (parche 6.15).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;sistema-de-ayudantes-duty-support-system&quot;&gt;Sistema de ayudantes (Duty Support System)&lt;/h4&gt;
+&lt;h4 id=&quot;sistema-de-ayudantes-duty-support-system&quot;&gt;Sistema de ayudantes (&lt;em&gt;Duty Support System&lt;/em&gt;)&lt;/h4&gt;
 
 &lt;p&gt;Se trata de un nuevo sistema similar al sistema &lt;em&gt;Trust&lt;/em&gt;, en el que podrás realizar contenido multijugador, en especial mazmorras, con ayuda de personajes no jugables. En el parche 6.1, estará disponible el contenido de &lt;em&gt;A Realm Reborn&lt;/em&gt; (parche 2.0).&lt;/p&gt;
 
@@ -200,7 +250,7 @@ Pronto publicaremos un artículo con información más detallada sobre la nueva 
   &lt;li&gt;Varios productos de merchandising de &lt;em&gt;The Primals&lt;/em&gt; exclusivos para &lt;em&gt;Japón&lt;/em&gt;: disponibles del 1 al 21 de abril.&lt;/li&gt;
   &lt;li&gt;Libro de arte &lt;em&gt;The Art of resurrection - Among the Stars&lt;/em&gt;: primer libro de arte de &lt;em&gt;Endwalker&lt;/em&gt;, que saldrá a la venta el 13 de septiembre. Su precio es de 34,99 € y viene con un minion de la nave &lt;em&gt;Ragnarok&lt;/em&gt;.&lt;/li&gt;
   &lt;li&gt;Auriculares inmersivos &lt;em&gt;Panasonic SoundSlayer FINAL FANTASY® XIV Online Edition&lt;/em&gt;: reserva disponible para &lt;em&gt;España&lt;/em&gt;; se lanzarán a principios de abril.&lt;/li&gt;
-  &lt;li&gt;Tareas de mantenimiento y lectura de las notas de parche: el &lt;strong&gt;11 de abril a las 13:00&lt;/strong&gt; (hora peninsular), &lt;em&gt;Yoshida&lt;/em&gt; leerá las notas de parche. El &lt;strong&gt;mantenimiento&lt;/strong&gt; previo al lanzamiento del parche** durará 24 horas**.&lt;/li&gt;
+  &lt;li&gt;Tareas de mantenimiento y lectura de las notas de parche: el &lt;strong&gt;11 de abril a las 13:00&lt;/strong&gt; (hora peninsular), &lt;em&gt;Yoshida&lt;/em&gt; leerá las notas de parche. El &lt;strong&gt;mantenimiento&lt;/strong&gt; previo al lanzamiento del parche &lt;strong&gt;durará 24 horas&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
