@@ -5,14 +5,14 @@ author: cecile
 categories: [ noticias ]
 tags: [noticias, carta del productor]
 image: assets/images/articles/noticias/community-commendations/portada.jpg
-description: "El equipo oficial de Comunidad de FFXIV introduce Elogios de la Comunidad"
+description: "Elogios de la Comunidad por el equipo oficial de Comunidad de FFXIV "
 featured: false
 hidden: false
 ---
 
-El equipo oficial de Comunidad de FFXIV introduce **Elogios de la Comunidad** (*Community Commendations*), un sistema en el que los creadores de contenido pueden compartir sus creaciones con el resto de la comunidad, y donde además pueden llegar a ser compartidos en los canales oficiales del juego. 
+El equipo oficial de Comunidad de FFXIV tiene un sistema llamado **Elogios de la Comunidad** (*Community Commendations*),en el que los creadores de contenido pueden compartir sus creaciones con el resto de la comunidad, y donde además pueden llegar a ser compartidos en los canales oficiales del juego. 
 
-<sub><sup>Esto es una traducción de la información originalmente publica en los [foros oficiales](https://forum.square-enix.com/ffxiv/threads/396677){:target="_blank"}.</sup></sub>
+<sub><sup>Esto es una traducción de la información originalmente publicada en los [foros oficiales](https://forum.square-enix.com/ffxiv/threads/396677){:target="_blank"}.</sup></sub>
 
 ### Presentado Elogios de la Comunidad
 
