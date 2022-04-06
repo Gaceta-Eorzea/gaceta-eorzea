@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Compra de parcelas en Empyreum y el sistema de sorteos"
+title:  "Compra de parcelas en Empyreum y sistema de sorteos"
 author: kayda
 categories: [ noticias ]
 tags: [noticias, housing]
@@ -59,7 +59,7 @@ Cuando finalice la fase de resultados, empezará un nuevo ciclo. Puedes confirma
 Podrás inscribirse en un solo sorteo por ciclo. Para ello, deberás cumplir los siguientes requisitos:
 - Si eres particular:
     - Tener como mínimo una clase a nivel 50.
-    - Tener el rango de segundo teniente (second lieutenant) o un rango superior en cualquiera de las *Grand Companies*.
+    - Tener el rango de segundo teniente (*second lieutenant*) o un rango superior en cualquiera de las *Grand Companies*.
 - Si representas a una *Free Company*:
     - Tener autorización para comprar y renunciar a parcelas.
     - Llevar al menos 30 días en la FC (*).<br/><sub><sup><i>*Este es un nuevo requisito introducido en el parche 6.1 para preservar la integridad del sistema de sorteos.</i></sup></sub>
