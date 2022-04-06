@@ -5,9 +5,252 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Apr 2022 09:19:46 +0100</pubDate>
-    <lastBuildDate>Wed, 06 Apr 2022 09:19:46 +0100</lastBuildDate>
+    <pubDate>Wed, 06 Apr 2022 17:16:46 +0100</pubDate>
+    <lastBuildDate>Wed, 06 Apr 2022 17:16:46 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Compra de parcelas en Empyreum y el sistema de sorteos</title>
+        <description>&lt;p&gt;Con la llegada del parche 6.1, se podrán comprar parcelas en Empyreum, la zona residencial de Ishgard. Además, se van a implementar cambios en los métodos de compra, como el sistema de sorteos, que afectarán a todas las zonas residenciales.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-empyreum&quot;&gt;1. Empyreum&lt;/h3&gt;
+
+&lt;p&gt;Esta nueva zona residencial contará con 48 wards (24 principales y 24 subdivisiones), cuyo diseño complementa a la arquitectura de la ciudad.&lt;br /&gt;
+Para acceder a Empyreum, debes completar la misión secundaria “&lt;em&gt;Ascending to Empyreum&lt;/em&gt;”.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/ishgard-housing/imagen-2.jpg&quot; alt=&quot;imagen Empyreum&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;2-métodos-de-compra-y-disponibilidad-de-las-parcelas&quot;&gt;2. Métodos de compra y disponibilidad de las parcelas&lt;/h3&gt;
+
+&lt;p&gt;Existen dos formas de adquirir una parcela dependiendo del ward en el que se ubique: siguiendo el método de venta al primer comprador o a través de sorteo. Sin embargo, en el lanzamiento del parche 6.1, todas las parcelas estarán sujetas al sistema de sorteos. Por otra parte, cada parcela estará disponible solo para Free Companies o para particulares.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/ishgard-housing/imagen-3.jpg&quot; alt=&quot;imagen Empyreum&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Los métodos de compra y/o disponibilidad de las parcelas podrían variar entre Mundos en el futuro.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-retirada-del-sistema-de-reducción-de-precio&quot;&gt;3. Retirada del sistema de reducción de precio&lt;/h3&gt;
+
+&lt;p&gt;Anteriormente, el precio de una determinada parcela disminuía conforme pasaba el tiempo, aunque con la llegada del parche 6.1, todas las parcelas mantendrán su precio inicial.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-sistema-de-sorteos&quot;&gt;4. Sistema de sorteos&lt;/h3&gt;
+
+&lt;p&gt;Los jugadores que quieran comprar una parcela mediante sorteo deberán inscribirse durante un determinado período de tiempo. De entre todos los participantes, se elegirá un ganador al azar que podrá completar la compra de la parcela.&lt;/p&gt;
+
+&lt;h4 id=&quot;41-cronograma&quot;&gt;4.1 Cronograma&lt;/h4&gt;
+
+&lt;p&gt;Cada ciclo de sorteos dura 9 días (en tiempo real) y se divide en dos fases:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/ishgard-housing/imagen-4.jpg&quot; alt=&quot;imagen Empyreum&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Los ciclos de sorteos podrían ser más cortos en algunos casos, por ejemplo, si se realizan tareas de mantenimiento.&lt;/p&gt;
+
+&lt;p&gt;Cuando finalice la fase de resultados, empezará un nuevo ciclo. Puedes confirmar el estado de los sorteos en el menú de Housing o en el cartel de la parcela en cuestión.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/ishgard-housing/imagen-5.jpg&quot; alt=&quot;imagen Empyreum&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;42-requisitos&quot;&gt;4.2 Requisitos&lt;/h4&gt;
+
+&lt;p&gt;Podrás inscribirse en un solo sorteo por ciclo. Para ello, deberás cumplir los siguientes requisitos:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Si eres particular:
+    &lt;ul&gt;
+      &lt;li&gt;Tener como mínimo una clase a nivel 50.&lt;/li&gt;
+      &lt;li&gt;Tener el rango de segundo teniente (second lieutenant) o un rango superior en cualquiera de las Grand Companies.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Si representas a una &lt;em&gt;Free Company&lt;/em&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;Tener autorización para comprar y renunciar a parcelas.&lt;/li&gt;
+      &lt;li&gt;Llevar al menos 30 días en la FC (*).&lt;br /&gt;&lt;sub&gt;&lt;sup&gt;&lt;i&gt;*Este es un nuevo requisito introducido en el parche 6.1 para preservar la integridad del sistema de sorteos.&lt;/i&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/li&gt;
+      &lt;li&gt;La FC debe ser de rango 6 o superior y contar con al menos 4 miembros.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Debes cumplir con todos estos requisitos tanto en el momento de la inscripción como a la hora de finalizar la compra.&lt;/p&gt;
+
+&lt;h4 id=&quot;43-cómo-participar-en-el-sorteo&quot;&gt;4.3 Cómo participar en el sorteo&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Accede al cartel que hay en la entrada de la parcela en cuestión.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/ishgard-housing/imagen-6.jpg&quot; alt=&quot;imagen Empyreum&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Comprueba la información y elige la opción “&lt;em&gt;Enter Lottery&lt;/em&gt;”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/ishgard-housing/imagen-7.jpg&quot; alt=&quot;imagen Empyreum&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Acepta los términos y condiciones y deposita el importe total de la parcela para completar el proceso. Una vez hecha la inscripción, no se podrá cancelar.&lt;/li&gt;
+  &lt;li&gt;Los detalles de la inscripción aparecerán en pantalla. También se podrán ver en el menú de Housing. Estos detalles solo estarán disponibles cuando estés en tu Mundo principal.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/ishgard-housing/imagen-8.jpg&quot; alt=&quot;imagen Empyreum&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/ishgard-housing/imagen-9.jpg&quot; alt=&quot;imagen Empyreum&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;44-resultados&quot;&gt;4.4 Resultados&lt;/h4&gt;
+
+&lt;p&gt;Durante esta fase, se pueden confirmar los resultados del sorteo accediendo al cartel de la parcela.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/ishgard-housing/imagen-10.jpg&quot; alt=&quot;imagen Empyreum&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;441-en-caso-de-ganar&quot;&gt;4.4.1 En caso de ganar&lt;/h4&gt;
+
+&lt;p&gt;La persona ganadora podrá completar la compra accediendo al cartel de la parcela. Si se trata de una mudanza, se reembolsará alrededor de un 15 % del importe de la parcela anterior. El importe reembolsado no podrá ser superior al precio de la parcela nueva.&lt;/p&gt;
+
+&lt;p&gt;En el pasado, el precio de las parcelas estaba sujeto al sistema de reducción de precio y los jugadores que se mudaban recibían un reembolso del 30 % del valor mínimo de su antigua parcela. Sin embargo, a partir del parche 6.1, se va a retirar este sistema y las 
+parcelas mantendrán su precio inicial. Por esta razón, se ha establecido que el reembolso en caso de mudanza será de “aproximadamente el 15 % del importe de la parcela anterior”, pero a pesar de esta reformulación, el importe recibido será el mismo que en el pasado.&lt;/p&gt;
+
+&lt;p&gt;Si quieres saber más sobre las mudanzas, habla con los encargados (resident caretakers) de cualquier zona residencial.
+Podrás completar la compra de la parcela en cualquier momento durante la fase de resultados, pero en caso de no hacerlo, perderás el derecho a reclamarla y tendrás que pagar una tasa de cancelación, que supondrá el 50 % del importe de la inscripción.&lt;/p&gt;
+
+&lt;h5 id=&quot;442-en-caso-de-perder&quot;&gt;4.4.2 En caso de perder&lt;/h5&gt;
+
+&lt;p&gt;Todas aquellas personas que no hayan ganado el sorteo recibirán el 100 % del importe de la inscripción. Tras finalizar la fase de resultados, tendrás un plazo de 90 días para reclamar el reembolso accediendo al cartel de la parcela por la que hayas optado. En caso de no hacerlo, perderás la totalidad del importe de la inscripción.&lt;/p&gt;
+
+&lt;p&gt;Solo podrás confirmar los resultados y reclamar el reembolso de la inscripción en tu Mundo principal.&lt;/p&gt;
+
+&lt;h4 id=&quot;45-parcelas-desalojadas&quot;&gt;4.5 Parcelas desalojadas&lt;/h4&gt;
+
+&lt;p&gt;Las parcelas que queden vacías durante un ciclo de sorteos no estarán disponibles para su compra hasta el siguiente ciclo.&lt;/p&gt;
+
+&lt;h4 id=&quot;46-cambio-de-mundo-principal&quot;&gt;4.6 Cambio de Mundo principal&lt;/h4&gt;
+
+&lt;p&gt;Las inscripciones solo serán válidas en el Mundo donde se hayan realizado. En consecuencia, una vez hecho el cambio de Mundo principal, no se podrán confirmar los resultados ni aceptar reembolsos en el Mundo anterior. Además, si la transferencia tiene lugar durante un ciclo de sorteos, deberás esperar al siguiente ciclo para poder participar.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-preguntas-frecuentes&quot;&gt;5. Preguntas frecuentes&lt;/h3&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;¿Puedo inscribirme al sorteo de parcelas para Free Companies y para particulares a la vez durante un mismo ciclo de sorteos?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    No, solo se podrá hacer una inscripción por personaje.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;Nuestra FC tiene al menos cuatro miembros ahora mismo, pero solo tres llevan en ella más de 30 días. ¿Podemos participar en el sorteo de parcelas para &lt;i&gt;Free Companies&lt;/i&gt;?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    Solo aquellos miembros que lleven más de 30 días podrán hacer la inscripción. El resto de miembros podrán participar en los sorteos cuando hayan cumplido el requisito.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;Nuestra FC solo tiene tres miembros ahora mismo. Si alguien más se une y llegamos a cuatro, ¿podremos participar en el sorteo de parcelas para &lt;i&gt;Free Companies&lt;/i&gt;?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    Sí, pero solo podrán hacer la inscripción aquellos miembros que lleven más de 30 días en la FC.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;¿El requisito de llevar al menos 30 días en la FC afecta también al líder?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    Sí.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;¿Hay que tener algún rango de &lt;i&gt;Grand Company&lt;/i&gt; en concreto para inscribirse en el sorteo de parcelas para Free Companies?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    No
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;¿Qué ocurre si varios miembros de la FC se inscriben al sorteo de distintas parcelas y más de uno gana?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    Tendréis que elegir una de las parcelas y completar la compra. Para el resto de parcelas, se considerará que no las habéis reclamado a tiempo y tendréis que pagar una tasa de cancelación, que supondrá el 50 % del importe de la inscripción.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;¿Qué pasa si varios miembros de la FC se inscriben en el sorteo de la misma parcela y uno de ellos gana?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    Cada miembro tendrá su propio número de inscripción y solo aquel que resulte ganador podrá completar la compra. El resto de miembros recibirán un reembolso del 100 % del importe de la inscripción.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;Solo se puede hacer una inscripción por personaje dentro de un ciclo de sorteos, ¿pero hay algún límite de inscripciones por cuenta?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    La norma que estipula que los jugadores solo pueden tener una parcela particular y otra de FC por cada Mundo y por cada cuenta no cambia. En consecuencia, no podrás participar en el sorteo de parcelas para Free Companies en un determinado Mundo si ya tienes otro personaje en la misma cuenta con una parcela de este tipo. Lo mismo ocurre en el caso de parcelas particulares.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+     &lt;b&gt;¿Qué ocurre si ya tengo una parcela y quiero mudarme?&lt;/b&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    Tendrás que inscribirte en el sorteo de la parcela a la que te quieras mudar. En caso de ganar, elige la opción de mudanza a la hora de finalizar la compra para hacer la transferencia.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 06 Apr 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/ishgard-housing/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/ishgard-housing/</guid>
+        
+        <category>noticias</category>
+        
+        <category>housing</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Evento: Hatching-tide (Pascua)</title>
@@ -557,47 +800,6 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
         
         
         <category>ocular</category>
-        
-      </item>
-    
-      <item>
-        <title>Concurso: Festival de Primavera</title>
-        <description>&lt;p&gt;Este &lt;strong&gt;27 de Marzo a las 18:00h&lt;/strong&gt; la comunidad de &lt;a href=&quot;https://twitter.com/FFXIVESP_&quot; target=&quot;_blank&quot;&gt;FFXIVESP&lt;/a&gt; organiza su primer concurso de glamour y pasarela libre para todo el que quiera participar, con maravillosos premios por parte de &lt;a href=&quot;https://www.etsy.com/es/shop/MagitekWorks?ref=simple-shop-header-name&amp;amp;listing_id=1151567348&quot; target=&quot;_blank&quot;&gt;Magitek Works&lt;/a&gt; e &lt;a href=&quot;https://www.etsy.com/es/shop/Identik3D?ref=simple-shop-header-name&amp;amp;listing_id=742071843&quot; target=&quot;_blank&quot;&gt;Identik3D&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/comunidad/festival-primavera/premios.jpg&quot; alt=&quot;Premios&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    El evento será en el escenario de &lt;b&gt;Ul’dah&lt;/b&gt; preparado para el Little Ladies Day en el servidor &lt;b&gt;Ragnarok&lt;/b&gt;:&lt;br /&gt;
-    &lt;img src=&quot;/assets/images/articles/comunidad/festival-primavera/mapa.jpg&quot; alt=&quot;mapa&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Además podréis disfrutar todos de él y votar en en canal de Twitch de 🍎&lt;a href=&quot;https://www.twitch.tv/aebon&quot; target=&quot;_blank&quot;&gt;Aebon&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;¡Con voto especial para todos los CC de la comunidad que quieran entrar a comentar y participar!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Habrá diferentes premios y categorías para todos los gustos, y un desfile libre de glamour al terminar.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/comunidad/festival-primavera/categorias.jpg&quot; alt=&quot;Categorias&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;¡Os esperamos!&lt;/b&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/images/articles/comunidad/festival-primavera/grupo.png&quot; alt=&quot;Grupo&quot; /&gt;
-&lt;/p&gt;
-</description>
-        <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/festival-primavera/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/festival-primavera/</guid>
-        
-        <category>evento</category>
-        
-        <category>comunidad</category>
-        
-        
-        <category>comunidad</category>
         
       </item>
     
