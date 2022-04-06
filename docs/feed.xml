@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Apr 2022 17:16:46 +0100</pubDate>
-    <lastBuildDate>Wed, 06 Apr 2022 17:16:46 +0100</lastBuildDate>
+    <pubDate>Wed, 06 Apr 2022 17:32:55 +0100</pubDate>
+    <lastBuildDate>Wed, 06 Apr 2022 17:32:55 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -15,7 +15,7 @@
 
 &lt;h3 id=&quot;1-empyreum&quot;&gt;1. Empyreum&lt;/h3&gt;
 
-&lt;p&gt;Esta nueva zona residencial contará con 48 wards (24 principales y 24 subdivisiones), cuyo diseño complementa a la arquitectura de la ciudad.&lt;br /&gt;
+&lt;p&gt;Esta nueva zona residencial contará con 48 &lt;em&gt;wards&lt;/em&gt; (24 principales y 24 subdivisiones), cuyo diseño complementa a la arquitectura de la ciudad.&lt;br /&gt;
 Para acceder a Empyreum, debes completar la misión secundaria “&lt;em&gt;Ascending to Empyreum&lt;/em&gt;”.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
@@ -24,7 +24,7 @@ Para acceder a Empyreum, debes completar la misión secundaria “&lt;em&gt;Asce
 
 &lt;h3 id=&quot;2-métodos-de-compra-y-disponibilidad-de-las-parcelas&quot;&gt;2. Métodos de compra y disponibilidad de las parcelas&lt;/h3&gt;
 
-&lt;p&gt;Existen dos formas de adquirir una parcela dependiendo del ward en el que se ubique: siguiendo el método de venta al primer comprador o a través de sorteo. Sin embargo, en el lanzamiento del parche 6.1, todas las parcelas estarán sujetas al sistema de sorteos. Por otra parte, cada parcela estará disponible solo para Free Companies o para particulares.&lt;/p&gt;
+&lt;p&gt;Existen dos formas de adquirir una parcela dependiendo del ward en el que se ubique: siguiendo el método de venta al primer comprador o a través de sorteo. Sin embargo, en el lanzamiento del parche 6.1, todas las parcelas estarán sujetas al sistema de sorteos. Por otra parte, cada parcela estará disponible solo para &lt;em&gt;Free Companies&lt;/em&gt; o para particulares.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
     &lt;img src=&quot;/assets/images/articles/noticias/ishgard-housing/imagen-3.jpg&quot; alt=&quot;imagen Empyreum&quot; /&gt;
@@ -50,7 +50,7 @@ Para acceder a Empyreum, debes completar la misión secundaria “&lt;em&gt;Asce
 
 &lt;p&gt;Los ciclos de sorteos podrían ser más cortos en algunos casos, por ejemplo, si se realizan tareas de mantenimiento.&lt;/p&gt;
 
-&lt;p&gt;Cuando finalice la fase de resultados, empezará un nuevo ciclo. Puedes confirmar el estado de los sorteos en el menú de Housing o en el cartel de la parcela en cuestión.&lt;/p&gt;
+&lt;p&gt;Cuando finalice la fase de resultados, empezará un nuevo ciclo. Puedes confirmar el estado de los sorteos en el menú de &lt;em&gt;Housing&lt;/em&gt; o en el cartel de la parcela en cuestión.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
     &lt;img src=&quot;/assets/images/articles/noticias/ishgard-housing/imagen-5.jpg&quot; alt=&quot;imagen Empyreum&quot; /&gt;
@@ -63,7 +63,7 @@ Para acceder a Empyreum, debes completar la misión secundaria “&lt;em&gt;Asce
   &lt;li&gt;Si eres particular:
     &lt;ul&gt;
       &lt;li&gt;Tener como mínimo una clase a nivel 50.&lt;/li&gt;
-      &lt;li&gt;Tener el rango de segundo teniente (second lieutenant) o un rango superior en cualquiera de las Grand Companies.&lt;/li&gt;
+      &lt;li&gt;Tener el rango de segundo teniente (second lieutenant) o un rango superior en cualquiera de las &lt;em&gt;Grand Companies&lt;/em&gt;.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Si representas a una &lt;em&gt;Free Company&lt;/em&gt;:
@@ -97,7 +97,7 @@ Para acceder a Empyreum, debes completar la misión secundaria “&lt;em&gt;Asce
 
 &lt;ul&gt;
   &lt;li&gt;Acepta los términos y condiciones y deposita el importe total de la parcela para completar el proceso. Una vez hecha la inscripción, no se podrá cancelar.&lt;/li&gt;
-  &lt;li&gt;Los detalles de la inscripción aparecerán en pantalla. También se podrán ver en el menú de Housing. Estos detalles solo estarán disponibles cuando estés en tu Mundo principal.&lt;/li&gt;
+  &lt;li&gt;Los detalles de la inscripción aparecerán en pantalla. También se podrán ver en el menú de &lt;em&gt;Housing&lt;/em&gt;. Estos detalles solo estarán disponibles cuando estés en tu Mundo principal.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p align=&quot;center&quot;&gt;
@@ -123,7 +123,7 @@ Para acceder a Empyreum, debes completar la misión secundaria “&lt;em&gt;Asce
 &lt;p&gt;En el pasado, el precio de las parcelas estaba sujeto al sistema de reducción de precio y los jugadores que se mudaban recibían un reembolso del 30 % del valor mínimo de su antigua parcela. Sin embargo, a partir del parche 6.1, se va a retirar este sistema y las 
 parcelas mantendrán su precio inicial. Por esta razón, se ha establecido que el reembolso en caso de mudanza será de “aproximadamente el 15 % del importe de la parcela anterior”, pero a pesar de esta reformulación, el importe recibido será el mismo que en el pasado.&lt;/p&gt;
 
-&lt;p&gt;Si quieres saber más sobre las mudanzas, habla con los encargados (resident caretakers) de cualquier zona residencial.
+&lt;p&gt;Si quieres saber más sobre las mudanzas, habla con los encargados (&lt;em&gt;resident caretakers&lt;/em&gt;) de cualquier zona residencial.
 Podrás completar la compra de la parcela en cualquier momento durante la fase de resultados, pero en caso de no hacerlo, perderás el derecho a reclamarla y tendrás que pagar una tasa de cancelación, que supondrá el 50 % del importe de la inscripción.&lt;/p&gt;
 
 &lt;h5 id=&quot;442-en-caso-de-perder&quot;&gt;4.4.2 En caso de perder&lt;/h5&gt;
@@ -144,7 +144,7 @@ Podrás completar la compra de la parcela en cualquier momento durante la fase d
 
 &lt;div class=&quot;card&quot;&gt;
   &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;¿Puedo inscribirme al sorteo de parcelas para Free Companies y para particulares a la vez durante un mismo ciclo de sorteos?&lt;/b&gt;
+     &lt;b&gt;¿Puedo inscribirme al sorteo de parcelas para &lt;i&gt;Free Companies&lt;/i&gt; y para particulares a la vez durante un mismo ciclo de sorteos?&lt;/b&gt;
   &lt;/div&gt;
   &lt;div class=&quot;card-body&quot;&gt;
     No, solo se podrá hacer una inscripción por personaje.
@@ -188,7 +188,7 @@ Podrás completar la compra de la parcela en cualquier momento durante la fase d
 
 &lt;div class=&quot;card&quot;&gt;
   &lt;div class=&quot;card-header&quot;&gt;
-     &lt;b&gt;¿Hay que tener algún rango de &lt;i&gt;Grand Company&lt;/i&gt; en concreto para inscribirse en el sorteo de parcelas para Free Companies?&lt;/b&gt;
+     &lt;b&gt;¿Hay que tener algún rango de &lt;i&gt;Grand Company&lt;/i&gt; en concreto para inscribirse en el sorteo de parcelas para &lt;i&gt;Free Companies&lt;/i&gt;?&lt;/b&gt;
   &lt;/div&gt;
   &lt;div class=&quot;card-body&quot;&gt;
     No
@@ -224,7 +224,7 @@ Podrás completar la compra de la parcela en cualquier momento durante la fase d
      &lt;b&gt;Solo se puede hacer una inscripción por personaje dentro de un ciclo de sorteos, ¿pero hay algún límite de inscripciones por cuenta?&lt;/b&gt;
   &lt;/div&gt;
   &lt;div class=&quot;card-body&quot;&gt;
-    La norma que estipula que los jugadores solo pueden tener una parcela particular y otra de FC por cada Mundo y por cada cuenta no cambia. En consecuencia, no podrás participar en el sorteo de parcelas para Free Companies en un determinado Mundo si ya tienes otro personaje en la misma cuenta con una parcela de este tipo. Lo mismo ocurre en el caso de parcelas particulares.
+    La norma que estipula que los jugadores solo pueden tener una parcela particular y otra de FC por cada Mundo y por cada cuenta no cambia. En consecuencia, no podrás participar en el sorteo de parcelas para &lt;i&gt;Free Companies&lt;/i&gt; en un determinado Mundo si ya tienes otro personaje en la misma cuenta con una parcela de este tipo. Lo mismo ocurre en el caso de parcelas particulares.
   &lt;/div&gt;
 &lt;/div&gt;
 

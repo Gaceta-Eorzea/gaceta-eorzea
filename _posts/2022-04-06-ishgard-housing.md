@@ -13,7 +13,7 @@ Con la llegada del parche 6.1, se podrán comprar parcelas en Empyreum, la zona 
  
 ### 1. Empyreum
 
-Esta nueva zona residencial contará con 48 wards (24 principales y 24 subdivisiones), cuyo diseño complementa a la arquitectura de la ciudad.<br/>
+Esta nueva zona residencial contará con 48 *wards* (24 principales y 24 subdivisiones), cuyo diseño complementa a la arquitectura de la ciudad.<br/>
 Para acceder a Empyreum, debes completar la misión secundaria “*Ascending to Empyreum*”.
 
 <p align="center">
@@ -22,7 +22,7 @@ Para acceder a Empyreum, debes completar la misión secundaria “*Ascending to 
 
 ### 2. Métodos de compra y disponibilidad de las parcelas
 
-Existen dos formas de adquirir una parcela dependiendo del ward en el que se ubique: siguiendo el método de venta al primer comprador o a través de sorteo. Sin embargo, en el lanzamiento del parche 6.1, todas las parcelas estarán sujetas al sistema de sorteos. Por otra parte, cada parcela estará disponible solo para Free Companies o para particulares.
+Existen dos formas de adquirir una parcela dependiendo del ward en el que se ubique: siguiendo el método de venta al primer comprador o a través de sorteo. Sin embargo, en el lanzamiento del parche 6.1, todas las parcelas estarán sujetas al sistema de sorteos. Por otra parte, cada parcela estará disponible solo para *Free Companies* o para particulares.
 
 <p align="center">
     <img src="{{ site.baseurl }}/assets/images/articles/noticias/ishgard-housing/imagen-3.jpg" alt="imagen Empyreum"/>
@@ -48,7 +48,7 @@ Cada ciclo de sorteos dura 9 días (en tiempo real) y se divide en dos fases:
 
 Los ciclos de sorteos podrían ser más cortos en algunos casos, por ejemplo, si se realizan tareas de mantenimiento.
 
-Cuando finalice la fase de resultados, empezará un nuevo ciclo. Puedes confirmar el estado de los sorteos en el menú de Housing o en el cartel de la parcela en cuestión.
+Cuando finalice la fase de resultados, empezará un nuevo ciclo. Puedes confirmar el estado de los sorteos en el menú de *Housing* o en el cartel de la parcela en cuestión.
 
 <p align="center">
     <img src="{{ site.baseurl }}/assets/images/articles/noticias/ishgard-housing/imagen-5.jpg" alt="imagen Empyreum"/>
@@ -59,7 +59,7 @@ Cuando finalice la fase de resultados, empezará un nuevo ciclo. Puedes confirma
 Podrás inscribirse en un solo sorteo por ciclo. Para ello, deberás cumplir los siguientes requisitos:
 - Si eres particular:
     - Tener como mínimo una clase a nivel 50.
-    - Tener el rango de segundo teniente (second lieutenant) o un rango superior en cualquiera de las Grand Companies.
+    - Tener el rango de segundo teniente (second lieutenant) o un rango superior en cualquiera de las *Grand Companies*.
 - Si representas a una *Free Company*:
     - Tener autorización para comprar y renunciar a parcelas.
     - Llevar al menos 30 días en la FC (*).<br/><sub><sup><i>*Este es un nuevo requisito introducido en el parche 6.1 para preservar la integridad del sistema de sorteos.</i></sup></sub>
@@ -82,7 +82,7 @@ Debes cumplir con todos estos requisitos tanto en el momento de la inscripción 
 </p>
 
 - Acepta los términos y condiciones y deposita el importe total de la parcela para completar el proceso. Una vez hecha la inscripción, no se podrá cancelar.
-- Los detalles de la inscripción aparecerán en pantalla. También se podrán ver en el menú de Housing. Estos detalles solo estarán disponibles cuando estés en tu Mundo principal.
+- Los detalles de la inscripción aparecerán en pantalla. También se podrán ver en el menú de *Housing*. Estos detalles solo estarán disponibles cuando estés en tu Mundo principal.
 
 <p align="center">
     <img src="{{ site.baseurl }}/assets/images/articles/noticias/ishgard-housing/imagen-8.jpg" alt="imagen Empyreum"/>
@@ -108,7 +108,7 @@ La persona ganadora podrá completar la compra accediendo al cartel de la parcel
 En el pasado, el precio de las parcelas estaba sujeto al sistema de reducción de precio y los jugadores que se mudaban recibían un reembolso del 30 % del valor mínimo de su antigua parcela. Sin embargo, a partir del parche 6.1, se va a retirar este sistema y las 
 parcelas mantendrán su precio inicial. Por esta razón, se ha establecido que el reembolso en caso de mudanza será de “aproximadamente el 15 % del importe de la parcela anterior”, pero a pesar de esta reformulación, el importe recibido será el mismo que en el pasado.
 
-Si quieres saber más sobre las mudanzas, habla con los encargados (resident caretakers) de cualquier zona residencial.
+Si quieres saber más sobre las mudanzas, habla con los encargados (*resident caretakers*) de cualquier zona residencial.
 Podrás completar la compra de la parcela en cualquier momento durante la fase de resultados, pero en caso de no hacerlo, perderás el derecho a reclamarla y tendrás que pagar una tasa de cancelación, que supondrá el 50 % del importe de la inscripción.
 
 ##### 4.4.2 En caso de perder
@@ -129,7 +129,7 @@ Las inscripciones solo serán válidas en el Mundo donde se hayan realizado. En 
 
 <div class="card">
   <div class="card-header">
-     <b>¿Puedo inscribirme al sorteo de parcelas para Free Companies y para particulares a la vez durante un mismo ciclo de sorteos?</b>
+     <b>¿Puedo inscribirme al sorteo de parcelas para <i>Free Companies</i> y para particulares a la vez durante un mismo ciclo de sorteos?</b>
   </div>
   <div class="card-body">
     No, solo se podrá hacer una inscripción por personaje.
@@ -174,7 +174,7 @@ Las inscripciones solo serán válidas en el Mundo donde se hayan realizado. En 
 
 <div class="card">
   <div class="card-header">
-     <b>¿Hay que tener algún rango de <i>Grand Company</i> en concreto para inscribirse en el sorteo de parcelas para Free Companies?</b>
+     <b>¿Hay que tener algún rango de <i>Grand Company</i> en concreto para inscribirse en el sorteo de parcelas para <i>Free Companies</i>?</b>
   </div>
   <div class="card-body">
     No
@@ -210,7 +210,7 @@ Las inscripciones solo serán válidas en el Mundo donde se hayan realizado. En 
      <b>Solo se puede hacer una inscripción por personaje dentro de un ciclo de sorteos, ¿pero hay algún límite de inscripciones por cuenta?</b>
   </div>
   <div class="card-body">
-    La norma que estipula que los jugadores solo pueden tener una parcela particular y otra de FC por cada Mundo y por cada cuenta no cambia. En consecuencia, no podrás participar en el sorteo de parcelas para Free Companies en un determinado Mundo si ya tienes otro personaje en la misma cuenta con una parcela de este tipo. Lo mismo ocurre en el caso de parcelas particulares.
+    La norma que estipula que los jugadores solo pueden tener una parcela particular y otra de FC por cada Mundo y por cada cuenta no cambia. En consecuencia, no podrás participar en el sorteo de parcelas para <i>Free Companies</i> en un determinado Mundo si ya tienes otro personaje en la misma cuenta con una parcela de este tipo. Lo mismo ocurre en el caso de parcelas particulares.
   </div>
 </div>
 
