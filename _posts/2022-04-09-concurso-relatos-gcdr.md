@@ -2,12 +2,12 @@
 layout: post
 title: "Concurso de Relatos de la GCdR"
 author: cecile
-categories: [  ]
+categories: [ comunidad ]
 tags: [evento, comunidad]
 image: assets/images/articles/comunidad/concurso-relatos-gcdr/portada.jpg
 description: "Concurso de Relatos de la Gran Compañía de Roleplay"
 featured: false
-hidden: true
+hidden: false
 ---
 
 La Gran Compañía de Roleplay organiza un concurso de Relatos, aquí os dejamos el mensaje que nos han compartido para que tengáis todos los detalles. 
