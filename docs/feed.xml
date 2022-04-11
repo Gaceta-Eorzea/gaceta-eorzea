@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Apr 2022 10:21:09 +0100</pubDate>
-    <lastBuildDate>Mon, 11 Apr 2022 10:21:09 +0100</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2022 15:10:51 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2022 15:10:51 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -117,6 +117,241 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
         
         
         <category>fandub</category>
+        
+      </item>
+    
+      <item>
+        <title>Cambios de Job del parche 6.1</title>
+        <description>&lt;p&gt;Han actualizado las &lt;strong&gt;notas del parche 6.1&lt;/strong&gt;, en este artículo os la &lt;strong&gt;resumimos&lt;/strong&gt; los cambios de &lt;strong&gt;job&lt;/strong&gt;, aunque como siempre os recomendamos ver las &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/2811826dd341d0bc5b0a0e804bc253b189f43f0e&quot; target=&quot;_blank&quot;&gt;notas completas&lt;/a&gt; por si queréis tener toda la información.&lt;/p&gt;
+
+&lt;h4 id=&quot;acciones-de-healer&quot;&gt;Acciones de Healer&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Lucid Dreaming&lt;/strong&gt;: Se adquiere ahora a &lt;strong&gt;nivel 14&lt;/strong&gt; en lugar de 24.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;paladin&quot;&gt;Paladin&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Iron Will&lt;/strong&gt;: Tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; ha sido reducido de &lt;strong&gt;10 a 3&lt;/strong&gt; segundos&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Clemency&lt;/strong&gt;: Ahora &lt;strong&gt;no interrumpirá&lt;/strong&gt; los &lt;strong&gt;combos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Holy Spirit&lt;/strong&gt;: Ahora &lt;strong&gt;no interrumpirá&lt;/strong&gt; los &lt;strong&gt;combos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Requiescat&lt;/strong&gt;: Se añade un nuevo &lt;strong&gt;buffo&lt;/strong&gt; “&lt;strong&gt;Blade of Faith Ready&lt;/strong&gt;”, cuando &lt;strong&gt;termina Requiescat&lt;/strong&gt; con duración de &lt;strong&gt;30 segundos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blade of Faith&lt;/strong&gt;: &lt;strong&gt;No&lt;/strong&gt; va a ser un &lt;strong&gt;combo&lt;/strong&gt; de &lt;strong&gt;Confiteor&lt;/strong&gt;. Sino que lo podremos &lt;strong&gt;usar con&lt;/strong&gt; el buffo de &lt;strong&gt;Blade of Faith Ready&lt;/strong&gt;. Ademas tendrá un &lt;strong&gt;cura de potencia 400&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Holy Circle&lt;/strong&gt;: Ahora &lt;strong&gt;no interrumpirá&lt;/strong&gt; los &lt;strong&gt;combos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Confiteor&lt;/strong&gt;: Se le añade un &lt;strong&gt;efecto de restaurar vida&lt;/strong&gt; con una &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;400&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blade of Truth&lt;/strong&gt;: Se le añade un &lt;strong&gt;efecto de restaurar vida&lt;/strong&gt; con una &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;400&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blade of Valor&lt;/strong&gt;: Se le añade un &lt;strong&gt;efecto de restaurar vida&lt;/strong&gt; con una &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;400&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Divine Magic Mastery II&lt;/strong&gt;: Este &lt;strong&gt;trait&lt;/strong&gt; añade un &lt;strong&gt;efecto de curación&lt;/strong&gt; a &lt;strong&gt;Confiteor&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;warrior&quot;&gt;Warrior&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Defiance&lt;/strong&gt;: Tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; ha sido reducido de &lt;strong&gt;10 a 3&lt;/strong&gt; segundos&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Overpower&lt;/strong&gt;: Pasa a ser un &lt;strong&gt;area alrededor&lt;/strong&gt; tuya &lt;strong&gt;en lugar de cono&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Inner Release&lt;/strong&gt;: Las &lt;strong&gt;cargas solo&lt;/strong&gt; se aplican ahora a &lt;strong&gt;Fell Cleave&lt;/strong&gt; y &lt;strong&gt;Decimate&lt;/strong&gt;. Se le añadido el efecto de &lt;strong&gt;otorgar Inner Strength&lt;/strong&gt;, &lt;strong&gt;a la pasiva&lt;/strong&gt; que te hacia &lt;strong&gt;inmune a Stun, Sleep, Bind, Heavy y la mayoría de empujones&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dark-knight&quot;&gt;Dark Knight&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Grit&lt;/strong&gt;: Tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; ha sido reducido de &lt;strong&gt;10 a 3&lt;/strong&gt; segundos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Flood of Darkness&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;130 a 100&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blood Weapon&lt;/strong&gt;: Ahora &lt;strong&gt;dará 5 cargas&lt;/strong&gt; y el tiempo ha sido incrementado de &lt;strong&gt;10 a 15 segundos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Stalwart Soul&lt;/strong&gt;: Se adquiere ahora a &lt;strong&gt;nivel 40&lt;/strong&gt; en lugar de 72.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Living Dead&lt;/strong&gt;: Se le &lt;strong&gt;añade un efecto de restauración de vida&lt;/strong&gt; por &lt;strong&gt;cada ataque&lt;/strong&gt; con una &lt;strong&gt;cura de potencia 1900&lt;/strong&gt;. Si la &lt;strong&gt;sanación total supera tu vida maxima&lt;/strong&gt; antes que termine el efecto, el efecto &lt;strong&gt;pasara a Undead Rebirth&lt;/strong&gt;, con la &lt;strong&gt;duración&lt;/strong&gt; del tiempo &lt;strong&gt;restante del Walking Dead&lt;/strong&gt;, este efecto &lt;strong&gt;no garantiza&lt;/strong&gt; que la mayoría de &lt;strong&gt;ataques&lt;/strong&gt; solo te dejen a &lt;strong&gt;1 de vida&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;gunbreaker&quot;&gt;Gunbreaker&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Royal Guard&lt;/strong&gt;: Tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; ha sido reducido de &lt;strong&gt;10 a 3&lt;/strong&gt; segundos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;monk&quot;&gt;Monk&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Perfect Balance&lt;/strong&gt;: Ya &lt;strong&gt;no se podrá&lt;/strong&gt; usar con el efecto de &lt;strong&gt;ningún Chakra de bestia&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dragoon&quot;&gt;Dragoon&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Jump&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;. La accion se convierte en “&lt;strong&gt;Mirage Dive&lt;/strong&gt;” cuando tengamos el &lt;strong&gt;efecto Mirage Dive Ready&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;High Jump&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;. La accion se convierte en “&lt;strong&gt;Mirage Dive&lt;/strong&gt;” cuando tengamos el &lt;strong&gt;efecto Mirage Dive Ready&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Elusive Jump&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Spineshatter Dive&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dragonfire Dive&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ninja&quot;&gt;Ninja&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hide&lt;/strong&gt;: Ahora al &lt;strong&gt;usarlo elimina&lt;/strong&gt; el efecto de &lt;strong&gt;Doton&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mug&lt;/strong&gt;: Se le añade un &lt;strong&gt;efecto&lt;/strong&gt; que inflige un &lt;strong&gt;debuffo que incrementa el daño de todos los jugadores&lt;/strong&gt; en el objetivo de un &lt;strong&gt;5% durante 30 segundos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Trick Attack&lt;/strong&gt;: Se cambia el debuffo que infligía por un &lt;strong&gt;debuffo que incrementa tu daño&lt;/strong&gt; en el objetivo un &lt;strong&gt;10%&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aeolian Edge&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;360 a 380&lt;/strong&gt;. Golpeando por &lt;strong&gt;detras&lt;/strong&gt; incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;420 a 440&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shukuchi&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Doton&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;70 a 80&lt;/strong&gt;. &lt;strong&gt;Duración&lt;/strong&gt; reducida &lt;strong&gt;de 24 a 18&lt;/strong&gt; segundos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hakke Mujinsatsu&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;120 a 130&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Armor Crush&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;340 a 360&lt;/strong&gt;. Golpeando por &lt;strong&gt;el lado&lt;/strong&gt; incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;400 a 420&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bhavacakra&lt;/strong&gt;: La &lt;strong&gt;potencia&lt;/strong&gt; ha sido reducida de &lt;strong&gt;400 a 350&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phantom Kamaitachi&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;550 a 600&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Melee Mastery&lt;/strong&gt;: Se adquiere ahora a &lt;strong&gt;nivel 74&lt;/strong&gt; en lugar de 84.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Melee Mastery II&lt;/strong&gt;: &lt;strong&gt;Nuevo trait&lt;/strong&gt; de &lt;strong&gt;nivel 84&lt;/strong&gt; que &lt;strong&gt;incrementa la potencia&lt;/strong&gt; de &lt;strong&gt;Spinning Edge a 220&lt;/strong&gt; y &lt;strong&gt;Gust Slash a 160&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;samurai&quot;&gt;Samurai&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hissatsu: Kaiten&lt;/strong&gt;: Ha sido eliminado.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Way of the Samurai&lt;/strong&gt;: &lt;strong&gt;Nuevo trait&lt;/strong&gt; de &lt;strong&gt;nivel 66&lt;/strong&gt; que &lt;strong&gt;incrementa la potencia&lt;/strong&gt; de &lt;strong&gt;Hakaze a 200&lt;/strong&gt; , &lt;strong&gt;Jinpu a 120&lt;/strong&gt; y &lt;strong&gt;Shifu a 120&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Way of the SamuraiII&lt;/strong&gt;: &lt;strong&gt;Nuevo trait&lt;/strong&gt; de &lt;strong&gt;nivel 84&lt;/strong&gt; que &lt;strong&gt;incrementa la potencia&lt;/strong&gt; de &lt;strong&gt;Gekko a 120&lt;/strong&gt; , &lt;strong&gt;Kasha a 120&lt;/strong&gt; y &lt;strong&gt;Yukikaze a 120&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hakaze&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;180 a 200&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Jinpu&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;100 a 120&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Third Eye&lt;/strong&gt;: El &lt;strong&gt;efecto&lt;/strong&gt; ha sido incrementado de &lt;strong&gt;3 a 4 segundos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shifu&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;100 a 120&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gekko&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;100 a 120&lt;/strong&gt;. Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;320 a 330&lt;/strong&gt;. Golpeando por &lt;strong&gt;el lado&lt;/strong&gt; incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;370 a 380&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Higanbana&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; del &lt;strong&gt;efecto en el tiempo&lt;/strong&gt; de &lt;strong&gt;30 a 45&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mangetsu&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;110 a 120&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kasha&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;10 a 120&lt;/strong&gt;. Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;320 a 330&lt;/strong&gt;. Golpeando por &lt;strong&gt;el lado&lt;/strong&gt; incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;370 a 380&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tenka Goken&lt;/strong&gt;:  Pasa a ser un &lt;strong&gt;area alrededor&lt;/strong&gt; tuya &lt;strong&gt;en lugar de cono&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Oka&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;110 a 120&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Yukikaze&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;110 a 120&lt;/strong&gt;. Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;280 a 300&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Midare Setsugekka&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;660 a 600&lt;/strong&gt;, pero se garantiza que &lt;strong&gt;siempre sea golpe critico&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Meikyo Shisui&lt;/strong&gt;: Los ataques del tipo weaponskills de los &lt;strong&gt;Ranged no contaran en este efecto&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hissatsu: Shinten&lt;/strong&gt;: Se adquiere ahora a &lt;strong&gt;nivel 52&lt;/strong&gt; en lugar de 62. Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;270 a 250&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hissatsu: Yaten&lt;/strong&gt;: La &lt;strong&gt;activación&lt;/strong&gt; se ajustado para que sea &lt;strong&gt;igual que en otras acciones de retroceso&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hissatsu: Kyuten&lt;/strong&gt;: Se adquiere ahora a &lt;strong&gt;nivel 62&lt;/strong&gt; en lugar de 64.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kaeshi: Higanbana&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;300 a 200&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kaeshi: Goken&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;420 a 280&lt;/strong&gt;. Pasa a ser un &lt;strong&gt;area alrededor&lt;/strong&gt; tuya &lt;strong&gt;en lugar de cono&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kaeshi: Setsugekka&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;990 a 600&lt;/strong&gt;, pero se garantiza que &lt;strong&gt;siempre sea golpe critico&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shoha&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;580 a 500&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ogi Namikiri&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;900 a 800&lt;/strong&gt;, pero se garantiza que &lt;strong&gt;siempre sea golpe critico&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kaeshi: Namikiri&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;1350 a 800&lt;/strong&gt;, pero se garantiza que &lt;strong&gt;siempre sea golpe critico&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;reaper&quot;&gt;Reaper&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hell’s Ingress&lt;/strong&gt;: La duracion de &lt;strong&gt;Enhanced Harpe&lt;/strong&gt; incrementada de 15 a 20 segundos. Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hell’s Egress&lt;/strong&gt;: La duracion de &lt;strong&gt;Enhanced Harpe&lt;/strong&gt; incrementada de 15 a 20 segundos. Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Regress&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;bard&quot;&gt;Bard&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Repelling Shot&lt;/strong&gt;: El &lt;strong&gt;alcance&lt;/strong&gt; ha sido incrementado de &lt;strong&gt;5 a 15 yalms&lt;/strong&gt;. La &lt;strong&gt;activación&lt;/strong&gt; se ajustado para que sea &lt;strong&gt;igual que en otras acciones de retroceso&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Battle Voice&lt;/strong&gt;: &lt;strong&gt;No requerirá&lt;/strong&gt; el tener el efecto de &lt;strong&gt;Mage’s Ballad, Army’s Paeon, o the Wanderer’s Minuet&lt;/strong&gt; para poderse usar.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The Wanderer’s Minuet&lt;/strong&gt;: Se &lt;strong&gt;convertirá&lt;/strong&gt; a &lt;strong&gt;Pitch Perfect&lt;/strong&gt; al ser &lt;strong&gt;usada&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;machinist&quot;&gt;Machinist&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Heat Blast&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;170 a 180&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Wildfire&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt;  de incremento sobre acciones de &lt;strong&gt;150 a 200&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Drill&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;570 a 580&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Air Anchor&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;570 a 580&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pile Bunker&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;650 a 680&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Crowned Collider&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;750 a 780&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Chain Saw&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;570 a 580&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dancer&quot;&gt;Dancer&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Standard Step&lt;/strong&gt;: Pasa a ser &lt;strong&gt;weaponskill&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Emboite&lt;/strong&gt;: Pasa a ser &lt;strong&gt;weaponskill&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Entrechat&lt;/strong&gt;: Pasa a ser &lt;strong&gt;weaponskill&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Jete&lt;/strong&gt;: Pasa a ser &lt;strong&gt;weaponskill&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pirouette&lt;/strong&gt;: Pasa a ser &lt;strong&gt;weaponskill&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cascade&lt;/strong&gt;: Cambia el efecto del &lt;strong&gt;50%&lt;/strong&gt; de otorgar &lt;strong&gt;Flourishing Symmetry&lt;/strong&gt; a &lt;strong&gt;otorgar Silken Symmetry&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fountain&lt;/strong&gt;: Cambia el efecto del &lt;strong&gt;50%&lt;/strong&gt; de otorgar &lt;strong&gt;Flourishing Flow&lt;/strong&gt; a &lt;strong&gt;otorgar Silken Flow&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Windmill&lt;/strong&gt;: Cambia el efecto del &lt;strong&gt;50%&lt;/strong&gt; de otorgar &lt;strong&gt;Flourishing Symmetry&lt;/strong&gt; a &lt;strong&gt;otorgar Silken Symmetry&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reverse Cascade&lt;/strong&gt;: Cambia el &lt;strong&gt;requerimiento&lt;/strong&gt; de tener que el efecto de &lt;strong&gt;Silken Symmetry&lt;/strong&gt; a tener &lt;strong&gt;Silken Symmetry o Flourishing Symmetry&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bladeshower&lt;/strong&gt;: Cambia el efecto del &lt;strong&gt;50%&lt;/strong&gt; de otorgar &lt;strong&gt;Flourishing Flow&lt;/strong&gt; a &lt;strong&gt;otorgar Silken Flow&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rising Windmill&lt;/strong&gt;: Cambia el &lt;strong&gt;requerimiento&lt;/strong&gt; de tener que el efecto de &lt;strong&gt;Silken Symmetry&lt;/strong&gt; a tener &lt;strong&gt;Silken Symmetry o Flourishing Symmetry&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fountainfall&lt;/strong&gt;: Cambia el &lt;strong&gt;requerimiento&lt;/strong&gt; de tener que el efecto de &lt;strong&gt;Silken Flow&lt;/strong&gt; a tener &lt;strong&gt;Silken Flow o Flourishing Flow&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bloodshower&lt;/strong&gt;: Cambia el &lt;strong&gt;requerimiento&lt;/strong&gt; de tener que el efecto de &lt;strong&gt;Silken Flow&lt;/strong&gt; a tener &lt;strong&gt;Silken Flow o Flourishing Flow&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Technical Step&lt;/strong&gt;: Pasa a ser &lt;strong&gt;weaponskill&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Se podra seguir obteniendo &lt;strong&gt;Flourishing Symmetry o Flourishing Flow&lt;/strong&gt; usando la acción &lt;strong&gt;Flourish&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;summoner&quot;&gt;Summoner&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ruby Ruin&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 300 a 340.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ruby Outburst&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 140 a 160.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ruby Ruin II&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 340 a 380.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ruby Ruin III&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 360 a 410.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ruby Rite&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 450 a 510.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Searing Light&lt;/strong&gt;: La acción pasa a ser e&lt;strong&gt;jecutada por el invocador en lugar&lt;/strong&gt; de su &lt;strong&gt;Carbuncle&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ruby Disaster&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 170 a 190.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ruby Catastrophe&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 180 a 210.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ruin Mastery IV&lt;/strong&gt;: Este trait ha sido modificado para incrementar la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;Ruby Rite&lt;/strong&gt; de &lt;strong&gt;450 a 510&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;red-mage&quot;&gt;Red Mage&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Displacement&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;white-mage&quot;&gt;White Mage&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Stone&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 200&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aero&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 200&lt;/strong&gt;. El debufo se ha aumentado de &lt;strong&gt;18 a 30 segundos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Stone II&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 200&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Regen&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;500 a 400&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cure III&lt;/strong&gt;: El &lt;strong&gt;rango&lt;/strong&gt; del efecto en area ha sido aumentado de &lt;strong&gt;6 a 10 yalms&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aero II&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 200&lt;/strong&gt;. El debufo se ha aumentado de &lt;strong&gt;18 a 30 segundos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Asylum&lt;/strong&gt;: El &lt;strong&gt;rango&lt;/strong&gt; del efecto en area ha sido aumentado de &lt;strong&gt;8 a 10 yalms&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Secret of the Lily&lt;/strong&gt;: El &lt;strong&gt;tiempo&lt;/strong&gt; en el que tardar en &lt;strong&gt;generar una Lily&lt;/strong&gt; ha sido reducido de &lt;strong&gt;30 a 20 segundos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Stone III&lt;/strong&gt;: La &lt;strong&gt;potencia&lt;/strong&gt; ha sido reducida de &lt;strong&gt;230 a 220&lt;/strong&gt;. Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 300&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Stone IV&lt;/strong&gt;: La &lt;strong&gt;potencia&lt;/strong&gt; ha sido reducida de &lt;strong&gt;270 a 226&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Afflatus Misery&lt;/strong&gt;: La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;900 a 1,240&lt;/strong&gt;. La &lt;strong&gt;reducción&lt;/strong&gt; en potencia &lt;strong&gt;después&lt;/strong&gt; del &lt;strong&gt;primer enemigo&lt;/strong&gt; ha sido reducida del &lt;strong&gt;25% al 50%&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Liturgy of the Bell&lt;/strong&gt;: El &lt;strong&gt;efecto&lt;/strong&gt; adicional de las &lt;strong&gt;cargas restantes ademas&lt;/strong&gt; de ser cuando &lt;strong&gt;termine el efecto&lt;/strong&gt; podrán &lt;strong&gt;ejecutarse&lt;/strong&gt; inmediatamente &lt;strong&gt;tras usar la acción una segunda vez&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;scholar&quot;&gt;Scholar&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ruin&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 300&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Embrace&lt;/strong&gt;: Se ha &lt;strong&gt;incrementado el rango&lt;/strong&gt; en el cual este efecto puede activarse.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bio&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 200&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bio II&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 200&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sacred Soil&lt;/strong&gt;: El &lt;strong&gt;rango&lt;/strong&gt; del efecto en area ha sido aumentado de &lt;strong&gt;8 a 10 yalms&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Expedient&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;duración&lt;/strong&gt; del efecto de &lt;strong&gt;20 a 10 segundos&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;astrologian&quot;&gt;Astrologian&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Combust&lt;/strong&gt;: Se ha aumentado la duración de 18 a 30 segundos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sage&quot;&gt;Sage&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Dosis&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 300&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Soteria&lt;/strong&gt;: Ahora otorgar &lt;strong&gt;4 cargas&lt;/strong&gt; del efecto, la &lt;strong&gt;potencia&lt;/strong&gt; del efecto ha sido incrementada de &lt;strong&gt;50% a 70%&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Addersting&lt;/strong&gt;: Al &lt;strong&gt;entrar&lt;/strong&gt; en una &lt;strong&gt;instancia&lt;/strong&gt;, &lt;strong&gt;o reiniciarse el encuentro&lt;/strong&gt; se ganara el &lt;strong&gt;máximo numero de cargas de Addersting&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 11 Apr 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/cambios-job-6_1/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/cambios-job-6_1/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
         
       </item>
     
@@ -1200,199 +1435,6 @@ Durante la temporada de clasificación, podrás alcanzar un puesto dentro de una
         <pubDate>Sun, 03 Apr 2022 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/live-letter-70-2/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/live-letter-70-2/</guid>
-        
-        <category>noticias</category>
-        
-        <category>carta del productor</category>
-        
-        
-        <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Resumen Live Letter #70: Detalles sobre el parche 6.1 (General)</title>
-        <description>&lt;p&gt;El 1 de abril de 2022 se retransmitió la Live Letter número 70, centrada en una segunda ronda de novedades que vendrán con el parche 6.1. En este artículo se muestra un resumen de los principales puntos de la presentación.&lt;/p&gt;
-
-&lt;h4 id=&quot;tráiler-y-fecha-de-lanzamiento-del-parche-61&quot;&gt;Tráiler y fecha de lanzamiento del parche 6.1&lt;/h4&gt;
-&lt;p&gt;La &lt;em&gt;Live Letter&lt;/em&gt; arrancó con un tráiler del esperado parche 6.1: &lt;em&gt;Newfound Adventure&lt;/em&gt;, que podéis ver a continuación. Después, se anunció la fecha de lanzamiento del parche: &lt;strong&gt;12 de abril de 2022&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/KSjTEMCVIx8?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;nuevas-misiones-de-historia-y-misiones-secundarias&quot;&gt;Nuevas misiones de historia y misiones secundarias&lt;/h4&gt;
-
-&lt;p&gt;El parche abre un nuevo capítulo en la historia del juego tras finalizar la saga de &lt;em&gt;Zodiark&lt;/em&gt; y &lt;em&gt;Hydaelyn&lt;/em&gt;, por lo que habrá nuevas misiones de la historia principal.
-Además, se añadirá una gran cantidad de líneas argumentales y misiones secundarias que, en la mayoría de casos, saldrán después del lanzamiento del parche:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Tataru’s Grand Endeavour&lt;/em&gt;, una nueva línea argumental secundaria (parche 6.1x).&lt;/li&gt;
-  &lt;li&gt;Misiones de rol adicionales: se podrán desbloquear al completar todas las series de misiones de rol de &lt;em&gt;Endwalker&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Nuevo arco de la historia de &lt;em&gt;Hildibrand&lt;/em&gt; (parche 6.15).&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Omega: Beyond the Rift&lt;/em&gt;, una serie de misiones que amplían la historia de &lt;em&gt;Omega&lt;/em&gt; (parche 6.1x).&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Custom Deliveries: Ameliance Leveilleur&lt;/em&gt; (parche 6.15).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;sistema-de-ayudantes-duty-support-system&quot;&gt;Sistema de ayudantes (&lt;em&gt;Duty Support System&lt;/em&gt;)&lt;/h4&gt;
-
-&lt;p&gt;Se trata de un nuevo sistema similar al sistema &lt;em&gt;Trust&lt;/em&gt;, en el que podrás realizar contenido multijugador, en especial mazmorras, con ayuda de personajes no jugables. En el parche 6.1, estará disponible el contenido de &lt;em&gt;A Realm Reborn&lt;/em&gt; (parche 2.0).&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-2.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&quot;mejoras-en-a-realm-reborn-parche-20&quot;&gt;Mejoras en &lt;em&gt;A Realm Reborn&lt;/em&gt; (parche 2.0)&lt;/h4&gt;
-
-&lt;p&gt;Con la llegada del parche 6.1, se van a implementar cambios para mejorar la experiencia de juego en &lt;em&gt;A Realm Reborn&lt;/em&gt;. Van a renovar algunas de las mazmorras para que sean más amenas.También van a hacer cambios en contenidos del final del parche 2.0, como &lt;em&gt;Cape Westwind&lt;/em&gt; y &lt;em&gt;Praetorium&lt;/em&gt;, y en la ruleta de historia principal (&lt;em&gt;Main Scenario Roulette&lt;/em&gt;), tal y como anunciaron en una &lt;em&gt;Live Letter&lt;/em&gt; anterior.&lt;/p&gt;
-
-&lt;h4 id=&quot;nuevo-contenido-multijugador&quot;&gt;Nuevo contenido multijugador&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Mazmorra relacionada con la historia principal.&lt;/li&gt;
-  &lt;li&gt;Enfrentamiento en versión Extreme: &lt;em&gt;The Minstrel’s Ballad: Endsinger’s Aria&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Enfrentamiento en versión Unreal: &lt;em&gt;Ultima Weapon&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Ultimate: &lt;em&gt;Dragonsong’s Reprise&lt;/em&gt; (parche 6.11, dos semanas después del lanzamiento del parche 6.1).&lt;/li&gt;
-  &lt;li&gt;Alliance Raid: &lt;em&gt;Myths of the Realm: Aglaia&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-3.jpg&quot; alt=&quot;Myths of the Realm: Aglaia&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&quot;nuevos-peinados-para-los-hrothgar&quot;&gt;Nuevos peinados para los Hrothgar&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-4.jpg&quot; alt=&quot;Nuevos peinados para los Hrothgar&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&quot;ajustes-de-las-profesiones&quot;&gt;Ajustes de las profesiones&lt;/h4&gt;
-
-&lt;p&gt;En esta parte de la Live Letter han hablado de algunos de los cambios que sufrirán ciertas profesiones en el próximo parche, pero estos no son todos los ajustes que van a realizar.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;MCH&lt;/strong&gt;: la potencia de algunas habilidades, como Heat &lt;em&gt;Blast&lt;/em&gt;, &lt;em&gt;Wildfire&lt;/em&gt; y &lt;em&gt;Drill&lt;/em&gt;, será mayor.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;SAM&lt;/strong&gt;: las habilidades &lt;em&gt;Midare Setsugekka&lt;/em&gt;, &lt;em&gt;Kaeshi&lt;/em&gt;: &lt;em&gt;Setsugekka&lt;/em&gt;, &lt;em&gt;Ogi Namikiri&lt;/em&gt; y &lt;em&gt;Kaeshi&lt;/em&gt;: &lt;em&gt;Namikiri&lt;/em&gt; asestarán golpes críticos. Además, se eliminará &lt;em&gt;Hissatsu Kaiten&lt;/em&gt; y se ajustará la potencia de ciertas habilidades.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;NIN&lt;/strong&gt;: la habilidad &lt;em&gt;Mug&lt;/em&gt; otorgará a los enemigos un estado que hará que reciban más daño por parte de ataques de todo el equipo. Además, &lt;em&gt;Trick Attack&lt;/em&gt; pasará a aumentar el daño causado solo por el usuario y se ajustará la potencia de ciertas habilidades.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;DRK&lt;/strong&gt;: al usar &lt;em&gt;Living Dead&lt;/em&gt;, se recuperará vida de forma considerable a medida que se dan golpes.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;DRG&lt;/strong&gt; y RDM: el tiempo de bloqueo de ciertas animaciones será menor.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;SMN&lt;/strong&gt;: en vez de &lt;em&gt;Carbuncle&lt;/em&gt;, será el personaje jugable quien lance la habilidad &lt;em&gt;Searing Light&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;WHM&lt;/strong&gt;: el radio de alcance de &lt;em&gt;Cure III&lt;/em&gt; y &lt;em&gt;Asylum&lt;/em&gt; será mayor. Además, se podrá poner fin a &lt;em&gt;Liturgy of the Bell&lt;/em&gt; cuando se quiera, lo que permitirá recuperar una cierta cantidad de vida en función del número de stacks que queden.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;SCH&lt;/strong&gt;: el radio de alcance de &lt;em&gt;Sacred Soil&lt;/em&gt; será mayor. Además, el estado que confiere la habilidad &lt;em&gt;Expedient&lt;/em&gt; pasará a durar 10 segundos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;nueva-tribu-arkasodara&quot;&gt;Nueva tribu: Arkasodara&lt;/h4&gt;
-
-&lt;p&gt;Esta tribu de Thavnair proporciona una nueva serie de misiones diarias que se podrán hacer con profesiones centradas en el combate. Se ha mostrado la zona en la que se encuentra, además de su montura.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-5.jpg&quot; alt=&quot;Nueva tribu: Arkasodara&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&quot;otras-monturas&quot;&gt;Otras Monturas&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-6.jpg&quot; alt=&quot;Otras Monturas&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&quot;minions&quot;&gt;Minions&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-7.jpg&quot; alt=&quot;Minions&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&quot;accesorios&quot;&gt;Accesorios&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-8.jpg&quot; alt=&quot;Accesorios&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&quot;probador-de-atuendos-de-pago-dream-fitting&quot;&gt;Probador de atuendos de pago (&lt;em&gt;Dream Fitting&lt;/em&gt;)&lt;/h4&gt;
-
-&lt;p&gt;Esta función estará disponible en las posadas y se accede a ella a través de la cama.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-9.jpg&quot; alt=&quot;Probador de atuendos de pago (Dream Fitting)&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&quot;nueva-zona-residencial-en-ishgard-empyreum&quot;&gt;Nueva zona residencial en Ishgard: Empyreum&lt;/h4&gt;
-
-&lt;p&gt;A partir del lanzamiento del parche 6.1 se podrán comprar parcelas en Empyreum. Todas ellas estarán sujetas al nuevo sistema de compra por sorteo y habrá una mayor cantidad de parcelas reservadas a Free Companies.&lt;br /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-Pronto publicaremos un artículo con información más detallada sobre la nueva zona residencial y el sistema de sorteos.
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;equipamiento-de-la-alliance-raid-y-glamour&quot;&gt;Equipamiento de la Alliance Raid y glamour&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-10.jpg&quot; alt=&quot;Equipamiento de la Alliance Raid y glamour&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&quot;nuevo-diseño-de-casa-y-muebles&quot;&gt;Nuevo diseño de casa y muebles&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-11.jpg&quot; alt=&quot;Nuevo diseño de casa y muebles&quot; /&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-12.jpg&quot; alt=&quot;Nuevo diseño de casa y muebles&quot; /&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-13.jpg&quot; alt=&quot;Nuevo diseño de casa y muebles&quot; /&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-14.jpg&quot; alt=&quot;Nuevo diseño de casa y muebles&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h5 id=&quot;fichas-de-jugador-adventurer-plates&quot;&gt;Fichas de jugador (&lt;em&gt;Adventurer Plates&lt;/em&gt;)&lt;/h5&gt;
-
-&lt;p&gt;Con el parche 6.1, sacarán una versión beta de esta nueva función. Las fichas de jugador constan de tres partes: un diseño de ficha, información sobre el jugador y un retrato. Todas ellas se personalizan por separado.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/imagen-15.jpg&quot; alt=&quot;Adventurer Plate&quot; /&gt;
-&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Diseño de ficha: personaliza cada elemento a tu gusto o usa uno de los diversos diseños que vienen por defecto.&lt;/li&gt;
-  &lt;li&gt;Información sobre el jugador: puedes concretar tus horarios de juego, profesión favorita, título y tipo de contenido que te interesa.&lt;/li&gt;
-  &lt;li&gt;Retrato: elige la pose, expresión y fondo, así como los ajustes de luz y de la cámara. Podrás guardar más de un retrato e intercambiarlos cuando quieras.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Cabe destacar también que se podrá elegir quién puede ver tu ficha: todo el mundo, solo amigos o nadie.&lt;/p&gt;
-
-&lt;h4 id=&quot;novedades-del-modo-jugador-contra-jugador&quot;&gt;Novedades del modo Jugador contra Jugador&lt;/h4&gt;
-
-&lt;p&gt;El modo Jugador contra Jugador recibirá un montón de cambios y contenido nuevo:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Reforma de las habilidades y Limit Breaks para cada profesión.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Crystalline Conflic&lt;/em&gt;t, un nuevo tipo de encuentro por equipos.&lt;/li&gt;
-  &lt;li&gt;Sistema de recompensas.&lt;/li&gt;
-  &lt;li&gt;Sistema de clasificación.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;En el siguiente &lt;a href=&quot;/live-letter-70-2/&quot; target=&quot;_blank&quot;&gt;enlace&lt;/a&gt; podrás encontrar un artículo con información más detallada de estas novedades.&lt;/p&gt;
-
-&lt;h4 id=&quot;otras-novedades&quot;&gt;Otras novedades&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;The Unending Codex: glosario de términos y lore.&lt;/li&gt;
-  &lt;li&gt;Viaje entre Data Centers (parche 6.18).&lt;/li&gt;
-  &lt;li&gt;Incorporación del parche 6.0 y parte del parche 6.1 a New Game +.&lt;/li&gt;
-  &lt;li&gt;Glamour: más ranuras para guardar conjuntos y posibilidad de cambiarte de conjunto en cualquier santuario.&lt;/li&gt;
-  &lt;li&gt;Nuevas animaciones de inactividad para los parasoles.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;anuncios&quot;&gt;Anuncios&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Vuelve el evento en colaboración con &lt;em&gt;GARO&lt;/em&gt;: además de las recompensas anteriores, se añadirán logros, títulos y atuendos para las profesiones que salieron en &lt;em&gt;Shadowbringers&lt;/em&gt; y &lt;em&gt;Endwalker&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Concierto de &lt;em&gt;The Primals&lt;/em&gt; en &lt;em&gt;Japón&lt;/em&gt;: se celebrará el 4 y 5 de junio de forma presencial, pero también se podrán comprar entradas para asistir de forma virtual.&lt;/li&gt;
-  &lt;li&gt;Miniálbum &lt;em&gt;THE PRIMALS - Beyond the Shadow&lt;/em&gt;: contiene cuatro temas de &lt;em&gt;Endwalker&lt;/em&gt; y se lanzará el 25 de mayo. Su precio es de 17,99 €.&lt;/li&gt;
-  &lt;li&gt;Varios productos de merchandising de &lt;em&gt;The Primals&lt;/em&gt; exclusivos para &lt;em&gt;Japón&lt;/em&gt;: disponibles del 1 al 21 de abril.&lt;/li&gt;
-  &lt;li&gt;Libro de arte &lt;em&gt;The Art of resurrection - Among the Stars&lt;/em&gt;: primer libro de arte de &lt;em&gt;Endwalker&lt;/em&gt;, que saldrá a la venta el 13 de septiembre. Su precio es de 34,99 € y viene con un minion de la nave &lt;em&gt;Ragnarok&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Auriculares inmersivos &lt;em&gt;Panasonic SoundSlayer FINAL FANTASY® XIV Online Edition&lt;/em&gt;: reserva disponible para &lt;em&gt;España&lt;/em&gt;; se lanzarán a principios de abril.&lt;/li&gt;
-  &lt;li&gt;Tareas de mantenimiento y lectura de las notas de parche: el &lt;strong&gt;11 de abril a las 13:00&lt;/strong&gt; (hora peninsular), Yoshida leerá las notas de parche. El &lt;strong&gt;mantenimiento&lt;/strong&gt; previo al lanzamiento del parche &lt;strong&gt;durará 24 horas&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sun, 03 Apr 2022 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/live-letter-70-1/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/live-letter-70-1/</guid>
         
         <category>noticias</category>
         
