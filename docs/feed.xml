@@ -5,9 +5,60 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Apr 2022 15:10:51 +0100</pubDate>
-    <lastBuildDate>Mon, 11 Apr 2022 15:10:51 +0100</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2022 09:02:47 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2022 09:02:47 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Evento: Colaboración con GARO</title>
+        <description>&lt;p&gt;Ya tenemos los &lt;strong&gt;detalles&lt;/strong&gt; de el próximo evento de &lt;strong&gt;Colaboración con GARO&lt;/strong&gt; el cual nos pide el participar en JCJ. Este evento nos dará un set de armaduras, armas y monturas inspirado en la serie Japonesa GARO, adamás también tendremos títulos relacionados.&lt;/p&gt;
+
+&lt;h4 id=&quot;obtener-el-equipo&quot;&gt;Obtener el equipo&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/garo-2022/garo1.jpg&quot; alt=&quot;garo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para obtener el equipo debemos usar Wolf Marks participando en contenido JcJ y canjearlas con &lt;strong&gt;disreputable priest&lt;/strong&gt; en &lt;strong&gt;Wolves’ Den Pier (X:5.0 Y:5.3)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/garo-2022/garo2.png&quot; alt=&quot;garo&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;títulos&quot;&gt;Títulos&lt;/h4&gt;
+
+&lt;p&gt;Para poder &lt;strong&gt;obtener&lt;/strong&gt; un título deberemos &lt;strong&gt;equiparnos&lt;/strong&gt; un &lt;strong&gt;set de armadura&lt;/strong&gt; (cabeza, cuerpo, manos, piernas y zapatos) y el &lt;strong&gt;arma de clase&lt;/strong&gt;, después tenemos que hablar con el &lt;strong&gt;disreputable priest&lt;/strong&gt; en &lt;strong&gt;Wolves’ Den Pier (X:5.0 Y:5.3)&lt;/strong&gt; para que nos de el título.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;*Nota:  samurai, red mages, gunbreakers, dancers, reapers, y sages no necesitaran el arma para obtener el título&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;monturas&quot;&gt;Monturas&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/garo-2022/garo3.jpg&quot; alt=&quot;garo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Las monturas podrán ser obtenidas con logros que implican el ganar partidas JcJ con el titulo equipado:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fame Fatale&lt;/strong&gt;: &lt;strong&gt;Ganar 30&lt;/strong&gt; partidas de &lt;strong&gt;Feast&lt;/strong&gt; o &lt;strong&gt;Crystaline Conflict&lt;/strong&gt; con el título equipado.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Frontline Fury&lt;/strong&gt;: &lt;strong&gt;Ganar 30&lt;/strong&gt; partidas de &lt;strong&gt;Frontline&lt;/strong&gt; o &lt;strong&gt;Ryval Wings&lt;/strong&gt; con el título equipado.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fame Fatale&lt;/strong&gt;: &lt;strong&gt;Ganar 60&lt;/strong&gt; partidas &lt;strong&gt;combinado&lt;/strong&gt; &lt;strong&gt;Frontline/Ryval Wings&lt;/strong&gt; o &lt;strong&gt;Feast/rystaline Conflict&lt;/strong&gt; con el título equipado.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;*Nota: estas recompensas no se podrán obtener cuando el evento de GARO haya finalizado&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;conjunto-alternativo-de-mgp&quot;&gt;Conjunto alternativo de MGP&lt;/h4&gt;
+
+&lt;p&gt;Existirá un &lt;strong&gt;conjunto alternativo&lt;/strong&gt; que se puede comprar &lt;strong&gt;por MGP&lt;/strong&gt; pero &lt;strong&gt;no puede ser teñido ni cuenta&lt;/strong&gt; para obtener el &lt;strong&gt;titulo&lt;/strong&gt;, lo podremos obtener hablando con &lt;strong&gt;Gold Saucer Attendant&lt;/strong&gt; en &lt;strong&gt;Gold Saucer (X:5.4 Y:6.6)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/garo-2022/garo4.png&quot; alt=&quot;garo&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/garo-2022/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/garo-2022/</guid>
+        
+        <category>evento</category>
+        
+        <category>noticias</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Historia Completa de Endwalker – Parte 6: Nivel 86</title>
@@ -1368,73 +1419,6 @@ Podrás completar la compra de la parcela en cualquier momento durante la fase d
         <pubDate>Mon, 04 Apr 2022 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/community-commendations/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/community-commendations/</guid>
-        
-        <category>noticias</category>
-        
-        <category>carta del productor</category>
-        
-        
-        <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Resumen Live Letter #70: Detalles sobre el parche 6.1 (JcJ)</title>
-        <description>&lt;p&gt;Durante la Live Letter del 1 de abril, han compartido una gran cantidad de información sobre los &lt;strong&gt;cambios y novedades&lt;/strong&gt; del modo &lt;strong&gt;Jugador contra Jugador&lt;/strong&gt; que introducirán a partir del parche 6.1.&lt;/p&gt;
-
-&lt;p&gt;Para empezar, van a &lt;strong&gt;reformar todas las habilidades&lt;/strong&gt; del modo Jugador contra Jugador y van a hacer &lt;strong&gt;Limit Breaks para cada profesión&lt;/strong&gt;. Además, se pondrá fin a &lt;strong&gt;&lt;em&gt;The Feast&lt;/em&gt;&lt;/strong&gt; y &lt;strong&gt;&lt;em&gt;Rival Wings&lt;/em&gt;&lt;/strong&gt; no estará disponible por un tiempo, ya que quieren hacerle cambios.&lt;/p&gt;
-
-&lt;p&gt;Una de las principales novedades será &lt;strong&gt;&lt;em&gt;Crystalline Conflict&lt;/em&gt;&lt;/strong&gt;, un tipo de encuentro por equipos (&lt;strong&gt;5 jugadores&lt;/strong&gt;, sin restricción de rol) que consiste en tomar el control de un cristal que se encuentra en el centro del campo de batalla y llevarlo hasta la meta, que está cerca de la base del equipo contrario.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-2.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Existirán tres tipos de partidas: &lt;strong&gt;amistosas&lt;/strong&gt;, &lt;strong&gt;clasificatorias&lt;/strong&gt; y &lt;strong&gt;personalizadas&lt;/strong&gt;. Los encuentros durarán como máximo 5 minutos, se podrá esprintar siempre que se quiera (excepto al usar otras acciones) y todas las profesiones tendrán su propia habilidad de cura.&lt;br /&gt;
-Al inicio de cada encuentro, se mostrarán los &lt;strong&gt;retratos&lt;/strong&gt; de las fichas de jugador de cada participante.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-3.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Otra gran novedad será el &lt;strong&gt;sistema de recompensas&lt;/strong&gt;. Con la llegada de cada parche se celebrará una nueva “&lt;strong&gt;serie&lt;/strong&gt;”. Si juegas a cualquier tipo de contenido del modo Jugador contra Jugador durante esta, ganarás experiencia de serie. Podrás subir de nivel en la serie gracias a la experiencia que ganes y obtendrás recompensas por cada nuevo nivel.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-4.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Entre los &lt;strong&gt;premios&lt;/strong&gt; hay equipamiento, emotes, elementos para personalizar las fichas de jugador y una &lt;strong&gt;nueva divisa&lt;/strong&gt;, los cristales trofeo (&lt;em&gt;Trophy Crystals&lt;/em&gt;), que se podrán usar para comprar ciertos artículos en Wolves’ Den. Al comienzo de una nueva serie, volverás al primer nivel y las recompensas serán diferentes, pero tus cristales trofeo se mantendrán. Si no has conseguido alguna de las recompensas especiales de la serie anterior, podrás usar cristales trofeo para comprarlas durante la serie actual, pero dejarán de estar disponibles a partir de la siguiente serie.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-5.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Además, se ha detallado cómo va a funcionar el &lt;strong&gt;sistema de clasificación&lt;/strong&gt; a partir del próximo parche. De momento, &lt;strong&gt;solo estará disponible en &lt;em&gt;Crystalline Conflict&lt;/em&gt;&lt;/strong&gt;.&lt;br /&gt;
-Durante la temporada de clasificación, podrás alcanzar un puesto dentro de una determinada &lt;strong&gt;división&lt;/strong&gt; (&lt;em&gt;tier&lt;/em&gt;) en función de la cantidad de partidas que hayas ganado. Al final de la temporada, recibirás &lt;strong&gt;recompensas&lt;/strong&gt; según tu división y puesto en la clasificación.&lt;/p&gt;
-
-&lt;p&gt;Las divisiones comprendidas entre Bronce y Diamante contarán con subcategorías a las que llamarán “&lt;strong&gt;&lt;em&gt;risers&lt;/em&gt;&lt;/strong&gt;”. Para progresar y pasar de división, habrá que &lt;strong&gt;escalar&lt;/strong&gt; por las &lt;strong&gt;subcategorías&lt;/strong&gt;. Por ejemplo, si eres Bronce 3, deberás subir hasta Bronce 1 para poder pasar a la división Plata y, cuando esto ocurra, empezarás en Plata 3.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-6.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Por cada victoria, recibirás una &lt;strong&gt;estrella&lt;/strong&gt; y deberás conseguir una cierta cantidad de estrellas para avanzar a la siguiente subcategoría. En caso de derrota, perderás una estrella. Si te quedas sin estrellas, bajarás de subcategoría, pero nunca podrás bajar de división.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-7.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Además, se va a añadir una &lt;strong&gt;nueva división&lt;/strong&gt;, más alta que Diamante: &lt;strong&gt;Cristal&lt;/strong&gt;. Para acceder a ella, deberás llegar a Diamante 1 y ganar una partida en posesión de tres estrellas. Tu puesto en esta división se determinará en función de tu &lt;strong&gt;crédito&lt;/strong&gt;, que dependerá de los resultados de las partidas.&lt;/p&gt;
-
-&lt;p&gt;Por último, se ha mostrado el &lt;strong&gt;cronograma&lt;/strong&gt; del parche 6.1. Durante este, se celebrará &lt;strong&gt;una serie del sistema de recompensas&lt;/strong&gt;, mientras que habrá &lt;strong&gt;dos temporadas de clasificación&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/live-letter/70/pvp/imagen-8.jpg&quot; alt=&quot;Sistema de ayudantes&quot; /&gt;
-&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Apr 2022 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/live-letter-70-2/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/live-letter-70-2/</guid>
         
         <category>noticias</category>
         
