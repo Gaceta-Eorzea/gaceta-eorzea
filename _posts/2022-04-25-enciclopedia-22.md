@@ -28,7 +28,7 @@ A medida que su ciudad-estado prosperaba, los Amdapori se centraron en fortifica
     <img src="{{ site.baseurl }}/assets/images/articles/lore/enciclopedia/22/Amdapor.jpg" alt="Amdapor"/>
 </p>
 
-Gran parte de lo que queda de la ciudad de Amdapor está siendo engullido lentamente por un manto cada vez más grueso de moho y podredumbre causado por un desequilibrio elemental que persiste tras la Séptima Calamidad Umbral. Aun así, los arqueólogos esperan que el deterioro no destruya los antiguos cimientos de piedra de la ciudad, hazañas arquitectónicas que ya han resistido más de un milenio y medio de ira de la naturaleza. 
+<sub><sup>*Gran parte de lo que queda de la ciudad de Amdapor está siendo engullido lentamente por un manto cada vez más grueso de moho y podredumbre causado por un desequilibrio elemental que persiste tras la Séptima Calamidad Umbral. Aun así, los arqueólogos esperan que el deterioro no destruya los antiguos cimientos de piedra de la ciudad, hazañas arquitectónicas que ya han resistido más de un milenio y medio de ira de la naturaleza.*</sup></sub>
 
 ### EL DESCUBRIMIENTO DE LA MAGIA BLANCA
 
