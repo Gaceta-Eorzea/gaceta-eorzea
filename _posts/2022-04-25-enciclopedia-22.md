@@ -30,6 +30,8 @@ A medida que su ciudad-estado prosperaba, los Amdapori se centraron en fortifica
 
 <sub><sup>*Gran parte de lo que queda de la ciudad de Amdapor está siendo engullido lentamente por un manto cada vez más grueso de moho y podredumbre causado por un desequilibrio elemental que persiste tras la Séptima Calamidad Umbral. Aun así, los arqueólogos esperan que el deterioro no destruya los antiguos cimientos de piedra de la ciudad, hazañas arquitectónicas que ya han resistido más de un milenio y medio de ira de la naturaleza.*</sup></sub>
 
+<br/>
+
 ### EL DESCUBRIMIENTO DE LA MAGIA BLANCA
 
 En un principio, los Amdapori utilizaron magias básicas para las defensas de su ciudad, aprovechando y ampliando los conocimientos primitivos de la creación de gólems para imbuir temporalmente de vida a las estatuas de piedra. Sin embargo, en el siglo IX, los magos de la antigua ciudad fueron testigos del uso de las artes destructivas por parte de Mhach para subyugar a las ciudades-estado vecinas. Recelosos de las ambiciones de sus vecinos, los Amdapori trataron de contrarrestar estas magias negras mejorando su hechicería ganada, tejiendo con la intención de purificar, proteger y curar, el arte de la magia blanca. 
