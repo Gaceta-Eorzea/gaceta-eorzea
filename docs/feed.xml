@@ -5,9 +5,191 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Apr 2022 18:50:41 +0100</pubDate>
-    <lastBuildDate>Mon, 25 Apr 2022 18:50:41 +0100</lastBuildDate>
+    <pubDate>Tue, 26 Apr 2022 08:37:35 +0100</pubDate>
+    <lastBuildDate>Tue, 26 Apr 2022 08:37:35 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Notas del parche 6.11</title>
+        <description>&lt;p&gt;Ya tenemos las &lt;strong&gt;notas del parche 6.11&lt;/strong&gt; disponible, en este artículo os la &lt;strong&gt;resumimos&lt;/strong&gt;, aunque como siempre os recomendamos ver las &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/f525c780b9abdb74c5b664f799dd16ff9de9c7b1&quot; target=&quot;_blank&quot;&gt;notas completas&lt;/a&gt; por si queréis tener toda la información.&lt;/p&gt;
+
+&lt;h3 id=&quot;ajuste-de-acciones&quot;&gt;Ajuste de acciones&lt;/h3&gt;
+
+&lt;h4 id=&quot;gunbreaker&quot;&gt;Gunbreaker&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gnashing Fang&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;360 a 380&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Savage Claw&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;440 a 460&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Wicked Talon&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;520 a 540&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Jugular Rip&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;180 a 200&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Abdomen Tear&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;220 a 240&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Eye Gouge&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;260 a 280&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dragoon&quot;&gt;Dragoon&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Jump&lt;/strong&gt;: Cuando &lt;strong&gt;Jump cambia a Mirage Dive&lt;/strong&gt; habrá un pequeño &lt;strong&gt;retardo en el control de entrada&lt;/strong&gt; para &lt;strong&gt;evitar&lt;/strong&gt; la &lt;strong&gt;ejecución no intencionada&lt;/strong&gt; de Mirage Dive.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;High Jump&lt;/strong&gt;: Cuando &lt;strong&gt;High Jump cambia a Mirage Dive&lt;/strong&gt; habrá un pequeño &lt;strong&gt;retardo en el control de entrada&lt;/strong&gt; para &lt;strong&gt;evitar&lt;/strong&gt; la &lt;strong&gt;ejecución no intencionada&lt;/strong&gt; de Mirage Dive.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;samurai&quot;&gt;Samurai&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Midare Setsugekka&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;600 a 640&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kaeshi: Setsugekka&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;600 a 640&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shoha&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;500 a 520&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;machinist&quot;&gt;Machinist&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Wildfire&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; de cada ataque aumenta de &lt;strong&gt;200 a 220&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dragonsongs-reprise-ultimate&quot;&gt;Dragonsong’s Reprise (Ultimate)&lt;/h4&gt;
+
+&lt;p&gt;Se añadido el encuentro &lt;strong&gt;Dragonsong’s Reprise (Ultimate)&lt;/strong&gt;, para &lt;strong&gt;desbloquearlo&lt;/strong&gt; deberemos haber &lt;strong&gt;completado Asphodelos: The Fourth Circle (Savage)&lt;/strong&gt;, tras lo cual deberemos &lt;strong&gt;hablar con el Wandering Minstrel&lt;/strong&gt; en &lt;strong&gt;Old Sharlayan (X:12.7 Y:14.2)&lt;/strong&gt; con un personaje de combate de nivel 90.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/parche6_11/thordan.jpg&quot; alt=&quot;Thordan&quot; /&gt;    
+&lt;/p&gt;
+
+&lt;p&gt;Cuando &lt;strong&gt;completes el dutty&lt;/strong&gt; cada jugador, de manera &lt;strong&gt;individual&lt;/strong&gt;, obtendrá &lt;strong&gt;una&lt;/strong&gt; única &lt;strong&gt;recompensa por semana&lt;/strong&gt;. Los &lt;strong&gt;jugadores&lt;/strong&gt; que &lt;strong&gt;aun no la recibieron esa semana&lt;/strong&gt; podrán &lt;strong&gt;obtenerla incluso&lt;/strong&gt; se van con &lt;strong&gt;otros jugadores&lt;/strong&gt; que ya lo ha &lt;strong&gt;completado en esa semana&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;cambio-de-acciones-en-jcj&quot;&gt;Cambio de acciones en JcJ&lt;/h3&gt;
+
+&lt;h4 id=&quot;paladin&quot;&gt;Paladin&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Holy Sheltron&lt;/strong&gt;: La &lt;strong&gt;reducción de daño&lt;/strong&gt; ha sido cambiada de &lt;strong&gt;10% a 20%&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Atonement&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;600 a 640&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;warrior&quot;&gt;Warrior&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Bloodwhetting&lt;/strong&gt;:  El &lt;strong&gt;daño convertido en vida&lt;/strong&gt; ha sido &lt;strong&gt;reducido&lt;/strong&gt; de un &lt;strong&gt;100% a un 75%&lt;/strong&gt;. La &lt;strong&gt;barrera ha sido reducida&lt;/strong&gt; del &lt;strong&gt;20% al 10%&lt;/strong&gt; de la vida maxima.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dark-knight&quot;&gt;Dark Knight&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Shadowbringer&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;4000 a 6000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The Blackest Night&lt;/strong&gt;: Tiempo de &lt;strong&gt;Reutilización&lt;/strong&gt; ha sido reducido de &lt;strong&gt;20 a 15 segundos&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;gunbreaker-1&quot;&gt;Gunbreaker&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Double Down&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;10000 a 12000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rough Divide&lt;/strong&gt;:  Se le &lt;strong&gt;añadido&lt;/strong&gt; un &lt;strong&gt;efecto&lt;/strong&gt; de &lt;strong&gt;incremento de velocidad&lt;/strong&gt; de movimiento.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Draw and Junction&lt;/strong&gt;: El estado de &lt;strong&gt;Junction Tank, Junction DPS o Junction Healer&lt;/strong&gt; &lt;strong&gt;no expirará&lt;/strong&gt; al ser &lt;strong&gt;incapacitado&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Relentless Rush&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;3000 a 4000&lt;/strong&gt;. Aumento del &lt;strong&gt;daño infligido al objetivo del 3% al 4%&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nebula&lt;/strong&gt;:  El efecto ha sido aumentado de &lt;strong&gt;6 a 10 segundos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aurora&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;6000 a 8000&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;monk&quot;&gt;Monk&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Enlightenment&lt;/strong&gt;: El &lt;strong&gt;daño adicional&lt;/strong&gt; por el efecto de Pressure Point ha sido incrementado de &lt;strong&gt;8000 a 12000&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ninja&quot;&gt;Ninja&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Bunshin&lt;/strong&gt;: &lt;strong&gt;Duración&lt;/strong&gt; del efecto aumentada de &lt;strong&gt;15 a 30 seconds&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;samurai-1&quot;&gt;Samurai&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hissatsu: Chiten&lt;/strong&gt;:  La &lt;strong&gt;reducción de daño&lt;/strong&gt; ha sido cambiada del &lt;strong&gt;50% al 25%&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mineuchi&lt;/strong&gt;:  Duración del &lt;strong&gt;stun&lt;/strong&gt; reducida de &lt;strong&gt;3 a 2 segundos&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;reaper&quot;&gt;Reaper&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Arcane Crest&lt;/strong&gt;:  La &lt;strong&gt;potencia de la barrera&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;8000 a 12000&lt;/strong&gt;. Incrementada la potencia de la cura cuando termina la barrera de 4000 a 6000.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tenebrae Lemurum&lt;/strong&gt;: El &lt;strong&gt;tiempo&lt;/strong&gt; necesario para rellenar la barra de &lt;strong&gt;limit&lt;/strong&gt; ha sido &lt;strong&gt;reducido&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;bard&quot;&gt;Bard&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Final Fantasia&lt;/strong&gt;:  Aumentado el &lt;strong&gt;buffo de incremento de daño&lt;/strong&gt; en los aliados cercanos del &lt;strong&gt;5% al 10%&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;machinist-1&quot;&gt;Machinist&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Scattergun&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;4000 a 6000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aether Mortar&lt;/strong&gt;:  La &lt;strong&gt;potencia de la barrera&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;2400 a 4000&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dancer&quot;&gt;Dancer&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Starfall Dance&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;8000 a 10000&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Honing Dance&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;2000 a 3000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Curing Waltz&lt;/strong&gt;: Tiempo de &lt;strong&gt;Reutilización&lt;/strong&gt; ha sido reducido de &lt;strong&gt;30 a 20 segundos&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Saber Dance&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;8000 a 10000&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;black-mage&quot;&gt;Black Mage&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fire&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;3000 a 4000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blizzard&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;3000 a 4000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Night Wing&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; de los ataques en los &lt;strong&gt;enemigos en estado de sleep&lt;/strong&gt; ha sido aumentada de &lt;strong&gt;6000 a 8000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Superflare&lt;/strong&gt;: Los &lt;strong&gt;objetivos&lt;/strong&gt; que estén a &lt;strong&gt;rango&lt;/strong&gt; de este ataque pero &lt;strong&gt;no&lt;/strong&gt; estén en &lt;strong&gt;linea de vision&lt;/strong&gt; &lt;strong&gt;no&lt;/strong&gt; obtendrán el &lt;strong&gt;debufo&lt;/strong&gt; de esta habilidad.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Flare&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;6000 a 8000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Freeze&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;6000 a 8000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Soul Resonance&lt;/strong&gt;: La &lt;strong&gt;duración del efecto de Polyglot&lt;/strong&gt; ha sido aumentada de &lt;strong&gt;30 a 60&lt;/strong&gt; segundos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;red-mage&quot;&gt;Red Mage&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Enchanted Riposte&lt;/strong&gt;:  La potencia del** daño periódico** con el efecto de &lt;strong&gt;Black Shift&lt;/strong&gt; ha sido reducida de &lt;strong&gt;4000 a 3000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Enchanted Zwerchhau&lt;/strong&gt;:  La potencia del** daño periódico** con el efecto de &lt;strong&gt;Black Shift&lt;/strong&gt; ha sido reducida de &lt;strong&gt;4000 a 3000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Enchanted Redoublement&lt;/strong&gt;:  La potencia del** daño periódico** con el efecto de &lt;strong&gt;Black Shift&lt;/strong&gt; ha sido reducida de &lt;strong&gt;4000 a 3000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Resolution&lt;/strong&gt;: La duración del efecto de &lt;strong&gt;Silencio&lt;/strong&gt; bajo el efecto de &lt;strong&gt;White Shift&lt;/strong&gt; ha sido reducida de &lt;strong&gt;3 a 2 segundos&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;white-mage&quot;&gt;White Mage&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Afflatus Misery&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; reducida de &lt;strong&gt;12000 a 10000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Afflatus Purgation&lt;/strong&gt;: Duración del &lt;strong&gt;stun de 3 a 2 segundos&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;scholar&quot;&gt;Scholar&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Adloquium&lt;/strong&gt;: La duración del efecto de incremento de daño ha pasado de 10 a 15 seconds.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Biolysis&lt;/strong&gt;: La duración del efecto de reducción de daño ha pasado de 10 a 15 seconds.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;astrologian&quot;&gt;Astrologian&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Macrocosmos&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;8000 a 12000&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 26 Apr 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/notas-6.11/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/notas-6.11/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>FFXIV Fandub : ENDWALKER: Trailer de Endwalker en español</title>
@@ -483,241 +665,6 @@ Y no olvidéis visitar la maravillosa Gaceta Eorzea, donde podréis encontrar gu
         
         
         <category>fandub</category>
-        
-      </item>
-    
-      <item>
-        <title>Cambios de Job del parche 6.1</title>
-        <description>&lt;p&gt;Han actualizado las &lt;strong&gt;notas del parche 6.1&lt;/strong&gt;, en este artículo os la &lt;strong&gt;resumimos&lt;/strong&gt; los cambios de &lt;strong&gt;job&lt;/strong&gt;, aunque como siempre os recomendamos ver las &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/2811826dd341d0bc5b0a0e804bc253b189f43f0e&quot; target=&quot;_blank&quot;&gt;notas completas&lt;/a&gt; por si queréis tener toda la información.&lt;/p&gt;
-
-&lt;h4 id=&quot;acciones-de-healer&quot;&gt;Acciones de Healer&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Lucid Dreaming&lt;/strong&gt;: Se adquiere ahora a &lt;strong&gt;nivel 14&lt;/strong&gt; en lugar de 24.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;paladin&quot;&gt;Paladin&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Iron Will&lt;/strong&gt;: Tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; ha sido reducido de &lt;strong&gt;10 a 3&lt;/strong&gt; segundos&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Clemency&lt;/strong&gt;: Ahora &lt;strong&gt;no interrumpirá&lt;/strong&gt; los &lt;strong&gt;combos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Holy Spirit&lt;/strong&gt;: Ahora &lt;strong&gt;no interrumpirá&lt;/strong&gt; los &lt;strong&gt;combos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Requiescat&lt;/strong&gt;: Se añade un nuevo &lt;strong&gt;buffo&lt;/strong&gt; “&lt;strong&gt;Blade of Faith Ready&lt;/strong&gt;”, cuando &lt;strong&gt;termina Requiescat&lt;/strong&gt; con duración de &lt;strong&gt;30 segundos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Blade of Faith&lt;/strong&gt;: &lt;strong&gt;No&lt;/strong&gt; va a ser un &lt;strong&gt;combo&lt;/strong&gt; de &lt;strong&gt;Confiteor&lt;/strong&gt;. Sino que lo podremos &lt;strong&gt;usar con&lt;/strong&gt; el buffo de &lt;strong&gt;Blade of Faith Ready&lt;/strong&gt;. Ademas tendrá un &lt;strong&gt;cura de potencia 400&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Holy Circle&lt;/strong&gt;: Ahora &lt;strong&gt;no interrumpirá&lt;/strong&gt; los &lt;strong&gt;combos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Confiteor&lt;/strong&gt;: Se le añade un &lt;strong&gt;efecto de restaurar vida&lt;/strong&gt; con una &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;400&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Blade of Truth&lt;/strong&gt;: Se le añade un &lt;strong&gt;efecto de restaurar vida&lt;/strong&gt; con una &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;400&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Blade of Valor&lt;/strong&gt;: Se le añade un &lt;strong&gt;efecto de restaurar vida&lt;/strong&gt; con una &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;400&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Divine Magic Mastery II&lt;/strong&gt;: Este &lt;strong&gt;trait&lt;/strong&gt; añade un &lt;strong&gt;efecto de curación&lt;/strong&gt; a &lt;strong&gt;Confiteor&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;warrior&quot;&gt;Warrior&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Defiance&lt;/strong&gt;: Tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; ha sido reducido de &lt;strong&gt;10 a 3&lt;/strong&gt; segundos&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Overpower&lt;/strong&gt;: Pasa a ser un &lt;strong&gt;area alrededor&lt;/strong&gt; tuya &lt;strong&gt;en lugar de cono&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Inner Release&lt;/strong&gt;: Las &lt;strong&gt;cargas solo&lt;/strong&gt; se aplican ahora a &lt;strong&gt;Fell Cleave&lt;/strong&gt; y &lt;strong&gt;Decimate&lt;/strong&gt;. Se le añadido el efecto de &lt;strong&gt;otorgar Inner Strength&lt;/strong&gt;, &lt;strong&gt;a la pasiva&lt;/strong&gt; que te hacia &lt;strong&gt;inmune a Stun, Sleep, Bind, Heavy y la mayoría de empujones&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;dark-knight&quot;&gt;Dark Knight&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Grit&lt;/strong&gt;: Tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; ha sido reducido de &lt;strong&gt;10 a 3&lt;/strong&gt; segundos.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Flood of Darkness&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;130 a 100&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Blood Weapon&lt;/strong&gt;: Ahora &lt;strong&gt;dará 5 cargas&lt;/strong&gt; y el tiempo ha sido incrementado de &lt;strong&gt;10 a 15 segundos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Stalwart Soul&lt;/strong&gt;: Se adquiere ahora a &lt;strong&gt;nivel 40&lt;/strong&gt; en lugar de 72.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Living Dead&lt;/strong&gt;: Se le &lt;strong&gt;añade un efecto de restauración de vida&lt;/strong&gt; por &lt;strong&gt;cada ataque&lt;/strong&gt; con una &lt;strong&gt;cura de potencia 1900&lt;/strong&gt;. Si la &lt;strong&gt;sanación total supera tu vida maxima&lt;/strong&gt; antes que termine el efecto, el efecto &lt;strong&gt;pasara a Undead Rebirth&lt;/strong&gt;, con la &lt;strong&gt;duración&lt;/strong&gt; del tiempo &lt;strong&gt;restante del Walking Dead&lt;/strong&gt;, este efecto &lt;strong&gt;no garantiza&lt;/strong&gt; que la mayoría de &lt;strong&gt;ataques&lt;/strong&gt; solo te dejen a &lt;strong&gt;1 de vida&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;gunbreaker&quot;&gt;Gunbreaker&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Royal Guard&lt;/strong&gt;: Tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; ha sido reducido de &lt;strong&gt;10 a 3&lt;/strong&gt; segundos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;monk&quot;&gt;Monk&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Perfect Balance&lt;/strong&gt;: Ya &lt;strong&gt;no se podrá&lt;/strong&gt; usar con el efecto de &lt;strong&gt;ningún Chakra de bestia&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;dragoon&quot;&gt;Dragoon&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Jump&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;. La accion se convierte en “&lt;strong&gt;Mirage Dive&lt;/strong&gt;” cuando tengamos el &lt;strong&gt;efecto Mirage Dive Ready&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;High Jump&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;. La accion se convierte en “&lt;strong&gt;Mirage Dive&lt;/strong&gt;” cuando tengamos el &lt;strong&gt;efecto Mirage Dive Ready&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Elusive Jump&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Spineshatter Dive&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dragonfire Dive&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ninja&quot;&gt;Ninja&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Hide&lt;/strong&gt;: Ahora al &lt;strong&gt;usarlo elimina&lt;/strong&gt; el efecto de &lt;strong&gt;Doton&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Mug&lt;/strong&gt;: Se le añade un &lt;strong&gt;efecto&lt;/strong&gt; que inflige un &lt;strong&gt;debuffo que incrementa el daño de todos los jugadores&lt;/strong&gt; en el objetivo de un &lt;strong&gt;5% durante 30 segundos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Trick Attack&lt;/strong&gt;: Se cambia el debuffo que infligía por un &lt;strong&gt;debuffo que incrementa tu daño&lt;/strong&gt; en el objetivo un &lt;strong&gt;10%&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Aeolian Edge&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;360 a 380&lt;/strong&gt;. Golpeando por &lt;strong&gt;detras&lt;/strong&gt; incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;420 a 440&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Shukuchi&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Doton&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;70 a 80&lt;/strong&gt;. &lt;strong&gt;Duración&lt;/strong&gt; reducida &lt;strong&gt;de 24 a 18&lt;/strong&gt; segundos.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hakke Mujinsatsu&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;120 a 130&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Armor Crush&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;340 a 360&lt;/strong&gt;. Golpeando por &lt;strong&gt;el lado&lt;/strong&gt; incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;400 a 420&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Bhavacakra&lt;/strong&gt;: La &lt;strong&gt;potencia&lt;/strong&gt; ha sido reducida de &lt;strong&gt;400 a 350&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Phantom Kamaitachi&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;550 a 600&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Melee Mastery&lt;/strong&gt;: Se adquiere ahora a &lt;strong&gt;nivel 74&lt;/strong&gt; en lugar de 84.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Melee Mastery II&lt;/strong&gt;: &lt;strong&gt;Nuevo trait&lt;/strong&gt; de &lt;strong&gt;nivel 84&lt;/strong&gt; que &lt;strong&gt;incrementa la potencia&lt;/strong&gt; de &lt;strong&gt;Spinning Edge a 220&lt;/strong&gt; y &lt;strong&gt;Gust Slash a 160&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;samurai&quot;&gt;Samurai&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Hissatsu: Kaiten&lt;/strong&gt;: Ha sido eliminado.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Way of the Samurai&lt;/strong&gt;: &lt;strong&gt;Nuevo trait&lt;/strong&gt; de &lt;strong&gt;nivel 66&lt;/strong&gt; que &lt;strong&gt;incrementa la potencia&lt;/strong&gt; de &lt;strong&gt;Hakaze a 200&lt;/strong&gt; , &lt;strong&gt;Jinpu a 120&lt;/strong&gt; y &lt;strong&gt;Shifu a 120&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Way of the SamuraiII&lt;/strong&gt;: &lt;strong&gt;Nuevo trait&lt;/strong&gt; de &lt;strong&gt;nivel 84&lt;/strong&gt; que &lt;strong&gt;incrementa la potencia&lt;/strong&gt; de &lt;strong&gt;Gekko a 120&lt;/strong&gt; , &lt;strong&gt;Kasha a 120&lt;/strong&gt; y &lt;strong&gt;Yukikaze a 120&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hakaze&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;180 a 200&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Jinpu&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;100 a 120&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Third Eye&lt;/strong&gt;: El &lt;strong&gt;efecto&lt;/strong&gt; ha sido incrementado de &lt;strong&gt;3 a 4 segundos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Shifu&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;100 a 120&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gekko&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;100 a 120&lt;/strong&gt;. Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;320 a 330&lt;/strong&gt;. Golpeando por &lt;strong&gt;el lado&lt;/strong&gt; incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;370 a 380&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Higanbana&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; del &lt;strong&gt;efecto en el tiempo&lt;/strong&gt; de &lt;strong&gt;30 a 45&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Mangetsu&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;110 a 120&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kasha&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;10 a 120&lt;/strong&gt;. Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;320 a 330&lt;/strong&gt;. Golpeando por &lt;strong&gt;el lado&lt;/strong&gt; incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;370 a 380&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tenka Goken&lt;/strong&gt;:  Pasa a ser un &lt;strong&gt;area alrededor&lt;/strong&gt; tuya &lt;strong&gt;en lugar de cono&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Oka&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;110 a 120&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Yukikaze&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;110 a 120&lt;/strong&gt;. Se ha incrementado la &lt;strong&gt;potencia de combo&lt;/strong&gt; de &lt;strong&gt;280 a 300&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Midare Setsugekka&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;660 a 600&lt;/strong&gt;, pero se garantiza que &lt;strong&gt;siempre sea golpe critico&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Meikyo Shisui&lt;/strong&gt;: Los ataques del tipo weaponskills de los &lt;strong&gt;Ranged no contaran en este efecto&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hissatsu: Shinten&lt;/strong&gt;: Se adquiere ahora a &lt;strong&gt;nivel 52&lt;/strong&gt; en lugar de 62. Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;270 a 250&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hissatsu: Yaten&lt;/strong&gt;: La &lt;strong&gt;activación&lt;/strong&gt; se ajustado para que sea &lt;strong&gt;igual que en otras acciones de retroceso&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hissatsu: Kyuten&lt;/strong&gt;: Se adquiere ahora a &lt;strong&gt;nivel 62&lt;/strong&gt; en lugar de 64.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kaeshi: Higanbana&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;300 a 200&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kaeshi: Goken&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;420 a 280&lt;/strong&gt;. Pasa a ser un &lt;strong&gt;area alrededor&lt;/strong&gt; tuya &lt;strong&gt;en lugar de cono&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kaeshi: Setsugekka&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;990 a 600&lt;/strong&gt;, pero se garantiza que &lt;strong&gt;siempre sea golpe critico&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Shoha&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;580 a 500&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ogi Namikiri&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;900 a 800&lt;/strong&gt;, pero se garantiza que &lt;strong&gt;siempre sea golpe critico&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kaeshi: Namikiri&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;1350 a 800&lt;/strong&gt;, pero se garantiza que &lt;strong&gt;siempre sea golpe critico&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;reaper&quot;&gt;Reaper&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Hell’s Ingress&lt;/strong&gt;: La duracion de &lt;strong&gt;Enhanced Harpe&lt;/strong&gt; incrementada de 15 a 20 segundos. Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hell’s Egress&lt;/strong&gt;: La duracion de &lt;strong&gt;Enhanced Harpe&lt;/strong&gt; incrementada de 15 a 20 segundos. Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Regress&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;bard&quot;&gt;Bard&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Repelling Shot&lt;/strong&gt;: El &lt;strong&gt;alcance&lt;/strong&gt; ha sido incrementado de &lt;strong&gt;5 a 15 yalms&lt;/strong&gt;. La &lt;strong&gt;activación&lt;/strong&gt; se ajustado para que sea &lt;strong&gt;igual que en otras acciones de retroceso&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Battle Voice&lt;/strong&gt;: &lt;strong&gt;No requerirá&lt;/strong&gt; el tener el efecto de &lt;strong&gt;Mage’s Ballad, Army’s Paeon, o the Wanderer’s Minuet&lt;/strong&gt; para poderse usar.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;The Wanderer’s Minuet&lt;/strong&gt;: Se &lt;strong&gt;convertirá&lt;/strong&gt; a &lt;strong&gt;Pitch Perfect&lt;/strong&gt; al ser &lt;strong&gt;usada&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;machinist&quot;&gt;Machinist&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Heat Blast&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;170 a 180&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Wildfire&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt;  de incremento sobre acciones de &lt;strong&gt;150 a 200&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Drill&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;570 a 580&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Air Anchor&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;570 a 580&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Pile Bunker&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;650 a 680&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Crowned Collider&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;750 a 780&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Chain Saw&lt;/strong&gt;: Se ha incrementado la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;570 a 580&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;dancer&quot;&gt;Dancer&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Standard Step&lt;/strong&gt;: Pasa a ser &lt;strong&gt;weaponskill&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Emboite&lt;/strong&gt;: Pasa a ser &lt;strong&gt;weaponskill&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Entrechat&lt;/strong&gt;: Pasa a ser &lt;strong&gt;weaponskill&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Jete&lt;/strong&gt;: Pasa a ser &lt;strong&gt;weaponskill&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Pirouette&lt;/strong&gt;: Pasa a ser &lt;strong&gt;weaponskill&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cascade&lt;/strong&gt;: Cambia el efecto del &lt;strong&gt;50%&lt;/strong&gt; de otorgar &lt;strong&gt;Flourishing Symmetry&lt;/strong&gt; a &lt;strong&gt;otorgar Silken Symmetry&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fountain&lt;/strong&gt;: Cambia el efecto del &lt;strong&gt;50%&lt;/strong&gt; de otorgar &lt;strong&gt;Flourishing Flow&lt;/strong&gt; a &lt;strong&gt;otorgar Silken Flow&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Windmill&lt;/strong&gt;: Cambia el efecto del &lt;strong&gt;50%&lt;/strong&gt; de otorgar &lt;strong&gt;Flourishing Symmetry&lt;/strong&gt; a &lt;strong&gt;otorgar Silken Symmetry&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Reverse Cascade&lt;/strong&gt;: Cambia el &lt;strong&gt;requerimiento&lt;/strong&gt; de tener que el efecto de &lt;strong&gt;Silken Symmetry&lt;/strong&gt; a tener &lt;strong&gt;Silken Symmetry o Flourishing Symmetry&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Bladeshower&lt;/strong&gt;: Cambia el efecto del &lt;strong&gt;50%&lt;/strong&gt; de otorgar &lt;strong&gt;Flourishing Flow&lt;/strong&gt; a &lt;strong&gt;otorgar Silken Flow&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Rising Windmill&lt;/strong&gt;: Cambia el &lt;strong&gt;requerimiento&lt;/strong&gt; de tener que el efecto de &lt;strong&gt;Silken Symmetry&lt;/strong&gt; a tener &lt;strong&gt;Silken Symmetry o Flourishing Symmetry&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fountainfall&lt;/strong&gt;: Cambia el &lt;strong&gt;requerimiento&lt;/strong&gt; de tener que el efecto de &lt;strong&gt;Silken Flow&lt;/strong&gt; a tener &lt;strong&gt;Silken Flow o Flourishing Flow&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Bloodshower&lt;/strong&gt;: Cambia el &lt;strong&gt;requerimiento&lt;/strong&gt; de tener que el efecto de &lt;strong&gt;Silken Flow&lt;/strong&gt; a tener &lt;strong&gt;Silken Flow o Flourishing Flow&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Technical Step&lt;/strong&gt;: Pasa a ser &lt;strong&gt;weaponskill&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Se podra seguir obteniendo &lt;strong&gt;Flourishing Symmetry o Flourishing Flow&lt;/strong&gt; usando la acción &lt;strong&gt;Flourish&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;summoner&quot;&gt;Summoner&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Ruby Ruin&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 300 a 340.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ruby Outburst&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 140 a 160.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ruby Ruin II&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 340 a 380.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ruby Ruin III&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 360 a 410.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ruby Rite&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 450 a 510.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Searing Light&lt;/strong&gt;: La acción pasa a ser e&lt;strong&gt;jecutada por el invocador en lugar&lt;/strong&gt; de su &lt;strong&gt;Carbuncle&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ruby Disaster&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 170 a 190.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ruby Catastrophe&lt;/strong&gt;: Incrementado el tiempo de &lt;strong&gt;reutilización&lt;/strong&gt; de &lt;strong&gt;2.5 a 3 segundos&lt;/strong&gt;. La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de 180 a 210.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ruin Mastery IV&lt;/strong&gt;: Este trait ha sido modificado para incrementar la &lt;strong&gt;potencia&lt;/strong&gt; de &lt;strong&gt;Ruby Rite&lt;/strong&gt; de &lt;strong&gt;450 a 510&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;red-mage&quot;&gt;Red Mage&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Displacement&lt;/strong&gt;: Se ha &lt;strong&gt;acortado la animación&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;white-mage&quot;&gt;White Mage&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Stone&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 200&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Aero&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 200&lt;/strong&gt;. El debufo se ha aumentado de &lt;strong&gt;18 a 30 segundos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Stone II&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 200&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Regen&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;500 a 400&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cure III&lt;/strong&gt;: El &lt;strong&gt;rango&lt;/strong&gt; del efecto en area ha sido aumentado de &lt;strong&gt;6 a 10 yalms&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Aero II&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 200&lt;/strong&gt;. El debufo se ha aumentado de &lt;strong&gt;18 a 30 segundos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Asylum&lt;/strong&gt;: El &lt;strong&gt;rango&lt;/strong&gt; del efecto en area ha sido aumentado de &lt;strong&gt;8 a 10 yalms&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Secret of the Lily&lt;/strong&gt;: El &lt;strong&gt;tiempo&lt;/strong&gt; en el que tardar en &lt;strong&gt;generar una Lily&lt;/strong&gt; ha sido reducido de &lt;strong&gt;30 a 20 segundos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Stone III&lt;/strong&gt;: La &lt;strong&gt;potencia&lt;/strong&gt; ha sido reducida de &lt;strong&gt;230 a 220&lt;/strong&gt;. Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 300&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Stone IV&lt;/strong&gt;: La &lt;strong&gt;potencia&lt;/strong&gt; ha sido reducida de &lt;strong&gt;270 a 226&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Afflatus Misery&lt;/strong&gt;: La &lt;strong&gt;potencia&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;900 a 1,240&lt;/strong&gt;. La &lt;strong&gt;reducción&lt;/strong&gt; en potencia &lt;strong&gt;después&lt;/strong&gt; del &lt;strong&gt;primer enemigo&lt;/strong&gt; ha sido reducida del &lt;strong&gt;25% al 50%&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Liturgy of the Bell&lt;/strong&gt;: El &lt;strong&gt;efecto&lt;/strong&gt; adicional de las &lt;strong&gt;cargas restantes ademas&lt;/strong&gt; de ser cuando &lt;strong&gt;termine el efecto&lt;/strong&gt; podrán &lt;strong&gt;ejecutarse&lt;/strong&gt; inmediatamente &lt;strong&gt;tras usar la acción una segunda vez&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;scholar&quot;&gt;Scholar&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Ruin&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 300&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Embrace&lt;/strong&gt;: Se ha &lt;strong&gt;incrementado el rango&lt;/strong&gt; en el cual este efecto puede activarse.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Bio&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 200&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Bio II&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 200&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sacred Soil&lt;/strong&gt;: El &lt;strong&gt;rango&lt;/strong&gt; del efecto en area ha sido aumentado de &lt;strong&gt;8 a 10 yalms&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Expedient&lt;/strong&gt;: Se ha reducido la &lt;strong&gt;duración&lt;/strong&gt; del efecto de &lt;strong&gt;20 a 10 segundos&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;astrologian&quot;&gt;Astrologian&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Combust&lt;/strong&gt;: Se ha aumentado la duración de 18 a 30 segundos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;sage&quot;&gt;Sage&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Dosis&lt;/strong&gt;: Se ha decrementado el &lt;strong&gt;coste de mana&lt;/strong&gt; de &lt;strong&gt;400 a 300&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Soteria&lt;/strong&gt;: Ahora otorgar &lt;strong&gt;4 cargas&lt;/strong&gt; del efecto, la &lt;strong&gt;potencia&lt;/strong&gt; del efecto ha sido incrementada de &lt;strong&gt;50% a 70%&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Addersting&lt;/strong&gt;: Al &lt;strong&gt;entrar&lt;/strong&gt; en una &lt;strong&gt;instancia&lt;/strong&gt;, &lt;strong&gt;o reiniciarse el encuentro&lt;/strong&gt; se ganara el &lt;strong&gt;máximo numero de cargas de Addersting&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 11 Apr 2022 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/cambios-job-6_1/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/cambios-job-6_1/</guid>
-        
-        <category>noticias</category>
-        
-        <category>endwalker</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
