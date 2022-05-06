@@ -5,9 +5,28 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Apr 2022 12:37:50 +0100</pubDate>
-    <lastBuildDate>Fri, 29 Apr 2022 12:37:50 +0100</lastBuildDate>
+    <pubDate>Fri, 06 May 2022 14:58:27 +0100</pubDate>
+    <lastBuildDate>Fri, 06 May 2022 14:58:27 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Guia Summoner en Endwalker</title>
+        <description>&lt;p&gt;&lt;strong&gt;Al fin&lt;/strong&gt; tras el &lt;strong&gt;lanzamiento del parche 6.1&lt;/strong&gt; os puedo traer la &lt;strong&gt;guía&lt;/strong&gt; con las &lt;strong&gt;adaptaciones&lt;/strong&gt; tras los cambios del parche. En esta guía de &lt;strong&gt;Summoner&lt;/strong&gt; os explico todas sus &lt;strong&gt;habilidades&lt;/strong&gt;, las &lt;strong&gt;mecánicas&lt;/strong&gt; básicas del job, el &lt;strong&gt;openner&lt;/strong&gt; y os doy algunos &lt;strong&gt;consejos&lt;/strong&gt; de cara a su utilización. Ahora el Summoner de FFXIV si es un Summoner de verdad!&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/8DhwkU8xcBo?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 06 May 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/summoner/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/summoner/</guid>
+        
+        <category>jobs</category>
+        
+        
+        <category>jobs</category>
+        
+      </item>
     
       <item>
         <title>Fashion Report 29 Abril 2022</title>
@@ -692,57 +711,6 @@ Por ultimo recordar que en el parche 6.1 introdujeron la montura &lt;b&gt;Pod 60
         
         
         <category>ocular</category>
-        
-      </item>
-    
-      <item>
-        <title>Evento: Colaboración con GARO</title>
-        <description>&lt;p&gt;Ya tenemos los &lt;strong&gt;detalles&lt;/strong&gt; de el próximo evento de &lt;strong&gt;Colaboración con GARO&lt;/strong&gt; el cual nos pide el participar en JCJ. Este evento nos dará un set de armaduras, armas y monturas inspirado en la serie Japonesa GARO, adamás también tendremos títulos relacionados.&lt;/p&gt;
-
-&lt;h4 id=&quot;obtener-el-equipo&quot;&gt;Obtener el equipo&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/garo-2022/garo1.jpg&quot; alt=&quot;garo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Para obtener el equipo debemos usar Wolf Marks participando en contenido JcJ y canjearlas con &lt;strong&gt;disreputable priest&lt;/strong&gt; en &lt;strong&gt;Wolves’ Den Pier (X:5.0 Y:5.3)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/garo-2022/garo2.png&quot; alt=&quot;garo&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;títulos&quot;&gt;Títulos&lt;/h4&gt;
-
-&lt;p&gt;Para poder &lt;strong&gt;obtener&lt;/strong&gt; un título deberemos &lt;strong&gt;equiparnos&lt;/strong&gt; un &lt;strong&gt;set de armadura&lt;/strong&gt; (cabeza, cuerpo, manos, piernas y zapatos) y el &lt;strong&gt;arma de clase&lt;/strong&gt;, después tenemos que hablar con el &lt;strong&gt;disreputable priest&lt;/strong&gt; en &lt;strong&gt;Wolves’ Den Pier (X:5.0 Y:5.3)&lt;/strong&gt; para que nos de el título.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;*Nota:  samurai, red mages, gunbreakers, dancers, reapers, y sages no necesitaran el arma para obtener el título&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;monturas&quot;&gt;Monturas&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/garo-2022/garo3.jpg&quot; alt=&quot;garo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Las monturas podrán ser obtenidas con logros que implican el ganar partidas JcJ con el titulo equipado:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Fame Fatale&lt;/strong&gt;: &lt;strong&gt;Ganar 30&lt;/strong&gt; partidas de &lt;strong&gt;Feast&lt;/strong&gt; o &lt;strong&gt;Crystalline Conflict&lt;/strong&gt; con el título equipado.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Frontline Fury&lt;/strong&gt;: &lt;strong&gt;Ganar 10&lt;/strong&gt; partidas de &lt;strong&gt;Frontline&lt;/strong&gt; o &lt;strong&gt;Rival Wings&lt;/strong&gt; con el título equipado.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Furious Fatalities&lt;/strong&gt;: &lt;strong&gt;Ganar 60&lt;/strong&gt; partidas &lt;strong&gt;combinado&lt;/strong&gt; &lt;strong&gt;Frontline/Rival Wings&lt;/strong&gt; o &lt;strong&gt;Feast/Crystalline Conflict&lt;/strong&gt; con el título equipado.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;*Nota: estas recompensas no se podrán obtener cuando el evento de GARO haya finalizado&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;conjunto-alternativo-de-mgp&quot;&gt;Conjunto alternativo de MGP&lt;/h4&gt;
-
-&lt;p&gt;Existirá un &lt;strong&gt;conjunto alternativo&lt;/strong&gt; que se puede comprar &lt;strong&gt;por MGP&lt;/strong&gt; pero &lt;strong&gt;no puede ser teñido ni cuenta&lt;/strong&gt; para obtener el &lt;strong&gt;titulo&lt;/strong&gt;, lo podremos obtener hablando con &lt;strong&gt;Gold Saucer Attendant&lt;/strong&gt; en &lt;strong&gt;Gold Saucer (X:5.4 Y:6.6)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/garo-2022/garo4.png&quot; alt=&quot;garo&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Apr 2022 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/garo-2022/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/garo-2022/</guid>
-        
-        <category>evento</category>
-        
-        <category>noticias</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     

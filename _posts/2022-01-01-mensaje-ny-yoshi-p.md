@@ -2,8 +2,8 @@
 layout: post
 title:  "Felicitación de Año Nuevo de Yoshida"
 author: cecile
-categories: [ jobs ]
-tags: [ jobs ]
+categories: [ noticias ]
+tags: [ noticias ]
 image: assets/images/articles/noticias/mensaje-ny-yoshi-p/portada.jpg
 description: "Naoki Yoshida nos felicita el año"
 featured: false
