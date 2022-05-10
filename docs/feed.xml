@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 May 2022 10:27:19 +0100</pubDate>
-    <lastBuildDate>Tue, 10 May 2022 10:27:19 +0100</lastBuildDate>
+    <pubDate>Tue, 10 May 2022 10:41:46 +0100</pubDate>
+    <lastBuildDate>Tue, 10 May 2022 10:41:46 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -72,7 +72,7 @@
 
 &lt;h4 id=&quot;emulación-de-servidores&quot;&gt;Emulación de Servidores&lt;/h4&gt;
 
-&lt;p&gt;La filtración de la cual hablamos anteriormente llevo a que se &lt;strong&gt;especulara que ciertos grupos han usado emuladores de servidores para encontrar la secuencia de eventos del combate&lt;/strong&gt;. Sin embargo &lt;strong&gt;FFXIV se ejecuta en una variedad de programas operando en una multitud de servidores especializados, lo cual hace que el emular el entorno del servidor fuera de nuestra infraestructura es imposible&lt;/strong&gt; y menos aun su imposible coste, decanas de millones de yen, solo para tener los servidores requeridos. Sin estos servidores y su software propietario, aunque puedas mostrar los datos de un modelo el juego en si no funcionaria.&lt;/p&gt;
+&lt;p&gt;La filtración de la cual hablamos anteriormente llevo a que se &lt;strong&gt;especulara que ciertos grupos han usado emuladores de servidores para encontrar la secuencia de eventos del combate&lt;/strong&gt;. Sin embargo &lt;strong&gt;FFXIV se ejecuta en una variedad de programas operando en una multitud de servidores especializados, lo cual hace que el emular el entorno del servidor fuera de nuestra infraestructura es imposible&lt;/strong&gt; y menos aun su imposible coste, decenas de millones de yen, solo para tener los servidores requeridos. Sin estos servidores y su software propietario, aunque puedas mostrar los datos de un modelo el juego en si no funcionaria.&lt;/p&gt;
 
 &lt;p&gt;Incluso aunque alguien pudiera llegar a hacer funciona esta proeza, seria &lt;strong&gt;físicamente imposible introducir el código creado para el parche en los servidores, antes de que el parche sea lanzado&lt;/strong&gt;. La secuencia de eventos de cada combate existe solo en el código de la parte servidor, y nunca sera incluido ni puede ser descargado en los clientes de los jugadores.&lt;/p&gt;
 

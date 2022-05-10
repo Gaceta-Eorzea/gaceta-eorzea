@@ -70,7 +70,7 @@ Bien, siendo recursos gráficos o cualquier otra cosa, puede haber **ramificacio
 
 #### Emulación de Servidores
 
-La filtración de la cual hablamos anteriormente llevo a que se **especulara que ciertos grupos han usado emuladores de servidores para encontrar la secuencia de eventos del combate**. Sin embargo **FFXIV se ejecuta en una variedad de programas operando en una multitud de servidores especializados, lo cual hace que el emular el entorno del servidor fuera de nuestra infraestructura es imposible** y menos aun su imposible coste, decanas de millones de yen, solo para tener los servidores requeridos. Sin estos servidores y su software propietario, aunque puedas mostrar los datos de un modelo el juego en si no funcionaria.
+La filtración de la cual hablamos anteriormente llevo a que se **especulara que ciertos grupos han usado emuladores de servidores para encontrar la secuencia de eventos del combate**. Sin embargo **FFXIV se ejecuta en una variedad de programas operando en una multitud de servidores especializados, lo cual hace que el emular el entorno del servidor fuera de nuestra infraestructura es imposible** y menos aun su imposible coste, decenas de millones de yen, solo para tener los servidores requeridos. Sin estos servidores y su software propietario, aunque puedas mostrar los datos de un modelo el juego en si no funcionaria.
 
 Incluso aunque alguien pudiera llegar a hacer funciona esta proeza, seria **físicamente imposible introducir el código creado para el parche en los servidores, antes de que el parche sea lanzado**. La secuencia de eventos de cada combate existe solo en el código de la parte servidor, y nunca sera incluido ni puede ser descargado en los clientes de los jugadores.
 
