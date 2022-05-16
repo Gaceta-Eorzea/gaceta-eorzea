@@ -5,9 +5,149 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 May 2022 17:41:28 +0100</pubDate>
-    <lastBuildDate>Fri, 13 May 2022 17:41:28 +0100</lastBuildDate>
+    <pubDate>Mon, 16 May 2022 10:52:27 +0100</pubDate>
+    <lastBuildDate>Mon, 16 May 2022 10:52:27 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Diario de desarrollo: entrevista a Takayasu Ishii, artista de efectos visuales</title>
+        <description>&lt;p&gt;Hoy os traemos la traducción de una nueva entrada del blog de desarrolladores, en la que Miyamiya, miembro del equipo de Promoción, entrevista al artista de efectos visuales Takayasu Ishii.&lt;/p&gt;
+
+&lt;p&gt;Los efectos visuales (VFX) son elementos que realzan la expresividad y la viveza del juego de formas que no se consiguen en el mundo real. En esta entrevista, nos vamos entre bastidores para saber cómo se crean estos efectos.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-2.jpg&quot; alt=&quot;Ishii&quot; /&gt;&lt;br /&gt;
+    &lt;sub&gt;&lt;sup&gt;Imagen del personaje que usa el señor Ishii durante el desarrollo desde &lt;i&gt;A Realm Reborn&lt;/i&gt;, al que considera como su “compañero de trabajo”.&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: Para empezar, ¿podrías contarnos en qué trabajabas antes de unirte al equipo de desarrollo de FFXIV?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: Al principio trabajaba para una empresa de animación, en la que hacía secuencias compuestas (proceso por el cual se combinan varios elementos artísticos en 2D o 3D generado por ordenador). A raíz de esto, me empecé a interesar por los efectos visuales en los juegos. &lt;em&gt;Square Enix&lt;/em&gt; fue la primera empresa que se me vino a la mente en cuanto a diseño gráfico, así que me uní a ellos en 2007. Trabajé en varios equipos, entre ellos los de &lt;em&gt;DISSIDIA FINAL FANTASY&lt;/em&gt;, &lt;em&gt;DISSIDIA 012 FINAL FANTASY&lt;/em&gt;, &lt;em&gt;FINAL FANTASY CRYSTAL CHRONICLES: The Crystal Bearers&lt;/em&gt; y &lt;em&gt;FINAL FANTASY Type-0&lt;/em&gt;. Tras adquirir experiencia con estos títulos, entré en el equipo de FFXIV cuando &lt;em&gt;A Realm Reborn&lt;/em&gt; se estaba poniendo en marcha.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: ¿A qué se dedica el equipo de VFX en FFXIV?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: El equipo está dividido en tres, cada uno dedicado a una especialización: tenemos el equipo de VFX de escenas, el equipo de VFX de entornos y el equipo de VFX de combate.&lt;/p&gt;
+
+&lt;p&gt;Como su nombre indica, el equipo de VFX de escenas se encarga de crear los efectos visuales de las escenas. El equipo de VFX de entornos está a cargo de los efectos visuales ambientales (lluvia, nieve, humo de los volcanes, el agua que salpica desde una cascada e incluso las mecánicas relacionadas con el entorno durante los combates contra jefes).&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-3.jpg&quot; alt=&quot;Tataru&quot; /&gt;&lt;br /&gt;
+    &lt;sub&gt;&lt;sup&gt;Los efectos rimbombantes durante las escenas están bien, pero los detalles como los ojos llorosos también son cautivadores.&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-4.jpg&quot; alt=&quot;Limitless Blue&quot; /&gt;&lt;br /&gt;
+    &lt;sub&gt;&lt;sup&gt;El enfrentamiento &lt;i&gt;The Limitless Blue&lt;/i&gt; está lleno de mecánicas relacionadas con la meteorología (nubes, lluvia…) y el equipo de VFX de entornos se ha encargado de ellas.&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p&gt;En mi caso, dirijo el equipo de VFX de combate, que hace efectos visuales tanto de enemigos como de los jugadores. Algunos de los aspectos en los que trabajamos son las acciones de combate, de artesanía y de recolecta, las monturas, los &lt;em&gt;minions&lt;/em&gt;, los &lt;em&gt;emotes&lt;/em&gt; y las armas.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-5.jpg&quot; alt=&quot;Paint&quot; /&gt;&lt;br /&gt;
+    &lt;sub&gt;&lt;sup&gt;El equipo de VFX de combate fue el que creó el &lt;i&gt;emote&lt;/i&gt; /paint. Tal vez os suene de verlo en &lt;i&gt;Sigmascape V2.0&lt;/i&gt;.&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: Parece que los efectos visuales están en todas partes. ¿Puedes explicar cómo se suelen crear los efectos visuales de combate?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: Si se trata de acciones de profesión, los diseñadores proporcionan documentación de cada acción que nos dice si es de ataque o de cura, si afecta a un solo objetivo o si es en área, etc. La documentación suele venir en forma de texto, por lo que los artistas tienen libertad a la hora de crear elementos visuales.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-6.jpg&quot; alt=&quot;Performance&quot; /&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;A partir de ahí, el equipo de animación boceta varias animaciones candidatas para cada acción. Después, el equipo de animación, junto con el equipo de VFX y Shinya Ichida (director del equipo de arte) revisan los bocetos y deciden con cuál se quedan. Una vez hecha la selección, empezamos a crear los efectos visuales basándonos en la animación y los refinamos hasta que adquieren su forma final, asegurándonos de que el diseño no se contradice con la finalidad o las especificaciones de la acción.&lt;/p&gt;
+
+&lt;p&gt;Normalmente, el equipo de VFX puede dar rienda suelta a su imaginación cuando trabaja en los aspectos visuales. Sin embargo, hay excepciones en las que se necesita incorporar elementos preestablecidos, como en el caso del círculo mágico de Zodiark. En este tipo de situaciones, el equipo de arte proporciona un diseño basado en la historia que después usamos para diseñar los efectos visuales.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: Por lo que veo, en las acciones de combate, los efectos visuales y las animaciones van de la mano. ¿Cómo ha hecho tu equipo para crear los efectos visuales únicos de las profesiones de &lt;em&gt;Endwalker&lt;/em&gt;, &lt;em&gt;reaper&lt;/em&gt; y &lt;em&gt;sage&lt;/em&gt;?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: Ya sabíamos que el &lt;em&gt;reaper&lt;/em&gt; usaría una guadaña e invocaría un avatar del vacío, así que nos inspiramos en el tema de la oscuridad. Sin embargo, si usábamos solo tonos oscuros, se vería parecido al &lt;em&gt;dark knight&lt;/em&gt; o a los Ascian, así que decidimos darle un color de base diferente, que dio como resultado el esquema de color negro-cian.&lt;/p&gt;
+
+&lt;p&gt;Los colores de la gama de los verdes se suelen usar en las profesiones de curación, pero son poco comunes en tanques y DPS, así que pensamos que podría ser un rasgo característico del &lt;em&gt;reaper&lt;/em&gt;. Por otra parte, los efectos visuales de profesiones anteriores hacen hincapié en el momento en el que impactan los golpes, mientras que, en este caso, pusimos más énfasis en la trayectoria de los ataques, con el fin de hacer una profesión distinta del resto a nivel visual.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-7.jpg&quot; alt=&quot;Guadaña&quot; /&gt;&lt;br /&gt;
+    &lt;sub&gt;&lt;sup&gt;La estela de color cian que deja la guadaña llama la atención durante los combates.&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-8.jpg&quot; alt=&quot;Avatar&quot; /&gt;&lt;br /&gt;
+    &lt;sub&gt;&lt;sup&gt;Se han asegurado de que los colores coincidan con la historia, así que los efectos visuales se vuelven de color rojo y negro cuando aparece el avatar.&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Con &lt;em&gt;sage&lt;/em&gt;, teníamos en mente una paleta de colores claros debido a su rol de curación. También teníamos los diseños de base de las armas (&lt;em&gt;nouliths&lt;/em&gt;) e ilustraciones de Alphinaud y del equipamiento de la profesión, por lo que el blanco y el azul fueron una elección fácil. El equipo de arte nos pidió que añadiésemos a los &lt;em&gt;nouliths&lt;/em&gt; un efecto visual de estela al sacarlos o guardarlos y vimos que el blanco y el azul funcionaban bien, lo cual ayudó también a tomar esta decisión.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-9.jpg&quot; alt=&quot;Sage&quot; /&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;En cuanto a las acciones de profesión, &lt;em&gt;sage&lt;/em&gt; usa barreras geométricas y ataques láser, a diferencia del &lt;em&gt;white mage&lt;/em&gt; que lanza hechizos luminosos y etéreos, y nos hemos basado en la tecnología de Sharlayan para crear un diseño con un toque elegante. Además, los ataques y las curas se realizan a través de los &lt;em&gt;nouliths&lt;/em&gt;, en vez de proceder del propio personaje. Por ello, esta arma tenía que convertirse en el centro de atención, lo que supuso un gran reto para la persona del equipo que estaba al cargo de ella.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-10.jpg&quot; alt=&quot;Barreras&quot; /&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: Elegir los colores de base desde un principio ayuda a mantener un estilo consistente en los efectos visuales. Hay diversos puestos relacionados con el diseño en la industria, ¿qué crees que tiene de especial trabajar en los efectos visuales?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: Creo que la diversidad y libertad de expresión son los atractivos de los efectos visuales. Como he dicho antes, tenemos carta blanca a la hora de crear los elementos visuales, aunque el equipo de FFXIV documente lo que se tiene que hacer. No nos piden cosas muy específicas, sino que nos permiten crear lo que queramos y dan luz verde a aquello que cumpla con las especificaciones y calidad adecuadas de acuerdo con los estándares del juego. No cabe duda de que contar con total libertad creativa tiene sus dificultades, pero poder hacer lo que queramos sin restricciones es divertido y gratificante.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: Imagino que la libertad creativa es lo que permite seguir haciendo efectos visuales únicos y novedosos a pesar de la gran cantidad de contenido y de profesiones. De todos los efectos visuales de FFXIV en los que has trabajado, ¿cuál te parece el más memorable?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: En mi opinión, la habilidad &lt;em&gt;Passage of Arms&lt;/em&gt; de &lt;em&gt;paladin&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-11.jpg&quot; alt=&quot;Passage of Arms&quot; /&gt;&lt;br /&gt;
+    &lt;sub&gt;&lt;sup&gt;&lt;i&gt;Passage of Arms&lt;/i&gt; es una habilidad de &lt;i&gt;paladin&lt;/i&gt; que aumenta la probabilidad de bloqueo del usuario y reduce el daño que reciben los jugadores que se pongan detrás. Se puede usar casi en cualquier lugar, tanto en combate como en las ciudades.&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Se trata de una habilidad que se puede usar en cualquier lugar y por lo tanto tiene que verse bien en cualquier entorno, pero además debe enfatizar el efecto de ponerse detrás del usuario. Me resultó muy duro trabajar con estos requisitos y entré en un ciclo de hacer cosas para luego descartarlas en la mayoría de los casos. Estoy seguro de que a los artistas les suena esto, pero cuando te pasas demasiado tiempo centrado en un proyecto, empiezas a dudar de si está bien o si está mal y piensas “¿qué se supone que estoy haciendo?”&lt;/p&gt;
+
+&lt;p&gt;En vista de aquella situación, le enseñé mi boceto original a mi director por aquel entonces y a Yoshida, productor y director del juego. Gracias a sus comentarios positivos, pude ver que estaba bien encaminado y eso me motivó y me ayudó a terminar el proyecto. &lt;em&gt;Passage of Arms&lt;/em&gt; es mi trabajo más memorable porque me recuerda mis dificultades y mis logros.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: &lt;em&gt;Passage of Arms&lt;/em&gt; es muy vistoso, me gusta la sensación que da de estar protegido. Ahora me gustaría preguntarte por las armas con efectos visuales. Ha habido una gran cantidad de armas “brillantes” hasta la fecha, ¿hay alguna de las que hayas hecho tú que consideres tu favorita?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: De las armas en las que he trabajado, mis favoritas son las de Ravana.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-12.jpg&quot; alt=&quot;Ravana&quot; /&gt;&lt;br /&gt;
+    &lt;sub&gt;&lt;sup&gt;Las armas de &lt;i&gt;Ravana&lt;/i&gt; tienen un brillo rojizo y mariposas flotando alrededor.&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Los efectos visuales se mantienen constantes siempre que se saca el arma, así que las limitaciones son más estrictas. Resulta más difícil darles animaciones fastuosas en comparación con los efectos de combate, por ejemplo, ya que estos solo se muestran una vez y en el momento en el que se activan.&lt;/p&gt;
+
+&lt;p&gt;A pesar de las limitaciones, conseguí crear las mariposas usando modelos con el mínimo de polígonos. Tuve que ver secuencias a cámara superlenta de mariposas reales para poder reproducir sus movimientos de la forma más fiel posible, lo cual fue un trabajo muy meticuloso.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-13.png&quot; alt=&quot;Mallas&quot; /&gt;&lt;br /&gt;
+    &lt;sub&gt;&lt;sup&gt;Las mariposas se crearon añadiendo texturas a esta malla (conjunto de polígonos) y moviéndola o girándola para dar el efecto de batir de alas.&lt;/sup&gt;&lt;/sub&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: Parece que este trabajo implica dar a las armas el mayor impacto visual posible dentro de sus limitaciones. ¿Podrías darnos alguna pista de cómo son las armas que dan como recompensa en &lt;em&gt;Dragonsong’s Reprise (Ultimate)&lt;/em&gt;?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: Las armas de &lt;em&gt;Ultimate&lt;/em&gt; anteriores tienen detalles relacionados con el enfrentamiento, como los engranajes de las armas de &lt;em&gt;The Epic of Alexander&lt;/em&gt;. De manera similar, las armas de &lt;em&gt;Dragonsong’s Reprise&lt;/em&gt; tienen ciertos detalles, pero… ya lo veréis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: ¡Qué ganas tengo! Para terminar, ¿tienes algo que decir a los jugadores, o quizás te gustaría contar tus resoluciones para el futuro?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: He recibido mucho apoyo a través de vuestros comentarios en las redes sociales y en retransmisiones de las &lt;em&gt;Live Letters&lt;/em&gt;. En ocasiones, me han servido para ver qué aspectos puedo mejorar, así que, si tenéis algo que decir de los efectos visuales, os agradecería que lo contaseis a través de los foros o redes sociales.&lt;/p&gt;
+
+&lt;p&gt;FFXIV da mucha importancia a las variaciones en la percepción del color al mismo tiempo que se esfuerza por ofrecer coherencia y visibilidad en la experiencia de juego de todos los usuarios. También se puede mejorar la experiencia de juego a través de momentos conmovedores y sacando lo mejor de las profesiones y de los personajes. Me gustaría tener todos estos conceptos presentes mientras me sigo dedicando al arte de crear efectos visuales atractivos.&lt;/p&gt;
+
+&lt;p&gt;Espero que esta entrevista haya despertado vuestro interés por los efectos visuales. ¡Muchas gracias por vuestro apoyo!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 May 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/devblog-02/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/devblog-02/</guid>
+        
+        <category>traducion</category>
+        
+        <category>diario</category>
+        
+        <category>entrevista</category>
+        
+        
+        <category>diario</category>
+        
+      </item>
     
       <item>
         <title>Fashion Report 13 Mayo 2022</title>
@@ -746,59 +886,6 @@ Con cientos de páginas que detallan todo, desde la historia y las culturas de E
         
         
         <category>enciclopedia</category>
-        
-      </item>
-    
-      <item>
-        <title>Fashion Report 22 Abril 2022</title>
-        <description>&lt;p&gt;Esta semana de nuevo &lt;a href=&quot;https://twitter.com/kaiyokostar&quot; target=&quot;_blank&quot;&gt;Kaiyoko Star&lt;/a&gt; ha publicado la solución para el Fashion Report, la cual podéis ver a continuación.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion220422/freport_221.jpg&quot; alt=&quot;Fashion Report 221&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Fashion Report 221&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Para hacer los &lt;strong&gt;80 puntos&lt;/strong&gt; de manera fácil y ganar los &lt;strong&gt;60,000 MGP&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;En &lt;strong&gt;guantes cualquier pieza teñida&lt;/strong&gt; con &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/9ef01a4f17f/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Ink Blue Dye&lt;/a&gt;, el cual podemos comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/a28cf0441f4/?item=909e43109be&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Alaric&lt;/a&gt;, en Old Gridania (X:14.3 Y:8.8), por 216 gil.&lt;/li&gt;
-  &lt;li&gt;En &lt;strong&gt;pantalones cualquier pieza teñida&lt;/strong&gt; con &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/0c0c7f94f09/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Soot Black Dye&lt;/a&gt;, que podeis obtener de:
-    &lt;ul&gt;
-      &lt;li&gt;Comprar, si teneis la reputación subida con los &lt;strong&gt;Ixali&lt;/strong&gt;, a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/82cc59ae4c7/?item=188d2c75e07&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Ixali Vendor&lt;/a&gt; en &lt;strong&gt;North Shroud (X:24.9 Y:22.7)&lt;/strong&gt; por 216 gil.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Craftear&lt;/strong&gt; con la receta de nivel 30 de Carpenter, Blacksmith, Armorer, Goldsmith, Leatherworker, Weaver, Alchemist o Cullinarian que os pedira &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/0563231e95a/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Grey Pigment&lt;/a&gt; los cuales podeis obtener en &lt;em&gt;Western La Noscea, Quarterstone&lt;/em&gt; siendo Minero 28+ o &lt;em&gt;South Shroud, Upper Paths&lt;/em&gt; siendo Botanista 28+.&lt;/li&gt;
-      &lt;li&gt;Comprar en el &lt;strong&gt;Market Board&lt;/strong&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;En &lt;strong&gt;zapatos cualquier pieza teñida&lt;/strong&gt; con &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/0c0c7f94f09/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Soot Black Dye&lt;/a&gt;, que podeis obtener de:
-    &lt;ul&gt;
-      &lt;li&gt;Comprar, si teneis la reputación subida con los &lt;strong&gt;Ixali&lt;/strong&gt;, a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/82cc59ae4c7/?item=188d2c75e07&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Ixali Vendor&lt;/a&gt; en &lt;strong&gt;North Shroud (X:24.9 Y:22.7)&lt;/strong&gt; por 216 gil.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Craftear&lt;/strong&gt; con la receta de nivel 30 de Carpenter, Blacksmith, Armorer, Goldsmith, Leatherworker, Weaver, Alchemist o Cullinarian que os pedira &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/0563231e95a/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Grey Pigment&lt;/a&gt; los cuales podeis obtener en &lt;em&gt;Western La Noscea, Quarterstone&lt;/em&gt; siendo Minero 28+ o &lt;em&gt;South Shroud, Upper Paths&lt;/em&gt; siendo Botanista 28+.&lt;/li&gt;
-      &lt;li&gt;Comprar en el &lt;strong&gt;Market Board&lt;/strong&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;En &lt;strong&gt;collar&lt;/strong&gt; &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/8ea2fd66656/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Bone Necklace&lt;/a&gt; que podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/daca4a934fe/?item=8ea2fd66656&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Ilorie&lt;/a&gt; en &lt;strong&gt;Old Gridania (X:14.4 Y:9.6)&lt;/strong&gt; en la categoría &lt;em&gt;Purchase Battlecraft Accessories&lt;/em&gt; por 156 gil.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-Por ultimo recordar que en el parche 6.1 introdujeron la montura &lt;b&gt;Pod 602&lt;/b&gt; que podremos comprar por &lt;b&gt;300,000 MGP&lt;/b&gt;, y hacer el fashion report es una manera fácil de obtenerla.
-&lt;br /&gt;
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/fashion/fashion220408/pod602.jpg&quot; alt=&quot;Pod 602&quot; /&gt;&lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Pod 602&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Fri, 22 Apr 2022 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/fashion220422/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/fashion220422/</guid>
-        
-        <category>gold saucer</category>
-        
-        <category>eventos</category>
-        
-        <category>semanales</category>
-        
-        
-        <category>gold saucer</category>
         
       </item>
     

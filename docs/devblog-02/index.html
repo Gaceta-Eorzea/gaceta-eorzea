@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<title>Diario de desarrollo: entrevista a Takayasu Ishii, artista de efectos visuales | Gaceta Eorzea</title>
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Diario de desarrollo: entrevista a Takayasu Ishii, artista de efectos visuales | Gaceta Eorzea</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Diario de desarrollo: entrevista a Takayasu Ishii, artista de efectos visuales" />
+<meta name="author" content="kayda" />
+<meta property="og:locale" content="es_ES" />
+<meta name="description" content="Se ha añadido una nueva entrada en el blog de desarrolladores, en la que entrevistan al artista de efectos visuales Takayasu Ishii." />
+<meta property="og:description" content="Se ha añadido una nueva entrada en el blog de desarrolladores, en la que entrevistan al artista de efectos visuales Takayasu Ishii." />
+<link rel="canonical" href="https://gaceta-eorzea.com/devblog-02/" />
+<meta property="og:url" content="https://gaceta-eorzea.com/devblog-02/" />
+<meta property="og:site_name" content="Gaceta Eorzea" />
+<meta property="og:image" content="https://gaceta-eorzea.com/assets/images/articles/devblog/02/portada.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-05-16T00:00:00+01:00" />
+<script type="application/ld+json">
+{"mainEntityOfPage":{"@type":"WebPage","@id":"https://gaceta-eorzea.com/devblog-02/"},"@type":"BlogPosting","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://gaceta-eorzea.com/assets/images/log.png"},"name":"kayda"},"image":"https://gaceta-eorzea.com/assets/images/articles/devblog/02/portada.png","url":"https://gaceta-eorzea.com/devblog-02/","author":{"@type":"Person","name":"kayda"},"headline":"Diario de desarrollo: entrevista a Takayasu Ishii, artista de efectos visuales","dateModified":"2022-05-16T00:00:00+01:00","description":"Se ha añadido una nueva entrada en el blog de desarrolladores, en la que entrevistan al artista de efectos visuales Takayasu Ishii.","datePublished":"2022-05-16T00:00:00+01:00","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Se ha añadido una nueva entrada en el blog de desarrolladores, en la que entrevistan al artista de efectos visuales Takayasu Ishii.">
+<meta name="twitter:title" content="Diario de desarrollo: entrevista a Takayasu Ishii, artista de efectos visuales | Gaceta Eorzea">
+<meta name="twitter:url" content="https://gaceta-eorzea.com/devblog-02/">
+<meta name="twitter:site" content="Gaceta Eorzea">
+<meta name="twitter:creator" content="@GacetaEorzea">
+<meta name="twitter:domain" content="https://gaceta-eorzea.com">
+
+
+<meta property="twitter:image" content="https://gaceta-eorzea.com/assets/images/articles/devblog/02/portada.png">
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    
+<link href="/assets/css/screen.css" rel="stylesheet">
+
+<link href="/assets/css/main.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2" crossorigin="anonymous"></script>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+
+
+<!-- change your GA id in _config.yml -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z6JRH15CR6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z6JRH15CR6');
+</script>
+
+
+</head>
+
+
+<body class="layout-post">
+
+    <script src="https://img.finalfantasyxiv.com/lds/pc/global/js/eorzeadb/loader.js?v2"></script>
+    
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+
+<!-- Begin Menu Navigation
+================================================== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+
+    <div class="container pr-0">    
+
+    <!-- Begin Logo -->
+    <a class="navbar-brand" href="/">
+    <img src="/assets/images/log.png" alt="Gaceta Eorzea">
+    </a>
+    <!-- End Logo -->    
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+
+        <!-- Begin Menu -->
+
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item">
+                
+                <a class="nav-link" href="/index.html">Artículos</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="/discord">Discord</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="/colabora">¡Colabora!</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="/streamers">Directos</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="/about">Acerca de..</a>
+                </li>                
+
+                <script src="/assets/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Escribe y enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/assets/js/lunrsearchengine.js"></script>
+
+            </ul>
+
+        <!-- End Menu -->
+
+    </div>
+
+    </div>
+</nav>
+<!-- End Navigation
+================================================== -->
+
+<div class="site-content">
+
+<div class="container">
+
+<!-- Site Title
+================================================== -->
+<div class="mainheading">    
+    <a href="https://twitter.com/GacetaEorzea" target="_blank"><i class="fab fa-twitter"></i></a>
+    <a href="/discord"><i class="fab fa-discord"></i></a>
+    
+    
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/herramientas">herramientas <span class="badge badge-primary">2</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/gold-saucer">gold saucer <span class="badge badge-primary">52</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/guías">guías <span class="badge badge-primary">28</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/parches">parches <span class="badge badge-primary">6</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/multimedia">multimedia <span class="badge badge-primary">17</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/noticias">noticias <span class="badge badge-primary">67</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/lore">lore <span class="badge badge-primary">44</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/encuestas">encuestas <span class="badge badge-primary">2</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/monturas">monturas <span class="badge badge-primary">5</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/entrevistas">entrevistas <span class="badge badge-primary">22</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/encuentros">encuentros <span class="badge badge-primary">15</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/relatos">relatos <span class="badge badge-primary">14</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/enciclopedia">enciclopedia <span class="badge badge-primary">22</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/fandub">fandub <span class="badge badge-primary">5</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/ocular">ocular <span class="badge badge-primary">8</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/jobs">jobs <span class="badge badge-primary">5</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/glamour">glamour <span class="badge badge-primary">1</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/diario">diario <span class="badge badge-primary">2</span></a>
+        
+            <a class="mt-1 mb-1 badge badge-secondary" href="/category/comunidad">comunidad <span class="badge badge-primary">2</span></a>
+        
+    
+            
+    <p class="lead">
+        Artículos y guías de Final Fantasy XIV en Español.
+    </p>
+</div>
+
+<!-- Content
+================================================== -->
+<div class="main-content">
+    <!-- Begin Article
+================================================== -->
+<div class="container">
+    <div class="row">
+
+        <!-- Post Share -->
+        <div class="col-md-2 pl-0">
+            <div class="share sticky-top sticky-top-offset">
+    <p>
+        Compartir
+    </p>
+    <ul>
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Diario de desarrollo: entrevista a Takayasu Ishii, artista de efectos visuales&nbsp; %23FFXIVESP&nbsp; %23FFXIV&nbsp; vía @GacetaEorzea&url=https://gaceta-eorzea.com/devblog-02/" onclick="window.open(this.href, 'twitter-share', 'width=750,height=500');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=https://gaceta-eorzea.com/devblog-02/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+
+    </ul>
+    
+    <div class="sep">
+    </div>
+    <ul>
+        <li>
+        <a class="small smoothscroll" href="#disqus_thread"></a>
+        </li>
+    </ul>
+    
+</div>
+
+        </div>
+
+        <!-- Post -->
+        
+
+        <div class="col-md-9 flex-first flex-md-unordered">
+            <div class="mainheading">
+
+                <!-- Author Box -->
+                
+                <div class="row post-top-meta">
+                    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                        
+                        <img class="author-thumb" src="/assets/images/avatars/kayda.jpg" alt="Kayda">
+                        
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                        
+                        Kayda
+                        
+                        
+                        <span class="author-description">Traductora y aficionada a los videojuegos. Estoy en Moogle (Chaos) jugando como RDM y GNB.</span>
+                    </div>
+                </div>
+                
+
+                <!-- Post Title -->
+                <h1 class="posttitle">Diario de desarrollo: entrevista a Takayasu Ishii, artista de efectos visuales</h1>
+
+            </div>
+
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            
+            <!-- End Adsense -->
+
+            <!-- Post Featured Image -->
+            
+            <p align="center">
+            
+            <img class="featured-image img-fluid" src="/assets/images/articles/devblog/02/portada.png" alt="Diario de desarrollo: entrevista a Takayasu Ishii, artista de efectos visuales">
+            
+            </p>
+            
+            <!-- End Featured Image -->
+
+            <!-- Post Content -->
+            <div class="article-post">
+                <!-- Toc if any -->
+                
+                <!-- End Toc -->
+                <p>Hoy os traemos la traducción de una nueva entrada del blog de desarrolladores, en la que Miyamiya, miembro del equipo de Promoción, entrevista al artista de efectos visuales Takayasu Ishii.</p>
+
+<p>Los efectos visuales (VFX) son elementos que realzan la expresividad y la viveza del juego de formas que no se consiguen en el mundo real. En esta entrevista, nos vamos entre bastidores para saber cómo se crean estos efectos.</p>
+
+<p align="center">
+    <img src="/assets/images/articles/devblog/02/imagen-2.jpg" alt="Ishii" /><br />
+    <sub><sup>Imagen del personaje que usa el señor Ishii durante el desarrollo desde <i>A Realm Reborn</i>, al que considera como su “compañero de trabajo”.</sup></sub>
+</p>
+
+<p><strong>Miyamiya</strong>: Para empezar, ¿podrías contarnos en qué trabajabas antes de unirte al equipo de desarrollo de FFXIV?</p>
+
+<p><strong>Ishii</strong>: Al principio trabajaba para una empresa de animación, en la que hacía secuencias compuestas (proceso por el cual se combinan varios elementos artísticos en 2D o 3D generado por ordenador). A raíz de esto, me empecé a interesar por los efectos visuales en los juegos. <em>Square Enix</em> fue la primera empresa que se me vino a la mente en cuanto a diseño gráfico, así que me uní a ellos en 2007. Trabajé en varios equipos, entre ellos los de <em>DISSIDIA FINAL FANTASY</em>, <em>DISSIDIA 012 FINAL FANTASY</em>, <em>FINAL FANTASY CRYSTAL CHRONICLES: The Crystal Bearers</em> y <em>FINAL FANTASY Type-0</em>. Tras adquirir experiencia con estos títulos, entré en el equipo de FFXIV cuando <em>A Realm Reborn</em> se estaba poniendo en marcha.</p>
+
+<p><strong>Miyamiya</strong>: ¿A qué se dedica el equipo de VFX en FFXIV?</p>
+
+<p><strong>Ishii</strong>: El equipo está dividido en tres, cada uno dedicado a una especialización: tenemos el equipo de VFX de escenas, el equipo de VFX de entornos y el equipo de VFX de combate.</p>
+
+<p>Como su nombre indica, el equipo de VFX de escenas se encarga de crear los efectos visuales de las escenas. El equipo de VFX de entornos está a cargo de los efectos visuales ambientales (lluvia, nieve, humo de los volcanes, el agua que salpica desde una cascada e incluso las mecánicas relacionadas con el entorno durante los combates contra jefes).</p>
+
+<p align="center">
+    <img src="/assets/images/articles/devblog/02/imagen-3.jpg" alt="Tataru" /><br />
+    <sub><sup>Los efectos rimbombantes durante las escenas están bien, pero los detalles como los ojos llorosos también son cautivadores.</sup></sub>
+</p>
+
+<p align="center">
+    <img src="/assets/images/articles/devblog/02/imagen-4.jpg" alt="Limitless Blue" /><br />
+    <sub><sup>El enfrentamiento <i>The Limitless Blue</i> está lleno de mecánicas relacionadas con la meteorología (nubes, lluvia…) y el equipo de VFX de entornos se ha encargado de ellas.</sup></sub>
+</p>
+
+<p>En mi caso, dirijo el equipo de VFX de combate, que hace efectos visuales tanto de enemigos como de los jugadores. Algunos de los aspectos en los que trabajamos son las acciones de combate, de artesanía y de recolecta, las monturas, los <em>minions</em>, los <em>emotes</em> y las armas.</p>
+
+<p align="center">
+    <img src="/assets/images/articles/devblog/02/imagen-5.jpg" alt="Paint" /><br />
+    <sub><sup>El equipo de VFX de combate fue el que creó el <i>emote</i> /paint. Tal vez os suene de verlo en <i>Sigmascape V2.0</i>.</sup></sub>
+</p>
+
+<p><strong>Miyamiya</strong>: Parece que los efectos visuales están en todas partes. ¿Puedes explicar cómo se suelen crear los efectos visuales de combate?</p>
+
+<p><strong>Ishii</strong>: Si se trata de acciones de profesión, los diseñadores proporcionan documentación de cada acción que nos dice si es de ataque o de cura, si afecta a un solo objetivo o si es en área, etc. La documentación suele venir en forma de texto, por lo que los artistas tienen libertad a la hora de crear elementos visuales.</p>
+
+<p align="center">
+    <img src="/assets/images/articles/devblog/02/imagen-6.jpg" alt="Performance" /><br />
+</p>
+
+<p>A partir de ahí, el equipo de animación boceta varias animaciones candidatas para cada acción. Después, el equipo de animación, junto con el equipo de VFX y Shinya Ichida (director del equipo de arte) revisan los bocetos y deciden con cuál se quedan. Una vez hecha la selección, empezamos a crear los efectos visuales basándonos en la animación y los refinamos hasta que adquieren su forma final, asegurándonos de que el diseño no se contradice con la finalidad o las especificaciones de la acción.</p>
+
+<p>Normalmente, el equipo de VFX puede dar rienda suelta a su imaginación cuando trabaja en los aspectos visuales. Sin embargo, hay excepciones en las que se necesita incorporar elementos preestablecidos, como en el caso del círculo mágico de Zodiark. En este tipo de situaciones, el equipo de arte proporciona un diseño basado en la historia que después usamos para diseñar los efectos visuales.</p>
+
+<p><strong>Miyamiya</strong>: Por lo que veo, en las acciones de combate, los efectos visuales y las animaciones van de la mano. ¿Cómo ha hecho tu equipo para crear los efectos visuales únicos de las profesiones de <em>Endwalker</em>, <em>reaper</em> y <em>sage</em>?</p>
+
+<p><strong>Ishii</strong>: Ya sabíamos que el <em>reaper</em> usaría una guadaña e invocaría un avatar del vacío, así que nos inspiramos en el tema de la oscuridad. Sin embargo, si usábamos solo tonos oscuros, se vería parecido al <em>dark knight</em> o a los Ascian, así que decidimos darle un color de base diferente, que dio como resultado el esquema de color negro-cian.</p>
+
+<p>Los colores de la gama de los verdes se suelen usar en las profesiones de curación, pero son poco comunes en tanques y DPS, así que pensamos que podría ser un rasgo característico del <em>reaper</em>. Por otra parte, los efectos visuales de profesiones anteriores hacen hincapié en el momento en el que impactan los golpes, mientras que, en este caso, pusimos más énfasis en la trayectoria de los ataques, con el fin de hacer una profesión distinta del resto a nivel visual.</p>
+
+<p align="center">
+    <img src="/assets/images/articles/devblog/02/imagen-7.jpg" alt="Guadaña" /><br />
+    <sub><sup>La estela de color cian que deja la guadaña llama la atención durante los combates.</sup></sub>
+</p>
+
+<p align="center">
+    <img src="/assets/images/articles/devblog/02/imagen-8.jpg" alt="Avatar" /><br />
+    <sub><sup>Se han asegurado de que los colores coincidan con la historia, así que los efectos visuales se vuelven de color rojo y negro cuando aparece el avatar.</sup></sub>
+</p>
+
+<p>Con <em>sage</em>, teníamos en mente una paleta de colores claros debido a su rol de curación. También teníamos los diseños de base de las armas (<em>nouliths</em>) e ilustraciones de Alphinaud y del equipamiento de la profesión, por lo que el blanco y el azul fueron una elección fácil. El equipo de arte nos pidió que añadiésemos a los <em>nouliths</em> un efecto visual de estela al sacarlos o guardarlos y vimos que el blanco y el azul funcionaban bien, lo cual ayudó también a tomar esta decisión.</p>
+
+<p align="center">
+    <img src="/assets/images/articles/devblog/02/imagen-9.jpg" alt="Sage" /><br />
+</p>
+
+<p>En cuanto a las acciones de profesión, <em>sage</em> usa barreras geométricas y ataques láser, a diferencia del <em>white mage</em> que lanza hechizos luminosos y etéreos, y nos hemos basado en la tecnología de Sharlayan para crear un diseño con un toque elegante. Además, los ataques y las curas se realizan a través de los <em>nouliths</em>, en vez de proceder del propio personaje. Por ello, esta arma tenía que convertirse en el centro de atención, lo que supuso un gran reto para la persona del equipo que estaba al cargo de ella.</p>
+
+<p align="center">
+    <img src="/assets/images/articles/devblog/02/imagen-10.jpg" alt="Barreras" /><br />
+</p>
+
+<p><strong>Miyamiya</strong>: Elegir los colores de base desde un principio ayuda a mantener un estilo consistente en los efectos visuales. Hay diversos puestos relacionados con el diseño en la industria, ¿qué crees que tiene de especial trabajar en los efectos visuales?</p>
+
+<p><strong>Ishii</strong>: Creo que la diversidad y libertad de expresión son los atractivos de los efectos visuales. Como he dicho antes, tenemos carta blanca a la hora de crear los elementos visuales, aunque el equipo de FFXIV documente lo que se tiene que hacer. No nos piden cosas muy específicas, sino que nos permiten crear lo que queramos y dan luz verde a aquello que cumpla con las especificaciones y calidad adecuadas de acuerdo con los estándares del juego. No cabe duda de que contar con total libertad creativa tiene sus dificultades, pero poder hacer lo que queramos sin restricciones es divertido y gratificante.</p>
+
+<p><strong>Miyamiya</strong>: Imagino que la libertad creativa es lo que permite seguir haciendo efectos visuales únicos y novedosos a pesar de la gran cantidad de contenido y de profesiones. De todos los efectos visuales de FFXIV en los que has trabajado, ¿cuál te parece el más memorable?</p>
+
+<p><strong>Ishii</strong>: En mi opinión, la habilidad <em>Passage of Arms</em> de <em>paladin</em>.</p>
+
+<p align="center">
+    <img src="/assets/images/articles/devblog/02/imagen-11.jpg" alt="Passage of Arms" /><br />
+    <sub><sup><i>Passage of Arms</i> es una habilidad de <i>paladin</i> que aumenta la probabilidad de bloqueo del usuario y reduce el daño que reciben los jugadores que se pongan detrás. Se puede usar casi en cualquier lugar, tanto en combate como en las ciudades.</sup></sub>
+</p>
+
+<p>Se trata de una habilidad que se puede usar en cualquier lugar y por lo tanto tiene que verse bien en cualquier entorno, pero además debe enfatizar el efecto de ponerse detrás del usuario. Me resultó muy duro trabajar con estos requisitos y entré en un ciclo de hacer cosas para luego descartarlas en la mayoría de los casos. Estoy seguro de que a los artistas les suena esto, pero cuando te pasas demasiado tiempo centrado en un proyecto, empiezas a dudar de si está bien o si está mal y piensas “¿qué se supone que estoy haciendo?”</p>
+
+<p>En vista de aquella situación, le enseñé mi boceto original a mi director por aquel entonces y a Yoshida, productor y director del juego. Gracias a sus comentarios positivos, pude ver que estaba bien encaminado y eso me motivó y me ayudó a terminar el proyecto. <em>Passage of Arms</em> es mi trabajo más memorable porque me recuerda mis dificultades y mis logros.</p>
+
+<p><strong>Miyamiya</strong>: <em>Passage of Arms</em> es muy vistoso, me gusta la sensación que da de estar protegido. Ahora me gustaría preguntarte por las armas con efectos visuales. Ha habido una gran cantidad de armas “brillantes” hasta la fecha, ¿hay alguna de las que hayas hecho tú que consideres tu favorita?</p>
+
+<p><strong>Ishii</strong>: De las armas en las que he trabajado, mis favoritas son las de Ravana.</p>
+
+<p align="center">
+    <img src="/assets/images/articles/devblog/02/imagen-12.jpg" alt="Ravana" /><br />
+    <sub><sup>Las armas de <i>Ravana</i> tienen un brillo rojizo y mariposas flotando alrededor.</sup></sub>
+</p>
+
+<p>Los efectos visuales se mantienen constantes siempre que se saca el arma, así que las limitaciones son más estrictas. Resulta más difícil darles animaciones fastuosas en comparación con los efectos de combate, por ejemplo, ya que estos solo se muestran una vez y en el momento en el que se activan.</p>
+
+<p>A pesar de las limitaciones, conseguí crear las mariposas usando modelos con el mínimo de polígonos. Tuve que ver secuencias a cámara superlenta de mariposas reales para poder reproducir sus movimientos de la forma más fiel posible, lo cual fue un trabajo muy meticuloso.</p>
+
+<p align="center">
+    <img src="/assets/images/articles/devblog/02/imagen-13.png" alt="Mallas" /><br />
+    <sub><sup>Las mariposas se crearon añadiendo texturas a esta malla (conjunto de polígonos) y moviéndola o girándola para dar el efecto de batir de alas.</sup></sub>
+</p>
+
+<p><strong>Miyamiya</strong>: Parece que este trabajo implica dar a las armas el mayor impacto visual posible dentro de sus limitaciones. ¿Podrías darnos alguna pista de cómo son las armas que dan como recompensa en <em>Dragonsong’s Reprise (Ultimate)</em>?</p>
+
+<p><strong>Ishii</strong>: Las armas de <em>Ultimate</em> anteriores tienen detalles relacionados con el enfrentamiento, como los engranajes de las armas de <em>The Epic of Alexander</em>. De manera similar, las armas de <em>Dragonsong’s Reprise</em> tienen ciertos detalles, pero… ya lo veréis.</p>
+
+<p><strong>Miyamiya</strong>: ¡Qué ganas tengo! Para terminar, ¿tienes algo que decir a los jugadores, o quizás te gustaría contar tus resoluciones para el futuro?</p>
+
+<p><strong>Ishii</strong>: He recibido mucho apoyo a través de vuestros comentarios en las redes sociales y en retransmisiones de las <em>Live Letters</em>. En ocasiones, me han servido para ver qué aspectos puedo mejorar, así que, si tenéis algo que decir de los efectos visuales, os agradecería que lo contaseis a través de los foros o redes sociales.</p>
+
+<p>FFXIV da mucha importancia a las variaciones en la percepción del color al mismo tiempo que se esfuerza por ofrecer coherencia y visibilidad en la experiencia de juego de todos los usuarios. También se puede mejorar la experiencia de juego a través de momentos conmovedores y sacando lo mejor de las profesiones y de los personajes. Me gustaría tener todos estos conceptos presentes mientras me sigo dedicando al arte de crear efectos visuales atractivos.</p>
+
+<p>Espero que esta entrevista haya despertado vuestro interés por los efectos visuales. ¡Muchas gracias por vuestro apoyo!</p>
+
+            </div>
+
+            <!-- Rating -->
+            
+
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="2022-05-16"><!-- Whitespace added for readability -->
+
+16
+Mayo
+  
+2022</time></span>           
+                
+                </small>
+            </p>
+
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/category/diario">diario</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Categories -->
+
+            <!-- Post Tags -->
+            <div class="after-post-tags">
+                <ul class="tags">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#diario">#diario</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#entrevista">#entrevista</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#traducion">#traducion</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Tags -->
+
+            <!-- Prev/Next -->
+            <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+            
+            <a class="prev d-block col-md-6" href="https://gaceta-eorzea.com//fashion220513/"> &laquo; Fashion Report 13 Mayo 2022</a>
+            
+            
+            <div class="clearfix"></div>
+            </div>
+            <!-- End Categories -->
+
+        </div>
+        <!-- End Post -->
+
+    </div>
+</div>
+<!-- End Article
+================================================== -->
+
+<!-- Begin Comments
+================================================== -->
+
+    <div class="container">
+        <div id="comments" class="row justify-content-center mb-5">
+            <div class="col-md-8">
+                <div class="commentbox"></div>
+<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+<script>commentBox('5656545253654528-proj')</script>
+            </div>
+        </div>
+    </div>
+
+<!--End Comments
+================================================== -->
+
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+
+</div>
+
+
+<!-- Bottom Alert Bar
+================================================== -->
+<div class="alertbar">
+	<div class="container text-center">
+		<span><img src="/assets/images/log.png" alt="Gaceta Eorzea" height="100"> &nbsp; No pierdas las actualizaciones, sigue nuestra cuenta de <a href="https://twitter.com/GacetaEorzea"><i class="fab fa-twitter"></i>twitter.</a></span>
+	</div>
+</div>
+
+    
+</div>
+
+<!-- Begin Footer
+================================================== -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                Copyright © 2022 Gaceta Eorzea © SQUARE ENIX CO., LTD. All Rights Reserved | FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd.
+            </div>
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
+                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts
+================================================== -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<script src="/assets/js/mediumish.js"></script>
+
+
+
+<script src="/assets/js/ie10-viewport-bug-workaround.js"></script> 
+
+
+<script id="dsq-count-scr" src="//https-gaceta-eorzea-com.disqus.com/count.js"></script>
+
+
+</body>
+</html>
