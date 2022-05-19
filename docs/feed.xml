@@ -5,9 +5,33 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 May 2022 10:06:18 +0100</pubDate>
-    <lastBuildDate>Wed, 18 May 2022 10:06:18 +0100</lastBuildDate>
+    <pubDate>Thu, 19 May 2022 20:15:28 +0100</pubDate>
+    <lastBuildDate>Thu, 19 May 2022 20:15:28 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>El Ocular Podcast: Hablando de la raid de 24, Ultimate y demás!</title>
+        <description>&lt;p&gt;Aquí tenéis la novena entrega del Podcast de &lt;a href=&quot;https://twitter.com/OcularEl&quot; target=&quot;_blank&quot;&gt;El Ocular&lt;/a&gt; con &lt;a href=&quot;https://twitter.com/ChocoFeru&quot; target=&quot;_blank&quot;&gt;Choco Feru&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/Habeces4&quot; target=&quot;_blank&quot;&gt;Noah&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/LiaTales_ffxiv&quot; target=&quot;_blank&quot;&gt;Lia Tales&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/trencapins&quot; target=&quot;_blank&quot;&gt;Elanor&lt;/a&gt; donde se hizo un resumen de las novedades del parche 6.1, que ha añadido la nueva raid de 24 personas, Aglaia, y la llegada del nuevo Ultimate (Dragonsong’s reprise)&lt;/p&gt;
+
+&lt;p&gt;Podéis ver el Podcast al completo en el vídeo a continuación. No os olvidéis de seguir &lt;a href=&quot;https://www.youtube.com/channel/UC0Ncgc0JH3CtDMraAIrlGkQ&quot; target=&quot;_blank&quot;&gt;el canal&lt;/a&gt; y darle like si os ha gustado.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/DKYpnUZ1QUw?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 19 May 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/el-ocular-09/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/el-ocular-09/</guid>
+        
+        <category>ocular</category>
+        
+        <category>podcast</category>
+        
+        
+        <category>ocular</category>
+        
+      </item>
     
       <item>
         <title>FFXIV Fandub : La Determinación de Ardbert</title>
@@ -657,188 +681,6 @@ Se realizará en un futuro un concurso para armas de Reaper y Sage, las cuales n
         <pubDate>Fri, 29 Apr 2022 00:00:00 +0100</pubDate>
         <link>https://gaceta-eorzea.com/concurso-armas-2022/</link>
         <guid isPermaLink="true">https://gaceta-eorzea.com/concurso-armas-2022/</guid>
-        
-        <category>noticias</category>
-        
-        <category>endwalker</category>
-        
-        
-        <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Notas del parche 6.11</title>
-        <description>&lt;p&gt;Ya tenemos las &lt;strong&gt;notas del parche 6.11&lt;/strong&gt; disponible, en este artículo os la &lt;strong&gt;resumimos&lt;/strong&gt;, aunque como siempre os recomendamos ver las &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/f525c780b9abdb74c5b664f799dd16ff9de9c7b1&quot; target=&quot;_blank&quot;&gt;notas completas&lt;/a&gt; por si queréis tener toda la información.&lt;/p&gt;
-
-&lt;h3 id=&quot;ajuste-de-acciones&quot;&gt;Ajuste de acciones&lt;/h3&gt;
-
-&lt;h4 id=&quot;gunbreaker&quot;&gt;Gunbreaker&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Gnashing Fang&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;360 a 380&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Savage Claw&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;440 a 460&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Wicked Talon&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;520 a 540&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Jugular Rip&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;180 a 200&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Abdomen Tear&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;220 a 240&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Eye Gouge&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;260 a 280&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;dragoon&quot;&gt;Dragoon&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Jump&lt;/strong&gt;: Cuando &lt;strong&gt;Jump cambia a Mirage Dive&lt;/strong&gt; habrá un pequeño &lt;strong&gt;retardo en el control de entrada&lt;/strong&gt; para &lt;strong&gt;evitar&lt;/strong&gt; la &lt;strong&gt;ejecución no intencionada&lt;/strong&gt; de Mirage Dive.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;High Jump&lt;/strong&gt;: Cuando &lt;strong&gt;High Jump cambia a Mirage Dive&lt;/strong&gt; habrá un pequeño &lt;strong&gt;retardo en el control de entrada&lt;/strong&gt; para &lt;strong&gt;evitar&lt;/strong&gt; la &lt;strong&gt;ejecución no intencionada&lt;/strong&gt; de Mirage Dive.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;samurai&quot;&gt;Samurai&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Midare Setsugekka&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;600 a 640&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kaeshi: Setsugekka&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;600 a 640&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Shoha&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;500 a 520&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;machinist&quot;&gt;Machinist&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Wildfire&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; de cada ataque aumenta de &lt;strong&gt;200 a 220&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;dragonsongs-reprise-ultimate&quot;&gt;Dragonsong’s Reprise (Ultimate)&lt;/h4&gt;
-
-&lt;p&gt;Se añadido el encuentro &lt;strong&gt;Dragonsong’s Reprise (Ultimate)&lt;/strong&gt;, para &lt;strong&gt;desbloquearlo&lt;/strong&gt; deberemos haber &lt;strong&gt;completado Asphodelos: The Fourth Circle (Savage)&lt;/strong&gt;, tras lo cual deberemos &lt;strong&gt;hablar con el Wandering Minstrel&lt;/strong&gt; en &lt;strong&gt;Old Sharlayan (X:12.7 Y:14.2)&lt;/strong&gt; con un personaje de combate de nivel 90.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/parche6_11/thordan.jpg&quot; alt=&quot;Thordan&quot; /&gt;    
-&lt;/p&gt;
-
-&lt;p&gt;Cuando &lt;strong&gt;completes el dutty&lt;/strong&gt; cada jugador, de manera &lt;strong&gt;individual&lt;/strong&gt;, obtendrá &lt;strong&gt;una&lt;/strong&gt; única &lt;strong&gt;recompensa por semana&lt;/strong&gt;. Los &lt;strong&gt;jugadores&lt;/strong&gt; que &lt;strong&gt;aun no la recibieron esa semana&lt;/strong&gt; podrán &lt;strong&gt;obtenerla incluso&lt;/strong&gt; se van con &lt;strong&gt;otros jugadores&lt;/strong&gt; que ya lo ha &lt;strong&gt;completado en esa semana&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;cambio-de-acciones-en-jcj&quot;&gt;Cambio de acciones en JcJ&lt;/h3&gt;
-
-&lt;h4 id=&quot;paladin&quot;&gt;Paladin&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Holy Sheltron&lt;/strong&gt;: La &lt;strong&gt;reducción de daño&lt;/strong&gt; ha sido cambiada de &lt;strong&gt;10% a 20%&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Atonement&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;600 a 640&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;warrior&quot;&gt;Warrior&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Bloodwhetting&lt;/strong&gt;:  El &lt;strong&gt;daño convertido en vida&lt;/strong&gt; ha sido &lt;strong&gt;reducido&lt;/strong&gt; de un &lt;strong&gt;100% a un 75%&lt;/strong&gt;. La &lt;strong&gt;barrera ha sido reducida&lt;/strong&gt; del &lt;strong&gt;20% al 10%&lt;/strong&gt; de la vida maxima.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;dark-knight&quot;&gt;Dark Knight&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Shadowbringer&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;4000 a 6000&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;The Blackest Night&lt;/strong&gt;: Tiempo de &lt;strong&gt;Reutilización&lt;/strong&gt; ha sido reducido de &lt;strong&gt;20 a 15 segundos&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;gunbreaker-1&quot;&gt;Gunbreaker&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Double Down&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;10000 a 12000&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Rough Divide&lt;/strong&gt;:  Se le &lt;strong&gt;añadido&lt;/strong&gt; un &lt;strong&gt;efecto&lt;/strong&gt; de &lt;strong&gt;incremento de velocidad&lt;/strong&gt; de movimiento.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Draw and Junction&lt;/strong&gt;: El estado de &lt;strong&gt;Junction Tank, Junction DPS o Junction Healer&lt;/strong&gt; &lt;strong&gt;no expirará&lt;/strong&gt; al ser &lt;strong&gt;incapacitado&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Relentless Rush&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;3000 a 4000&lt;/strong&gt;. Aumento del &lt;strong&gt;daño infligido al objetivo del 3% al 4%&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nebula&lt;/strong&gt;:  El efecto ha sido aumentado de &lt;strong&gt;6 a 10 segundos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Aurora&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;6000 a 8000&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;monk&quot;&gt;Monk&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Enlightenment&lt;/strong&gt;: El &lt;strong&gt;daño adicional&lt;/strong&gt; por el efecto de Pressure Point ha sido incrementado de &lt;strong&gt;8000 a 12000&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ninja&quot;&gt;Ninja&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Bunshin&lt;/strong&gt;: &lt;strong&gt;Duración&lt;/strong&gt; del efecto aumentada de &lt;strong&gt;15 a 30 seconds&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;samurai-1&quot;&gt;Samurai&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Hissatsu: Chiten&lt;/strong&gt;:  La &lt;strong&gt;reducción de daño&lt;/strong&gt; ha sido cambiada del &lt;strong&gt;50% al 25%&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Mineuchi&lt;/strong&gt;:  Duración del &lt;strong&gt;stun&lt;/strong&gt; reducida de &lt;strong&gt;3 a 2 segundos&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;reaper&quot;&gt;Reaper&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Arcane Crest&lt;/strong&gt;:  La &lt;strong&gt;potencia de la barrera&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;8000 a 12000&lt;/strong&gt;. Incrementada la potencia de la cura cuando termina la barrera de 4000 a 6000.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tenebrae Lemurum&lt;/strong&gt;: El &lt;strong&gt;tiempo&lt;/strong&gt; necesario para rellenar la barra de &lt;strong&gt;limit&lt;/strong&gt; ha sido &lt;strong&gt;reducido&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;bard&quot;&gt;Bard&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Final Fantasia&lt;/strong&gt;:  Aumentado el &lt;strong&gt;buffo de incremento de daño&lt;/strong&gt; en los aliados cercanos del &lt;strong&gt;5% al 10%&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;machinist-1&quot;&gt;Machinist&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Scattergun&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;4000 a 6000&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Aether Mortar&lt;/strong&gt;:  La &lt;strong&gt;potencia de la barrera&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;2400 a 4000&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;dancer&quot;&gt;Dancer&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Starfall Dance&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;8000 a 10000&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Honing Dance&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;2000 a 3000&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Curing Waltz&lt;/strong&gt;: Tiempo de &lt;strong&gt;Reutilización&lt;/strong&gt; ha sido reducido de &lt;strong&gt;30 a 20 segundos&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Saber Dance&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;8000 a 10000&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;black-mage&quot;&gt;Black Mage&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Fire&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;3000 a 4000&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Blizzard&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;3000 a 4000&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Night Wing&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; de los ataques en los &lt;strong&gt;enemigos en estado de sleep&lt;/strong&gt; ha sido aumentada de &lt;strong&gt;6000 a 8000&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Superflare&lt;/strong&gt;: Los &lt;strong&gt;objetivos&lt;/strong&gt; que estén a &lt;strong&gt;rango&lt;/strong&gt; de este ataque pero &lt;strong&gt;no&lt;/strong&gt; estén en &lt;strong&gt;linea de vision&lt;/strong&gt; &lt;strong&gt;no&lt;/strong&gt; obtendrán el &lt;strong&gt;debufo&lt;/strong&gt; de esta habilidad.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Flare&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;6000 a 8000&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Freeze&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;6000 a 8000&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Soul Resonance&lt;/strong&gt;: La &lt;strong&gt;duración del efecto de Polyglot&lt;/strong&gt; ha sido aumentada de &lt;strong&gt;30 a 60&lt;/strong&gt; segundos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;red-mage&quot;&gt;Red Mage&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Enchanted Riposte&lt;/strong&gt;:  La potencia del** daño periódico** con el efecto de &lt;strong&gt;Black Shift&lt;/strong&gt; ha sido reducida de &lt;strong&gt;4000 a 3000&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Enchanted Zwerchhau&lt;/strong&gt;:  La potencia del** daño periódico** con el efecto de &lt;strong&gt;Black Shift&lt;/strong&gt; ha sido reducida de &lt;strong&gt;4000 a 3000&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Enchanted Redoublement&lt;/strong&gt;:  La potencia del** daño periódico** con el efecto de &lt;strong&gt;Black Shift&lt;/strong&gt; ha sido reducida de &lt;strong&gt;4000 a 3000&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Resolution&lt;/strong&gt;: La duración del efecto de &lt;strong&gt;Silencio&lt;/strong&gt; bajo el efecto de &lt;strong&gt;White Shift&lt;/strong&gt; ha sido reducida de &lt;strong&gt;3 a 2 segundos&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;white-mage&quot;&gt;White Mage&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Afflatus Misery&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; reducida de &lt;strong&gt;12000 a 10000&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Afflatus Purgation&lt;/strong&gt;: Duración del &lt;strong&gt;stun de 3 a 2 segundos&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;scholar&quot;&gt;Scholar&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Adloquium&lt;/strong&gt;: La duración del efecto de incremento de daño ha pasado de 10 a 15 seconds.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Biolysis&lt;/strong&gt;: La duración del efecto de reducción de daño ha pasado de 10 a 15 seconds.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;astrologian&quot;&gt;Astrologian&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Macrocosmos&lt;/strong&gt;: &lt;strong&gt;Potencia&lt;/strong&gt; aumentada de &lt;strong&gt;8000 a 12000&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 26 Apr 2022 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/notas-6.11/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/notas-6.11/</guid>
         
         <category>noticias</category>
         
