@@ -5,9 +5,44 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 May 2022 11:33:14 +0100</pubDate>
-    <lastBuildDate>Tue, 24 May 2022 11:33:14 +0100</lastBuildDate>
+    <pubDate>Fri, 27 May 2022 09:50:43 +0100</pubDate>
+    <lastBuildDate>Fri, 27 May 2022 09:50:43 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Evento: The Make It Rain Campaign 2022</title>
+        <description>&lt;p&gt;Vuelve el evento de &lt;strong&gt;The Make It Rain Campaign&lt;/strong&gt;, el cual promociona las actividades dentro del Gold Saucer.&lt;/p&gt;
+
+&lt;p&gt;Este evento lo podremos realizar &lt;strong&gt;desde&lt;/strong&gt; el &lt;strong&gt;Viernes 3 de Junio&lt;/strong&gt; a las 10:00 hasta el &lt;strong&gt;Lunes 20 de Junio&lt;/strong&gt; a las 16:59.&lt;/p&gt;
+
+&lt;p&gt;Para empezar el evento deberemos aceptar la &lt;strong&gt;misión de nivel 15 A Prickly Plaint&lt;/strong&gt;, la cual nos la dará &lt;strong&gt;Ollier en Ul’dah Steps of Nald (X:9.4, Y9.2)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/maitrain2022/quest.jpg&quot; alt=&quot;Ollier&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tras &lt;strong&gt;completar las misiones&lt;/strong&gt; de evento obtendremos &lt;strong&gt;estas recompensas&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/maitrain2022/recompensas.jpg&quot; alt=&quot;recompensa&quot; /&gt;
+    &lt;br /&gt;
+    Emotes Show Left y Show Right.
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+Ademas &lt;b&gt;durante&lt;/b&gt; toda la &lt;b&gt;duración&lt;/b&gt; del &lt;b&gt;evento&lt;/b&gt; todas las &lt;b&gt;actividades&lt;/b&gt; en el Gold Saucer nos darán un &lt;b&gt;50% mas de MGP&lt;/b&gt; y ademas tendremos &lt;b&gt;descuentos&lt;/b&gt; en el precio de algunos de las recompensas.
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Fri, 27 May 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/maitrain2022/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/maitrain2022/</guid>
+        
+        <category>evento</category>
+        
+        <category>noticias</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Notas del parche 6.11a</title>
@@ -586,100 +621,6 @@ Por ultimo recordar que en el parche 6.1 introdujeron la montura &lt;b&gt;Pod 60
         
         
         <category>gold saucer</category>
-        
-      </item>
-    
-      <item>
-        <title>Sobre Herramientas externas</title>
-        <description>&lt;p&gt;Naoki Yoshida nos trae un mensaje sobre el uso de Herramientas externas en Final Fantasy XIV, el cual os traducimos íntegramente a continuación. Si queréis ver el artículo original podéis verlo en &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/68f4c4d3bdea34f732ee8db3425122b8b8d6ec3b&quot; target=&quot;_blank&quot;&gt;este enlace&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Hola, aqui Naoki Yoshida, Productor y Director de FINAL FANTASY XIV.&lt;/p&gt;
-
-&lt;p&gt;Con la salida del parche 6.11 y el Ultimate de Dragonsong’s Reprise hemos recibido comentarios de jugadores preocupados con el uso de herramientas externas al juego y la posible emulación de los servidores del juego. Aunque he hablado de estos temas en alguna de las cartas del productor EN VIVO quiero aprovechar la oportunidad para abordar el tema formalmente.&lt;/p&gt;
-
-&lt;p&gt;Tener en cuenta &lt;strong&gt;esto va a ser un comunicado extenso y con terminología técnica difícil de entender, y quizás no sea de interés para muchos jugadores&lt;/strong&gt;. De todas formas este anuncio esta creado para que sea leído íntegramente, &lt;strong&gt;por favor os pido que desistáis de compartir extractos del mismo fuera de contexto&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;uso-de-herramientas-externas&quot;&gt;Uso de Herramientas Externas&lt;/h4&gt;
-
-&lt;p&gt;Como indica los términos y condiciones de servicio de FINAL FANTASY XIV: &lt;strong&gt;el uso de herramientas externas está estrictamente prohibido&lt;/strong&gt;. Los jugadores que estén determinados a usar herramientas externas tendrán su &lt;strong&gt;cuentas suspendidas, o incluso baneadas permanentemente en casos de repetidos incumplimientos&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;definiendo-herramientas-externas&quot;&gt;Definiendo Herramientas Externas&lt;/h4&gt;
-
-&lt;p&gt;Hemos recibido peticiones de los jugadores para que definamos que herramientas son o no son permisibles, pero para poder hacer eso &lt;strong&gt;requeriría analizar todas las herramientas externas disponibles en internet, incluyendo dispositivos para jugadores y su funcionalidad. Desafortunadamente este esfuerzo es físicamente imposible&lt;/strong&gt;, por lo cual hemos decidido que simplemente prohibimos el uso de todas las herramientas y software externos.&lt;/p&gt;
-
-&lt;p&gt;De la misma forma, &lt;strong&gt;nos es imposible el comprobar que programas están instalado en cada uno de los ordenadores de los jugadores&lt;/strong&gt;. Por ello &lt;strong&gt;nos es imposible el identificar y reprender a los infractores en el 100% de los casos&lt;/strong&gt;. Para aclarar mejor nuestro proceso, os indicamos algunos ejemplos de &lt;strong&gt;violaciones de las normas que priorizamos en nuestra investigaciones&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Uso de herramientas que permiten a los jugadores el completar contenido de una forma mas fácil.&lt;/li&gt;
-  &lt;li&gt;Modificación de la interfaz de usuario para mostrar información adicional*.&lt;/li&gt;
-  &lt;li&gt;Usar herramientas de falsificación de paquetes de red (spoofing).&lt;/li&gt;
-  &lt;li&gt;Cualquier acción on declaración publica que promociona el uso de herramientas externas.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Cualquier informe de estas investigaciones justifican una investigación, y las cuentas que se determinen en violación de los términos y condiciones de servicio de juego serán suspendidas o beneadas. A menos que haya un cambio significativo en los términos y condiciones de servicio, lo cual sera anunciado públicamente, esta regla se mantiene tal cual está.&lt;/p&gt;
-
-&lt;h4 id=&quot;hacks-mods-y-riego-de-infección-por-software-malicioso&quot;&gt;Hacks, Mods y riego de infección por software malicioso&lt;/h4&gt;
-
-&lt;p&gt;Los Hacks son alteraciones sobre un programa que permiten realizar cosas que de otra forma serian imposible. &lt;strong&gt;En FFXIV, el cual depende ampliamente de comunicación cliente-servidor, el hackeo es mas dificil que en otros juegos online&lt;/strong&gt;. De cualquier forma, nuestras medidas de seguridad están siendo mejoradas constantemente, y continuaremos reforzándolas en el futuro. Las herramientas adicionales conocidas como &lt;strong&gt;“mods” permiten realizar otro tipo de cosas, como mostrar información adicional, que ha sido enviada por los servidores del juego, en pantalla o enviar paquetes de información falsos al servidor&lt;/strong&gt; para cambiar la ubicación del personaje. En este ultimo caso, tenemos un sistema que analiza y inspecciona el log del sistema permitiéndonos tomar acciones contra los tramposos que encontremos.&lt;/p&gt;
-
-&lt;p&gt;En resumen, el uso de estas herramientas, aunque no permite a los jugadores el completar el contenido de dificultad superior, high-end, automáticamente, tiene un riegos alto de ser penalizado, por lo que le pedimos que os abstengáis de usarlas.&lt;/p&gt;
-
-&lt;p&gt;Recibimos muchas consultas sobre &lt;strong&gt;infecciones de virus y spyware que roba las contraseñas de las cuentas después de descargar herramientas externas o plugins&lt;/strong&gt;. Para tener tu sistema protegido os pedimos que tengas buen juicio y os abstengáis de descargar innecesariamente herramientas de terceros o software de fuentes desconocidas.&lt;/p&gt;
-
-&lt;h4 id=&quot;mejoras-del-hud-y-otras-mejoras-de-la-ui&quot;&gt;*Mejoras del HUD y otras mejoras de la UI&lt;/h4&gt;
-
-&lt;p&gt;Entendemos que la gente usa las herramientas mencionadas anteriormente para expandir el HUD y mostrar mas información porque sienten que la la &lt;strong&gt;funcionalidad existente es insuficiente&lt;/strong&gt; para los encuentros de dificultad superior, high-end. En reconocimiento de esto, vamos a revisar las herramientas mas destacadas y para desalentar su uso &lt;strong&gt;mejorando la funcionalidad del HUD.&lt;/strong&gt; Aunque esto nos va a llevar tiempo, estamos decidios a hacerlo, especialmente para que &lt;strong&gt;también beneficie a los que juegan en consolas&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;los-encuentros-dificultad-superior-y-carreras-mundiales&quot;&gt;Los encuentros dificultad superior y Carreras Mundiales&lt;/h4&gt;
-
-&lt;p&gt;Lógicamente somos conscientes de las carreras mundiales para los encuentros de dificultad superior, high-end. Como desarrolladores, nos sentimos orgullosos de que hallamos llegado a estar entre los los juegos donde estas carreras existen, y nos maravilla el ver el gran numero de jugadores participando y el de espectadores con las siguen con gran interés.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pero una carrera debe ser justa&lt;/strong&gt;, y por ello nuestro deseo que los participantes &lt;strong&gt;no usen programas externos&lt;/strong&gt;. De hecho, nosotros solo lanzamos nuestros encuentros cuando podemos probar que pueden ser &lt;strong&gt;completado con las funciones estándar del juego&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Sin ninguna duda, el encuentro del parche 6.11 Dragonsong’s Reprise es el encuentro mas difícil que hemos creado. Algunos pueden que lo comparen con Unending Coil of Bahamut, pero considerando lo que han mejorado la habilidad de nuestro jugadores, el incremento del numero de acciones y mecánicas complejas, este nuevo Ultimate destaca sobre los demás. El poder haberlo completado en tan poco tiempo requiere gran destreza individual, trabajo en equipo y apoyo mutuo, podéis considerarme como un jugador, gamer, totalmente impresionado.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Como estas carreras no son oficiales, normalmente nos limitamos a algún breve comentario cuando varios equipos han completado el encuentro&lt;/strong&gt;. Solemos felicitar via nuestra cuenta oficial de Twitter y confirmar la hora exacta, &lt;strong&gt;queremos confirmar vuestros logros y contribuir a la emoción de comunidad&lt;/strong&gt;. Sin embargo, si nuestra participación incentiva competitividad excesiva y controversia sobre el uso de los jugadores de herramientas externa, tendremos que lamentar que quizás debamos reconsiderar el realizar comentarios en un futuro.&lt;/p&gt;
-
-&lt;h4 id=&quot;mineo-de-datos-y-capturas-filtradas&quot;&gt;Mineo de datos y Capturas Filtradas&lt;/h4&gt;
-
-&lt;p&gt;Debido a un descuido por el equipo de desarrollo, &lt;strong&gt;datos de los modelos de Dragonsong’s Reprise estaban presentes en los datos del parche 6.08. Estos datos fueron minados, y la apariencia del jefe final del encuentro se distribuyo públicamente&lt;/strong&gt;. Datos como este suele estar cifrado y no puede ser descubierto, pero en esta ocasión se nos escapo en nuestros controles internos.&lt;/p&gt;
-
-&lt;p&gt;Adicionalmente, y virtualmente exactamente cuando el parche fue lanzado, &lt;strong&gt;una captura de pantalla de una fase a la que los jugadores aun no habían llegado fue filtrada, leaked. Creemos que el origen es de alguien dentro de la organización, y ahora mismo estamos en medio de una investigación extensiva sobre el asunto&lt;/strong&gt;. Hemos sido reticentes de comunicar esto antes para no dañar la investigación evitando que el sospechoso se de cuenta de ella. &lt;strong&gt;Este tipo de filtraciones son totalmente inaceptables, no solo socavan el esfuerzo del equipo de desarrollo y operaciones, sino que ademas afectan al disfrute de nuestro jugadores&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Anteriormente, cuando ocurrió una filtración mayor previa lanzamiento de Shadowbringers, conseguimos identificar al culpable y &lt;strong&gt;tomar acciones legales&lt;/strong&gt;. Que ahora tengamos otra filtración nos preocupa profundamente, por ademas de tomar acciones contra el ofensor vamos a tomar medidas para prevenir o repetir esta situación.&lt;/p&gt;
-
-&lt;p&gt;Bien, siendo recursos gráficos o cualquier otra cosa, puede haber &lt;strong&gt;ramificaciones legales por minar datos privados de formar ilícita con la intención de hacerlos públicos&lt;/strong&gt;. Quizás por el gran interés hemos visto &lt;strong&gt;webs que abiertamente muestran datos gráficos minados&lt;/strong&gt;. Como muestra de admiración hacia los que completan un Ultimate diseñamos las armas para que sea llamativas, y el &lt;strong&gt;difundir abiertamente sus imágenes fuera del juego puede desmotivar a los jugadores para obtenerlas&lt;/strong&gt;. He pedido esto antes, y lo vuelvo a hacer: &lt;strong&gt;por favor, absteneros de difundir información minada&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;emulación-de-servidores&quot;&gt;Emulación de Servidores&lt;/h4&gt;
-
-&lt;p&gt;La filtración de la cual hablamos anteriormente llevo a que se &lt;strong&gt;especulara que ciertos grupos han usado emuladores de servidores para encontrar la secuencia de eventos del combate&lt;/strong&gt;. Sin embargo &lt;strong&gt;FFXIV se ejecuta en una variedad de programas operando en una multitud de servidores especializados, lo cual hace que el emular el entorno del servidor fuera de nuestra infraestructura es imposible&lt;/strong&gt; y menos aun su imposible coste, decenas de millones de yen, solo para tener los servidores requeridos. Sin estos servidores y su software propietario, aunque puedas mostrar los datos de un modelo el juego en si no funcionaria.&lt;/p&gt;
-
-&lt;p&gt;Incluso aunque alguien pudiera llegar a hacer funciona esta proeza, seria &lt;strong&gt;físicamente imposible introducir el código creado para el parche en los servidores, antes de que el parche sea lanzado&lt;/strong&gt;. La secuencia de eventos de cada combate existe solo en el código de la parte servidor, y nunca sera incluido ni puede ser descargado en los clientes de los jugadores.&lt;/p&gt;
-
-&lt;p&gt;Me disculpo por las preocupaciones que estos rumores han creado, los cuales se iniciaron debido a la filtración, una vez mas reitero que llevaros una concienzuda investigación para prevenir que esto vuelva a pasar en un futuro.&lt;/p&gt;
-
-&lt;h4 id=&quot;en-conclusión&quot;&gt;En Conclusión&lt;/h4&gt;
-
-&lt;p&gt;Gracias a nuestros dedicados Guerreros de la Luz, Warriors of Light, FINAL FANTASY XIV ha crecido a un titan entre los juegos. Esto quire decir que es el hogar de todo tipo de jugadores, no solo que han sido fans de FFXIV por muchos años, sino también aquellos nuevos jugadores que han venido a unirse a nuestra comunidad. Con muchos mas ojos atentos a FFXIV publicar sobre el atrae mucha atención, lo cual ha cambiado como la información se comparte y difunde entre los jugadores.&lt;/p&gt;
-
-&lt;p&gt;Reflexionando sobre esto, quiero alentar el desarrollo de una fuerte comunidad en FFXIV brindando comentarios como el que he hecho hoy. Sinceramente, no puedo disculparme lo suficiente por los errores que hemos hecho en el 6.1, y la decepción resultante en un parche mayor.&lt;/p&gt;
-
-&lt;p&gt;Sin embargo, tenemos la intención de seguir adelante para que FFXIV pueda continuar brindando alegría a tantos jugadores como sea posible, ¡y esperamos que od quedéis con nosotros en este viaje!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Naoki Yoshida&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;FINAL FANTASY XIV Producer &amp;amp; Director&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 May 2022 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/herramientas-externas/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/herramientas-externas/</guid>
-        
-        <category>noticias</category>
-        
-        <category>endwalker</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
