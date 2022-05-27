@@ -5,9 +5,102 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 May 2022 15:03:11 +0100</pubDate>
-    <lastBuildDate>Fri, 27 May 2022 15:03:11 +0100</lastBuildDate>
+    <pubDate>Fri, 27 May 2022 17:40:40 +0100</pubDate>
+    <lastBuildDate>Fri, 27 May 2022 17:40:40 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Sobre los cambios de balanceo en PvP (JcJ)</title>
+        <description>&lt;p&gt;Naoki Yoshida nos trae un mensaje sobre el balanceo en PvP (JcJ) clarificando los cambios recientes en el parche &lt;a href=&quot;/notas-6.11a/&quot; target=&quot;_blank&quot;&gt;6.11a&lt;/a&gt; y en el proximo futuro.&lt;/p&gt;
+
+&lt;p&gt;Hola, aqui Naoki Yoshida, Productor y Director de FINAL FANTASY XIV.&lt;/p&gt;
+
+&lt;p&gt;El parche 6.11a incluyó una variedad de ajuste para el balanceo de varios jobs en PvP (JcJ), notablemente en el mago negro. Hemos recibido una gran cantidad de comentarios sobre estos cambios, y en retrospectiva, creo que nos excedimos en alguno de estos ajuste. Por ello pido disculpas. Por favor ten en cuenta que intentaremos resolver parte de esto en el proximo parche 6.15, el cual sera lanzado el proximo dia &lt;strong&gt;7 de junio&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ademas hemos recibido preguntas sobre ¿Como decidimos los ajustes para el balanceo?, ¿Como de frecuentemente ocurrirán? y ¿Cuando podremos ver alguno de ellos en Frontline?. Intentare responder a estas preguntas en a continuación.&lt;/p&gt;
+
+&lt;h3 id=&quot;cambios-en-crystalline-conflict-detalles-y-planificación&quot;&gt;Cambios en Crystalline Conflict: Detalles y Planificación&lt;/h3&gt;
+
+&lt;h4 id=&quot;-porcentajes-de-victoria-por-job-en-partidas-entre-jugadores-de-distintos-jobs&quot;&gt;① Porcentajes de victoria por Job (en partidas entre jugadores de distintos jobs)&lt;/h4&gt;
+
+&lt;p&gt;Mantenemos un registro interno del numero de partidas ganadas por los jugadores entre los distintos jobs. Idealmente, aspiramos que el promedio sea del 50% para cada job.&lt;/p&gt;
+
+&lt;p&gt;Adicionalmente separamos las estadísticas entre diversas categorías como, casual, puntuadas y expertos, para entender mejor las tendencias (o meta) entre los distintos subgrupos.&lt;/p&gt;
+
+&lt;p&gt;Cuando un job empieza a mostrar promedios de victoria superiores al 50% investigamos la causa mientras ademas escuchamos los comentarios recibidos de los jugadores. Si encontramos alguna acción abrumadoras (overpowered), o quizás una combinación de ellas que potencialmente crean una ventaja injusta, implementamos cambios de balanceo de manera que aun asi sigan preservando la identidad distintiva del job.&lt;/p&gt;
+
+&lt;p&gt;Los trabajos cuyos promedios de victorias sean inferiores al 50% son tratados similarmente, en lugar de simplemente coger el trabajo “débil” y hacerlo “fuerte”, intentamos mejorar sus características únicas en una manera que sea orgánica y les ayude a incrementar su probabilidad de victoria.&lt;/p&gt;
+
+&lt;p&gt;Al fin y al cabo, intentamos que los encuentros PvP sean decididos por el conocimiento de los jugadores sobre su job y contra el que se enfrentan, de la ejecución estratégica de tanto acciones ofensiva y defensivas y de su capacidad de adaptarse al equipo con el que son emparejados aleatoriamente. Continuaremos ajustando el sistema tanto y como sea necesario para poder ofrece la experiencia mas balanceada posible.&lt;/p&gt;
+
+&lt;h4 id=&quot;-promedio-de-uso-de-jobs&quot;&gt;② Promedio de uso de Jobs&lt;/h4&gt;
+
+&lt;p&gt;Otro de los factores que consideramos para evaluar los ajustes de balanceo es el promedio de uso de los jobs por parte de los jugadores. Como con el promedio de victorias separamos las estadísticas entre categorías y solo consideramos los datos de las partidas en las que los jugadores de distintos jobs se enfrentan. Sin embargo, a diferencia de con las promedios de victorias, nuestra objetivos no es homogeneizar el uso de los jobs, creemos que los jugadores deben elegir el job por preferencia personal y esto lógicamente fluctúa. En su lugar, miramos al promedio de uso de los jobs en casos extremos, lo cual puede indiciar que un job es demasiado “complicado” o “fácil” de usar, lo cual puede conllevar algún problema aun por determinar.&lt;/p&gt;
+
+&lt;p&gt;Cuando algún job es significativamente mas o menos usado por los jugadores revivamos tanto los comentarios recibidos de los jugadores como participar nosotros mismos en partidas, para poder ver problemas en el balanceo de acciones o las mecánica básica del job. Como dijimos anteriormente, cuando realizamos cambios intentamos sobre todo preservar la identidad individual de cada job mientras intentamos ver como reforzar aquellos que necesitan ayuda.&lt;/p&gt;
+
+&lt;h4 id=&quot;-planificación-de-los-cambios-de-balanceo&quot;&gt;③ Planificación de los cambios de Balanceo&lt;/h4&gt;
+
+&lt;p&gt;Como recibimos una cantidad abrumadora de comentarios sobre Crystalline Conflict, después de su lanzamiento en el parche 6.1, queríamos implementar todos los cambios de balanceo necesario tan pronto como fuese posible para poder mejorar la experiencia de nuestros jugadores.&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, como FFXIV es un proyecto que require desarrollo simultaneo y constante en una gran variedad de contenido, nuestra planificación de salida del siguiente parche es increíblemente detallada  y decidida con antelación. Por ejemplo, los jugadores han recibido el parche 6.11a el Martes 24 de Mayo, pero los desarrolladores terminaron de implementar los ajustes el 6 de Mayo (En realidad, extendimos la fecha de entrega al dia 7 ya que el equipo de desarrollo insistía en terminarla al dedillo dentro de loa ajustada que es la fechas de entrega)&lt;/p&gt;
+
+&lt;p&gt;Acordemente, el los cambios de balanceo de las acciones de PvP del parche 6.11a están basado en los datos y comentarios recibidos hasta el dia 6 de Mayo, y otros que han podido ocurrir después de esas fechas serán resueltos en una actualización futura.&lt;/p&gt;
+
+&lt;p&gt;Como desarrolladores, siempre tenemos presente el deseo de ajustar y corregir hasta el problema mas ínfimo que ocurra. Sin embargo, la realidad dicta que muchos de estos cambios necesites al menos un par de semanas para ser depurados, implementados, revisados, añadidos a las notas del parche, actualizados en la guía del Job y mas.&lt;/p&gt;
+
+&lt;p&gt;Los cambios que llegaron al parche 6.11a fueron particularmente extensos y implementados relativamente pronto, causando en algunos jugadores el lamentar el no poder explorar el Crystalline Conflict en el estado que fue lanzado.&lt;/p&gt;
+
+&lt;p&gt;Reflexionando sobre ello, debemos aceptar que el haber esperado a lanzamiento del parche 6.16 para lanzar juntos todos los cambios necesarios habría sido mejor que precipitarse a lanzar un parche intermedio como hicimos. Esperando al parche 6.15 nos habría dado mas tiempo para verificar y probar los cambios, asegurándonos que resultaban en un juego (gameplay) balanceado. (En resultado, los únicos cambios que vamos a realizar sobre PvP en el parche 6.15 serán aquellos que intenta resolver los problemas descubiertos tras lanzar el parche 6.11a, y ajustes al mago negro sobre el que hablare a continuación). Esperamos acordarnos de esto para próximas actualizaciones que tengan como ambición el entregar cambios de balanceo efectivos y estables en un futuro.&lt;/p&gt;
+
+&lt;h4 id=&quot;-sobre-los-recientes-cambios-en-el-mago-negro&quot;&gt;④ Sobre los recientes cambios en el Mago Negro&lt;/h4&gt;
+
+&lt;p&gt;Considerando lo que hemos explicado anteriormente en los puntos ① y ② y en la gran cantidad de comentarios recibidos, nos dimos cuenta a partir del 6 de Mayo, que el mago negro era el job con el peor porcentaje de victorias de todas las categorías. (Como referencia, el mago negro tenia un 14% menos que el job con con el porcentaje mas alto de victorias). Como nos dimos cuenta de este problema durante la fecha de entrega elaborada en el punto ③, los cambios necesarios para fortalecer a este job fueron incorporados prematuramente en el parche 6.11a. En los días posteriores tuve el privilegio de luchar contra muchos de vosotros en mi investigación personal de los problemas del mago negro.&lt;/p&gt;
+
+&lt;p&gt;Como muchos sabéis, el estilo de combate en general del mago negro se basa en el lanzamiento de hechizos, especialmente en AoE, DoTs y limitar el movimiento del oponente. Aunque este job tiene la capacidad potencia de infligir daño masivo, especialmente con su limit break, su baja vida y pocos métodos de auto-defensa hacen difícil que el mago negro pueda utilizar su limite antes de que le mate un combatiente a cuerpo-a-cuerpo. Dicho esto, mi impresión personal después de numerosas partidas de Crystalline Conflict es que en manos de un jugador de PvP experimentado el mago negro tiene la capacidad de destacar en estos combates.&lt;/p&gt;
+
+&lt;p&gt;Llegue a esta realización cuando el parche 6.11a ya había sido enviado para darle los toques finales. Lo que deberían haber sido unos pequeños cambios se convirtieron en cambios mayores, que conllevar un resultado de potenciación abrumadora (overpowred) al mago negro. Añadir el efecto de heavy, darle multiples cargas de Paradox o reducir el tiempo de lanzamiento de hechizos (casteo) ha otorgado al mago negro una ventaja indudable, la cual queremos revertir en un parche futuro. También queremos reducir la defensa que le otorga su limite break con la acción Soul Resonance.&lt;/p&gt;
+
+&lt;p&gt;Quiero enfatizar que el mago negro no recibe ningún trato de preferencia por estos comentarios; evaluamos cada ajuste de balanceo de todos los jobs con el mismo escrutinio. Solo comento este caso particular como un ejemplo que fue particularmente inconveniente y frustrante para muchos jugadores, por eso lamento mucho los problemas que hemos podido causar.&lt;/p&gt;
+
+&lt;h3 id=&quot;ajuste-de-los-jobs-en-frontline&quot;&gt;Ajuste de los Jobs en Frontline&lt;/h3&gt;
+
+&lt;p&gt;Como comentaba anteriormente, el poner mas énfasis en ajustar y balancear Crystalline Conflict, el nuevo modo PvP, ha repercutido en tener algunos jobs “sobre-“ o “bajo-“ representados en Frontline.&lt;/p&gt;
+
+&lt;p&gt;Esta tomando mas tiempo del que esperábamos, pero los ajustes para Frontline volverán en el parche 6.18, tenemos planeados los siguientes cambios:&lt;/p&gt;
+
+&lt;h4 id=&quot;-ajuste-al-daño-infligido-y-recibido-para-todos-los-jobs-en-frontline&quot;&gt;① Ajuste al daño infligido y recibido para todos los jobs en Frontline&lt;/h4&gt;
+
+&lt;p&gt;Dado que el numero de participantes y la longitud del combate cambia sustancialmente entre Crystalline Conflict y Frontline, realizaremos ajustes específicos para Frontline de el daño infligido y recibido para todos los jobs de cara a partidas mas balanceadas.&lt;/p&gt;
+
+&lt;h4 id=&quot;-ajuste-a-la-frecuencia-del-uso-del-limit-break&quot;&gt;② Ajuste a la frecuencia del uso del limit break&lt;/h4&gt;
+
+&lt;p&gt;Con el primer ajuste, la frecuencia en la que se podrá usar el Limit Breaks deberá ser ajustada al numero de participantes, por ello estamos trabajando en equilibrarla tambien.&lt;/p&gt;
+
+&lt;p&gt;Hemos empezado ya a implementar estos cambios para que estén disponibles en el parche 6.18, tendremos detalles mas específicos para Frontline en el parche 6.2 y posteriores, incluyendo funcionalidad para poder hacer cambios específicos para Frontline.&lt;/p&gt;
+
+&lt;p&gt;Nuestra intención, no solo para estos cambios sino todos los que hagamos en Frontline en un futuro, es preservar lo que hace a este modo especial: casual, batallas a gran escala, donde los jugadores tienen la libertar de cambiar de job sin necesidad de roles específicos.&lt;/p&gt;
+
+&lt;p&gt;Una vez mas quiero disculparme por el tiempo que no es esta llevando el balanceo de Frontline. Aunque tarde tiempo vamos a revisar los registros de las partidas, una vez decidido los ajustes, implementados y probados. Vuestra paciencia es muy apreciada.&lt;/p&gt;
+
+&lt;p&gt;Nuestro error de cálculo en los ajustes de balanceo de PvP ha causado una gran frustración, como lo demuestran los abrumadores comentarios que hemos recibido. Sin embargo, creo que tales comentarios son indicativos de la popularidad sin precedentes de PvP. Al igual que con la historia y otros contenidos PvE, tener por seguro que haremos todo lo posible para que el PvP en FINAL FANTASY XIV sea una experiencia que todos puedan disfrutar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naoki Yoshida&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Director y Productor de FINAL FANTASY XIV&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 May 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/sobre-balanceo-pvp/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/sobre-balanceo-pvp/</guid>
+        
+        <category>noticias</category>
+        
+        <category>endwalker</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Evento: The Make It Rain Campaign 2022</title>
@@ -487,146 +580,6 @@ Esperamos que os guste tanto como a nosotros.&lt;/p&gt;
         
         
         <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Diario de desarrollo: entrevista a Takayasu Ishii, artista de efectos visuales</title>
-        <description>&lt;p&gt;Hoy os traemos la traducción de una nueva entrada del blog de desarrolladores, en la que Miyamiya, miembro del equipo de Promoción, entrevista al artista de efectos visuales Takayasu Ishii.&lt;/p&gt;
-
-&lt;p&gt;Los efectos visuales (VFX) son elementos que realzan la expresividad y la viveza del juego de formas que no se consiguen en el mundo real. En esta entrevista, nos vamos entre bastidores para saber cómo se crean estos efectos.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-2.jpg&quot; alt=&quot;Ishii&quot; /&gt;&lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Imagen del personaje que usa el señor Ishii durante el desarrollo desde &lt;i&gt;A Realm Reborn&lt;/i&gt;, al que considera como su “compañero de trabajo”.&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: Para empezar, ¿podrías contarnos en qué trabajabas antes de unirte al equipo de desarrollo de FFXIV?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: Al principio trabajaba para una empresa de animación, en la que hacía secuencias compuestas (proceso por el cual se combinan varios elementos artísticos en 2D o 3D generado por ordenador). A raíz de esto, me empecé a interesar por los efectos visuales en los juegos. &lt;em&gt;Square Enix&lt;/em&gt; fue la primera empresa que se me vino a la mente en cuanto a diseño gráfico, así que me uní a ellos en 2007. Trabajé en varios equipos, entre ellos los de &lt;em&gt;DISSIDIA FINAL FANTASY&lt;/em&gt;, &lt;em&gt;DISSIDIA 012 FINAL FANTASY&lt;/em&gt;, &lt;em&gt;FINAL FANTASY CRYSTAL CHRONICLES: The Crystal Bearers&lt;/em&gt; y &lt;em&gt;FINAL FANTASY Type-0&lt;/em&gt;. Tras adquirir experiencia con estos títulos, entré en el equipo de FFXIV cuando &lt;em&gt;A Realm Reborn&lt;/em&gt; se estaba poniendo en marcha.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: ¿A qué se dedica el equipo de VFX en FFXIV?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: El equipo está dividido en tres, cada uno dedicado a una especialización: tenemos el equipo de VFX de escenas, el equipo de VFX de entornos y el equipo de VFX de combate.&lt;/p&gt;
-
-&lt;p&gt;Como su nombre indica, el equipo de VFX de escenas se encarga de crear los efectos visuales de las escenas. El equipo de VFX de entornos está a cargo de los efectos visuales ambientales (lluvia, nieve, humo de los volcanes, el agua que salpica desde una cascada e incluso las mecánicas relacionadas con el entorno durante los combates contra jefes).&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-3.jpg&quot; alt=&quot;Tataru&quot; /&gt;&lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Los efectos rimbombantes durante las escenas están bien, pero los detalles como los ojos llorosos también son cautivadores.&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-4.jpg&quot; alt=&quot;Limitless Blue&quot; /&gt;&lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;El enfrentamiento &lt;i&gt;The Limitless Blue&lt;/i&gt; está lleno de mecánicas relacionadas con la meteorología (nubes, lluvia…) y el equipo de VFX de entornos se ha encargado de ellas.&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;En mi caso, dirijo el equipo de VFX de combate, que hace efectos visuales tanto de enemigos como de los jugadores. Algunos de los aspectos en los que trabajamos son las acciones de combate, de artesanía y de recolecta, las monturas, los &lt;em&gt;minions&lt;/em&gt;, los &lt;em&gt;emotes&lt;/em&gt; y las armas.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-5.jpg&quot; alt=&quot;Paint&quot; /&gt;&lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;El equipo de VFX de combate fue el que creó el &lt;i&gt;emote&lt;/i&gt; /paint. Tal vez os suene de verlo en &lt;i&gt;Sigmascape V2.0&lt;/i&gt;.&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: Parece que los efectos visuales están en todas partes. ¿Puedes explicar cómo se suelen crear los efectos visuales de combate?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: Si se trata de acciones de profesión, los diseñadores proporcionan documentación de cada acción que nos dice si es de ataque o de cura, si afecta a un solo objetivo o si es en área, etc. La documentación suele venir en forma de texto, por lo que los artistas tienen libertad a la hora de crear elementos visuales.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-6.jpg&quot; alt=&quot;Performance&quot; /&gt;&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;A partir de ahí, el equipo de animación boceta varias animaciones candidatas para cada acción. Después, el equipo de animación, junto con el equipo de VFX y Shinya Ichida (director del equipo de arte) revisan los bocetos y deciden con cuál se quedan. Una vez hecha la selección, empezamos a crear los efectos visuales basándonos en la animación y los refinamos hasta que adquieren su forma final, asegurándonos de que el diseño no se contradice con la finalidad o las especificaciones de la acción.&lt;/p&gt;
-
-&lt;p&gt;Normalmente, el equipo de VFX puede dar rienda suelta a su imaginación cuando trabaja en los aspectos visuales. Sin embargo, hay excepciones en las que se necesita incorporar elementos preestablecidos, como en el caso del círculo mágico de Zodiark. En este tipo de situaciones, el equipo de arte proporciona un diseño basado en la historia que después usamos para diseñar los efectos visuales.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: Por lo que veo, en las acciones de combate, los efectos visuales y las animaciones van de la mano. ¿Cómo ha hecho tu equipo para crear los efectos visuales únicos de las profesiones de &lt;em&gt;Endwalker&lt;/em&gt;, &lt;em&gt;reaper&lt;/em&gt; y &lt;em&gt;sage&lt;/em&gt;?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: Ya sabíamos que el &lt;em&gt;reaper&lt;/em&gt; usaría una guadaña e invocaría un avatar del vacío, así que nos inspiramos en el tema de la oscuridad. Sin embargo, si usábamos solo tonos oscuros, se vería parecido al &lt;em&gt;dark knight&lt;/em&gt; o a los Ascian, así que decidimos darle un color de base diferente, que dio como resultado el esquema de color negro-cian.&lt;/p&gt;
-
-&lt;p&gt;Los colores de la gama de los verdes se suelen usar en las profesiones de curación, pero son poco comunes en tanques y DPS, así que pensamos que podría ser un rasgo característico del &lt;em&gt;reaper&lt;/em&gt;. Por otra parte, los efectos visuales de profesiones anteriores hacen hincapié en el momento en el que impactan los golpes, mientras que, en este caso, pusimos más énfasis en la trayectoria de los ataques, con el fin de hacer una profesión distinta del resto a nivel visual.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-7.jpg&quot; alt=&quot;Guadaña&quot; /&gt;&lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;La estela de color cian que deja la guadaña llama la atención durante los combates.&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-8.jpg&quot; alt=&quot;Avatar&quot; /&gt;&lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Se han asegurado de que los colores coincidan con la historia, así que los efectos visuales se vuelven de color rojo y negro cuando aparece el avatar.&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Con &lt;em&gt;sage&lt;/em&gt;, teníamos en mente una paleta de colores claros debido a su rol de curación. También teníamos los diseños de base de las armas (&lt;em&gt;nouliths&lt;/em&gt;) e ilustraciones de Alphinaud y del equipamiento de la profesión, por lo que el blanco y el azul fueron una elección fácil. El equipo de arte nos pidió que añadiésemos a los &lt;em&gt;nouliths&lt;/em&gt; un efecto visual de estela al sacarlos o guardarlos y vimos que el blanco y el azul funcionaban bien, lo cual ayudó también a tomar esta decisión.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-9.jpg&quot; alt=&quot;Sage&quot; /&gt;&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;En cuanto a las acciones de profesión, &lt;em&gt;sage&lt;/em&gt; usa barreras geométricas y ataques láser, a diferencia del &lt;em&gt;white mage&lt;/em&gt; que lanza hechizos luminosos y etéreos, y nos hemos basado en la tecnología de Sharlayan para crear un diseño con un toque elegante. Además, los ataques y las curas se realizan a través de los &lt;em&gt;nouliths&lt;/em&gt;, en vez de proceder del propio personaje. Por ello, esta arma tenía que convertirse en el centro de atención, lo que supuso un gran reto para la persona del equipo que estaba al cargo de ella.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-10.jpg&quot; alt=&quot;Barreras&quot; /&gt;&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: Elegir los colores de base desde un principio ayuda a mantener un estilo consistente en los efectos visuales. Hay diversos puestos relacionados con el diseño en la industria, ¿qué crees que tiene de especial trabajar en los efectos visuales?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: Creo que la diversidad y libertad de expresión son los atractivos de los efectos visuales. Como he dicho antes, tenemos carta blanca a la hora de crear los elementos visuales, aunque el equipo de FFXIV documente lo que se tiene que hacer. No nos piden cosas muy específicas, sino que nos permiten crear lo que queramos y dan luz verde a aquello que cumpla con las especificaciones y calidad adecuadas de acuerdo con los estándares del juego. No cabe duda de que contar con total libertad creativa tiene sus dificultades, pero poder hacer lo que queramos sin restricciones es divertido y gratificante.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: Imagino que la libertad creativa es lo que permite seguir haciendo efectos visuales únicos y novedosos a pesar de la gran cantidad de contenido y de profesiones. De todos los efectos visuales de FFXIV en los que has trabajado, ¿cuál te parece el más memorable?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: En mi opinión, la habilidad &lt;em&gt;Passage of Arms&lt;/em&gt; de &lt;em&gt;paladin&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-11.jpg&quot; alt=&quot;Passage of Arms&quot; /&gt;&lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;&lt;i&gt;Passage of Arms&lt;/i&gt; es una habilidad de &lt;i&gt;paladin&lt;/i&gt; que aumenta la probabilidad de bloqueo del usuario y reduce el daño que reciben los jugadores que se pongan detrás. Se puede usar casi en cualquier lugar, tanto en combate como en las ciudades.&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Se trata de una habilidad que se puede usar en cualquier lugar y por lo tanto tiene que verse bien en cualquier entorno, pero además debe enfatizar el efecto de ponerse detrás del usuario. Me resultó muy duro trabajar con estos requisitos y entré en un ciclo de hacer cosas para luego descartarlas en la mayoría de los casos. Estoy seguro de que a los artistas les suena esto, pero cuando te pasas demasiado tiempo centrado en un proyecto, empiezas a dudar de si está bien o si está mal y piensas “¿qué se supone que estoy haciendo?”&lt;/p&gt;
-
-&lt;p&gt;En vista de aquella situación, le enseñé mi boceto original a mi director por aquel entonces y a Yoshida, productor y director del juego. Gracias a sus comentarios positivos, pude ver que estaba bien encaminado y eso me motivó y me ayudó a terminar el proyecto. &lt;em&gt;Passage of Arms&lt;/em&gt; es mi trabajo más memorable porque me recuerda mis dificultades y mis logros.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: &lt;em&gt;Passage of Arms&lt;/em&gt; es muy vistoso, me gusta la sensación que da de estar protegido. Ahora me gustaría preguntarte por las armas con efectos visuales. Ha habido una gran cantidad de armas “brillantes” hasta la fecha, ¿hay alguna de las que hayas hecho tú que consideres tu favorita?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: De las armas en las que he trabajado, mis favoritas son las de Ravana.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-12.jpg&quot; alt=&quot;Ravana&quot; /&gt;&lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Las armas de &lt;i&gt;Ravana&lt;/i&gt; tienen un brillo rojizo y mariposas flotando alrededor.&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Los efectos visuales se mantienen constantes siempre que se saca el arma, así que las limitaciones son más estrictas. Resulta más difícil darles animaciones fastuosas en comparación con los efectos de combate, por ejemplo, ya que estos solo se muestran una vez y en el momento en el que se activan.&lt;/p&gt;
-
-&lt;p&gt;A pesar de las limitaciones, conseguí crear las mariposas usando modelos con el mínimo de polígonos. Tuve que ver secuencias a cámara superlenta de mariposas reales para poder reproducir sus movimientos de la forma más fiel posible, lo cual fue un trabajo muy meticuloso.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/devblog/02/imagen-13.png&quot; alt=&quot;Mallas&quot; /&gt;&lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Las mariposas se crearon añadiendo texturas a esta malla (conjunto de polígonos) y moviéndola o girándola para dar el efecto de batir de alas.&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: Parece que este trabajo implica dar a las armas el mayor impacto visual posible dentro de sus limitaciones. ¿Podrías darnos alguna pista de cómo son las armas que dan como recompensa en &lt;em&gt;Dragonsong’s Reprise (Ultimate)&lt;/em&gt;?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: Las armas de &lt;em&gt;Ultimate&lt;/em&gt; anteriores tienen detalles relacionados con el enfrentamiento, como los engranajes de las armas de &lt;em&gt;The Epic of Alexander&lt;/em&gt;. De manera similar, las armas de &lt;em&gt;Dragonsong’s Reprise&lt;/em&gt; tienen ciertos detalles, pero… ya lo veréis.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Miyamiya&lt;/strong&gt;: ¡Qué ganas tengo! Para terminar, ¿tienes algo que decir a los jugadores, o quizás te gustaría contar tus resoluciones para el futuro?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ishii&lt;/strong&gt;: He recibido mucho apoyo a través de vuestros comentarios en las redes sociales y en retransmisiones de las &lt;em&gt;Live Letters&lt;/em&gt;. En ocasiones, me han servido para ver qué aspectos puedo mejorar, así que, si tenéis algo que decir de los efectos visuales, os agradecería que lo contaseis a través de los foros o redes sociales.&lt;/p&gt;
-
-&lt;p&gt;FFXIV da mucha importancia a las variaciones en la percepción del color al mismo tiempo que se esfuerza por ofrecer coherencia y visibilidad en la experiencia de juego de todos los usuarios. También se puede mejorar la experiencia de juego a través de momentos conmovedores y sacando lo mejor de las profesiones y de los personajes. Me gustaría tener todos estos conceptos presentes mientras me sigo dedicando al arte de crear efectos visuales atractivos.&lt;/p&gt;
-
-&lt;p&gt;Espero que esta entrevista haya despertado vuestro interés por los efectos visuales. ¡Muchas gracias por vuestro apoyo!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 May 2022 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/devblog-02/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/devblog-02/</guid>
-        
-        <category>traducion</category>
-        
-        <category>diario</category>
-        
-        <category>entrevista</category>
-        
-        
-        <category>diario</category>
         
       </item>
     
