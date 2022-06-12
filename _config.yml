@@ -113,6 +113,12 @@ authors:
       display_name: "Kayda"
       avatar: 'assets/images/avatars/kayda.jpg'
       description: "Traductora y aficionada a los videojuegos. Estoy en Moogle (Chaos) jugando como RDM y GNB."           
+  ffxivesp:
+      name: FFXIVESP 
+      display_name: "FFXIVESP"
+      avatar: 'assets/images/avatars/ffxivesp.jpg'
+      twitter: https://twitter.com/FFXIVESP_
+      description: "¡Comunidad hispanohablante de FFXIV!"      
   # Plugins            
   # Plugins
 plugins:
