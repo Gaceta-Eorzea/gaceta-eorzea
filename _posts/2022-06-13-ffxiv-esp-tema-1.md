@@ -7,7 +7,7 @@ tags: [ffxivesp, comunidad]
 image: assets/images/articles/ffxivesp/temas/01/portada.jpg
 description: "Semana temática de FFXIVESP : Oscuridad"
 featured: false
-hidden: true
+hidden: false
 ---
 
 Estas son las imágenes recibidas en la **primera semana temática** de la [comunidad hispanohablante de Final Fantasy XIV](https://twitter.com/FFXIVESP_){:target="_blank"}, donde los WoL participantes enviaron **imágenes** de su personaje con la **temática** correspondiente: **Oscuridad**.
