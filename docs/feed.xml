@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Jun 2022 09:51:50 +0100</pubDate>
-    <lastBuildDate>Mon, 27 Jun 2022 09:51:50 +0100</lastBuildDate>
+    <pubDate>Mon, 27 Jun 2022 10:59:10 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Jun 2022 10:59:10 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -448,6 +448,70 @@
         
         
         <category>ffxivesp</category>
+        
+      </item>
+    
+      <item>
+        <title>Adición de nuevos Mundos Europeos</title>
+        <description>&lt;p&gt;Tal como se anunció en un comunicado anterior, se va a realizar una &lt;strong&gt;expansión&lt;/strong&gt; en dos fases de los &lt;strong&gt;centros de datos europeos&lt;/strong&gt;. La primera fase se llevará a cabo el &lt;strong&gt;5 de julio&lt;/strong&gt;, durante las tareas de mantenimiento de cara al lanzamiento del parche 6.18, y en ella &lt;strong&gt;se añadirán 4 Mundos nuevos&lt;/strong&gt;, 2 por cada centro de datos:&lt;/p&gt;
+
+&lt;p&gt;Mundos añadidos en &lt;em&gt;Chaos&lt;/em&gt;: &lt;em&gt;Sagittarius&lt;/em&gt; y &lt;em&gt;Phantom&lt;/em&gt;.&lt;br /&gt;
+Mundos añadidos en &lt;em&gt;Light&lt;/em&gt;: &lt;em&gt;Alpha&lt;/em&gt; y &lt;em&gt;Raiden&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Debido a la &lt;strong&gt;implementación del sistema de viajes entre centros de datos&lt;/strong&gt; y a la ampliación de los servidores en Japón y Europa, las tareas de &lt;strong&gt;mantenimiento durarán 24 horas&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;bonificaciones&quot;&gt;BONIFICACIONES&lt;/h4&gt;
+
+&lt;p&gt;Si &lt;strong&gt;creas un personaje&lt;/strong&gt; o &lt;strong&gt;transfieres&lt;/strong&gt; uno ya existente a un mundo recién añadido, obtendrás una serie de &lt;strong&gt;bonificaciones&lt;/strong&gt;. Ten en cuenta que el &lt;strong&gt;servicio de cambio de Mundo principal&lt;/strong&gt; estará &lt;strong&gt;suspendido de forma temporal&lt;/strong&gt; antes del mantenimiento que se hará de cara al parche 6.18 y se reanudará en cuanto hayan comprobado que los cambios implementados en los servidores de Europa y Japón y el nuevo sistema de viajes entre centros de datos funcionan correctamente.&lt;/p&gt;
+
+&lt;h4 id=&quot;bonificaciones-por-crear-un-personaje-en-un-mundo-nuevo&quot;&gt;Bonificaciones por crear un personaje en un Mundo nuevo&lt;/h4&gt;
+
+&lt;p&gt;Al iniciar sesión por primera vez:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Doble de experiencia hasta nivel 80.&lt;/li&gt;
+  &lt;li&gt;10 plumas de chocobo plateadas, que se pueden intercambiar por equipamiento de nivel bajo-medio.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Si llegas a nivel 30 con cualquiera de las clases:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1 000 000 de guiles*.&lt;/li&gt;
+  &lt;li&gt;15 días de acceso al juego gratis**.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;*Solo se recibe una vez por cada cuenta del servicio.&lt;/p&gt;
+
+&lt;p&gt;**Solo se recibe una vez por cada cuenta del servicio al crear un personaje nuevo tanto en un Mundo recién añadido como en un Mundo preferente.&lt;/p&gt;
+
+&lt;h4 id=&quot;bonificaciones-por-transferir-un-personaje-a-un-mundo-nuevo&quot;&gt;Bonificaciones por transferir un personaje a un Mundo nuevo&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Cambio de Mundo principal gratuito*.&lt;/li&gt;
+  &lt;li&gt;Doble de experiencia hasta nivel 80 (válido durante los 90 días posteriores a la transferencia).&lt;/li&gt;
+  &lt;li&gt;10 plumas de chocobo doradas, que se pueden intercambiar por recompensas especiales, entre ellas monturas.&lt;/li&gt;
+  &lt;li&gt;Si tienes una parcela privada o un apartamento, recibirás una compensación en forma de guiles**.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;*No recibirás esta bonificación si te cambias de un Mundo nuevo a otro.&lt;/p&gt;
+
+&lt;p&gt;**Si tienes una parcela privada, no renuncies a ella. Quita todos los muebles, retira la casa de la parcela y luego cambia de Mundo principal. En caso de tener un apartamento, no lo desocupes. Quita todos los muebles y luego cambia de Mundo principal. 
+Los Mundos nuevos mantendrán este estado hasta que la cantidad de jugadores activos en ellos llegue a un cierto número. Una vez que los Mundos dejan de tener esta categoría, no se podrán recibir las bonificaciones mencionadas anteriormente. En el caso de los personajes nuevos, las bonificaciones se mantendrán durante 90 días (incluido el día en el que se creó el personaje), independientemente de los posibles cambios de estado del Mundo.&lt;/p&gt;
+
+&lt;h4 id=&quot;información-sobre-la-compra-de-parcelas&quot;&gt;INFORMACIÓN SOBRE LA COMPRA DE PARCELAS&lt;/h4&gt;
+
+&lt;p&gt;La compra de parcelas &lt;strong&gt;no estará disponible&lt;/strong&gt; en los Mundos nuevos con la salida del parche 6.18. Antes de poner en marcha este servicio, es necesario comprobar que los cambios implementados en los servidores de Europa y Japón y el nuevo sistema de viajes entre centros de datos funcionan correctamente y después, reanudar el servicio de cambio de Mundo principal.&lt;br /&gt;
+Todas las parcelas de los Mundos nuevos estarán sujetas al &lt;strong&gt;sistema de sorteos&lt;/strong&gt;. Además, no se podrá acceder a las &lt;strong&gt;zonas residenciales&lt;/strong&gt; de los Mundos nuevos hasta que se active la compra de parcelas. Si necesitas completar alguna de las misiones que desbloquean las distintas zonas residenciales, puedes hacerlo visitando otro Mundo.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Jun 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/expansion-servidores-jul-22/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/expansion-servidores-jul-22/</guid>
+        
+        <category>noticias</category>
+        
+        <category>traducción</category>
+        
+        <category>servidores</category>
+        
+        
+        <category>noticias</category>
         
       </item>
     
@@ -1888,30 +1952,6 @@ Por ultimo recordar que en el parche 6.1 introdujeron la montura &lt;b&gt;Pod 60
         
         
         <category>gold saucer</category>
-        
-      </item>
-    
-      <item>
-        <title>El Ocular Podcast: Addons, Housing y más</title>
-        <description>&lt;p&gt;Aquí tenéis la décima primera entrega del Podcast de &lt;a href=&quot;https://twitter.com/OcularEl&quot; target=&quot;_blank&quot;&gt;El Ocular&lt;/a&gt; con &lt;a href=&quot;https://twitter.com/ChocoFeru&quot; target=&quot;_blank&quot;&gt;Choco Feru&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/Habeces4&quot; target=&quot;_blank&quot;&gt;Noah&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/LiaTales_ffxiv&quot; target=&quot;_blank&quot;&gt;Lia Tales&lt;/a&gt;, y de invitado &lt;a href=&quot;https://twitter.com/Aryn_XIV&quot; target=&quot;_blank&quot;&gt;Aryn&lt;/a&gt; donde hablaron de teorías en el Lore, poniéndonos al día con la actualidad y hablando sobre las declaraciones de Yoshi-P sobre los cambios de PVP.&lt;/p&gt;
-
-&lt;p&gt;Podéis ver el Podcast al completo en el vídeo a continuación. No os olvidéis de seguir &lt;a href=&quot;https://www.youtube.com/channel/UC0Ncgc0JH3CtDMraAIrlGkQ&quot; target=&quot;_blank&quot;&gt;el canal&lt;/a&gt; y darle like si os ha gustado.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/tMAihvh2-rw?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Fri, 10 Jun 2022 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/el-ocular-11/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/el-ocular-11/</guid>
-        
-        <category>ocular</category>
-        
-        <category>podcast</category>
-        
-        
-        <category>ocular</category>
         
       </item>
     
