@@ -5,9 +5,234 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Jul 2022 11:23:04 +0100</pubDate>
-    <lastBuildDate>Mon, 04 Jul 2022 11:23:04 +0100</lastBuildDate>
+    <pubDate>Mon, 04 Jul 2022 14:24:25 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Jul 2022 14:24:25 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Notas del parche 6.18</title>
+        <description>&lt;p&gt;Ya tenemos las &lt;strong&gt;notas del parche 6.18&lt;/strong&gt; disponibles, en este artículo os la &lt;strong&gt;resumimos&lt;/strong&gt;, aunque como siempre os recomendamos ver las &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/c9a406ea32e9be602e61a9e396b94ae0a5917aee&quot; target=&quot;_blank&quot;&gt;notas completas&lt;/a&gt; por si queréis tener toda la información.&lt;/p&gt;
+
+&lt;h3 id=&quot;sistema-de-combate&quot;&gt;Sistema de Combate&lt;/h3&gt;
+
+&lt;h4 id=&quot;asphodelos-normal&quot;&gt;Asphodelos Normal&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Se &lt;strong&gt;elimina la restricción semanal&lt;/strong&gt; de obtener &lt;strong&gt;Unsung Blades of Asphodelos&lt;/strong&gt;, la cual se obtiene en el &lt;strong&gt;cuarto circulo&lt;/strong&gt;. Con &lt;strong&gt;4 de ellas y 500 Allagan Tomestone of Astronomy&lt;/strong&gt; permite ser cambiada por un &lt;strong&gt;arma de 590 iLvl&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;asphodelos-savage&quot;&gt;Asphodelos Savage&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ahora &lt;strong&gt;siempre&lt;/strong&gt; aparecerán &lt;strong&gt;dos cofres&lt;/strong&gt; cada circulo completado, y la &lt;strong&gt;restricción de loot semanal desaparece&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;La &lt;strong&gt;restricción semanal de entrar&lt;/strong&gt; a un circulo &lt;strong&gt;desaparece&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Ahora &lt;strong&gt;podemos entrar directamente a cualquiera de los círculos&lt;/strong&gt;, sin tener que haber completado el previo anteriormente.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;aumentado-de-armas-de-astronomy&quot;&gt;Aumentado de armas de Astronomy&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Podemos &lt;strong&gt;aumentar las armas de Astronomy&lt;/strong&gt; obtenidas con &lt;strong&gt;Allagan Tomestone of Astronomy&lt;/strong&gt; en el NPC &lt;strong&gt;Khaldeen en Radz-at-Han (X:10.9 Y:10.4)&lt;/strong&gt; usando &lt;strong&gt;Radiant Roborant&lt;/strong&gt; que podemos obtener por una &lt;strong&gt;Aglaia Coin&lt;/strong&gt; en el NPC &lt;strong&gt;Nesvaaz, en Radz-at-Han (X:10.6 Y:10.0)&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;jcj&quot;&gt;JcJ&lt;/h3&gt;
+
+&lt;h4 id=&quot;paladin&quot;&gt;Paladin&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Holy Sheltron&lt;/strong&gt; : La &lt;strong&gt;reducción de daño&lt;/strong&gt; del efecto &lt;strong&gt;Knight’s Resolve&lt;/strong&gt;  ha sido reducido del &lt;strong&gt;20% al 15%&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;marauder--warrior&quot;&gt;Marauder / Warrior&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Onslaught&lt;/strong&gt; : La &lt;strong&gt;potencia base&lt;/strong&gt; ha sido &lt;strong&gt;incrementada de 400 a 500&lt;/strong&gt;. La &lt;strong&gt;potencia maxima&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;4000 a 5000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Orogeny&lt;/strong&gt; : La &lt;strong&gt;potencia base&lt;/strong&gt; ha sido &lt;strong&gt;incrementada de 800 a 1000&lt;/strong&gt;. La &lt;strong&gt;potencia maxima&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;8000 a 10000&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dark-knight&quot;&gt;Dark Knight&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Bloodspiller&lt;/strong&gt; : La &lt;strong&gt;potencia base&lt;/strong&gt; ha sido &lt;strong&gt;incrementada de 4000 a 6000&lt;/strong&gt;. La &lt;strong&gt;orquilla para alcanzar la potencia maxima&lt;/strong&gt; ha sido cambiada de vida &lt;strong&gt;por debajo de 20% de Vida a 25% de vida&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Eventide&lt;/strong&gt; : La &lt;strong&gt;potencia base&lt;/strong&gt; ha sido &lt;strong&gt;incrementada de 1 a 10000&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;gunbreaker&quot;&gt;Gunbreaker&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Burst Strike&lt;/strong&gt; : La &lt;strong&gt;potencia base&lt;/strong&gt; ha sido &lt;strong&gt;incrementada de 6000 a 7000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hypervelocity&lt;/strong&gt; : La &lt;strong&gt;potencia base&lt;/strong&gt; ha sido &lt;strong&gt;incrementada de 2000 a 3000&lt;/strong&gt;. La &lt;strong&gt;potencia de escudo de Junction de Tanke&lt;/strong&gt; pasa de &lt;strong&gt;5000 a 6000&lt;/strong&gt;. La &lt;strong&gt;potencia de Junction de DPS&lt;/strong&gt; pasa de &lt;strong&gt;4000 a 5000&lt;/strong&gt;. La &lt;strong&gt;potencia de sanación Junction de Healer&lt;/strong&gt; pasa de &lt;strong&gt;3000 a 4000&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ninja&quot;&gt;Ninja&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Seiton Tenchu&lt;/strong&gt; : La &lt;strong&gt;duración del efecto&lt;/strong&gt; de &lt;strong&gt;Unsealed Seiton Tenchu&lt;/strong&gt; ha sido reducida de &lt;strong&gt;10 a 8 segundos&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;machinist&quot;&gt;Machinist&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Blast Charge&lt;/strong&gt; : Ahora proporciona un &lt;strong&gt;bono de velocidad&lt;/strong&gt; de movimiento con cuando estamos &lt;strong&gt;Overheated&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aether Mortar&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido &lt;strong&gt;incrementada de 4000 a 6000&lt;/strong&gt;. La &lt;strong&gt;potencia de barrera&lt;/strong&gt; ha sido &lt;strong&gt;incrementada de 4000 a 6000&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dancer&quot;&gt;Dancer&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Honing Dance&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido &lt;strong&gt;incrementada de 3000 a 4000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reverse Cascade&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido &lt;strong&gt;incrementada de 5000 a 6000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fountainfall&lt;/strong&gt; : La &lt;strong&gt;potencia&lt;/strong&gt; ha sido &lt;strong&gt;incrementada de 7000 a 8000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Saber Dance&lt;/strong&gt; : El &lt;strong&gt;bono de daño&lt;/strong&gt; ha sido &lt;strong&gt;incrementado de 5%. a 10%&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;black-mage&quot;&gt;Black Mage&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Burst&lt;/strong&gt; : La &lt;strong&gt;potencia de barrera&lt;/strong&gt; ha sido &lt;strong&gt;reducida de 16000 a 12000&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Superflare&lt;/strong&gt; : La enemigos en el efecto de Umbral Freeze obtendrán un nuevo perjuicio dependiendo del numero de cargas que tengan durante 2 segundos.
+    &lt;ul&gt;
+      &lt;li&gt;Con &lt;strong&gt;1 stack&lt;/strong&gt; : &lt;strong&gt;Heavy&lt;/strong&gt;.&lt;/li&gt;
+      &lt;li&gt;Con &lt;strong&gt;2 stacks&lt;/strong&gt; : &lt;strong&gt;Bind&lt;/strong&gt;.&lt;/li&gt;
+      &lt;li&gt;Con &lt;strong&gt;3 stacks&lt;/strong&gt; : &lt;strong&gt;Deep Freeze&lt;/strong&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;summoner&quot;&gt;Summoner&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fester&lt;/strong&gt; : La &lt;strong&gt;potencia base&lt;/strong&gt; ha sido &lt;strong&gt;incrementada de 3000 a 4000&lt;/strong&gt;. La &lt;strong&gt;potencia maxima&lt;/strong&gt; ha sido incrementada de &lt;strong&gt;6000 a 8000&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;astrologian&quot;&gt;Astrologian&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gravity II&lt;/strong&gt; : El &lt;strong&gt;efecto de Heavy&lt;/strong&gt; sera aplicado al &lt;strong&gt;primer objetivo&lt;/strong&gt;. Cuando lanzamos &lt;strong&gt;Gravity II después de un Double Cast&lt;/strong&gt; el &lt;strong&gt;efecto de Bind&lt;/strong&gt; sera aplicado al &lt;strong&gt;primer objetivo&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;crystalline-conflict&quot;&gt;Crystalline Conflict&lt;/h3&gt;
+
+&lt;p&gt;Terminar la primera temporada y empieza la segunda.&lt;/p&gt;
+
+&lt;p&gt;Cuando termine la primera season &lt;strong&gt;los 100 primeros del ranking recibirán unos voucher via el correo de moogle&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Los &lt;strong&gt;jugadores que hayan acabado en rango bronze o superior&lt;/strong&gt; pueden obtener sus &lt;strong&gt;recompensas&lt;/strong&gt; hablando con el &lt;strong&gt;Seasonal Quartermaster en Wolves’ Den Pier (X:4.9 Y:5.7)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;frontline&quot;&gt;Frontline&lt;/h3&gt;
+
+&lt;h4 id=&quot;ajuste-de-la-barra-de-limite&quot;&gt;Ajuste de la barra de limite&lt;/h4&gt;
+
+&lt;p&gt;Se ha cambiado la velocidad en la que se rellena las barras de limite.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Antes
+    &lt;ul&gt;
+      &lt;li&gt;1º Ninguno&lt;/li&gt;
+      &lt;li&gt;2º 1.25 veces mas rápido&lt;/li&gt;
+      &lt;li&gt;3º 1.5 veces mas rápido&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ahora
+    &lt;ul&gt;
+      &lt;li&gt;1º 0.75 veces mas lento&lt;/li&gt;
+      &lt;li&gt;2º Ninguno&lt;/li&gt;
+      &lt;li&gt;3º 1.25 veces mas rápido&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ajuste-de-bonificaciones-de-daño&quot;&gt;Ajuste de bonificaciones de daño&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Daño recibido&lt;/strong&gt; para &lt;strong&gt;tanks y melees&lt;/strong&gt; DPS cambia de &lt;strong&gt;-40% a -60%&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Daño recibido&lt;/strong&gt; para &lt;strong&gt;ranged y magical&lt;/strong&gt; DPS cambia de &lt;strong&gt;-20% a -30%&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Daño infligido&lt;/strong&gt; por &lt;strong&gt;summmoner, scholar y white mage&lt;/strong&gt; cambia de &lt;strong&gt;0% a -10%&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sistema&quot;&gt;Sistema&lt;/h3&gt;
+
+&lt;h4 id=&quot;nuevo-servidores-en-europa&quot;&gt;Nuevo Servidores en Europa&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chaos
+    &lt;ul&gt;
+      &lt;li&gt;Sagittarius&lt;/li&gt;
+      &lt;li&gt;Phantom&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Light
+    &lt;ul&gt;
+      &lt;li&gt;Alpha&lt;/li&gt;
+      &lt;li&gt;Raiden&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sistema-de-viaje-entre-data-centers-habilitado&quot;&gt;Sistema de viaje entre Data Centers habilitado&lt;/h4&gt;
+
+&lt;p&gt;Para usar el nuevo sistema de viaje entre data centers des la misma region:&lt;/p&gt;
+
+&lt;p&gt;Desde la &lt;strong&gt;pantalla de selección de personaje&lt;/strong&gt;, &lt;strong&gt;botón derecho/submenu&lt;/strong&gt; en el &lt;strong&gt;personaje&lt;/strong&gt; que deseamos transferir y elegimos &lt;strong&gt;Visit Another Data Center&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/parche6_18/notas-6_18_1.png&quot; alt=&quot;Parcher 6.18&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seleccionamos&lt;/strong&gt; el &lt;strong&gt;&lt;em&gt;Data Center y mundo&lt;/em&gt;&lt;/strong&gt; al que queremos &lt;strong&gt;viajar&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/parche6_18/notas-6_18_2.png&quot; alt=&quot;Parcher 6.18&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Veremos una pantalla&lt;/strong&gt; con el &lt;strong&gt;tiempo&lt;/strong&gt; que lleva en proceso, esto puede ser &lt;strong&gt;varios minutos y no se puede cancelar&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/parche6_18/notas-6_18_3.png&quot; alt=&quot;Parcher 6.18&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uma vez completado&lt;/strong&gt; podemos &lt;strong&gt;seleccionar el Data Center y Mundo donde hemos viajado&lt;/strong&gt; y elegir nuestro personaje para &lt;strong&gt;logear&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Los &lt;strong&gt;jugadores&lt;/strong&gt; que venga de &lt;strong&gt;otro Data Center&lt;/strong&gt; tendrán el titulo &lt;strong&gt;Traveler&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/parche6_18/notas-6_18_4.png&quot; alt=&quot;Parcher 6.18&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&quot;restricciones-visitando-otros-data-centers&quot;&gt;Restricciones visitando otros Data Centers&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nodos legendarios y unspoiled inaccesibles.&lt;/li&gt;
+  &lt;li&gt;No se pueden sumonear retainers.&lt;/li&gt;
+  &lt;li&gt;No se puede vender en el market board. Pero podemos comprar en el.&lt;/li&gt;
+  &lt;li&gt;No podemos ni crear ni unirnos a FCs.&lt;/li&gt;
+  &lt;li&gt;No podemos ver informacion de nuestra FC ni enviar recibir mensajes en ella, tampoco gastar o ganar puntos.&lt;/li&gt;
+  &lt;li&gt;No podemos ni crear, ni unirnos, ni chatear con las Linkshiells que tengamos.&lt;/li&gt;
+  &lt;li&gt;No podemos crear Cross-world linshells pero podemos unirnos a 8, con un maximo de 8 por data center. Pero no podemos enviar o recibir mensajes de las que esta en otro data center.&lt;/li&gt;
+  &lt;li&gt;No podemos unirnos a fellowships en distintos data centers, pero podemos ver la información de que son de nuestro mundo de origen.&lt;/li&gt;
+  &lt;li&gt;No podemos comprar casas ni compartir viviendo en otro data center.&lt;/li&gt;
+  &lt;li&gt;No podemos asistir a las Bodas de otro data center.&lt;/li&gt;
+  &lt;li&gt;No podemos participar en torneos de Lord of Verminion ni Triple Triad, tampoco comprar o recibir premios de Jumbo Cactpot.&lt;/li&gt;
+  &lt;li&gt;No se guardaran nuestras puntuaciones en ranking de las Deep Dungeon.&lt;/li&gt;
+  &lt;li&gt;No tendremos acceso al correo de Moogle.&lt;/li&gt;
+  &lt;li&gt;So podemos teleportarnos a nuestro amigo/pareja si están en nuestro mismo mundo.&lt;/li&gt;
+  &lt;li&gt;Los bonus de nuevo mundo o mundo favorito no estarán disponibles cuando visitemos esos mundos, pero si lo tendremos si somos de ese mundo, estemos donde estemos.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 04 Jul 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/notas-6_18/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/notas-6_18/</guid>
+        
+        <category>parches</category>
+        
+        <category>EW</category>
+        
+        <category>6.18</category>
+        
+        
+        <category>parches</category>
+        
+      </item>
     
       <item>
         <title>Semana temática de FFXIVESP : Cyberpunk</title>
@@ -1475,54 +1700,6 @@ Por ultimo recordar que en el parche 6.1 introdujeron la montura &lt;b&gt;Pod 60
         
         
         <category>ocular</category>
-        
-      </item>
-    
-      <item>
-        <title>Promoción: Campaña de acceso gratuito a FFXIV</title>
-        <description>&lt;p&gt;&lt;em&gt;Square Enix&lt;/em&gt; ha puesto en marcha una nueva campaña promocional con la que podrás reclamar &lt;strong&gt;4 días de acceso gratuito&lt;/strong&gt; a FFXIV si no tienes una suscripción activa. Esta promoción estará disponible desde el &lt;strong&gt;15 de junio de 2022 a las 10:00&lt;/strong&gt; hasta el &lt;strong&gt;30 de junio de 2022 a las 16:59 (hora peninsular)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;pasos-a-seguir&quot;&gt;PASOS A SEGUIR&lt;/h4&gt;
-&lt;p&gt;Para reclamar el acceso gratuito, debes seguir los siguientes &lt;strong&gt;pasos&lt;/strong&gt;:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Comprueba que cumples con todos los requisitos.&lt;/li&gt;
-  &lt;li&gt;Abre el cliente de FFXIV e inicia sesión. El período de acceso gratuito empezará en el momento de hacer este paso.&lt;/li&gt;
-  &lt;li&gt;¡Disfruta del juego! Una vez que se agote el tiempo, puedes seguir jugando si renuevas tu suscripción.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;requisitos&quot;&gt;REQUISITOS&lt;/h4&gt;
-&lt;p&gt;Deberás cumplir con todos estos &lt;strong&gt;requisitos&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Tener una copia del juego registrada.&lt;/li&gt;
-  &lt;li&gt;Todas las cuentas del servicio deben estar inactivas durante la promoción.&lt;/li&gt;
-  &lt;li&gt;La cuenta del servicio registrada debe llevar por lo menos 30 días inactiva.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;observaciones&quot;&gt;OBSERVACIONES&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;El período de acceso gratuito comienza después de iniciar sesión introduciendo tu ID de &lt;em&gt;Square Enix&lt;/em&gt; y tu contraseña.&lt;/li&gt;
-  &lt;li&gt;Una vez activado, el período de acceso gratuito terminará a los 4 días, independientemente de si has jugado o no.&lt;/li&gt;
-  &lt;li&gt;Si has registrado varias cuentas del servicio en una única cuenta de &lt;em&gt;Square Enix&lt;/em&gt;, no podrás participar si alguna de ellas está activa.&lt;/li&gt;
-  &lt;li&gt;No podrás participar si tu cuenta ha sido suspendida por incumplir los términos del servicio.&lt;/li&gt;
-  &lt;li&gt;Si renuevas tu suscripción durante el período de acceso gratuito, perderás el tiempo restante.&lt;/li&gt;
-  &lt;li&gt;No podrás iniciar sesión en una plataforma en la que no hayas registrado tu cuenta del servicio. Del mismo modo, podrás iniciar sesión en cualquier plataforma en la que hayas registrado tu cuenta.&lt;/li&gt;
-  &lt;li&gt;En caso de tener varias cuentas del servicio en una única cuenta de &lt;em&gt;Square Enix&lt;/em&gt;, solo conseguirás el acceso gratuito en la primera cuenta que elijas al iniciar sesión. De este modo, no podrás participar con más de una cuenta del servicio a la vez. Si no puedes iniciar sesión en tu segunda cuenta, se recomienda esperar a que se agote el período de acceso gratuito de tu primera cuenta antes de volver a intentar iniciar sesión.&lt;/li&gt;
-  &lt;li&gt;Es posible que se realicen tareas de mantenimiento durante el período de acceso gratuito. Durante el mantenimiento, no podrás iniciar sesión en el juego.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Wed, 15 Jun 2022 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/acceso-gratuito-jun/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/acceso-gratuito-jun/</guid>
-        
-        <category>noticias</category>
-        
-        <category>promoción</category>
-        
-        <category>acceso gratuito</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
