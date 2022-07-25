@@ -348,7 +348,7 @@ var documents = [{
     "id": 69,
     "url": "https://gaceta-eorzea.com/fashion220722/",
     "title": "Fashion Report 22 Julio 2022",
-    "body": "2022/07/22 - Esta semana de nuevo Kaiyoko Star ha publicado la solución para el Fashion Report, la cual podéis ver a continuación. Fashion Report 234 Para hacer los 80 puntos de manera fácil y ganar los 60,000 MGP:  En guantes cualquier pieza teñida con Opo-opo Brown Dye, el cual podéis comprar a Alaric en Old Gridania (X:14. 3 Y:8. 8) por 40 gil.  En zapatos cualquier pieza teñida con Opo-opo Brown Dye, el cual podéis comprar a Alaric en Old Gridania (X:14. 3 Y:8. 8) por 40 gil. Por ultimo recordar que en el parche 6. 1 introdujeron la montura Pod 602 que podremos comprar por 300,000 MGP, y hacer el fashion report es una manera fácil de obtenerla.     Pod 602 "
+    "body": "2022/07/22 - Esta semana de nuevo Kaiyoko Star ha publicado la solución para el Fashion Report, la cual podéis ver a continuación. Fashion Report 234 Para hacer los 80 puntos de manera fácil y ganar los 60,000 MGP:  En guantes cualquier pieza teñida con Opo-opo Brown Dye, el cual podéis comprar a Alaric en Old Gridania (X:14. 3 Y:8. 8) por 40 gil.  En zapatos Leather Duckbills, que podeis comprar a Domitien en Old Gridania (X:14. 3 Y:9. 8) en la categoria Purchase Disciple of Magic Gear &gt; Purchase Gear (Lv. 1-9) por 48 gil, teñido con Opo-opo Brown Dye, el cual podéis comprar a Alaric en Old Gridania (X:14. 3 Y:8. 8) por 40 gil. Por ultimo recordar que en el parche 6. 1 introdujeron la montura Pod 602 que podremos comprar por 300,000 MGP, y hacer el fashion report es una manera fácil de obtenerla.     Pod 602 "
     }, {
     "id": 70,
     "url": "https://gaceta-eorzea.com/fandub-6/",
