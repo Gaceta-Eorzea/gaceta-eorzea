@@ -5,9 +5,30 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jul 2022 19:59:14 +0100</pubDate>
-    <lastBuildDate>Tue, 26 Jul 2022 19:59:14 +0100</lastBuildDate>
+    <pubDate>Thu, 28 Jul 2022 15:20:16 +0100</pubDate>
+    <lastBuildDate>Thu, 28 Jul 2022 15:20:16 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Guia Monk en Endwalker</title>
+        <description>&lt;p&gt;Con la llegada de Endwalker el Monk ha sido uno de los jobs que mas cambios han sufrido, haciendo que su gameplay difiera muchísimo de lo que era en Shadowbringers (a pesar de que en Shadowbringers durante los parche fue bastante loco todo).&lt;/p&gt;
+
+&lt;p&gt;En éste vídeo te explico como desbloquear el monk, sus habilidades, mecánicas y opener; en fin, como jugar el monk en Endwalker.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/BCb_vfmKhiw?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 28 Jul 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/monk/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/monk/</guid>
+        
+        <category>jobs</category>
+        
+        
+        <category>jobs</category>
+        
+      </item>
     
       <item>
         <title>FFXIV Fandub : Visita Nocturna: Estinien &amp; Llegada a Thavnair</title>
@@ -1288,30 +1309,6 @@ Por ultimo recordar que en el parche 6.1 introdujeron la montura &lt;b&gt;Pod 60
         
         
         <category>gold saucer</category>
-        
-      </item>
-    
-      <item>
-        <title>El Ocular Podcast: Hablando del parche 6.2</title>
-        <description>&lt;p&gt;Aquí tenéis la décimo tercera entrega del Podcast de &lt;a href=&quot;https://twitter.com/OcularEl&quot; target=&quot;_blank&quot;&gt;El Ocular&lt;/a&gt; con &lt;a href=&quot;https://twitter.com/ChocoFeru&quot; target=&quot;_blank&quot;&gt;Choco Feru&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/Habeces4&quot; target=&quot;_blank&quot;&gt;Noah&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/LiaTales_ffxiv&quot; target=&quot;_blank&quot;&gt;Lia Tales&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/trencapins&quot; target=&quot;_blank&quot;&gt;Elanor&lt;/a&gt; donde hablaron hablaron del parche 6.2 y todo lo que está por venir.&lt;/p&gt;
-
-&lt;p&gt;Podéis ver el Podcast al completo en el vídeo a continuación. No os olvidéis de seguir &lt;a href=&quot;https://www.youtube.com/channel/UC0Ncgc0JH3CtDMraAIrlGkQ&quot; target=&quot;_blank&quot;&gt;el canal&lt;/a&gt; y darle like si os ha gustado.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/nNBrpSRUJUc?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Fri, 15 Jul 2022 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/el-ocular-13/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/el-ocular-13/</guid>
-        
-        <category>ocular</category>
-        
-        <category>podcast</category>
-        
-        
-        <category>ocular</category>
         
       </item>
     
