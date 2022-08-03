@@ -353,7 +353,7 @@ var documents = [{
     "id": 70,
     "url": "https://gaceta-eorzea.com/moonfire-2022/",
     "title": "Evento: Moonfire Faire (Verano)",
-    "body": "2022/08/03 - Ya tenemos los detalles de el próximo evento de Moonfire Faire el cual es la celebración del Verano en Final Fantasy XIV. Este evento lo podremos realizar desde el Miercoles 10 de Agosto a las 09:00 hasta el Viernes 226 de Agosto a las 15:59. Para empezar el evento deberemos aceptar la misión de nivel 30 A Matter of Course, la cual nos la dará Mayaru Moyaru en Limsa Lominsa, Upper Decks X:11. 5 Y:13. 8.  Tras completar las misiones de evento obtendremos nuevas recompensas:       En este caso tendremos un Nuevo Glamour Veraniego**, y decoración exterior para el housing. **El conjunto tendrá distinta apariencia si nuestro personaje es chico o chica. "
+    "body": "2022/08/03 - Ya tenemos los detalles de el próximo evento de Moonfire Faire el cual es la celebración del Verano en Final Fantasy XIV. Este evento lo podremos realizar desde el Miercoles 10 de Agosto a las 09:00 hasta el Viernes 26 de Agosto a las 15:59. Para empezar el evento deberemos aceptar la misión de nivel 30 A Matter of Course, la cual nos la dará Mayaru Moyaru en Limsa Lominsa, Upper Decks X:11. 5 Y:13. 8.  Tras completar las misiones de evento obtendremos nuevas recompensas:       En este caso tendremos un Nuevo Glamour Veraniego**, y decoración exterior para el housing. **El conjunto tendrá distinta apariencia si nuestro personaje es chico o chica. "
     }, {
     "id": 71,
     "url": "https://gaceta-eorzea.com/ffxiv-esp-tema-8/",
