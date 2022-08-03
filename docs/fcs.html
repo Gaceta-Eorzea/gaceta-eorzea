@@ -123,27 +123,7 @@
                 <a class="nav-link" href="/about">Acerca de..</a>
                 </li>                
 
-                <script src="/assets/js/lunr.js"></script>
 
-
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-
-
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Escribe y enter..."/>
-</form>
-
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-
-<script src="/assets/js/lunrsearchengine.js"></script>
 
             </ul>
 
@@ -227,7 +207,7 @@
     
     <p align="center">
     
-    <img class="featured-image img-fluid" src="/assets/images/articles/noticias/directorio/directorio.png" alt="Directorio de Free Company">
+    <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/articles/noticias/directorio/directorio.png" alt="Directorio de Free Company">
     
     </p>
     
@@ -1822,6 +1802,8 @@ Si quieres salir en este <strong>directorio</strong> y en los <strong>videos</st
 
 <script src="/assets/js/mediumish.js"></script>
 
+
+<script src="/assets/js/lazyload.js"></script>
 
 
 <script src="/assets/js/ie10-viewport-bug-workaround.js"></script> 
