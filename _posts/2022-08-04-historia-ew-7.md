@@ -4,7 +4,7 @@ title: "Historia Completa de Endwalker – Parte 7: Nivel 87"
 author: aryn
 categories: [ lore ]
 tags: [lore, historia FFXIV]
-image: assets/images/articles/lore/historia/ew6/portada.jpg
+image: assets/images/articles/lore/historia/ew7/portada.jpg
 description: "Historia Completa de Endwalker – Parte 7: Nivel 87"
 featured: false
 hidden: false
