@@ -2,12 +2,12 @@
 layout: post
 title:  "Evento Benéfico: Canción de Esperanza"
 author: ffxivesp
-categories: [ ]
-tags: []
+categories: [ ffxivesp ]
+tags: [ffxivesp, comunidad]
 image: assets/images/articles/comunidad/donde-wol/beneficio_horizontal.jpg
 description: "Evento Benéfico: Canción de Esperanza"
 featured: false
-hidden: true
+hidden: false
 ---
 
 ¡Presentamos el primer evento benéfico de <a href="https://twitter.com/FFXIVESP_" target="_blank">FFXIVESP</a>, ***"Canción de Esperanza"***, en el que durante la semana **del 21 al 28 de Agosto** recaudaremos fondos para <a href="https://www.juegaterapia.org" target="_blank">juegaterapia</a>!
