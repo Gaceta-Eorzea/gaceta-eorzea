@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Semana temática de FFXIVESP : Temor"
+title:  "Evento Benéfico: Canción de Esperanza"
 author: ffxivesp
 categories: [ ]
 tags: []

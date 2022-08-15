@@ -372,7 +372,7 @@ var documents = [{
     }, {
     "id": 74,
     "url": "https://gaceta-eorzea.com/cancion-esperanza/",
-    "title": "Semana temática de FFXIVESP : Temor",
+    "title": "Evento Benéfico: Canción de Esperanza",
     "body": "2022/08/15 - ¡Presentamos el primer evento benéfico de FFXIVESP, “Canción de Esperanza”, en el que durante la semana del 21 al 28 de Agosto recaudaremos fondos para juegaterapia! Presentación: Os mostramos el video de presentación creado por FFXIV_Fandub.   Calendario de Actividades: A lo largo de la semana podréis disfrutar de los distintos eventos que os mostramos en el calendario a continuación.                                     ¡Pero eso no es todo! Los diferentes creadores de contenido de #FFXIVESP también estarán recaudando dinero en sus respectivos canales. Gala de presentación: La noche del 21 de Agosto se hará la gala de presentación del evento, dónde os informaremos de qué forma se recaudará para la causa y todos los detalles relacionados con ello. Participa: Cualquier creador de contenido o entidad interesada en participar en el evento que tendrá lugar del 21 al 28 de Agosto, puede contactar con nosotros a través de nuestro:  Email Discord, Hablando con cualquier miembro del StaffSorteos y Premios: ¡Durante el benéfico habrá muchas sorpresas, sorteos y premios! Esperamos que disfrutéis tanto como nosotros creando este evento. ¡¡COLABORA!! "
     }, {
     "id": 75,
