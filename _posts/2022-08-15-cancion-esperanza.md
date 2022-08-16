@@ -68,6 +68,14 @@ Cualquier creador de contenido o entidad **interesada en participar** en el even
 
 <br/>
 
+#### Mensaje de Kougaon
+
+[Kougaon](https://twitter.com/tzxLp4BmM8c){:target="_blank"} también nos manda un mensaje para este evento.
+
+{% include youtube.html id='tzxLp4BmM8c' %}
+
+<br/>
+
 #### Sorteos y Premios
 
 **¡Durante el benéfico habrá muchas sorpresas, sorteos y premios!**
