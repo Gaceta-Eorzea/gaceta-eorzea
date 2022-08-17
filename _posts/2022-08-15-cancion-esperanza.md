@@ -84,6 +84,14 @@ Cualquier creador de contenido o entidad **interesada en participar** en el even
 
 <br/>
 
+#### Mensaje de Brian Ricardo
+
+[Brian Ricardo](https://twitter.com/brianricardos){:target="_blank"} se une también a la iniciativa con un mensaje.
+
+{% include youtube.html id='cBWlVUib-zc' %}
+
+<br/>
+
 #### Sorteos y Premios
 
 **¡Durante el benéfico habrá muchas sorpresas, sorteos y premios!**
