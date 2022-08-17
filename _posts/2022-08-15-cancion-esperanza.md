@@ -76,6 +76,14 @@ Cualquier creador de contenido o entidad **interesada en participar** en el even
 
 <br/>
 
+#### Mensaje de LazaPLAYS
+
+[LazaPLAYS](https://twitter.com/LazaPLAYS){:target="_blank"} quiere también dejarnos un mensaje.
+
+{% include youtube.html id='aP4PSsOa-QM' %}
+
+<br/>
+
 #### Sorteos y Premios
 
 **¡Durante el benéfico habrá muchas sorpresas, sorteos y premios!**
