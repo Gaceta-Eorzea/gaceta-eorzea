@@ -92,6 +92,15 @@ Cualquier creador de contenido o entidad **interesada en participar** en el even
 
 <br/>
 
+#### Mensaje de Stillone
+
+[Stillone](https://twitter.com/Stillone999){:target="_blank"} deja un mensaje muy emotivo para el evento.
+
+{% include youtube.html id='h1WGpqwVVbM' %}
+
+<br/>
+
+
 #### Sorteos y Premios
 
 **¡Durante el benéfico habrá muchas sorpresas, sorteos y premios!**
