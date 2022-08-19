@@ -100,6 +100,14 @@ Cualquier creador de contenido o entidad **interesada en participar** en el even
 
 <br/>
 
+#### Mensaje de Geraru
+
+Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compartir un mensaje.
+
+{% include youtube.html id='JxXG2DDMl9U' %}
+
+<br/>
+
 
 #### Sorteos y Premios
 
