@@ -7,7 +7,7 @@ tags: [parches, "EW", "6.2"]
 image: assets/images/articles/noticias/micro_parche_6_2/portada.jpg
 description: "Aquí tenéis un resumen de las Notas del Parche 6.2"
 featured: false
-hidden: true
+hidden: false
 ---
 
 Este es el resumen de las notas **preliminares** del parche 6.2, [aquí](https://eu.finalfantasyxiv.com/lodestone/topics/detail/2bb3b97e66c5560c4d761742c2757e6a47ce0c51){:target="_blank"} las tenéis completas por si queréis verlas a mas detalle.
@@ -193,7 +193,7 @@ Similar a como realizan nuestros retainers, podremos enviar mammets a realizar e
 
 #### Expansión del Duty Support
 
-- Añaden las mazmorras de los parches 6.1 a 6.5 que figuran en la historia principal (no las secundarias), y las tres primeras mazmorras de Heavensward.
+- Añaden las mazmorras de los parches 2.1 a 2.5 que figuran en la historia principal (no las secundarias), y las tres primeras mazmorras de Heavensward.
 - Los NPCs ahora tendrán diálogos en las mazmorras de A Realm Reborn.
 
 #### Wondrous Tails y Faux Hollows
@@ -207,7 +207,7 @@ Similar a como realizan nuestros retainers, podremos enviar mammets a realizar e
 
 #### Emotes, Peinados, Minions y Monturas
 
-Hay un nuevo emote
+Hay nuevo emotes
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/resumen_notas_6_2/emote.jpg"></p>
 
@@ -241,11 +241,11 @@ Nuevos peinadosa y ajustes a existentes
     </div>
 </div>    
 
-Hay un nuevo Minion
+Nuevo Minions
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/resumen_notas_6_2/minion.jpg"></p>
 
-Hay un nueva Montura
+Nueva Monturas
 
 <p align="center"><img src="{{ site.baseurl }}/assets/images/articles/noticias/resumen_notas_6_2/montura.jpg"></p>
 
