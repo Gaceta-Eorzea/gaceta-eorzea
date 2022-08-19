@@ -118,7 +118,13 @@ authors:
       display_name: "FFXIVESP"
       avatar: 'assets/images/avatars/ffxivesp.jpg'
       twitter: https://twitter.com/FFXIVESP_
-      description: "¡Comunidad hispanohablante de FFXIV!"      
+      description: "¡Comunidad hispanohablante de FFXIV!"
+  svadac:
+      name: svadac 
+      display_name: "Svadac"
+      avatar: 'assets/images/avatars/svadac.png'
+      twitter: https://twitch.tv/svadac
+      description: "Apasionado de los videojuegos desde pequeño. Los RPGs y plataformas son de mis géneros favoritos, jugando desde la infancia a títulos como Spyro, Crash Bandicoot, Persona o Final Fantasy. Cuando jugué por primera vez las Alphas de A Realm Reborn, Final Fantasy XIV ha sido una de mis grandes pasiones.<br/>Siempre me ha gustado compartir experiencias y pasar un buen rato en compañía, así que ¡quedáis todos invitados a mi canal de Twitch!"
   # Plugins            
   # Plugins
 plugins:
