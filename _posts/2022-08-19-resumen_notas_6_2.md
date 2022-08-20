@@ -274,6 +274,7 @@ Nueva Monturas
 - Las mazmorras de Smiletron, Stigma Dreamscape y Alzadaal's Legacy ahora cuenta con un iLv Sync de 600
 - Los cascos, guantes y botas del NUEVO TIER DE SAVAGE requerirán 2 tokens menos para obtenerlos, pasando de 6 tokens a 4.
 - Endsinger Extreme ahora cuenta con el Echo. Habrá que aguantar al menos 3 minutos de combate para recibir y acumular este efecto.
+- Ya podemos canjear las monturas de Zodiark y Hydaelyn por totems, ademas la probabilidad de drop de sus monturas ha sido aumentada.
 - Aglaia y Dragonsong's Reprise ya no tienen limite semanal en sus recompensas.
 - Las espadas y escudos del gladiador obtenidos en cofres (como los de mazmorras) ahora se entregarán en cofres que contienen abmas piezas de equipo, en lugar de aparecer por separado. Algunos intercambios también se verán afectados por este cambio.
 - La Expert Roulete ahora requerirá iLv 575, y sólo contendrá las dos últimas mazmorras introducidas por la MSQ.
