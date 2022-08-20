@@ -108,6 +108,13 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 <br/>
 
+#### Mensaje de Lia Tales
+
+[Lia Tales](https://twitter.com/Lia_Tales){:target="_blank"} nos comparte un mensaje donde nos cuenta las muchas formas de colaborar.
+
+{% include youtube.html id='_dzklBzEm0o' %}
+
+<br/>
 
 #### Sorteos y Premios
 
