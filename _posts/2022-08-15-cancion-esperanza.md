@@ -124,6 +124,14 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 <br/>
 
+#### Mensaje de Husky by the Geek
+
+[Husky by the Geek](https://twitter.com/huskybythegeek){:target="_blank"} nos deja un mensaje para el evento.
+
+{% include youtube.html id='RLkOH8U0iro' %}
+
+<br/>
+
 #### Sorteos y Premios
 
 **¡Durante el benéfico habrá muchas sorpresas, sorteos y premios!**
