@@ -23,6 +23,16 @@ Os mostramos el video de presentación creado por [FFXIV_Fandub](https://twitter
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js" integrity="sha512-Y2IiVZeaBwXG1wSV7f13plqlmFOx8MdjuHyYFVoYzhyRr3nH/NMDjTBSswijzADdNzMyWNetbLMfOpIPl6Cv9g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css" integrity="sha512-Velp0ebMKjcd9RiCoaHhLXkR1sFoCCWXNp6w4zj1hfMifYB5441C+sKeBl/T/Ka6NjBiRfBBQRaQq65ekYz3UQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
+
+#### Web de Donaciones
+
+Si queréis **donar en esta estupenda iniciativa** lo podéis hacer mediante <a href="https://tiltify.com/@ffxivesp/benefico-ffxivesp-2022" target="_blank">este enlace</a>.
+
+#### Merchandise del evento
+
+Si queréis **conseguir Merchandise** el cual estará disponible por donaciones en <a href="https://ko-fi.com/ffxivesp_benefico/shop" target="_blank">este enlace</a>.<br/>
+<a href="https://ko-fi.com/ffxivesp_benefico/shop" target="_blank"><img class="img-fluid" src="{{ site.baseurl }}/assets/images/articles/comunidad/cancion-esperanza/mercha.jpg" alt="Canción de Esperanza"></a>
+
 #### Calendario de Actividades
 
 A lo **largo de la semana** podréis disfrutar de los distintos **eventos** que os mostramos en el **calendario** a continuación.
