@@ -116,6 +116,14 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 <br/>
 
+#### Mensaje de Chocoferu
+
+[Chocoferu](https://twitter.com/ChocoFeru){:target="_blank"} también aporta su mensaje al evento.
+
+{% include youtube.html id='faV_uD5MNN4' %}
+
+<br/>
+
 #### Sorteos y Premios
 
 **¡Durante el benéfico habrá muchas sorpresas, sorteos y premios!**
