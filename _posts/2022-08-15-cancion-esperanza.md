@@ -150,6 +150,13 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 <br/>
 
+#### Mensaje de SaoriV
+
+[SaoriV](https://twitter.com/gg_saori){:target="_blank"} aporta al evento también un mensaje.
+
+{% include youtube.html id='hDxYznIUt5Y' %}
+
+<br/>
 
 #### Sorteos y Premios
 
