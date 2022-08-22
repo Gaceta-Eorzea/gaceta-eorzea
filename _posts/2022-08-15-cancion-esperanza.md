@@ -142,6 +142,15 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 <br/>
 
+#### Mensaje de Aryn
+
+[Aryn](https://twitter.com/Aryn_XIV){:target="_blank"} nos cuenta en su mensaje la labor que hace <a href="https://www.juegaterapia.org" target="_blank">juegaterapia</a> y porque les vamos ayudar.
+
+{% include youtube.html id='m5YO0anDLGk' %}
+
+<br/>
+
+
 #### Sorteos y Premios
 
 **¡Durante el benéfico habrá muchas sorpresas, sorteos y premios!**
