@@ -158,6 +158,14 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 <br/>
 
+#### Mensaje de Susan Calloway
+
+[Susan Calloway](https://twitter.com/SusanCalloway){:target="_blank"} también nos deja un mensaje.
+
+{% include youtube.html id='JFhXN3ByOLw' %}
+
+<br/>
+
 #### Sorteos y Premios
 
 **¡Durante el benéfico habrá muchas sorpresas, sorteos y premios!**
