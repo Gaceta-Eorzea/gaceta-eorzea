@@ -166,6 +166,14 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 <br/>
 
+#### Mensaje de Aebon
+
+[Aebon](https://twitter.com/IbonMGen){:target="_blank"} también nos anima a colaborar en su mensaje.
+
+{% include youtube.html id='cowiyifkDJs' %}
+
+<br/>
+
 #### Sorteos y Premios
 
 **¡Durante el benéfico habrá muchas sorpresas, sorteos y premios!**
