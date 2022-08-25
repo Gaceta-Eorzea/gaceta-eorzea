@@ -174,6 +174,14 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 <br/>
 
+#### Mensaje de Melos Dead
+
+[Melos Dead](https://twitter.com/Melosdead){:target="_blank"} deja también su mensaje.
+
+{% include youtube.html id='aDR6QWPPqr0' %}
+
+<br/>
+
 #### Sorteos y Premios
 
 **¡Durante el benéfico habrá muchas sorpresas, sorteos y premios!**
