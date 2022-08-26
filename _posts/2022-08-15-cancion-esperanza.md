@@ -182,6 +182,14 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 <br/>
 
+#### Mensaje de Veothfolnir
+
+[Veothfolnir](https://twitter.com/Veothfolnir){:target="_blank"} nos deja un mensaje para este evento.
+
+{% include youtube.html id='ujiD4mS-lwc' %}
+
+<br/>
+
 #### Sorteos y Premios
 
 **¡Durante el benéfico habrá muchas sorpresas, sorteos y premios!**
