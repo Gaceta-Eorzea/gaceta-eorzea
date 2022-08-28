@@ -1481,10 +1481,6 @@
 <lastmod>2022-08-15T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>https://gaceta-eorzea.com/donde-wol-8/</loc>
-<lastmod>2022-08-15T00:00:00+01:00</lastmod>
-</url>
-<url>
 <loc>https://gaceta-eorzea.com/ffxiv-esp-tema-10/</loc>
 <lastmod>2022-08-15T00:00:00+01:00</lastmod>
 </url>
@@ -1538,6 +1534,10 @@
 </url>
 <url>
 <loc>https://gaceta-eorzea.com/donde-wol-7/</loc>
+<lastmod>2022-08-27T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://gaceta-eorzea.com/donde-wol-8/</loc>
 <lastmod>2022-08-27T00:00:00+01:00</lastmod>
 </url>
 <url>
@@ -1818,5 +1818,8 @@
 </url>
 <url>
 <loc>https://gaceta-eorzea.com/page64/</loc>
+</url>
+<url>
+<loc>https://gaceta-eorzea.com/page65/</loc>
 </url>
 </urlset>
