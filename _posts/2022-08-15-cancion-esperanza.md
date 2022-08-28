@@ -190,6 +190,14 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 <br/>
 
+#### Mensaje de Embody
+
+[Embody](https://twitter.com/EmbodyAudio){:target="_blank"} uno de los grandes colaboradores del evento también nos deja este mensaje.
+
+{% include youtube.html id='b-Az2RUCN9k' %}
+
+<br/>
+
 #### Sorteos y Premios
 
 **¡Durante el benéfico habrá muchas sorpresas, sorteos y premios!**
