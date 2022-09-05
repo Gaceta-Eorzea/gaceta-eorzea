@@ -4,7 +4,7 @@ title:  "Semana temática de FFXIVESP : Luz"
 author: ffxivesp
 categories: [ ffxivesp ]
 tags: [ffxivesp, comunidad]
-image: assets/images/articles/ffxivesp/temas/11/portada.jpg
+image: assets/images/articles/ffxivesp/temas/12/portada.jpg
 description: "Semana temática de FFXIVESP : Luz"
 featured: false
 hidden: false
