@@ -104,6 +104,32 @@ Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:ta
 <div class="container card">
     <div class="row">
         <div class="col-xl">
+            <a href="{{ site.baseurl }}/assets/images/articles/ffxivesp/temas/18/YrisMiretnjer14_1.jpg" data-toggle="lightbox"><img src="{{ site.baseurl }}/assets/images/articles/ffxivesp/temas/18/YrisMiretnjer14_1.jpg"></a>
+        </div>        
+        <div class="col-xl">
+            <a href="{{ site.baseurl }}/assets/images/articles/ffxivesp/temas/18/YrisMiretnjer14_2.jpg" data-toggle="lightbox"><img src="{{ site.baseurl }}/assets/images/articles/ffxivesp/temas/18/YrisMiretnjer14_2.jpg"></a>
+        </div>        
+    </div>
+    <div class="row">
+        <div class="col-xl">
+            <a href="{{ site.baseurl }}/assets/images/articles/ffxivesp/temas/18/YrisMiretnjer14_3.jpg" data-toggle="lightbox"><img src="{{ site.baseurl }}/assets/images/articles/ffxivesp/temas/18/YrisMiretnjer14_3.jpg"></a>
+        </div>        
+        <div class="col-xl">
+            <a href="{{ site.baseurl }}/assets/images/articles/ffxivesp/temas/18/YrisMiretnjer14_4.jpg" data-toggle="lightbox"><img src="{{ site.baseurl }}/assets/images/articles/ffxivesp/temas/18/YrisMiretnjer14_4.jpg"></a>
+        </div>        
+    </div>  
+    <div class="row">  
+        <div class="col-xl">
+            <p align="center">Autor: <a href="https://twitter.com/YrisMiretnjer14" target="_blank">Yris Miret-njer</a></p>
+        </div>
+    </div>
+</div>    
+
+<br/>
+
+<div class="container card">
+    <div class="row">
+        <div class="col-xl">
             <a href="{{ site.baseurl }}/assets/images/articles/ffxivesp/temas/18/alimoyama_1.jpg" data-toggle="lightbox"><img src="{{ site.baseurl }}/assets/images/articles/ffxivesp/temas/18/alimoyama_1.jpg"></a>
         </div>        
         <div class="col-xl">
