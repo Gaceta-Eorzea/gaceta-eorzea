@@ -5,9 +5,277 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Oct 2022 14:11:44 +0100</pubDate>
-    <lastBuildDate>Mon, 17 Oct 2022 14:11:44 +0100</lastBuildDate>
+    <pubDate>Thu, 20 Oct 2022 15:23:58 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Oct 2022 15:23:58 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Guía del Subterráneo de Sil'dihn</title>
+        <description>&lt;p&gt;En el parche 6.25 se ha introducido el &lt;strong&gt;Subterráneo de Sil’dihn&lt;/strong&gt;, The Sil’dihn Subterrane, un nuevo tipo de instancia con tres modos y algunas &lt;strong&gt;recompensas interesantes&lt;/strong&gt;, en esta guía os explicaremos todos los detalles de la misma.&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;&lt;sup&gt;Si solo queréis la solución de los 12 caminos hacer &lt;a href=&quot;#solución-a-todos-los-caminos&quot;&gt;click en este enlace.&lt;/a&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js&quot; integrity=&quot;sha512-Y2IiVZeaBwXG1wSV7f13plqlmFOx8MdjuHyYFVoYzhyRr3nH/NMDjTBSswijzADdNzMyWNetbLMfOpIPl6Cv9g==&quot; crossorigin=&quot;anonymous&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/script&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css&quot; integrity=&quot;sha512-Velp0ebMKjcd9RiCoaHhLXkR1sFoCCWXNp6w4zj1hfMifYB5441C+sKeBl/T/Ka6NjBiRfBBQRaQq65ekYz3UQ==&quot; crossorigin=&quot;anonymous&quot; referrerpolicy=&quot;no-referrer&quot; /&gt;
+
+&lt;h3 id=&quot;desbloqueando-el-contenido&quot;&gt;Desbloqueando el contenido&lt;/h3&gt;
+
+&lt;p&gt;Para desbloquear este nuevo contenido debemos empezar con la mision &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/6388dfa4fef/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;A Key to the Past&lt;/a&gt; que nos dara &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/52cf4020120/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Shallow Moor&lt;/a&gt; en Old Sharlayan (X: 12.0 Y: 13.3), para poder aceptarla tendremos que haber completado la misión de la MSQ &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/52a65d1961d/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Endwalker&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;variant-dungeon&quot;&gt;Variant Dungeon&lt;/h4&gt;
+
+&lt;p&gt;Esta &lt;strong&gt;Dungeon&lt;/strong&gt; esta &lt;strong&gt;llena de Lore&lt;/strong&gt; y iremos &lt;strong&gt;acompañado por Nanamo&lt;/strong&gt;, la cual &lt;strong&gt;no luchara&lt;/strong&gt; pero nos ira &lt;strong&gt;contando cosas&lt;/strong&gt; sobre la &lt;strong&gt;historia&lt;/strong&gt; tanto del &lt;strong&gt;lugar&lt;/strong&gt; como de su &lt;strong&gt;familia y acontecimientos del pasado&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;La &lt;strong&gt;misión&lt;/strong&gt; anterior nos habrá &lt;strong&gt;desbloqueado&lt;/strong&gt; las &lt;strong&gt;Variant&lt;/strong&gt; Dungeons, que es el &lt;strong&gt;modo inicial&lt;/strong&gt; de esta instancia, para poder &lt;strong&gt;acceder a ella&lt;/strong&gt; tendremos que usar un buscador especial llamado &lt;strong&gt;V&amp;amp;C Duty Finder&lt;/strong&gt; que se encuentra en el &lt;strong&gt;Menu de Duty&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;container card&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-xl&quot;&gt;
+            &lt;a href=&quot;/assets/images/articles/guias/sildihn/finder.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/sildihn/finder.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+            &lt;sub&gt;&lt;sup&gt;Ventana: V&amp;amp;C Duty Finder&lt;/sup&gt;&lt;/sub&gt;
+        &lt;/div&gt;       
+    &lt;/div&gt;  
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;En esta modalidad podremos entrar en &lt;strong&gt;grupos desde 1 a 4 jugadores sin restricciones de roles&lt;/strong&gt; para ello podremos elegir &lt;strong&gt;dos acciones especiales&lt;/strong&gt; entre las que hay &lt;strong&gt;disponible&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Variant Cure&lt;/strong&gt; – Una &lt;strong&gt;cura&lt;/strong&gt;, para ser usado por &lt;strong&gt;Healers&lt;/strong&gt; o &lt;strong&gt;DPS&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Variant Ultimatum&lt;/strong&gt; – Un &lt;strong&gt;taunt&lt;/strong&gt;, para ser usado por &lt;strong&gt;Healers&lt;/strong&gt; o &lt;strong&gt;DPS&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Variant Raise&lt;/strong&gt; – Un &lt;strong&gt;resurrección&lt;/strong&gt;, para ser usado por &lt;strong&gt;Tankes&lt;/strong&gt; o &lt;strong&gt;DPS&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Variant Spirit Dart&lt;/strong&gt; – Un &lt;strong&gt;dot&lt;/strong&gt; en &lt;strong&gt;AoE&lt;/strong&gt;, para ser usado por &lt;strong&gt;Tanks&lt;/strong&gt; o &lt;strong&gt;Healers&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Variant Rampart&lt;/strong&gt; – Una &lt;strong&gt;mitigación&lt;/strong&gt;, para &lt;strong&gt;Healers&lt;/strong&gt; o &lt;strong&gt;DPS&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Necesitaremos &lt;strong&gt;565 de item level&lt;/strong&gt; o superior y estaremos &lt;strong&gt;sincronizados a 635&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Podremos también&lt;/strong&gt; entrar &lt;strong&gt;&lt;em&gt;buscando otros jugadores&lt;/em&gt;&lt;/strong&gt; donde se formara un &lt;strong&gt;grupo de 4&lt;/strong&gt; con &lt;strong&gt;cualquier&lt;/strong&gt; tipo de &lt;strong&gt;rol&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;En la instancia veremos &lt;strong&gt;cofres&lt;/strong&gt; que pueden darnos &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/35bdbb2773f/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Sil’dihn Potsherds&lt;/a&gt; las cuales podemos usar para comprar el nuevo emote &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/03e31db1ac2/&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Ample Appreciation&lt;/a&gt; por &lt;strong&gt;9 Sil’dihn Potsherds&lt;/strong&gt; y el &lt;strong&gt;set de glamour Noir&lt;/strong&gt; por &lt;strong&gt;72 Sil’dihn Potsherds en total&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;container card&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-xl&quot;&gt;
+            &lt;a href=&quot;/assets/images/articles/guias/sildihn/emote.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/sildihn/emote.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+            &lt;sub&gt;&lt;sup&gt;Emote: Ample Appreciation&lt;/sup&gt;&lt;/sub&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-xl&quot;&gt;
+            &lt;a href=&quot;/assets/images/articles/guias/sildihn/noir.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/sildihn/noir.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+            &lt;sub&gt;&lt;sup&gt;Set: Noir&lt;/sup&gt;&lt;/sub&gt;
+        &lt;/div&gt;         
+    &lt;/div&gt;  
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ademas estos cofres podrán tener &lt;strong&gt;otras recompensas&lt;/strong&gt; como &lt;strong&gt;minions&lt;/strong&gt;, cartas de &lt;strong&gt;triple triad&lt;/strong&gt; y algún mueble de &lt;strong&gt;housing&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;container card&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-xl&quot;&gt;
+            &lt;a href=&quot;/assets/images/articles/guias/sildihn/skink.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/sildihn/skink.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+            &lt;sub&gt;&lt;sup&gt;Minion: Sewer Skink&lt;/sup&gt;&lt;/sub&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-xl&quot;&gt;
+            &lt;a href=&quot;/assets/images/articles/guias/sildihn/sponge_silkie.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/sildihn/sponge_silkie.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+            &lt;sub&gt;&lt;sup&gt;Minion: Sponge Silkie&lt;/sup&gt;&lt;/sub&gt;
+        &lt;/div&gt;         
+    &lt;/div&gt;  
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;En la &lt;strong&gt;Variant Dungeon&lt;/strong&gt; podremos tomar &lt;strong&gt;distintos caminos&lt;/strong&gt;, eligiendo por la &lt;strong&gt;puerta&lt;/strong&gt; que empezamos y resolviendo determinados &lt;strong&gt;puzzles&lt;/strong&gt; en ella, el &lt;strong&gt;acabar&lt;/strong&gt; cada camino nos &lt;strong&gt;proporcionara una nota&lt;/strong&gt; con el Lore de la instancia y al &lt;strong&gt;completar los 12&lt;/strong&gt; &lt;strong&gt;obtendremos&lt;/strong&gt; el &lt;strong&gt;logro&lt;/strong&gt; &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/achievement/8212973dcd1&quot; target=&quot;_blank&quot; class=&quot;eorzeadb_link&quot;&gt;Dig Deep: The Sil’dihn Subterrane&lt;/a&gt;, que nos dará &lt;strong&gt;montura&lt;/strong&gt;: &lt;strong&gt;Silkie&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;container card&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-xl&quot;&gt;
+            &lt;a href=&quot;/assets/images/articles/guias/sildihn/silkie.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/sildihn/silkie.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+            &lt;sub&gt;&lt;sup&gt;Montura: Silkie&lt;/sup&gt;&lt;/sub&gt;
+        &lt;/div&gt;       
+    &lt;/div&gt;  
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para &lt;strong&gt;resolver los caminos&lt;/strong&gt; podemos utilizar las &lt;strong&gt;pistas&lt;/strong&gt; que &lt;strong&gt;Nanamo&lt;/strong&gt; nos irá descubriendo mas lo que veamos &lt;strong&gt;en el propio recorrido&lt;/strong&gt;, muchas de estas están &lt;strong&gt;enlazadas&lt;/strong&gt; y al &lt;strong&gt;completar una ruta&lt;/strong&gt; nos pueden dar &lt;strong&gt;pistas sobre otra&lt;/strong&gt;, si queréis conocer directamente &lt;strong&gt;la solución de estas rutas&lt;/strong&gt; os hemos preparado una guía al &lt;a href=&quot;#solución-a-todos-los-caminos&quot;&gt;final de este articulo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;criterion-dungeon&quot;&gt;Criterion Dungeon&lt;/h4&gt;
+
+&lt;p&gt;Este modo lo &lt;strong&gt;desbloquearemos tras completar la Varian Dungeon&lt;/strong&gt;, aunque &lt;strong&gt;tiene algunas diferencias&lt;/strong&gt; con el modo anterior.&lt;/p&gt;
+
+&lt;p&gt;Para poder &lt;strong&gt;acceder a ella&lt;/strong&gt; tendremos que usar también el buscador especial: &lt;strong&gt;V&amp;amp;C Duty Finder&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;En esta modalidad podremos entrar en &lt;strong&gt;grupos de 4 jugadores con los roles habituales&lt;/strong&gt;, 1 Tanke, 1 Healer y 2 DPS, igualmente podemos elegir &lt;strong&gt;dos acciones especiales&lt;/strong&gt; entre las que hay &lt;strong&gt;disponible&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Necesitaremos &lt;strong&gt;610 de item level&lt;/strong&gt; o superior y estaremos &lt;strong&gt;sincronizados a 635&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Podremos también&lt;/strong&gt; entrar &lt;strong&gt;&lt;em&gt;buscando otros jugadores&lt;/em&gt;&lt;/strong&gt; donde se formara un &lt;strong&gt;grupo de 4 de los roles habituales&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ya &lt;strong&gt;no&lt;/strong&gt; nos acompañara &lt;strong&gt;Nanamo&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;La &lt;strong&gt;ruta es predefinida&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;No&lt;/strong&gt; podemos &lt;strong&gt;resucitar&lt;/strong&gt; con &lt;strong&gt;acciones habituales de clase/job&lt;/strong&gt;, &lt;strong&gt;solo&lt;/strong&gt; con el &lt;strong&gt;Variant Raise&lt;/strong&gt;, el cual tendrá &lt;strong&gt;1 carga&lt;/strong&gt;, para cada jugador, aunque se &lt;strong&gt;regeneraran mas según avancemos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;No todos&lt;/strong&gt; los ataques están &lt;strong&gt;telegrafiados&lt;/strong&gt;, y la &lt;strong&gt;velocidad&lt;/strong&gt; de los mismos es &lt;strong&gt;superior&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;La &lt;strong&gt;vida&lt;/strong&gt; de los &lt;strong&gt;enemigos y su daño&lt;/strong&gt; es &lt;strong&gt;mayor&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Podríamos resumir que su &lt;strong&gt;dificultad&lt;/strong&gt; es &lt;strong&gt;algo superior&lt;/strong&gt; a un &lt;strong&gt;Extreme&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;En esta modalidad los &lt;strong&gt;cofres&lt;/strong&gt; pueden darnos &lt;strong&gt;Sil’dihn Silver&lt;/strong&gt; el cual podemos usar para comprarnos distintas &lt;strong&gt;recompensas&lt;/strong&gt; como la &lt;strong&gt;montura Sil’dihn Throne&lt;/strong&gt; por &lt;strong&gt;100 Sil’dihn Silver&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;container card&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-xl&quot;&gt;
+            &lt;a href=&quot;/assets/images/articles/guias/sildihn/throne.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/articles/guias/sildihn/throne.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+            &lt;sub&gt;&lt;sup&gt;Montura: Sil'dihn Throne&lt;/sup&gt;&lt;/sub&gt;
+        &lt;/div&gt;       
+    &lt;/div&gt;  
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;criterion-dungeon-savage&quot;&gt;Criterion Dungeon Savage&lt;/h4&gt;
+
+&lt;p&gt;Este modo lo &lt;strong&gt;desbloquearemos tras completar la Criterion Dungeon&lt;/strong&gt;, aunque &lt;strong&gt;tiene algunas diferencias&lt;/strong&gt; con el modo anterior.&lt;/p&gt;
+
+&lt;p&gt;Para poder &lt;strong&gt;acceder a ella&lt;/strong&gt; tendremos que usar también el buscador especial: &lt;strong&gt;V&amp;amp;C Duty Finder&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;No podremos&lt;/strong&gt; entrar &lt;strong&gt;&lt;em&gt;buscando otros jugadores&lt;/em&gt;&lt;/strong&gt; tenemos que tener un grupo completo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;No&lt;/strong&gt; podemos &lt;strong&gt;resucitar&lt;/strong&gt; de &lt;strong&gt;ninguna forma&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pocos&lt;/strong&gt; ataques están &lt;strong&gt;telegrafiados&lt;/strong&gt;, y la &lt;strong&gt;velocidad&lt;/strong&gt; de los mismos es &lt;strong&gt;muy superior&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;La &lt;strong&gt;vida&lt;/strong&gt; de los &lt;strong&gt;enemigos y su daño&lt;/strong&gt; es considerablemente &lt;strong&gt;mayor&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Si &lt;strong&gt;todos&lt;/strong&gt; los miembros de una party &lt;strong&gt;mueren volveremos al inicio&lt;/strong&gt; y &lt;strong&gt;todos los enemigos volverán&lt;/strong&gt; a aparecer, incluido bosses.&lt;/p&gt;
+
+&lt;p&gt;Tenemos &lt;strong&gt;un tiempo para matar al ultimo boss&lt;/strong&gt;, &lt;strong&gt;empezando al inicio&lt;/strong&gt; del recorrido, sino se &lt;strong&gt;acaba toda la mazmorra&lt;/strong&gt; entrara en &lt;strong&gt;enrage&lt;/strong&gt; y nos mataran. Se &lt;strong&gt;reinicia por muerte de toda la party&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Podríamos resumir que su &lt;strong&gt;dificultad&lt;/strong&gt; es &lt;strong&gt;similar&lt;/strong&gt; a &lt;strong&gt;Savage&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Completar este modo&lt;/strong&gt; nos dará el titulo: “&lt;strong&gt;Infamy of Sil’dih&lt;/strong&gt;”.&lt;/p&gt;
+
+&lt;h3 id=&quot;solución-a-todos-los-caminos&quot;&gt;Solución a todos los caminos&lt;/h3&gt;
+
+&lt;h4 id=&quot;camino-de-la-izquierda&quot;&gt;Camino de la Izquierda&lt;/h4&gt;
+
+&lt;h5 id=&quot;ruta-1&quot;&gt;Ruta 1&lt;/h5&gt;
+
+&lt;p&gt;Al llegar al &lt;strong&gt;puzzle&lt;/strong&gt; de los dos ojos &lt;strong&gt;resolverlo&lt;/strong&gt; correctamente, (Saco &lt;strong&gt;azul en el Noreste&lt;/strong&gt; y Saco &lt;strong&gt;amarillo en el Sureste&lt;/strong&gt;). Una vez teleportados al otro lado &lt;strong&gt;matar a los enemigos y abrir la puerta secreta&lt;/strong&gt;, al otro lado de los escombros, &lt;strong&gt;antes&lt;/strong&gt; de que &lt;strong&gt;Nanamo abra la principal&lt;/strong&gt;. Esta &lt;strong&gt;puerta solo la podéis tarjetar&lt;/strong&gt; cuando os ponéis &lt;strong&gt;cerca de ella&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h5 id=&quot;ruta-2&quot;&gt;Ruta 2&lt;/h5&gt;
+
+&lt;p&gt;Al llegar al &lt;strong&gt;puzzle&lt;/strong&gt; de los dos ojos &lt;strong&gt;resolverlo&lt;/strong&gt; correctamente, (Saco &lt;strong&gt;azul en el Noreste&lt;/strong&gt; y Saco &lt;strong&gt;amarillo en el Sureste&lt;/strong&gt;). Una vez teleportados al otro lado &lt;strong&gt;matar a los enemigos&lt;/strong&gt;, &lt;strong&gt;dejar&lt;/strong&gt; que &lt;strong&gt;Nanamo abra la puerta principal&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h5 id=&quot;ruta-3&quot;&gt;Ruta 3&lt;/h5&gt;
+
+&lt;p&gt;Al llegar al &lt;strong&gt;puzzle&lt;/strong&gt; de los dos ojos &lt;strong&gt;fallarlo&lt;/strong&gt;, en las &lt;strong&gt;siguientes salas chocar&lt;/strong&gt; con todas las &lt;strong&gt;bolas flotantes&lt;/strong&gt; después de &lt;strong&gt;matar a los enemigos&lt;/strong&gt; y que las &lt;strong&gt;puertas se abran&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h5 id=&quot;ruta-4&quot;&gt;Ruta 4&lt;/h5&gt;
+
+&lt;p&gt;Al llegar al &lt;strong&gt;puzzle&lt;/strong&gt; de los dos ojos &lt;strong&gt;fallarlo&lt;/strong&gt;, &lt;strong&gt;matar a los enemigos&lt;/strong&gt; y entrar en cuanto las &lt;strong&gt;puertas se abran&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;camino-de-la-derecha&quot;&gt;Camino de la Derecha&lt;/h4&gt;
+
+&lt;h4 id=&quot;ruta-5&quot;&gt;Ruta 5&lt;/h4&gt;
+
+&lt;p&gt;Tras el primer boss &lt;strong&gt;seleccionar Left&lt;/strong&gt;, en el &lt;strong&gt;ascensor&lt;/strong&gt; y seleccionar la &lt;strong&gt;primera opción&lt;/strong&gt; cuando una &lt;strong&gt;puerta&lt;/strong&gt; te impida avanzar.&lt;/p&gt;
+
+&lt;h4 id=&quot;ruta-6&quot;&gt;Ruta 6&lt;/h4&gt;
+
+&lt;p&gt;Tras el primer boss &lt;strong&gt;seleccionar Left&lt;/strong&gt;, en el &lt;strong&gt;ascensor&lt;/strong&gt; y seleccionar la &lt;strong&gt;segunda opción&lt;/strong&gt; cuando una &lt;strong&gt;puerta&lt;/strong&gt; te impida avanzar.&lt;/p&gt;
+
+&lt;h4 id=&quot;ruta-7&quot;&gt;Ruta 7&lt;/h4&gt;
+
+&lt;p&gt;Tras el primer boss &lt;strong&gt;seleccionar Right&lt;/strong&gt;, en el &lt;strong&gt;ascensor&lt;/strong&gt; y matar a los &lt;strong&gt;enemigos en orden&lt;/strong&gt; de tamaño:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Drakenfather
+Drakenmother
+Drakenbrother
+Drakensister
+Drakeling
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Coger el &lt;strong&gt;incienso&lt;/strong&gt; y &lt;strong&gt;matar el boss&lt;/strong&gt; de forma normal.&lt;/p&gt;
+
+&lt;h4 id=&quot;ruta-12&quot;&gt;Ruta 12&lt;/h4&gt;
+
+&lt;p&gt;Tras el primer boss &lt;strong&gt;seleccionar Right&lt;/strong&gt;, en el &lt;strong&gt;ascensor&lt;/strong&gt; y matar a los &lt;strong&gt;enemigos en orden&lt;/strong&gt; de tamaño:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Drakenfather
+Drakenmother
+Drakenbrother
+Drakensister
+Drakeling
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Coger el &lt;strong&gt;incienso&lt;/strong&gt; y cuando llegues a la sala del boss &lt;strong&gt;tarjetear el sarcófago&lt;/strong&gt; y hacer estos &lt;strong&gt;emotes en orden&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;/bow
+/respect
+/vpose
+/kneel
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;camino-del-centro&quot;&gt;Camino del Centro&lt;/h4&gt;
+
+&lt;h4 id=&quot;ruta-8&quot;&gt;Ruta 8&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Fallar el puzzle&lt;/strong&gt; de las &lt;strong&gt;balanzas&lt;/strong&gt; y elegir &lt;strong&gt;Right Lever&lt;/strong&gt;, antes del ultimo boss.&lt;/p&gt;
+
+&lt;h4 id=&quot;ruta-9&quot;&gt;Ruta 9&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Fallar el puzzle&lt;/strong&gt; de las &lt;strong&gt;balanzas&lt;/strong&gt; y elegir &lt;strong&gt;Left Lever&lt;/strong&gt;, antes del ultimo boss.&lt;/p&gt;
+
+&lt;h4 id=&quot;ruta-10&quot;&gt;Ruta 10&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Acertar el puzzle&lt;/strong&gt; de las &lt;strong&gt;balanzas&lt;/strong&gt;, &lt;strong&gt;Helm&lt;/strong&gt; en &lt;strong&gt;Left&lt;/strong&gt; y &lt;strong&gt;Grapes&lt;/strong&gt; en &lt;strong&gt;Right&lt;/strong&gt;, hacer &lt;strong&gt;click&lt;/strong&gt; en la estatua de &lt;strong&gt;Nald&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;ruta-11&quot;&gt;Ruta 11&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Acertar el puzzle&lt;/strong&gt; de las &lt;strong&gt;balanzas&lt;/strong&gt;, &lt;strong&gt;Helm&lt;/strong&gt; en &lt;strong&gt;Left&lt;/strong&gt; y &lt;strong&gt;Grapes&lt;/strong&gt; en &lt;strong&gt;Right&lt;/strong&gt;, hacer &lt;strong&gt;click&lt;/strong&gt; en la estatua de &lt;strong&gt;Thal&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;script&gt;
+    $(document).on('click', '[data-toggle=&quot;lightbox&quot;]', function(event) {
+                event.preventDefault();
+                $(this).ekkoLightbox();
+            });
+&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 20 Oct 2022 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/sildihn/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/sildihn/</guid>
+        
+        <category>herramientas</category>
+        
+        <category>guías</category>
+        
+        
+        <category>herramientas</category>
+        
+      </item>
     
       <item>
         <title>Semana temática de FFXIVESP : Juventud</title>
@@ -1647,50 +1915,6 @@ GShade &lt;b&gt;por defecto&lt;/b&gt; hace las capturas en &lt;b&gt;formato PNG&
         
         
         <category>herramientas</category>
-        
-      </item>
-    
-      <item>
-        <title>Fashion Report 30 Septiembre 2022</title>
-        <description>&lt;p&gt;Esta semana de nuevo &lt;a href=&quot;https://twitter.com/kaiyokostar&quot; target=&quot;_blank&quot;&gt;Kaiyoko Star&lt;/a&gt; ha publicado la solución para el Fashion Report, la cual podéis ver a continuación.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion220930/freport_244.jpg&quot; alt=&quot;Fashion Report 244&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Fashion Report 244&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Para hacer los &lt;strong&gt;80 puntos&lt;/strong&gt; de manera fácil y ganar los &lt;strong&gt;60,000 MGP&lt;/strong&gt; tenemos dos opciones:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;En &lt;strong&gt;cabeza&lt;/strong&gt; &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/f8437f4f9ff/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Swine Head&lt;/a&gt;, que podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/c644e9a1b2b/?item=f8437f4f9ff&amp;amp;type=currency&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Gold Saucer Attendant&lt;/a&gt; en &lt;strong&gt;The Gold Saucer (X:5.1 Y:6.6)&lt;/strong&gt; por 24000 MGP, teñido con &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/0fdc4d145c2/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Halatali Yellow Dye&lt;/a&gt;,  el cual podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/a28cf0441f4/?item=70849afadc9&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Alaric&lt;/a&gt; en &lt;strong&gt;Old Gridania (X:14.3 Y:8.8)&lt;/strong&gt; por 40 gil.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;O&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;En &lt;strong&gt;cabeza&lt;/strong&gt; &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/9ca71617b16/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Wyvernskin Mane of Fending&lt;/a&gt;, que podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/2e8a654c48a/?item=9ca71617b16&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Norlaise&lt;/a&gt; en &lt;strong&gt;The Pillars (X:7.1 Y:10.1)&lt;/strong&gt; por 12,474 gil, teñido con &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/0fdc4d145c2/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Halatali Yellow Dye&lt;/a&gt;,  el cual podéis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/a28cf0441f4/?item=70849afadc9&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Alaric&lt;/a&gt; en &lt;strong&gt;Old Gridania (X:14.3 Y:8.8)&lt;/strong&gt; por 40 gil.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-Por ultimo recordar que en el parche 6.1 introdujeron la montura &lt;b&gt;Pod 602&lt;/b&gt; que podremos comprar por &lt;b&gt;300,000 MGP&lt;/b&gt;, y hacer el fashion report es una manera fácil de obtenerla.
-&lt;br /&gt;
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/fashion/fashion220408/pod602.jpg&quot; alt=&quot;Pod 602&quot; /&gt;&lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Pod 602&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Fri, 30 Sep 2022 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/fashion220930/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/fashion220930/</guid>
-        
-        <category>gold saucer</category>
-        
-        <category>eventos</category>
-        
-        <category>semanales</category>
-        
-        
-        <category>gold saucer</category>
         
       </item>
     
