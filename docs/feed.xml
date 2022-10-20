@@ -5,8 +5,8 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Oct 2022 15:23:58 +0100</pubDate>
-    <lastBuildDate>Thu, 20 Oct 2022 15:23:58 +0100</lastBuildDate>
+    <pubDate>Thu, 20 Oct 2022 15:42:28 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Oct 2022 15:42:28 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -270,7 +270,11 @@ Drakeling
         
         <category>herramientas</category>
         
-        <category>guías</category>
+        <category>dungeons</category>
+        
+        <category>variant</category>
+        
+        <category>criterion</category>
         
         
         <category>herramientas</category>
