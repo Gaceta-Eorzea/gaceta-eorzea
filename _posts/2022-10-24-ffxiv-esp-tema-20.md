@@ -10,7 +10,7 @@ featured: false
 hidden: false
 ---
 
-Estas son las imágenes recibidas en la **vigésima novena semana temática** de la [comunidad hispanohablante de Final Fantasy XIV](https://twitter.com/FFXIVESP_){:target="_blank"}, donde los WoL participantes enviaron **imágenes** de su personaje con la **temática** correspondiente: **Presión**.
+Estas son las imágenes recibidas en la **vigésima semana temática** de la [comunidad hispanohablante de Final Fantasy XIV](https://twitter.com/FFXIVESP_){:target="_blank"}, donde los WoL participantes enviaron **imágenes** de su personaje con la **temática** correspondiente: **Presión**.
 
 Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:target="_blank"} o uniros a su [discord](https://discord.com/invite/XcYQ2fR){:target="_blank"} donde hay miles de jugadores con los cual compartir vuestras aventuras en Final Fantasy XIV.
 
