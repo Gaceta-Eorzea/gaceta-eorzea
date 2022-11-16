@@ -1637,10 +1637,6 @@
 <lastmod>2022-10-24T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>https://gaceta-eorzea.com/viaje-uk/</loc>
-<lastmod>2022-10-26T00:00:00+01:00</lastmod>
-</url>
-<url>
 <loc>https://gaceta-eorzea.com/fashion221028/</loc>
 <lastmod>2022-10-28T00:00:00+01:00</lastmod>
 </url>
@@ -1659,6 +1655,10 @@
 <url>
 <loc>https://gaceta-eorzea.com/ffxiv-esp-tema-22/</loc>
 <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://gaceta-eorzea.com/viaje-uk/</loc>
+<lastmod>2022-11-16T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://gaceta-eorzea.com/about</loc>
@@ -1953,5 +1953,8 @@
 </url>
 <url>
 <loc>https://gaceta-eorzea.com/page69/</loc>
+</url>
+<url>
+<loc>https://gaceta-eorzea.com/page70/</loc>
 </url>
 </urlset>
