@@ -125,6 +125,13 @@ authors:
       avatar: 'assets/images/avatars/svadac.png'
       twitter: https://twitch.tv/svadac
       description: "Apasionado de los videojuegos desde pequeño. Los RPGs y plataformas son de mis géneros favoritos, jugando desde la infancia a títulos como Spyro, Crash Bandicoot, Persona o Final Fantasy. Cuando jugué por primera vez las Alphas de A Realm Reborn, Final Fantasy XIV ha sido una de mis grandes pasiones.<br/>Siempre me ha gustado compartir experiencias y pasar un buen rato en compañía, así que ¡quedáis todos invitados a mi canal de Twitch!"
+  niena:
+      name: niena 
+      display_name: "Niena Quowaital"
+      avatar: 'assets/images/avatars/niena.jpg'
+      twitter: https://twitter.com/Niena_Quowaital
+      description: "99% memes 1% contenido para la comunidad FFXIV"  
+      web: https://www.youtube.com/watch?v=J8UhV2iJRrQ    
   # Plugins            
   # Plugins
 plugins:
