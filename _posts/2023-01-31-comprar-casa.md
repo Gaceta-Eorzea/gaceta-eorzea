@@ -7,7 +7,7 @@ tags: [housing, casa, loteria]
 image: assets/images/articles/guias/comprar-casa/portada.jpg
 description: "Guía de como comprar una casa en FFXIV"
 featured: false
-hidden: true
+hidden: false
 ---
 
 Si **quieres** conocer como puedes **comprar una casa** y como funciona **sistema de lotería**, en esta guía os lo **detallamos** como funciona en Final Fantasy XIV, ademas **veremos que utilidad y personalización** podemos darle a nuestra casa y que **zonas** hay **disponibles**.
