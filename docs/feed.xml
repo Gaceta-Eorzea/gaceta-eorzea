@@ -5,9 +5,30 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Feb 2023 11:13:56 +0000</pubDate>
-    <lastBuildDate>Wed, 22 Feb 2023 11:13:56 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Feb 2023 10:02:11 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Feb 2023 10:02:11 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Guia Ninja en Endwalker</title>
+        <description>&lt;p&gt;El ninja es un job que lleva en Final Fantasy XIV desde el parche 2.3, un job a melé que gracias a su sistema de mudras tiene un gameplay especialmente diferente al resto de jobs de este juego.&lt;/p&gt;
+
+&lt;p&gt;En éste vídeo te cuento como jugar el ninja, sus habilidades, mecánica de los mudras, gauge, opener y algunos consejos a la hora de utilizar el ninja.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/lUUVdeCz4fE?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/ninja/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/ninja/</guid>
+        
+        <category>jobs</category>
+        
+        
+        <category>jobs</category>
+        
+      </item>
     
       <item>
         <title>Evento: Little Ladies' Day</title>
@@ -788,39 +809,6 @@ Por ultimo recordar que en el parche 6.1 introdujeron la montura &lt;b&gt;Pod 60
         
         
         <category>gold saucer</category>
-        
-      </item>
-    
-      <item>
-        <title>Evento: Heavensturn (Año Nuevo)</title>
-        <description>&lt;p&gt;Ya tenemos los &lt;strong&gt;detalles&lt;/strong&gt; de el próximo evento de &lt;strong&gt;Heavensturn&lt;/strong&gt; el cual es la celebración del &lt;strong&gt;año nuevo&lt;/strong&gt; en Final Fantasy XIV, este evento suele estar &lt;strong&gt;protagonizado&lt;/strong&gt; cada año por &lt;strong&gt;una criatura&lt;/strong&gt; diferente y en este año parece que será la &lt;strong&gt;grulla&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;No olvidaros tambien el pasar por las &lt;strong&gt;ciudades capitales y barrios residenciales&lt;/strong&gt; ya que suelen tener una &lt;strong&gt;decoración especial&lt;/strong&gt; para esta festividad.&lt;/p&gt;
-
-&lt;p&gt;Este evento lo podremos realizar &lt;strong&gt;desde&lt;/strong&gt; el &lt;strong&gt;Sábado 31 de Diciembre&lt;/strong&gt; a las 16:00 hasta el &lt;strong&gt;Lunes 16 de Enero&lt;/strong&gt; a las 15:59.&lt;/p&gt;
-
-&lt;p&gt;Para empezar el evento deberemos aceptar la &lt;strong&gt;misión de nivel 15 The Box of Fortune&lt;/strong&gt;, la cual nos la dará &lt;strong&gt;Usagi Bugyo en Limsa Lominsa, Upper Decks&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/heavensturn-2022/quest.jpg&quot; alt=&quot;Tangle with a Tora&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tras &lt;strong&gt;completar las misiones&lt;/strong&gt; de evento obtendremos &lt;strong&gt;dos nuevas recompensas&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias//heavensturn-2022/recompensas.jpg&quot; alt=&quot;recompensas&quot; /&gt;
-    &lt;br /&gt;
-    Un conjunto de &lt;b&gt;glamour&lt;/b&gt; y una &lt;b&gt;decoración&lt;/b&gt; para housing.
-&lt;/p&gt;
-</description>
-        <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/heavensturn-2022/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/heavensturn-2022/</guid>
-        
-        <category>evento</category>
-        
-        <category>noticias</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
