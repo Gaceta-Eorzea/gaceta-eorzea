@@ -5,9 +5,30 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Mar 2023 20:03:06 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Mar 2023 20:03:06 +0000</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Sun, 05 Mar 2023 20:29:38 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Mar 2023 20:29:38 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Guia Warrior en Endwalker</title>
+        <description>&lt;p&gt;¿Queréis jugar una tanque que sea casi autosuficiente en la mayoría del contenido del juego? El Warrior es lo que estáis buscando, el tank con la mayor cantidad de habilidades de auto-curación que os podéis encontrar, que además, no sólo es capaz de curarse a si mismo, también es capaz de curar a otros miembros del grupo.&lt;/p&gt;
+
+&lt;p&gt;En éste vídeo os traigo la guía del Warrior actualiza al parche 6.3 de Endwalker, para aquellos que querais disfrutar de la violencia en estado puro siendo tanques.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/SfJTHPrQbUM?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+        <link>https://gaceta-eorzea.com/warrior/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/warrior/</guid>
+        
+        <category>jobs</category>
+        
+        
+        <category>jobs</category>
+        
+      </item>
     
       <item>
         <title>Fashion Report 3 Marzo 2023</title>
@@ -70,7 +91,7 @@ Por ultimo recordar que en el parche &lt;b&gt;6.3&lt;/b&gt; introdujeron la mont
       </item>
     
       <item>
-        <title>Evento: Little Ladies' Day</title>
+        <title>Evento: Little Ladies&apos; Day</title>
         <description>&lt;p&gt;Ya tenemos los &lt;strong&gt;detalles&lt;/strong&gt; de el próximo evento de &lt;strong&gt;Little Ladies’ Day&lt;/strong&gt; (Dia de las Mujercitas) el cual es un &lt;strong&gt;evento original&lt;/strong&gt; de Final Fantasy XIV.&lt;/p&gt;
 
 &lt;p&gt;Este evento lo podremos realizar &lt;strong&gt;desde&lt;/strong&gt; el &lt;strong&gt;Miércoles 1 de Marzo&lt;/strong&gt; a las 09:00 hasta el &lt;strong&gt;Jueves 15 de Marzo&lt;/strong&gt; a las 16:59.&lt;/p&gt;
@@ -84,7 +105,7 @@ Por ultimo recordar que en el parche &lt;b&gt;6.3&lt;/b&gt; introdujeron la mont
 &lt;p align=&quot;center&quot;&gt;
     &lt;img src=&quot;/assets/images/articles/noticias/little-ladies-2023/recompensa.jpg&quot; alt=&quot;recompensas&quot; /&gt;
     &lt;br /&gt;
-    En este caso tendremos &lt;b&gt;Little Ladies' Dance&lt;/b&gt;, un nuevo &lt;b&gt;emote&lt;/b&gt;, y un &lt;b&gt;cuadro para housing&lt;/b&gt;.
+    En este caso tendremos &lt;b&gt;Little Ladies&apos; Dance&lt;/b&gt;, un nuevo &lt;b&gt;emote&lt;/b&gt;, y un &lt;b&gt;cuadro para housing&lt;/b&gt;.
 &lt;/p&gt;
 
 &lt;p&gt;Recordamos que &lt;strong&gt;posiblemente unos días después&lt;/strong&gt; del inicio del evento es muy &lt;strong&gt;probable&lt;/strong&gt; que en la tienda del juego pongan de &lt;strong&gt;rebaja&lt;/strong&gt; objetos de este evento de &lt;strong&gt;ediciones anteriores&lt;/strong&gt; como el &lt;strong&gt;emote y traje de Songbird&lt;/strong&gt;.&lt;/p&gt;
@@ -288,7 +309,7 @@ Por ultimo recordar que en el parche &lt;b&gt;6.3&lt;/b&gt; introdujeron la mont
       </item>
     
       <item>
-        <title>Evento: Valentione's Day (San Valentín)</title>
+        <title>Evento: Valentione&apos;s Day (San Valentín)</title>
         <description>&lt;p&gt;Ya tenemos los &lt;strong&gt;detalles&lt;/strong&gt; de el próximo evento de &lt;strong&gt;Valentione’s Day&lt;/strong&gt; el cual es la celebración de &lt;strong&gt;San Valentin&lt;/strong&gt; en Final Fantasy XIV.&lt;/p&gt;
 
 &lt;p&gt;Este evento lo podremos realizar &lt;strong&gt;desde&lt;/strong&gt; el &lt;strong&gt;miercoles 1 de Febrero&lt;/strong&gt; a las 09:00 hasta el &lt;strong&gt;Jueves 16 de Febrero&lt;/strong&gt; a las 16:59.&lt;/p&gt;
@@ -399,417 +420,6 @@ Por ultimo recordar que en el parche &lt;b&gt;6.3&lt;/b&gt; introdujeron la mont
         
         
         <category>gold saucer</category>
-        
-      </item>
-    
-      <item>
-        <title>Notas preliminares del parche 6.3</title>
-        <description>&lt;p&gt;Ya tenemos las &lt;strong&gt;notas preliminares del parche 6.3&lt;/strong&gt; disponibles, en este artículo os la &lt;strong&gt;resumimos&lt;/strong&gt;, aunque como siempre os recomendamos ver las &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/topics/detail/272e905b1f6cb59c25affc3a97c28b3e6ba8cb7b&quot; target=&quot;_blank&quot;&gt;notas completas&lt;/a&gt; por si queréis tener toda la información.&lt;/p&gt;
-
-&lt;h3 id=&quot;misiones&quot;&gt;misiones&lt;/h3&gt;
-
-&lt;h4 id=&quot;main-scenario&quot;&gt;Main scenario&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/main_scenario.jpg&quot; alt=&quot;main scenario&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;La nueva misión de la nueva Main Scenario,&lt;strong&gt;Once More unto the Void&lt;/strong&gt;, nos la dará &lt;strong&gt;Varshahn&lt;/strong&gt; en &lt;strong&gt;Radz-at-Han (X:4.4 Y:9.8)&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Durante la MSQ desbloquearemos una nueva dungeon, &lt;strong&gt;Lapis Manalis&lt;/strong&gt;, que nos &lt;strong&gt;pedirá item level 590&lt;/strong&gt; para entrar.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/lapis.jpg&quot; alt=&quot;main scenario&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;También desbloquearemos un &lt;strong&gt;nuevo Trial&lt;/strong&gt; el cual aun no sabemos mucho del, aunque sabemos que &lt;strong&gt;pedirá item level 595&lt;/strong&gt; para poder entrar.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;myths-of-the-realm&quot;&gt;Myths of the Realm&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/euphrosyne.jpg&quot; alt=&quot;euphrosyne&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;La nueva misión de la saga de la Alliance Raid de Myths of the Realm, &lt;strong&gt;Return to the Phantom Realm&lt;/strong&gt; nos la dará &lt;strong&gt;Deryk&lt;/strong&gt; en &lt;strong&gt;Mor Dhona (X:23.9 Y:9.1)&lt;/strong&gt;, esta nos desbloqueara &lt;strong&gt;Euphrosyne&lt;/strong&gt; la cual nos &lt;strong&gt;pide item level 595&lt;/strong&gt; para entrar.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Una vez a la semana cuando la completemos nos dará una &lt;strong&gt;Euphrosyne Coin&lt;/strong&gt; con junto a una &lt;strong&gt;Aglaia Coin&lt;/strong&gt;, la cual no tiene ya limite semanal, nos servirá para &lt;strong&gt;aumentar una pieza&lt;/strong&gt; de las que podemos comprar por &lt;strong&gt;Allagan Tomestone of Causality&lt;/strong&gt; a item level &lt;strong&gt;530&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/armadura_raid.jpg&quot; alt=&quot;armadura_raid&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Esta nueva raid tendrá un &lt;strong&gt;nuevo conjunto de armadura&lt;/strong&gt; y como siempre solo podremos despojar &lt;strong&gt;una pieza a la semana&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;tales-of-newfound-adventure&quot;&gt;Tales of Newfound Adventure&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/newfound.jpg&quot; alt=&quot;newfound&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Continuaran las misiones sobre esta esta criatura que empezó en el anterior parche, recordamos que incluye &lt;strong&gt;lore&lt;/strong&gt; abundante de las cosas que han pasado en &lt;strong&gt;The Thirteenth&lt;/strong&gt;, la misión sera &lt;strong&gt;Shadowed Pasts Once More&lt;/strong&gt; y nos la dará &lt;strong&gt;Radiant Scout&lt;/strong&gt; en &lt;strong&gt;Radz-at-Han (X:7.3 Y:9.0)&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sino hiciste la parte anterior y quieres ponerte con ello tienes que hacer la misión &lt;strong&gt;Shadowed Pasts&lt;/strong&gt; que te dará &lt;strong&gt;Radiant Scout&lt;/strong&gt; en &lt;strong&gt;Radz-at-Han (X:4.8, Y:11.9)&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;tatarus-grand-endeavor&quot;&gt;Tataru’s Grand Endeavor&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/tataru.jpg&quot; alt=&quot;tataru&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Continuaran las misiones de tataru, la misión sera &lt;strong&gt;An Auspicious Opportunity&lt;/strong&gt; y nos la dará &lt;strong&gt;Mehdjina&lt;/strong&gt; en &lt;strong&gt;Old Sharlayan (X:11.8 Y:9.8)&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Para hacer esta misión tenemos que haber completado la cadena de &lt;strong&gt;The Four Lords&lt;/strong&gt; de &lt;strong&gt;Stormblood&lt;/strong&gt;, la cual se empieza con la misión &lt;strong&gt;An Auspicious Encounter&lt;/strong&gt; que nos dará &lt;strong&gt;Soroban&lt;/strong&gt; en &lt;strong&gt;The Ruby Sea (X:5.7, Y:15.7)&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sino hiciste las parte anterior, pero si la primera parte, tienes que hacer la misión la misión &lt;strong&gt;Soaring Profits&lt;/strong&gt; que también nos dará &lt;strong&gt;Mehdjina&lt;/strong&gt; en &lt;strong&gt;Old Sharlayan (X:11.8, Y:9.8)&lt;/strong&gt;, esta require que hayas hecho la cadena de &lt;strong&gt;Shadow of Mhach&lt;/strong&gt; de &lt;strong&gt;Heavensward&lt;/strong&gt;, para empezarla tienes que hacer la misión &lt;strong&gt;Sky Pirates&lt;/strong&gt; que nos dará &lt;strong&gt;Unquiet Trader&lt;/strong&gt; en &lt;strong&gt;The Pillars (X:14.1, Y:10.7)&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sino hiciste la primera parte y quieres ponerte con ello tienes que hacer la misión &lt;strong&gt;Small Business, Big Dreams&lt;/strong&gt; que te dará &lt;strong&gt;Mehdjina&lt;/strong&gt; en &lt;strong&gt;Old Sharlayan (X:11.8, Y:9.8)&lt;/strong&gt;,&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;island-sanctuary&quot;&gt;Island Sanctuary&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/island.jpg&quot; alt=&quot;island&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Tenemos nuevo contenido en la Isla Santuario, para desbloquearlo tendrás que hacer la misión &lt;strong&gt;A Far Eastern Yarn&lt;/strong&gt; que nos dará &lt;strong&gt;Curious Courier&lt;/strong&gt; en &lt;strong&gt;Nuestra Isla (X:12.4 Y:28.7)&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Con esta misión desbloquearon el poder llegar a 2 nuevos rangos de la isla, nuevos materiales, edificios y animales.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;custom-deliveries&quot;&gt;Custom Deliveries&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/oveja.jpg&quot; alt=&quot;oveja&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Tendremos una nueva custom delivery, para desbloquearla tendremos que hacer la misión &lt;strong&gt;That’s So Anden&lt;/strong&gt; que nos dará &lt;strong&gt;Supplicant Sheep&lt;/strong&gt; en &lt;strong&gt;The Crystarium (X:9.3 Y:11.3)&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Se han &lt;strong&gt;incluido numerosas mejoras en el interfaz de la isla&lt;/strong&gt;, desde &lt;strong&gt;recoger en masa&lt;/strong&gt; el huerto, o el establo a mejoras en la interfaz de &lt;strong&gt;artesanías y demanda&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;También podremos &lt;strong&gt;cuando capturáramos un animal y no tenemos hueco&lt;/strong&gt; para un nuevo el &lt;strong&gt;liberar al que queramos&lt;/strong&gt; por el que acabamos de capturar.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;nuevo-unreal&quot;&gt;Nuevo Unreal&lt;/h4&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/sophia.jpg&quot; alt=&quot;Sophia&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Se ha incluido un &lt;strong&gt;nuevo Unreal: Containment Bay P1T6 (Unreal), Sophia&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;combate&quot;&gt;Combate&lt;/h3&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/tipo.jpg&quot; alt=&quot;tipo&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Se ha incluido un &lt;strong&gt;icono&lt;/strong&gt; para representar que &lt;strong&gt;tipo de daño&lt;/strong&gt;: &lt;strong&gt;Físico (Espada), Mágico (Báculo), Único (Estrella)&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/bufos.jpg&quot; alt=&quot;bufos&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ahora podremos ver en nuestra party el tiempo que le queda a los efectos que tienen.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;retratos&quot;&gt;Retratos&lt;/h3&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/retratos_duty.jpg&quot; alt=&quot;bufos&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Se han &lt;strong&gt;incluido el mostrar retratos en todo tipo de duties&lt;/strong&gt;, como &lt;strong&gt;Dungeons, Raid, etc&lt;/strong&gt;, aunque podemos desactivarlo.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/retratos_commendation.jpg&quot; alt=&quot;bufos&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Se han incluido &lt;strong&gt;retratos a la hora de dar commendations&lt;/strong&gt;, aunque podemos desactivarlo.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ahora se podrá &lt;strong&gt;previsualizar los marcos de retratos&lt;/strong&gt; con el &lt;strong&gt;subcomando Preview&lt;/strong&gt; en el objeto.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;jcj&quot;&gt;JcJ&lt;/h3&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/series3.jpg&quot; alt=&quot;series3&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;La &lt;strong&gt;Series 2 termina y empezara la Series 3&lt;/strong&gt;, la cual incluye &lt;strong&gt;nuevas recompensas&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/clockwork.jpg&quot; alt=&quot;clockwork&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Se incluye una nueva zona en Crystalline Conflict, Clockwork Castletown, la cual tiene incluye nuevas mecánicas.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;maps-de-tesoro&quot;&gt;Maps de Tesoro&lt;/h3&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/gymnasion.jpg&quot; alt=&quot;Gymnasion&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Se añade un &lt;strong&gt;nuevo mapa&lt;/strong&gt; de tesoro, &lt;strong&gt;Ophiotauroskin Treasure Map&lt;/strong&gt;, los cuales &lt;strong&gt;solo&lt;/strong&gt; dirigen a ubicaciones en &lt;strong&gt;Elpis&lt;/strong&gt;, aunque el mapa en si &lt;strong&gt;se puede obtener&lt;/strong&gt; en diversos &lt;strong&gt;nodos&lt;/strong&gt; de nivel &lt;strong&gt;90&lt;/strong&gt; en &lt;strong&gt;todos los mapas de Endwalker&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/ruleta.jpg&quot; alt=&quot;Ruleta&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Estos nuevos mapas puede abrir un portal a &lt;strong&gt;The Shifting Gymnasion Agonon&lt;/strong&gt; el cual sera del &lt;strong&gt;tipo ruleta&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;housing&quot;&gt;Housing&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Se añade &lt;strong&gt;nuevos Wards a todos los distritos de housing&lt;/strong&gt;, del &lt;strong&gt;25 al 30&lt;/strong&gt;, aunque la &lt;strong&gt;lotería no comenzara hasta el día 15 de Enero a las 16:00&lt;/strong&gt;. El &lt;strong&gt;Ward 25&lt;/strong&gt; sera para &lt;strong&gt;Free Companies&lt;/strong&gt; y el &lt;strong&gt;Ward 30&lt;/strong&gt; sera para &lt;strong&gt;particulares&lt;/strong&gt;, &lt;strong&gt;del 26 al 29&lt;/strong&gt; sera para &lt;strong&gt;ambos, Free Companies y Particulares&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Se añaden &lt;strong&gt;nuevos proyectos para el Workshop&lt;/strong&gt;, nuevas &lt;strong&gt;rutas, objetos y niveles de submarinos&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/fachada.jpg&quot; alt=&quot;fachada&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Se añade &lt;strong&gt;nuevos muebles&lt;/strong&gt; para housing.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/noticias/parche6_3/muebles_1.jpg&quot; width=&quot;500&quot; alt=&quot;muebles&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/noticias/parche6_3/muebles_2.jpg&quot; width=&quot;500&quot; alt=&quot;muebles&quot; /&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/noticias/parche6_3/muebles_3.jpg&quot; width=&quot;500&quot; alt=&quot;muebles&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/noticias/parche6_3/muebles_4.jpg&quot; width=&quot;500&quot; alt=&quot;muebles&quot; /&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;gold-saucer&quot;&gt;Gold Saucer&lt;/h3&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/blackjack.jpg&quot; alt=&quot;blackjack&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Se incluye un &lt;strong&gt;nuevo premio por MGP&lt;/strong&gt;, en este caso es un minion de la nave &lt;strong&gt;Blackjack&lt;/strong&gt;, la cual es del Final &lt;strong&gt;Fantasy VI&lt;/strong&gt;, aunque aun &lt;strong&gt;no conocemos su precio&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/sylphstep.jpg&quot; alt=&quot;sylphstep&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Se incluye un nuevo &lt;strong&gt;recorrido de los puzzle de saltos, Leap of Faith,&lt;/strong&gt; el cual &lt;strong&gt;a los 40 minutos de cada Hora&lt;/strong&gt;, por &lt;strong&gt;ejemplo 10:40, 11:40, 12:40, etc&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;retainers&quot;&gt;Retainers&lt;/h3&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/retainer.jpg&quot; alt=&quot;retainer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Se incluye una &lt;strong&gt;nueva opción&lt;/strong&gt;, &lt;strong&gt;entrust duplicates&lt;/strong&gt;, para poder &lt;strong&gt;enviar&lt;/strong&gt; al retainer &lt;strong&gt;stacks de objetos que ya tiene&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Podremos hacer &lt;strong&gt;“Cast glamour”&lt;/strong&gt; y &lt;strong&gt;“Dye Items”&lt;/strong&gt; desde el &lt;strong&gt;menu del retainer&lt;/strong&gt;, podemos usar objetos de nuestro inventario o del retainer.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;También tendremos una opción de &lt;strong&gt;“Try On Retainer”&lt;/strong&gt;, para &lt;strong&gt;previsualizar&lt;/strong&gt; objetos en el retainer.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Habrá &lt;strong&gt;nuevos objectos obtenibles&lt;/strong&gt; via &lt;strong&gt;Exploration&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;misceláneo&quot;&gt;Misceláneo&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ahora podemos bucear en upper La Noscea.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/bucear.jpg&quot; alt=&quot;bucear&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Se ha añadido en los mapas &lt;strong&gt;iconos para mostrar donde hay entradas a dungeons especiales&lt;/strong&gt; como Eureka, Bozjan Southern Front; Delubrum Reginae; Zadnor, Palace of the Dead, Heaven-on-High y Sil’dihn Subterrane.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/palace.jpg&quot; alt=&quot;palace&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hay &lt;strong&gt;nuevos objetos&lt;/strong&gt; para intercambiar por &lt;strong&gt;bicolor gemstones&lt;/strong&gt;, las cuales obtenemos en el sistema de &lt;strong&gt;Shared Fates&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Se han incluido &lt;strong&gt;nuevos símbolos&lt;/strong&gt; para el &lt;strong&gt;Company Crests&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/crest.jpg&quot; alt=&quot;crest&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tendremos &lt;strong&gt;nuevos peinados para Viera y Hrothgar&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/noticias/parche6_3/peinados_1.jpg&quot; width=&quot;500&quot; alt=&quot;peinados&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/noticias/parche6_3/peinados_2.jpg&quot; width=&quot;500&quot; alt=&quot;peinados&quot; /&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hay nuevas recompensa de &lt;strong&gt;Wondrous Tails, el diario de Kloe&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-xl&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/noticias/parche6_3/kloe_1.jpg&quot; width=&quot;500&quot; alt=&quot;kloe 1&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col&quot;&gt;
-      &lt;img src=&quot;/assets/images/articles/noticias/parche6_3/kloe_2.jpg&quot; width=&quot;500&quot; alt=&quot;kloe 2&quot; /&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Se &lt;strong&gt;reduce&lt;/strong&gt; el numero de &lt;strong&gt;Unsung Blade of Abyssos&lt;/strong&gt; necesarios para obtener un &lt;strong&gt;Ultralight Tomestone de 7 a 4&lt;/strong&gt;, recordamos que esto se usa para obtener el &lt;strong&gt;arma 620, upgradeable a 630&lt;/strong&gt; via &lt;strong&gt;Moonshine Brine&lt;/strong&gt; que se obtiene en &lt;strong&gt;p7s&lt;/strong&gt; o que canjeada por una &lt;strong&gt;Aglaia Coin y una Euphrosyne Coin&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Existirá un &lt;strong&gt;nuevo conjunto crafteable&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/crafting.jpg&quot; alt=&quot;crafting&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Varios conjuntos&lt;/strong&gt; como el de &lt;strong&gt;Valentione&lt;/strong&gt; o el de &lt;strong&gt;Songbird dejaran&lt;/strong&gt; de tener &lt;strong&gt;restricción de genero&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Las &lt;strong&gt;mascara y trajes de chocobo seran teñibles&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;El &lt;strong&gt;&lt;em&gt;Glamour Dresser&lt;/em&gt;&lt;/strong&gt; tendrá &lt;strong&gt;filtros y capacidad de búsqueda&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/dresser.jpg&quot; alt=&quot;dresser&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;El &lt;strong&gt;equipo crafteado de 610&lt;/strong&gt; sera &lt;strong&gt;aumentable a 620&lt;/strong&gt; via certificados.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Las &lt;strong&gt;habilidades de los gatherer de encontrar nodo&lt;/strong&gt;s pasan a ser &lt;strong&gt;para todos los job&lt;/strong&gt;, lo que quiere decir es que &lt;strong&gt;podremos buscar arboles estando de minero y viceversa&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cuando gathereamos collectables se nos mostrara los puntos de referencia de colectividad, esto es util para hacer custom deliveries o aetherial reduction.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/collect.jpg&quot; alt=&quot;collect&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Se ha mejorado el Fish Guide, incluyendo filtros y mas visibilidad de lo que podemos pescar.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/guide.jpg&quot; alt=&quot;guide&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tendremos &lt;strong&gt;nueva montura&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/montura.jpg&quot; alt=&quot;montura&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tendremos &lt;strong&gt;nuevo minion&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/minion.jpg&quot; alt=&quot;minion&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tendremos &lt;strong&gt;nueva sombrilla&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/sombrilla.jpg&quot; alt=&quot;sombrilla&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tendremos &lt;strong&gt;nuevo emote&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/emote.jpg&quot; alt=&quot;emote&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Firmament&lt;/strong&gt; tendrá un &lt;strong&gt;mapa de Aethernet&lt;/strong&gt; visible en sus &lt;strong&gt;Aethernet shards&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cuando se crea una &lt;strong&gt;alliance usando el Party Finder&lt;/strong&gt; se podrá &lt;strong&gt;escribir en el party chat antes de entrar&lt;/strong&gt; al duty.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Se ha incluido un &lt;strong&gt;nuevo tema de UI&lt;/strong&gt; llamado &lt;strong&gt;Clear Blue theme&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/parche6_3/tema_azul.jpg&quot; alt=&quot;tema_azul&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;El numero de &lt;strong&gt;waymarks&lt;/strong&gt; que se &lt;strong&gt;pueden grabar&lt;/strong&gt; pasa de &lt;strong&gt;5 a 30&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Los &lt;strong&gt;gil&lt;/strong&gt; actuales se &lt;strong&gt;mostraran en el inventario&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Se &lt;strong&gt;añade una opción para desactivar el pivot automático de la cámara&lt;/strong&gt; cuando se juega en &lt;strong&gt;legacy mode&lt;/strong&gt;, estará en: &lt;strong&gt;Character Configuration &amp;gt; Control Settings &amp;gt; General &amp;gt; Movement Settings : “Disable camera pivot”&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Tendremos &lt;strong&gt;3 nuevas opciones&lt;/strong&gt; para &lt;strong&gt;desactivar&lt;/strong&gt; el &lt;strong&gt;tarjeteo usando el botón derecho del ratón&lt;/strong&gt; a : &lt;strong&gt;jugadores, npcs o minions&lt;/strong&gt;. Esto estará en &lt;strong&gt;Character Configuration &amp;gt; Control Settings &amp;gt; Mouse &amp;gt; Mouse Targeting&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/notas-6_3/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/notas-6_3/</guid>
-        
-        <category>parches</category>
-        
-        <category>EW</category>
-        
-        <category>6.3</category>
-        
-        
-        <category>parches</category>
         
       </item>
     
