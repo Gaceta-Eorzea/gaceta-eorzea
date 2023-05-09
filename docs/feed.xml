@@ -5,9 +5,30 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 May 2023 15:19:01 +0100</pubDate>
-    <lastBuildDate>Fri, 05 May 2023 15:19:01 +0100</lastBuildDate>
+    <pubDate>Tue, 09 May 2023 13:20:43 +0100</pubDate>
+    <lastBuildDate>Tue, 09 May 2023 13:20:43 +0100</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Guia Machinist en Endwalker</title>
+        <description>&lt;p&gt;El machinist es uno de los 3 DPS de rango físico disponibles en Final Fantasy XIV, a diferencia del dancer o el bardo el machinist está centrado en hacer DPS puro y ser uno de los jobs que mayor sensación de rapidez da. Un job que considero especialmente divertido de jugar.&lt;/p&gt;
+
+&lt;p&gt;En éste vídeo os traigo una explicación de sus habilidades, como utilizarlas, como funcionan las mecánicas del job, su opener y algunos consejos de cara a la gestión de sus recursos.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/AnawpfVGYeA?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 09 May 2023 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/machinist/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/machinist/</guid>
+        
+        <category>jobs</category>
+        
+        
+        <category>jobs</category>
+        
+      </item>
     
       <item>
         <title>Fashion Report 5 Mayo 2023</title>
@@ -627,130 +648,6 @@ Por ultimo recordar que en el parche &lt;b&gt;6.3&lt;/b&gt; introdujeron la mont
         
         
         <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Fashion Report 10 Marzo 2023</title>
-        <description>&lt;p&gt;Esta semana de nuevo &lt;a href=&quot;https://twitter.com/kaiyokostar&quot; target=&quot;_blank&quot;&gt;Kaiyoko Star&lt;/a&gt; ha publicado la solución para el Fashion Report, la cual podéis ver a continuación.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/fashion/fashion230311/freport_267.jpg&quot; alt=&quot;Fashion Report 267&quot; /&gt;
-&lt;br /&gt;
-&lt;sub&gt;&lt;sup&gt;Fashion Report 267&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;Para hacer los &lt;strong&gt;80 puntos&lt;/strong&gt; de manera fácil y ganar los &lt;strong&gt;60,000 MGP&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;En &lt;strong&gt;pantalones cualquier pieza teñida&lt;/strong&gt; con &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/0c0c7f94f09/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Soot Black Dye&lt;/a&gt;, que podeis obtener de:
-    &lt;ul&gt;
-      &lt;li&gt;Comprar, si teneis la reputación subida con los &lt;strong&gt;Ixali&lt;/strong&gt;, a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/82cc59ae4c7/?item=188d2c75e07&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Ixali Vendor&lt;/a&gt; en &lt;strong&gt;North Shroud (X:24.9 Y:22.7)&lt;/strong&gt; por 216 gil.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Craftear&lt;/strong&gt; con la receta de nivel 30 de Carpenter, Blacksmith, Armorer, Goldsmith, Leatherworker, Weaver, Alchemist o Cullinarian que os pedira &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/0563231e95a/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Grey Pigment&lt;/a&gt; los cuales podeis obtener en &lt;em&gt;Western La Noscea, Quarterstone (X:31.4 Y:28.2)&lt;/em&gt; siendo Minero 28+ o &lt;em&gt;South Shroud, Upper Paths (X:17.1 Y:21.1)&lt;/em&gt; siendo Botanista 28+.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;En &lt;strong&gt;zapatos cualquier pieza teñida&lt;/strong&gt; con &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/f2d34ba2b19/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Mesa Red Dye&lt;/a&gt; que podeis comprar a &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/shop/a28cf0441f4/?item=70849afadc9&amp;amp;type=gil&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Alaric&lt;/a&gt; en &lt;strong&gt;Old Gridania (X:14.3 Y:8.8)&lt;/strong&gt; por 216 gil.&lt;/li&gt;
-  &lt;li&gt;En &lt;strong&gt;cabeza&lt;/strong&gt; &lt;a href=&quot;https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/d3559d1b51c/&quot; class=&quot;eorzeadb_link&quot; target=&quot;_blank&quot;&gt;Legionary Visor&lt;/a&gt; que es un drop de algunos soldados Garleanos de nivel 44-50, los cuales podéis encontrar en esta lista:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-&lt;div class=&quot;span2&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;    
-    &lt;div class=&quot;col-4 border bg-dark&quot;&gt;
-      &lt;font color=&quot;white&quot;&gt;&lt;b&gt;NPC&lt;/b&gt;&lt;/font&gt;
-    &lt;/div&gt;             
-    &lt;div class=&quot;col-8 border bg-dark&quot;&gt;
-        &lt;font color=&quot;white&quot;&gt;&lt;b&gt;&amp;nbsp;Lugar&lt;/b&gt;&lt;/font&gt;
-    &lt;/div&gt;    
-  &lt;/div&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-        2nd Cohort Eques&lt;br /&gt;
-        2nd Cohort Hoplomachus&lt;br /&gt;
-        2nd Cohort Laquearius
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Castrum Occidens - Eastern La Noscea
-    &lt;/div&gt;          
-  &lt;/div&gt;   
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-        3rd Cohort Hoplomachus&lt;br /&gt;
-        3rd Cohort Laquearius&lt;br /&gt;
-        3rd Cohort Secutor&lt;br /&gt;
-        3rd Cohort Signifer&lt;br /&gt;
-        7th Cohort Eques&lt;br /&gt;
-        7th Cohort Hoplomachus&lt;br /&gt;
-        7th Cohort Signifer        
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Raubahn's Push - Northern Thanalan
-    &lt;/div&gt;          
-  &lt;/div&gt;   
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-        4th Cohort Eques&lt;br /&gt;
-        4th Cohort Hoplomachus&lt;br /&gt;
-        4th Cohort Laquearius&lt;br /&gt;
-        4th Cohort Secutor&lt;br /&gt;
-        4th Cohort Signifer
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Imperial Outpost - Cape Westwind - Western Thanalan
-    &lt;/div&gt;          
-  &lt;/div&gt;    
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-        5th Cohort Eques&lt;br /&gt;
-        5th Cohort Hoplomachus&lt;br /&gt;
-        5th Cohort Laquearius&lt;br /&gt;
-        5th Cohort Secutor&lt;br /&gt;
-        5th Cohort Signifer&lt;br /&gt;
-        5th Cohort Evocatus&lt;br /&gt;
-        5th Cohort Secutor
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      Castrum Centri - Fogfens - Mor Dhona
-    &lt;/div&gt;          
-  &lt;/div&gt;  
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-4 border bg-light&quot;&gt;
-        Imperial Eques&lt;br /&gt;
-        Imperial Hoplomachus
-    &lt;/div&gt;    
-    &lt;div class=&quot;col-8 border bg-light&quot;&gt;
-      North Silvertear - Mor Dhona
-    &lt;/div&gt;          
-  &lt;/div&gt;    
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-Por ultimo recordar que en el parche &lt;b&gt;6.3&lt;/b&gt; introdujeron la montura &lt;b&gt;Black Jack&lt;/b&gt;, la cual viene del Final &lt;b&gt;Fantasy VI&lt;/b&gt; y puede llevar a &lt;b&gt;4 personas&lt;/b&gt;, la podemos comprar por &lt;b&gt;4.000,000 MGP&lt;/b&gt;, y hacer el fashion report es una manera fácil de ir consiguiendo MGP para obtenerla.
-&lt;br /&gt;
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/fashion/fashion230113/blackjack.jpg&quot; alt=&quot;Pod 602&quot; /&gt;&lt;br /&gt;
-    &lt;sub&gt;&lt;sup&gt;Blackjack&lt;/sup&gt;&lt;/sub&gt;
-&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-        <link>https://gaceta-eorzea.com/fashion230311/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/fashion230311/</guid>
-        
-        <category>gold saucer</category>
-        
-        <category>eventos</category>
-        
-        <category>semanales</category>
-        
-        
-        <category>gold saucer</category>
         
       </item>
     
