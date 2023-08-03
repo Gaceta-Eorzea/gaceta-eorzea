@@ -5,9 +5,40 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Jul 2023 12:50:56 +0100</pubDate>
-    <lastBuildDate>Mon, 24 Jul 2023 12:50:56 +0100</lastBuildDate>
+    <pubDate>Thu, 03 Aug 2023 12:10:17 +0100</pubDate>
+    <lastBuildDate>Thu, 03 Aug 2023 12:10:17 +0100</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Evento: Moonfire Faire 2023</title>
+        <description>&lt;p&gt;Vuelve el evento de &lt;strong&gt;MoonFire Faire&lt;/strong&gt;, el cual es la &lt;strong&gt;celebración de verano&lt;/strong&gt; en Final Fantasy XIV.&lt;/p&gt;
+
+&lt;p&gt;Este evento lo podremos realizar &lt;strong&gt;desde&lt;/strong&gt; el &lt;strong&gt;Jueves 10 de Agosto&lt;/strong&gt; a las 10:00 hasta el &lt;strong&gt;Sabado 26 de Agosto&lt;/strong&gt; a las 16:59.&lt;/p&gt;
+
+&lt;p&gt;Para empezar el evento deberemos aceptar la &lt;strong&gt;misión de nivel 30 Allergic to Sunshine&lt;/strong&gt;, la cual nos la dará &lt;strong&gt;Mayaru Moyaru en Limsa Lominsa, Upper Decks (X11.5 Y:13.8)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/moonfire2023/quest.jpg&quot; alt=&quot;Mayaru Moyaru&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tras &lt;strong&gt;completar las misiones&lt;/strong&gt; de evento obtendremos &lt;strong&gt;esta recompensa&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/assets/images/articles/noticias/moonfire2023/recompensa.jpg&quot; alt=&quot;recompensa&quot; /&gt;
+    &lt;br /&gt;
+    Phoenix-Rise Set.
+&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Aug 2023 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/moonfire-2023/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/moonfire-2023/</guid>
+        
+        <category>evento</category>
+        
+        <category>noticias</category>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Calendario de Fanfest 2023 - Las Vegas</title>
@@ -494,29 +525,6 @@ Por ultimo recordar que en el parche &lt;b&gt;6.3&lt;/b&gt; introdujeron la mont
         
         
         <category>gold saucer</category>
-        
-      </item>
-    
-      <item>
-        <title>Notas Preliminares 6.4</title>
-        <description>&lt;p&gt;Ya queda nada para el parche 6.4, concretamente este mismo martes y el viernes han sido publicadas las notas del parche 6.4, en donde podemos ver con mucho más detalle todos los cambios realizados en Final Fantasy XIV, tanto de contenido introducido como de mejoras de calidad de vida del juego y otro tipo de añadidos.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/2ngZWRSVVeU?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 21 May 2023 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/notas-pre-6-4/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/notas-pre-6-4/</guid>
-        
-        <category>parches</category>
-        
-        <category>EW</category>
-        
-        <category>6.4</category>
-        
-        
-        <category>parches</category>
         
       </item>
     
