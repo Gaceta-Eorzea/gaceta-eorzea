@@ -5,20 +5,45 @@
     <description>Artículos y guías de Final Fantasy XIV en Español.</description>
     <link>https://gaceta-eorzea.com/</link>
     <atom:link href="https://gaceta-eorzea.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Sep 2023 09:52:58 +0100</pubDate>
-    <lastBuildDate>Sun, 24 Sep 2023 09:52:58 +0100</lastBuildDate>
+    <pubDate>Sun, 24 Sep 2023 10:26:41 +0100</pubDate>
+    <lastBuildDate>Sun, 24 Sep 2023 10:26:41 +0100</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>Subtitulado al Español : Dawntrail</title>
+        <title>Trailer del Parche 6.5 Subtitulado al Español</title>
+        <description>&lt;p&gt;Hoy hemos visto el trailer del nuevo parche 6.5 : Growing Light el cual os traigo subtitulado al Español desde el Japones.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/9SHWKwX0Nko?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Sep 2023 00:00:00 +0100</pubDate>
+        <link>https://gaceta-eorzea.com/trailer_growing_light/</link>
+        <guid isPermaLink="true">https://gaceta-eorzea.com/trailer_growing_light/</guid>
+        
+        <category>traducción</category>
+        
+        <category>multimedia</category>
+        
+        <category>trailer</category>
+        
+        
+        <category>multimedia</category>
+        
+      </item>
+    
+      <item>
+        <title>Trailer de Dawntrail Subtitulado al Español</title>
         <description>&lt;p&gt;Hace unas semanas pudimos ver el trailer de Dawntrail, el cual os traigo subtitulado para que asi podrais disfrutarlo en nuestro idioma.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;div align=&quot;center&quot; class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-    &lt;video controls=&quot;&quot; class=&quot;embed-responsive-item&quot;&gt; 
-        &lt;source src=&quot;/assets/images/articles/multimedia/dawntrail/dawntrail_trailer.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-    &lt;/video&gt;
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/VnV2Y2RF1rQ?hl=es&amp;amp;cc_lang_pref=es&amp;amp;cc=1&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -667,41 +692,6 @@ Por ultimo recordar que esta activo el evento de Make it Rain hasta el 17 de Jul
         
         
         <category>gold saucer</category>
-        
-      </item>
-    
-      <item>
-        <title>Evento: The Make It Rain Campaign 2023</title>
-        <description>&lt;p&gt;Vuelve el evento de &lt;strong&gt;The Make It Rain Campaign&lt;/strong&gt;, el cual promociona las actividades dentro del Gold Saucer.&lt;/p&gt;
-
-&lt;p&gt;Este evento lo podremos realizar &lt;strong&gt;desde&lt;/strong&gt; el &lt;strong&gt;Viernes 30 de Junio&lt;/strong&gt; a las 10:00 hasta el &lt;strong&gt;Lunes 17 de Junio&lt;/strong&gt; a las 16:59.&lt;/p&gt;
-
-&lt;p&gt;Para empezar el evento deberemos aceptar la &lt;strong&gt;misión de nivel 15 A Golden Opportunity&lt;/strong&gt;, la cual nos la dará &lt;strong&gt;Kipih Jakkya en Ul’dah Steps of Nald (X:9.4, Y9.2)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/articles/noticias/maitrain2023/quest.jpg&quot; alt=&quot;Kipih&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tras &lt;strong&gt;completar las misiones&lt;/strong&gt; de evento obtendremos &lt;strong&gt;estas recompensa&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;/assets/images/articles/noticias/maitrain2023/recompensa.jpg&quot; alt=&quot;recompensa&quot; /&gt;
-    &lt;br /&gt;
-    Minion Wind-up Godbert.
-&lt;/p&gt;
-
-&lt;blockquote&gt;
-Ademas &lt;b&gt;durante&lt;/b&gt; toda la &lt;b&gt;duración&lt;/b&gt; del &lt;b&gt;evento&lt;/b&gt; todas las &lt;b&gt;actividades&lt;/b&gt; en el Gold Saucer nos darán un &lt;b&gt;50% mas de MGP&lt;/b&gt; y ademas tendremos &lt;b&gt;descuentos&lt;/b&gt; en el precio de algunos de las recompensas.
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Fri, 23 Jun 2023 00:00:00 +0100</pubDate>
-        <link>https://gaceta-eorzea.com/maitrain2023/</link>
-        <guid isPermaLink="true">https://gaceta-eorzea.com/maitrain2023/</guid>
-        
-        <category>evento</category>
-        
-        <category>noticias</category>
-        
-        
-        <category>noticias</category>
         
       </item>
     
