@@ -30,7 +30,7 @@ Desde el jueves 24 de Junio, a las 20:00, hasta el 24 de agosto, recibiremos dis
       &nbsp;1&nbsp;
     </div>    
     <div class="col-8 border bg-light">      
-      &nbsp;<a href="https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/b9d0cbc0eca/" target="_blank" class="eorzeadb_link"><img src="/assets/images/articles/noticias/ffxiv_twitch/heaven_cracker.png" height="32"> Deluxe Heavenscracker x100</a>&nbsp;
+      &nbsp;<a href="https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/b9d0cbc0eca/" target="_blank" class="eorzeadb_link"><img src="{{ '/assets/images/articles/noticias/ffxiv_twitch/heaven_cracker.png' | relative_url }}" height="32"> Deluxe Heavenscracker x100</a>&nbsp;
     </div>          
   </div>   
   <div class="row">
@@ -38,12 +38,12 @@ Desde el jueves 24 de Junio, a las 20:00, hasta el 24 de agosto, recibiremos dis
       &nbsp;4&nbsp;
     </div>    
     <div class="col-8 border bg-light">
-      &nbsp;<a href="https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/6d2e491e854/" target="_blank" class="eorzeadb_link"><img src="/assets/images/articles/noticias/ffxiv_twitch/fatblack_small.png" height="32"> Fat Black Chocobo Whistle</a>&nbsp;   
+      &nbsp;<a href="https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/6d2e491e854/" target="_blank" class="eorzeadb_link"><img src="{{ '/assets/images/articles/noticias/ffxiv_twitch/fatblack_small.png' | relative_url }}" height="32"> Fat Black Chocobo Whistle</a>&nbsp;   
     </div>          
   </div>    
 </div>
 
-<p align="center"><img src="/assets/images/articles/noticias/ffxiv_twitch/black_chocobo.png" width="500"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/ffxiv_twitch/black_chocobo.png' | relative_url }}" width="500"></p>
 
 ### Como participar
 
@@ -59,9 +59,9 @@ Las suscripciones cuenta de forma acumulativa durante el tiempo de la promoción
 
 Tras regalar las suscripciones recibirás un mensaje en la **bandeja de twitch** y este mensaje contendrá el **código** para reclamar el objeto en tu cuenta de **Final Fantasy XIV**.
 
-<p align="center"><img src="/assets/images/articles/noticias/ffxiv_twitch/twitch.png"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/ffxiv_twitch/twitch.png' | relative_url }}"></p>
 
-Una vez tengas el código deberas ir a tu cuenta en <a href="https://sqex.to/Msp?utm_source=lodestone&utm_medium=pc_banner&utm_campaign=na_mogstation" target="_blank"><img src="/assets/images/articles/noticias/ffxiv_twitch/mog.png" height="50"></a> y desde allí:
+Una vez tengas el código deberas ir a tu cuenta en <a href="https://sqex.to/Msp?utm_source=lodestone&utm_medium=pc_banner&utm_campaign=na_mogstation" target="_blank"><img src="{{ '/assets/images/articles/noticias/ffxiv_twitch/mog.png' | relative_url }}" height="50"></a> y desde allí:
 
 - Entra con tu cuenta de **FINAL FANTASY XIV**.
 - Selecciona ***Your Account*** en el menu de arriba. Si tienes más de una cuenta, representadas por pestañas, selecciona a la que quieres entregar el objeto.
@@ -79,4 +79,5 @@ Una vez tengas el código deberas ir a tu cuenta en <a href="https://sqex.to/Msp
 - Estos códigos inicialmente no expiran, sin embargo *Square Enix* puede establecer una fecha de caducidad cuando lo vea oportuno.
 
 Para más información os recomendamos que veáis los [detalles completos de la promoción](https://eu.finalfantasyxiv.com/lodestone/topics/detail/c490d3de2f2f87b95a0488c0152acaa091904f1e){:target="_blank"}.
+
 

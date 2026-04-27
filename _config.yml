@@ -2,6 +2,8 @@
 name: "Gaceta Eorzea"
 title: "Gaceta Eorzea"
 description: "Artículos y guías de Final Fantasy XIV en Español."
+url: "https://gaceta-eorzea.com"
+baseurl: ""
 logo: 'assets/images/log.png'
 favicon: 'assets/images/logo.png'
 google_analytics: 'G-Z6JRH15CR6'
@@ -169,7 +171,7 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
+lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, docs, tmp, local.bat, build.bat, local.sh, build.sh]
 

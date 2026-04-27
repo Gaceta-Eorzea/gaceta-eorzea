@@ -5,7 +5,7 @@ permalink: /formatos
 comments: false
 ---
 Imagen y link mog station
-<a href="https://sqex.to/Msp?utm_source=lodestone&utm_medium=pc_banner&utm_campaign=na_mogstation" target="_blank"><img src="/assets/images/articles/noticias/ffxiv_twitch/mog.png" height="50"></a>
+<a href="https://sqex.to/Msp?utm_source=lodestone&utm_medium=pc_banner&utm_campaign=na_mogstation" target="_blank"><img src="{{ '/assets/images/articles/noticias/ffxiv_twitch/mog.png' | relative_url }}" height="50"></a>
 
 En esta pagina vamos a ver los formatos que se pueden usar para los articulos.
 
