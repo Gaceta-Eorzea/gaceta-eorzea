@@ -10,7 +10,7 @@ featured: false
 hidden: false
 ---
 
-En nuestra cuenta de [Twitter](https://twitter.com/GacetaEorzea){:target="_blank"} hicimos una [encuesta](https://twitter.com/GacetaEorzea/status/1417530378991046659){:target="_blank"} preguntando cual **Historia Principal** de las expansiones os gustó más. En este artículo os mostramos el resultado y nuestra propia interpretación.
+En nuestra cuenta de [Twitter](https://x.com/GacetaEorzea){:target="_blank"} hicimos una [encuesta](https://x.com/GacetaEorzea/status/1417530378991046659){:target="_blank"} preguntando cual **Historia Principal** de las expansiones os gustó más. En este artículo os mostramos el resultado y nuestra propia interpretación.
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 

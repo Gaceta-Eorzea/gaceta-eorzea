@@ -10,11 +10,11 @@ featured: false
 hidden: false
 ---
 
-¡Presentamos el primer evento benéfico de <a href="https://twitter.com/FFXIVESP_" target="_blank">FFXIVESP</a>, ***"Canción de Esperanza"***, en el que durante la semana **del 21 al 28 de Agosto** recaudaremos fondos para <a href="https://www.juegaterapia.org" target="_blank">juegaterapia</a>!
+¡Presentamos el primer evento benéfico de <a href="https://x.com/FFXIVESP_" target="_blank">FFXIVESP</a>, ***"Canción de Esperanza"***, en el que durante la semana **del 21 al 28 de Agosto** recaudaremos fondos para <a href="https://www.juegaterapia.org" target="_blank">juegaterapia</a>!
 
 #### Presentación
 
-Os mostramos el video de presentación creado por [FFXIV_Fandub](https://twitter.com/FFXIV_Fandub){:target="_blank"}.
+Os mostramos el video de presentación creado por [FFXIV_Fandub](https://x.com/FFXIV_Fandub){:target="_blank"}.
 
 {% include youtube.html id='Kp32rCmspd8' %}
 
@@ -64,7 +64,7 @@ Cualquier creador de contenido o entidad **interesada en participar** en el even
 
 #### Mensaje de Alex Moukala
 
-[Alex Moukala](https://twitter.com/alex_moukala){:target="_blank"} nos trae un magnífico mensaje para este evento.
+[Alex Moukala](https://x.com/alex_moukala){:target="_blank"} nos trae un magnífico mensaje para este evento.
 
 {% include youtube.html id='QsHFQfrj-L8' %}
 
@@ -72,7 +72,7 @@ Cualquier creador de contenido o entidad **interesada en participar** en el even
 
 #### Mensaje de Asteld
 
-[Asteld](https://twitter.com/Asteld_){:target="_blank"} que tuvo la **idea de este evento** benéfico nos trae un mensaje.
+[Asteld](https://x.com/Asteld_){:target="_blank"} que tuvo la **idea de este evento** benéfico nos trae un mensaje.
 
 {% include youtube.html id='Gq495cFzUpM' %}
 
@@ -80,7 +80,7 @@ Cualquier creador de contenido o entidad **interesada en participar** en el even
 
 #### Mensaje de Kougaon
 
-[Kougaon](https://twitter.com/Kougaon_){:target="_blank"} también nos manda un mensaje para este evento.
+[Kougaon](https://x.com/Kougaon_){:target="_blank"} también nos manda un mensaje para este evento.
 
 {% include youtube.html id='tzxLp4BmM8c' %}
 
@@ -88,7 +88,7 @@ Cualquier creador de contenido o entidad **interesada en participar** en el even
 
 #### Mensaje de LazaPLAYS
 
-[LazaPLAYS](https://twitter.com/LazaPLAYS){:target="_blank"} quiere también dejarnos un mensaje.
+[LazaPLAYS](https://x.com/LazaPLAYS){:target="_blank"} quiere también dejarnos un mensaje.
 
 {% include youtube.html id='aP4PSsOa-QM' %}
 
@@ -96,7 +96,7 @@ Cualquier creador de contenido o entidad **interesada en participar** en el even
 
 #### Mensaje de Brian Ricardo
 
-[Brian Ricardo](https://twitter.com/brianricardos){:target="_blank"} se une también a la iniciativa con un mensaje.
+[Brian Ricardo](https://x.com/brianricardos){:target="_blank"} se une también a la iniciativa con un mensaje.
 
 {% include youtube.html id='cBWlVUib-zc' %}
 
@@ -104,7 +104,7 @@ Cualquier creador de contenido o entidad **interesada en participar** en el even
 
 #### Mensaje de Stillone
 
-[Stillone](https://twitter.com/Stillone999){:target="_blank"} deja un mensaje muy emotivo para el evento.
+[Stillone](https://x.com/Stillone999){:target="_blank"} deja un mensaje muy emotivo para el evento.
 
 {% include youtube.html id='h1WGpqwVVbM' %}
 
@@ -112,7 +112,7 @@ Cualquier creador de contenido o entidad **interesada en participar** en el even
 
 #### Mensaje de Geraru
 
-Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compartir un mensaje.
+Tambien [Geraru](https://x.com/GeraruTaru){:target="_blank"} quiere compartir un mensaje.
 
 {% include youtube.html id='JxXG2DDMl9U' %}
 
@@ -120,7 +120,7 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 #### Mensaje de Lia Tales
 
-[Lia Tales](https://twitter.com/Lia_Tales){:target="_blank"} nos comparte un mensaje donde nos cuenta las muchas formas de colaborar.
+[Lia Tales](https://x.com/Lia_Tales){:target="_blank"} nos comparte un mensaje donde nos cuenta las muchas formas de colaborar.
 
 {% include youtube.html id='_dzklBzEm0o' %}
 
@@ -128,7 +128,7 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 #### Mensaje de Chocoferu
 
-[Chocoferu](https://twitter.com/ChocoFeru){:target="_blank"} también aporta su mensaje al evento.
+[Chocoferu](https://x.com/ChocoFeru){:target="_blank"} también aporta su mensaje al evento.
 
 {% include youtube.html id='faV_uD5MNN4' %}
 
@@ -136,7 +136,7 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 #### Mensaje de Husky by the Geek
 
-[Husky by the Geek](https://twitter.com/huskybythegeek){:target="_blank"} nos deja un mensaje para el evento.
+[Husky by the Geek](https://x.com/huskybythegeek){:target="_blank"} nos deja un mensaje para el evento.
 
 {% include youtube.html id='RLkOH8U0iro' %}
 
@@ -144,7 +144,7 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 #### Mensaje de Aryn
 
-[Aryn](https://twitter.com/Aryn_XIV){:target="_blank"} nos cuenta en su mensaje la labor que hace <a href="https://www.juegaterapia.org" target="_blank">juegaterapia</a> y porque les vamos ayudar.
+[Aryn](https://x.com/Aryn_XIV){:target="_blank"} nos cuenta en su mensaje la labor que hace <a href="https://www.juegaterapia.org" target="_blank">juegaterapia</a> y porque les vamos ayudar.
 
 {% include youtube.html id='m5YO0anDLGk' %}
 
@@ -152,7 +152,7 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 #### Mensaje de SaoriV
 
-[SaoriV](https://twitter.com/gg_saori){:target="_blank"} aporta al evento también un mensaje.
+[SaoriV](https://x.com/gg_saori){:target="_blank"} aporta al evento también un mensaje.
 
 {% include youtube.html id='hDxYznIUt5Y' %}
 
@@ -160,7 +160,7 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 #### Mensaje de Susan Calloway
 
-[Susan Calloway](https://twitter.com/SusanCalloway){:target="_blank"} también nos deja un mensaje.
+[Susan Calloway](https://x.com/SusanCalloway){:target="_blank"} también nos deja un mensaje.
 
 {% include youtube.html id='JFhXN3ByOLw' %}
 
@@ -168,7 +168,7 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 #### Mensaje de Aebon
 
-[Aebon](https://twitter.com/IbonMGen){:target="_blank"} también nos anima a colaborar en su mensaje.
+[Aebon](https://x.com/IbonMGen){:target="_blank"} también nos anima a colaborar en su mensaje.
 
 {% include youtube.html id='cowiyifkDJs' %}
 
@@ -176,7 +176,7 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 #### Mensaje de Melos Dead
 
-[Melos Dead](https://twitter.com/Melosdead){:target="_blank"} deja también su mensaje.
+[Melos Dead](https://x.com/Melosdead){:target="_blank"} deja también su mensaje.
 
 {% include youtube.html id='aDR6QWPPqr0' %}
 
@@ -184,7 +184,7 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 #### Mensaje de Veothfolnir
 
-[Veothfolnir](https://twitter.com/Veothfolnir){:target="_blank"} nos deja un mensaje para este evento.
+[Veothfolnir](https://x.com/Veothfolnir){:target="_blank"} nos deja un mensaje para este evento.
 
 {% include youtube.html id='ujiD4mS-lwc' %}
 
@@ -192,7 +192,7 @@ Tambien [Geraru](https://twitter.com/GeraruTaru){:target="_blank"} quiere compar
 
 #### Mensaje de Embody
 
-[Embody](https://twitter.com/EmbodyAudio){:target="_blank"} uno de los grandes colaboradores del evento también nos deja este mensaje.
+[Embody](https://x.com/EmbodyAudio){:target="_blank"} uno de los grandes colaboradores del evento también nos deja este mensaje.
 
 {% include youtube.html id='b-Az2RUCN9k' %}
 

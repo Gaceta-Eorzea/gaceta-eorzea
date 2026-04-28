@@ -10,9 +10,9 @@ featured: false
 hidden: false
 ---
 
-Estas son las imágenes recibidas en la **décima semana temática** de la [comunidad hispanohablante de Final Fantasy XIV](https://twitter.com/FFXIVESP_){:target="_blank"}, donde los WoL participantes enviaron **imágenes** de su personaje con la **temática** correspondiente: **Temor**.
+Estas son las imágenes recibidas en la **décima semana temática** de la [comunidad hispanohablante de Final Fantasy XIV](https://x.com/FFXIVESP_){:target="_blank"}, donde los WoL participantes enviaron **imágenes** de su personaje con la **temática** correspondiente: **Temor**.
 
-Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:target="_blank"} o uniros a su [discord](https://discord.com/invite/XcYQ2fR){:target="_blank"} donde hay miles de jugadores con los cual compartir vuestras aventuras en Final Fantasy XIV.
+Podéis seguir a la comunidad en su [twitter](https://x.com/FFXIVESP_){:target="_blank"} o uniros a su [discord](https://discord.com/invite/XcYQ2fR){:target="_blank"} donde hay miles de jugadores con los cual compartir vuestras aventuras en Final Fantasy XIV.
 
 <sub><sup><i>Las imágenes a continuación están en orden de su publicación en twitter y el nombre del autor es el que tiene indicado en dicha plataforma.</i></sup></sub>
 
@@ -38,7 +38,7 @@ Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:ta
     </div>  
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/QueenRaikichi94" target="_blank">Kaewahn||C0MMS CLOSED</a></p>
+            <p align="center">Autor: <a href="https://x.com/QueenRaikichi94" target="_blank">Kaewahn||C0MMS CLOSED</a></p>
         </div>
     </div>
 </div>    
@@ -53,7 +53,7 @@ Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:ta
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/AlejandroBlzque" target="_blank">Hokungway</a></p>
+            <p align="center">Autor: <a href="https://x.com/AlejandroBlzque" target="_blank">Hokungway</a></p>
         </div>
     </div>
 </div>    
@@ -68,7 +68,7 @@ Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:ta
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/rezon_gon" target="_blank">SmoL LiF</a></p>
+            <p align="center">Autor: <a href="https://x.com/rezon_gon" target="_blank">SmoL LiF</a></p>
         </div>
     </div>
 </div>    
@@ -83,7 +83,7 @@ Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:ta
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/ChocoFeru" target="_blank">Choco Feru</a></p>
+            <p align="center">Autor: <a href="https://x.com/ChocoFeru" target="_blank">Choco Feru</a></p>
         </div>
     </div>
 </div>    
@@ -98,7 +98,7 @@ Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:ta
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/ThorelisAsgard1" target="_blank">Thorelis Asgardian</a></p>
+            <p align="center">Autor: <a href="https://x.com/ThorelisAsgard1" target="_blank">Thorelis Asgardian</a></p>
         </div>
     </div>
 </div>    
@@ -113,7 +113,7 @@ Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:ta
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/AkiraVay" target="_blank">Aki Ra'wr</a></p>
+            <p align="center">Autor: <a href="https://x.com/AkiraVay" target="_blank">Aki Ra'wr</a></p>
         </div>
     </div>
 </div>    
@@ -128,7 +128,7 @@ Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:ta
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Delteya" target="_blank">Delteya Holylight</a></p>
+            <p align="center">Autor: <a href="https://x.com/Delteya" target="_blank">Delteya Holylight</a></p>
         </div>
     </div>
 </div>    
@@ -143,7 +143,7 @@ Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:ta
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Celes_VI" target="_blank">Celes</a></p>
+            <p align="center">Autor: <a href="https://x.com/Celes_VI" target="_blank">Celes</a></p>
         </div>
     </div>
 </div>    
@@ -158,7 +158,7 @@ Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:ta
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/alimoyama" target="_blank">Kathrid</a></p>
+            <p align="center">Autor: <a href="https://x.com/alimoyama" target="_blank">Kathrid</a></p>
         </div>
     </div>
 </div>    
@@ -181,7 +181,7 @@ Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:ta
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/hiroacm" target="_blank">HiroACM ひろ 😜</a></p>
+            <p align="center">Autor: <a href="https://x.com/hiroacm" target="_blank">HiroACM ひろ 😜</a></p>
         </div>
     </div>
 </div>    

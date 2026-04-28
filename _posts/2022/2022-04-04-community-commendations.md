@@ -50,7 +50,7 @@ Si es la primera vez que enviás imágenes al foro, sigues [estos pasos](http://
 
 ### Normas de publicación en Twitter
 
-Puedes también enviar tus contribuciones por Twitter. Para enviar contenido por Twitter, primero sigue la cuenta oficial de [FINAL FANTASY XIV](https://twitter.com/FF_XIV_EN){:target="_blank"}.
+Puedes también enviar tus contribuciones por Twitter. Para enviar contenido por Twitter, primero sigue la cuenta oficial de [FINAL FANTASY XIV](https://x.com/FF_XIV_EN){:target="_blank"}.
 
 Envianos un Twitter que incluya tu creación, o un enlace a la misma, con esta información:
 
@@ -60,7 +60,7 @@ Envianos un Twitter que incluya tu creación, o un enlace a la misma, con esta i
 
 *Te enviaremos un mensaje privado si elegimos mostrar tu contenido en nuestros canales oficiales.* 
 
-Asegurate de haber seguido los [términos y condiciones de Twitter](https://twitter.com/en/tos){:target="_blank"} antes de publicar el mensaje.
+Asegurate de haber seguido los [términos y condiciones de Twitter](https://x.com/en/tos){:target="_blank"} antes de publicar el mensaje.
 
 
 #### Normas de publicación en Reddit

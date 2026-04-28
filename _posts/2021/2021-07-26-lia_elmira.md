@@ -18,7 +18,7 @@ Y sin más preámbulos hoy en 10 preguntas a creadores de contenido de FFXIV ten
      <b><i>Lia</i>: ¡Háblanos un poco de ti Elmira!.</b>
   </div>
   <div class="card-body">
-    <i><b>Elmira</b></i>: Soy creador de contenido en <a href="https://www.youtube.com/zarovich" target="_blank">YouTube</a> principalmente y próximamente en <a href="https://www.twitch.tv/karionsiand" target="_blank">Twitch</a>, de hecho es posible que en el momento de publicarse esta entrevista ya haya empezado también en twitch “Look forward to it!”. También me podéis encontrar en Twitter como <a href="https://twitter.com/elmira_siand" target="_blank">@elmira_siand</a> y obviamente en el <a href="https://discord.gg/cuCKe3V" target="_blank">discord de la comunidad española</a>. 
+    <i><b>Elmira</b></i>: Soy creador de contenido en <a href="https://www.youtube.com/zarovich" target="_blank">YouTube</a> principalmente y próximamente en <a href="https://www.twitch.tv/karionsiand" target="_blank">Twitch</a>, de hecho es posible que en el momento de publicarse esta entrevista ya haya empezado también en twitch “Look forward to it!”. También me podéis encontrar en x.como <a href="https://x.com/elmira_siand" target="_blank">@elmira_siand</a> y obviamente en el <a href="https://discord.gg/cuCKe3V" target="_blank">discord de la comunidad española</a>. 
   </div>
 </div>
 

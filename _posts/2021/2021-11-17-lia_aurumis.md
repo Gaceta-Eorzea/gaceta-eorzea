@@ -16,7 +16,7 @@ Hoy en 10 preguntas a creadores de contenido de FF14 tenemos a ... **Aurumis**!!
 <div class="card">
   <div class="card-body">
     <i><b>Aurumis</b></i>: Soy Aurumis, aunque me conoce mucha gente como Tifa por mote mas cercano. En FFXIV llevo un miqo’te chico que se llama N’oah Vestalia. Servidor Moogle! :)<br/>
-    Soy artista, si queréis podéis ver dibujos míos tanto en <a href="https://www.instagram.com/aurumis/" target="_blank">Instagram</a> como en <a href="https://twitter.com/Aurumis_" target="_blank">Twitter</a>.<br/>
+    Soy artista, si queréis podéis ver dibujos míos tanto en <a href="https://www.instagram.com/aurumis/" target="_blank">Instagram</a> como en <a href="https://x.com/Aurumis_" target="_blank">Twitter</a>.<br/>
     Y mi <a href="https://www.etsy.com/es/shop/Aurumis" target="_blank">tienda de merch e ilustraciones</a>. próximamente llaveritos y otras cosas de ff14! (Ya están casi listos).
   </div>
   <div class="card-header">

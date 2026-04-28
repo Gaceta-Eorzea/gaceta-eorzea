@@ -17,7 +17,7 @@ Hoy en 10 preguntas a creadores de contenido de FF14 tenemos a **Guantesrosas**!
 
 <div class="card">
   <div class="card-body">
-    <i><b>Guantesrosas</b></i>: ¡Hola! Me llamo Maria José, aunque me conocen más por Guantesrosas o Guantes, soy ilustradora digital y diseñadora gráfica. Tengo 30 años y soy de Madrid. Se me dan fatal las presentaciones, como podéis observar, soy más de dibujar que de escribir. Me podéis encontrar sobre todo por mi <a href="https://twitter.com/Guantesrosas" target="_blank">Twitter @Guantesrosas</a> y de vez en cuando hago streams como <a href="https://www.twitch.tv/mery_pinkgloves" target="_blank">Mery_pinkgloves.</a>
+    <i><b>Guantesrosas</b></i>: ¡Hola! Me llamo Maria José, aunque me conocen más por Guantesrosas o Guantes, soy ilustradora digital y diseñadora gráfica. Tengo 30 años y soy de Madrid. Se me dan fatal las presentaciones, como podéis observar, soy más de dibujar que de escribir. Me podéis encontrar sobre todo por mi <a href="https://x.com/Guantesrosas" target="_blank">Twitter @Guantesrosas</a> y de vez en cuando hago streams como <a href="https://www.twitch.tv/mery_pinkgloves" target="_blank">Mery_pinkgloves.</a>
   </div>
 </div>
 

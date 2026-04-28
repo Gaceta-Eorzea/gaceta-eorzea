@@ -18,7 +18,7 @@ Y sin más preámbulos hoy en 10 preguntas a creadores de contenido de FFXIV ten
      <b><i>Lia</i>: Buenas Gazpacho, ¡cuéntanos un poco sobre ti!.</b>
   </div>
   <div class="card-body">
-    <i><b>Gazpacho</b></i>: ¡Hola a todos! Mi nombre es Gazpacho y soy un artista digital. Aunque no me dedico exclusivamente a FFXIV, es de lo que más dibujo. Podéis encontrarme en <a href="https://twitter.com/gazpartcho" target="_blank">twitter</a>, suelo twittear algo casi todos los días. 
+    <i><b>Gazpacho</b></i>: ¡Hola a todos! Mi nombre es Gazpacho y soy un artista digital. Aunque no me dedico exclusivamente a FFXIV, es de lo que más dibujo. Podéis encontrarme en <a href="https://x.com/gazpartcho" target="_blank">twitter</a>, suelo twittear algo casi todos los días. 
   </div>
 </div>
 

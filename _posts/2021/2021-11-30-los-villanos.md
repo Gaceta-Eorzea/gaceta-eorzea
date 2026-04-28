@@ -16,6 +16,6 @@ Podéis encontrar toda la **información** sobre la audición está en este [doc
 
 El **plazo límite** para enviar las audiciones terminará el día **10 de Diciembre**.
 
-Nos os olvidéis de **seguirnos** en nuestro [Twitter](https://twitter.com/FFXIV_Fandub){:target="_blank"} para estar al tanto de todas las novedades del Fandub. 
+Nos os olvidéis de **seguirnos** en nuestro [Twitter](https://x.com/FFXIV_Fandub){:target="_blank"} para estar al tanto de todas las novedades del Fandub. 
 
 {% include youtube.html id='0VcXPTWmNsE' %}
