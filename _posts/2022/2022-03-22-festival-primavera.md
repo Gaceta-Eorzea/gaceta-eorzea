@@ -10,7 +10,7 @@ featured: false
 hidden: false
 ---
 
-Este **27 de Marzo a las 18:00h** la comunidad de [FFXIVESP](https://twitter.com/FFXIVESP_){:target="_blank"} organiza su primer concurso de glamour y pasarela libre para todo el que quiera participar, con maravillosos premios por parte de [Magitek Works](https://www.etsy.com/es/shop/MagitekWorks?ref=simple-shop-header-name&listing_id=1151567348){:target="_blank"} e [Identik3D](https://www.etsy.com/es/shop/Identik3D?ref=simple-shop-header-name&listing_id=742071843){:target="_blank"}:
+Este **27 de Marzo a las 18:00h** la comunidad de [FFXIVESP](https://x.com/FFXIVESP_){:target="_blank"} organiza su primer concurso de glamour y pasarela libre para todo el que quiera participar, con maravillosos premios por parte de [Magitek Works](https://www.etsy.com/es/shop/MagitekWorks?ref=simple-shop-header-name&listing_id=1151567348){:target="_blank"} e [Identik3D](https://www.etsy.com/es/shop/Identik3D?ref=simple-shop-header-name&listing_id=742071843){:target="_blank"}:
 
 
 <p align="center">

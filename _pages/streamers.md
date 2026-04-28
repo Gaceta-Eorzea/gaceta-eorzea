@@ -21,7 +21,7 @@ comments: true
                 </div>
                 <div class="mt-5">
                     <a href="https://www.twitch.tv/aebon" target="_blank"><i class="fab fa-twitch">&nbsp;</i>Aebon</a><br/>
-                    <a href="https://twitter.com/IbonMGen" target="_blank"><i class="fab fa-twitter">&nbsp;</i>IbonMGen</a><br/>
+                    <a href="https://x.com/IbonMGen" target="_blank"><i class="fa-brands fa-x-twitter">&nbsp;</i>IbonMGen</a><br/>
                     <a href="https://www.youtube.com/channel/UCcU3WnwTatLRqmUdjYLPkvw" target="_blank"><i class="fab fa-youtube">&nbsp;</i>Aebon</a>
                 </div>
             </div>
@@ -40,7 +40,7 @@ comments: true
                 </div>
                 <div class="mt-5">
                     <a href="https://www.twitch.tv/chocoferu" target="_blank"><i class="fab fa-twitch">&nbsp;</i>ChocoFeru</a><br/>
-                    <a href="https://twitter.com/ChocoFeru" target="_blank"><i class="fab fa-twitter">&nbsp;</i>ChocoFeru</a><br/>
+                    <a href="https://x.com/ChocoFeru" target="_blank"><i class="fa-brands fa-x-twitter">&nbsp;</i>ChocoFeru</a><br/>
                     <a href="https://www.youtube.com/user/ChocoFeru" target="_blank"><i class="fab fa-youtube">&nbsp;</i>ChocoFeru</a>
                 </div>
             </div>
@@ -59,7 +59,7 @@ comments: true
                 </div>
                 <div class="mt-5">
                     <a href="https://www.twitch.tv/arcalcca" target="_blank"><i class="fab fa-twitch">&nbsp;</i>ArcalCCA</a><br/>
-                    <a href="https://twitter.com/Arcal_Twitch" target="_blank"><i class="fab fa-twitter">&nbsp;</i>Arcal_Twitch</a><br/>
+                    <a href="https://x.com/Arcal_Twitch" target="_blank"><i class="fa-brands fa-x-twitter">&nbsp;</i>Arcal_Twitch</a><br/>
                     &nbsp;
                 </div>
             </div>
@@ -83,7 +83,7 @@ comments: true
                 </div>
                 <div class="mt-5">
                     <a href="https://www.twitch.tv/ninaariel" target="_blank"><i class="fab fa-twitch">&nbsp;</i>NinaAriel</a><br/>
-                    <a href="https://twitter.com/Ninaariel93" target="_blank"><i class="fab fa-twitter">&nbsp;</i>Ninaariel93</a><br/>
+                    <a href="https://x.com/Ninaariel93" target="_blank"><i class="fa-brands fa-x-twitter">&nbsp;</i>Ninaariel93</a><br/>
                     <a href="https://www.instagram.com/ninaariel4/" target="_blank"><i class="fab fa-instagram">&nbsp;</i>ninaariel4</a>
                 </div>
             </div>
@@ -102,7 +102,7 @@ comments: true
                 </div>
                 <div class="mt-5">
                     <a href="https://www.twitch.tv/lia_tales" target="_blank"><i class="fab fa-twitch">&nbsp;</i>Lia_tales</a><br/>
-                    <a href="https://twitter.com/LiaTales_ffxiv" target="_blank"><i class="fab fa-twitter">&nbsp;</i>LiaTales_ffxiv</a><br/>
+                    <a href="https://x.com/LiaTales_ffxiv" target="_blank"><i class="fa-brands fa-x-twitter">&nbsp;</i>LiaTales_ffxiv</a><br/>
                     <a href="https://www.youtube.com/c/LiaTales" target="_blank"><i class="fab fa-youtube">&nbsp;</i>LiaTales</a>
                 </div>
             </div>
@@ -121,7 +121,7 @@ comments: true
                 </div>
                 <div class="mt-5">
                     <a href="https://www.twitch.tv/Nephiam" target="_blank"><i class="fab fa-twitch">&nbsp;</i>Nephiam</a><br/>
-                    <a href="https://twitter.com/UrashiRowah" target="_blank"><i class="fab fa-twitter">&nbsp;</i>UrashiRowah</a><br/>
+                    <a href="https://x.com/UrashiRowah" target="_blank"><i class="fa-brands fa-x-twitter">&nbsp;</i>UrashiRowah</a><br/>
                     &nbsp;<br/>
                 </div>
             </div>
@@ -145,7 +145,7 @@ comments: true
                 </div>
                 <div class="mt-5">
                     <a href="https://www.twitch.tv/zarovichyt" target="_blank"><i class="fab fa-twitch">&nbsp;</i>ZarovichYT</a><br/>
-                    <a href="https://twitter.com/zarovich_yt" target="_blank"><i class="fab fa-twitter">&nbsp;</i>Zarovich</a><br/>                    
+                    <a href="https://x.com/zarovich_yt" target="_blank"><i class="fa-brands fa-x-twitter">&nbsp;</i>Zarovich</a><br/>                    
                     <a href="https://www.youtube.com/zarovich" target="_blank"><i class="fab fa-youtube">&nbsp;</i>Zarovich</a>
                 </div>
             </div>

@@ -17,7 +17,7 @@ Vamos a hacer una pre-visualización del libro de arte de Shadowbringers: **FINA
 
 La portada presenta de manera destacada a Minfilia y Ryne.
 
-<p align="center"><img src="/assets/images/articles/noticias/libro-arte-sb/portadalibro.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/libro-arte-sb/portadalibro.jpg' | relative_url }}"></p>
 
 El libro de arte contiene alrededor de 1,000 piezas de arte, incluidas ilustraciones y personajes del parche 5.1 al parche 5.5, YoRHa: Dark Apocalypse, Eden, mazmorras, pruebas, minions, monturas y más.
 
@@ -25,32 +25,32 @@ El libro de arte contiene alrededor de 1,000 piezas de arte, incluidas ilustraci
 
 La hermosa obra de arte del parche, con personajes de Shadowbringers como Crystal Exarch y Gaia, se puede ver en su totalidad.
 
-<p align="center"><img src="/assets/images/articles/noticias/libro-arte-sb/pag1.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/libro-arte-sb/pag1.jpg' | relative_url }}"></p>
 
 Además de las ilustraciones de los paisajes que se ven en Puppets 'Bunker y YoRHa: Dark Apocalypse, se han incluido todo tipo de ilustraciones de fondo.
 
-<p align="center"><img src="/assets/images/articles/noticias/libro-arte-sb/pag2.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/libro-arte-sb/pag2.jpg' | relative_url }}"></p>
 
 También hay arte conceptual poco común, como los de Shiva de Eden's Verse: Refulgence y Fatebreaker de Eden's Promise: Anamorphosis.
 
-<p align="center"><img src="/assets/images/articles/noticias/libro-arte-sb/pag3.jpg"></p>
-<p align="center"><img src="/assets/images/articles/noticias/libro-arte-sb/pag4.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/libro-arte-sb/pag3.jpg' | relative_url }}"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/libro-arte-sb/pag4.jpg' | relative_url }}"></p>
 
 ¡Las ilustraciones del equipo están dibujadas con meticuloso detalle y son una visita obligada!
 
-<p align="center"><img src="/assets/images/articles/noticias/libro-arte-sb/pag5.jpg"></p>
-<p align="center"><img src="/assets/images/articles/noticias/libro-arte-sb/pag6.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/libro-arte-sb/pag5.jpg' | relative_url }}"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/libro-arte-sb/pag6.jpg' | relative_url }}"></p>
 
 Además os mostramos algunas imágenes adicionales que Square enseñó en su lista oficial.
 
-<p align="center"><img src="/assets/images/articles/noticias/libro-arte-sb/pag7.jpg"></p>
-<p align="center"><img src="/assets/images/articles/noticias/libro-arte-sb/pag8.jpg"></p>
-<p align="center"><img src="/assets/images/articles/noticias/libro-arte-sb/pag9.jpg"></p>
-<p align="center"><img src="/assets/images/articles/noticias/libro-arte-sb/pag10.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/libro-arte-sb/pag7.jpg' | relative_url }}"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/libro-arte-sb/pag8.jpg' | relative_url }}"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/libro-arte-sb/pag9.jpg' | relative_url }}"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/libro-arte-sb/pag10.jpg' | relative_url }}"></p>
 
 El libro de arte también incluye un código de artículo de bonificación para el minion del juego, **Wind-up Runar**.
 
-<p align="center"><img src="/assets/images/articles/noticias/libro-arte-sb/Wind-up Runar.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/noticias/libro-arte-sb/Wind-up Runar.jpg' | relative_url }}"></p>
 
 Hasta aquí la previsualización del libro. Esperamos que os haya gustado.
 

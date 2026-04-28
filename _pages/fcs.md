@@ -66,7 +66,7 @@ Si quieres salir en este **directorio** y en los **videos** que **Zarovich** ira
                                 </div>
                                 <div class="card-body">
                                     <p align="center">
-                                    <img src="/assets/images/fcs/eternia.jpg"><br/>
+                                    <img src="{{ '/assets/images/fcs/eternia.jpg' | relative_url }}"><br/>
                                     </p>
                                     <div class="container">
                                         <div class="span2">
@@ -150,4 +150,5 @@ Si quieres salir en este **directorio** y en los **videos** que **Zarovich** ira
     {% endfor %}
 </div>
 <!-- REGIONS ## -->
+
 

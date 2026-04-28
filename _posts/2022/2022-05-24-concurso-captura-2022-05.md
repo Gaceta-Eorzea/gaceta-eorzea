@@ -25,8 +25,8 @@ Estas pegatinas **están dentro de la ventana de configuración de GPOSE** en: *
 
 Para participar tendrás que hacerlo a través de **Twitter**, siguiendo este procedimiento.
 
-- **Seguir a la [cuenta oficial](https://twitter.com/FF_XIV_EN){:target="_blank"}** de final fantasy.
-- **Responder al [tweet original](https://twitter.com/FF_XIV_EN/status/1529028370066878465){:target="_blank"}** del concurso.
+- **Seguir a la [cuenta oficial](https://x.com/FF_XIV_EN){:target="_blank"}** de final fantasy.
+- **Responder al [tweet original](https://x.com/FF_XIV_EN/status/1529028370066878465){:target="_blank"}** del concurso.
 - **Adjuntar la imagen** que hemos creado usando GPOSE con las pegatinas indicadas.
 
 En el comentario del tweet **usar esta plantilla**:

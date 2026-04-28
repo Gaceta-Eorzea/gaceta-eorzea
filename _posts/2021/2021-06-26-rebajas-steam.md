@@ -19,7 +19,7 @@ Podremos comprar el <a href="https://store.steampowered.com/bundle/9957/FINAL_FA
 <p align="center"><a href="https://store.steampowered.com/bundle/9957/FINAL_FANTASY_XIV_Online_Complete_Edition/" target="_blank"><img src="{{ site.baseurl }}/assets/images/articles/noticias/rebajas-steam-260621/complete.jpg" alt="complete"/></a></p>
 <br/>
 <blockquote>
-El Pack Complete Edition de Steam incluye 30 días de tiempo de juego. Recordamos que aunque incluya este tiempo, podrás beneficiarte de la campaña <a href="/reclutaamigo" target="_blank">Recluta un Amigo</a> mientras no hayas comprado más tiempo de juego.
+El Pack Complete Edition de Steam incluye 30 días de tiempo de juego. Recordamos que aunque incluya este tiempo, podrás beneficiarte de la campaña <a href="{{ '/reclutaamigo' | relative_url }}" target="_blank">Recluta un Amigo</a> mientras no hayas comprado más tiempo de juego.
 </blockquote> 
 
 ### Shadowbringers

@@ -17,7 +17,7 @@ Primero vamos a ver los iconos que veremos en los nombres de los enemigos que no
 
 #### Tipo y Dificultad
 
-Los enemigos en el juego tiene unos iconos que indican si son **<img src="/assets/images/articles/iconos/mob_passive_01.png">pasivos**, los cual **no nos atacaran** a no ser que les ataquemos, o **<img src="/assets/images/articles/iconos/mob_aggressive_1.png">agresivos** que nos **atacaran en cuanto nos vean**, hay que destacar que en este juego **los enemigos no ven por su espalda**, incluso aunque pasemos pegados a ellos.
+Los enemigos en el juego tiene unos iconos que indican si son **<img src="{{ '/assets/images/articles/iconos/mob_passive_01.png' | relative_url }}">pasivos**, los cual **no nos atacaran** a no ser que les ataquemos, o **<img src="{{ '/assets/images/articles/iconos/mob_aggressive_1.png' | relative_url }}">agresivos** que nos **atacaran en cuanto nos vean**, hay que destacar que en este juego **los enemigos no ven por su espalda**, incluso aunque pasemos pegados a ellos.
 
 Dentro de estos tipos los enemigos tienen un **nivel de dificultad**, del **1 al 6**, representado por el **icono** que podéis ver en la siguiente tabla.
 
@@ -36,21 +36,21 @@ Dentro de estos tipos los enemigos tienen un **nivel de dificultad**, del **1 al
     </tr>
     <tr>
         <td>&nbsp;Pasivo</td>
-        <td style="text-align:center"><img src="/assets/images/articles/iconos/mob_passive_01.png"></td>
-        <td style="text-align:center"><img src="/assets/images/articles/iconos/mob_passive_02.png"></td>
-        <td style="text-align:center"><img src="/assets/images/articles/iconos/mob_passive_03.png"></td>
-        <td style="text-align:center"><img src="/assets/images/articles/iconos/mob_passive_04.png"></td>
-        <td style="text-align:center"><img src="/assets/images/articles/iconos/mob_passive_05.png"></td>
-        <td style="text-align:center"><img src="/assets/images/articles/iconos/mob_passive_06.png"></td>
+        <td style="text-align:center"><img src="{{ '/assets/images/articles/iconos/mob_passive_01.png' | relative_url }}"></td>
+        <td style="text-align:center"><img src="{{ '/assets/images/articles/iconos/mob_passive_02.png' | relative_url }}"></td>
+        <td style="text-align:center"><img src="{{ '/assets/images/articles/iconos/mob_passive_03.png' | relative_url }}"></td>
+        <td style="text-align:center"><img src="{{ '/assets/images/articles/iconos/mob_passive_04.png' | relative_url }}"></td>
+        <td style="text-align:center"><img src="{{ '/assets/images/articles/iconos/mob_passive_05.png' | relative_url }}"></td>
+        <td style="text-align:center"><img src="{{ '/assets/images/articles/iconos/mob_passive_06.png' | relative_url }}"></td>
     </tr>
     <tr>
         <td>&nbsp;Agresivo&nbsp;</td>
-        <td style="text-align:center"><img src="/assets/images/articles/iconos/mob_aggressive_1.png"></td>
-        <td style="text-align:center"><img src="/assets/images/articles/iconos/mob_aggressive_2.png"></td>
-        <td style="text-align:center"><img src="/assets/images/articles/iconos/mob_aggressive_3.png"></td>
-        <td style="text-align:center"><img src="/assets/images/articles/iconos/mob_aggressive_4.png"></td>
-        <td style="text-align:center"><img src="/assets/images/articles/iconos/mob_aggressive_5.png"></td>
-        <td style="text-align:center"><img src="/assets/images/articles/iconos/mob_aggressive_6.png"></td>
+        <td style="text-align:center"><img src="{{ '/assets/images/articles/iconos/mob_aggressive_1.png' | relative_url }}"></td>
+        <td style="text-align:center"><img src="{{ '/assets/images/articles/iconos/mob_aggressive_2.png' | relative_url }}"></td>
+        <td style="text-align:center"><img src="{{ '/assets/images/articles/iconos/mob_aggressive_3.png' | relative_url }}"></td>
+        <td style="text-align:center"><img src="{{ '/assets/images/articles/iconos/mob_aggressive_4.png' | relative_url }}"></td>
+        <td style="text-align:center"><img src="{{ '/assets/images/articles/iconos/mob_aggressive_5.png' | relative_url }}"></td>
+        <td style="text-align:center"><img src="{{ '/assets/images/articles/iconos/mob_aggressive_6.png' | relative_url }}"></td>
     </tr>    
 </table>
 

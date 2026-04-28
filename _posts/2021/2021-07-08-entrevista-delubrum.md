@@ -16,7 +16,7 @@ Os traemos una entrevista con **Aebon**, creador de la iniciativa que ha consegu
      <b><i>Gaceta Eorzea</i>: Antes de nada nos gustaría que nos contaras quién eres, para aquellos que no te conozcan.</b>
   </div>
   <div class="card-body">
-    <i><b>Aebon</b></i>: Hola a tod@s, aquí <a href="https://twitter.com/IbonMGen" target="_blank">Aebon</a>. Soy creador de contenido para FFXIV en español, raider bastante hardcore y mentor muy conocido en la comunidad española. Soy miembro de Raid de Luz, una static española donde hemos conseguido clasificar muy alto en varios rankings mundiales. Me podéis encontrar en mi <a href="https://www.twitch.tv/aebon" target="_blank">canal de Twitch</a> tanto ayudando a nuevos jugadores como raideando y montando eventos con la comunidad.
+    <i><b>Aebon</b></i>: Hola a tod@s, aquí <a href="https://x.com/IbonMGen" target="_blank">Aebon</a>. Soy creador de contenido para FFXIV en español, raider bastante hardcore y mentor muy conocido en la comunidad española. Soy miembro de Raid de Luz, una static española donde hemos conseguido clasificar muy alto en varios rankings mundiales. Me podéis encontrar en mi <a href="https://www.twitch.tv/aebon" target="_blank">canal de Twitch</a> tanto ayudando a nuevos jugadores como raideando y montando eventos con la comunidad.
   </div>
 </div>
 

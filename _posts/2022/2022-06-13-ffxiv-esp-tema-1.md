@@ -10,9 +10,9 @@ featured: false
 hidden: false
 ---
 
-Estas son las imágenes recibidas en la **primera semana temática** de la [comunidad hispanohablante de Final Fantasy XIV](https://twitter.com/FFXIVESP_){:target="_blank"}, donde los WoL participantes enviaron **imágenes** de su personaje con la **temática** correspondiente: **Oscuridad**.
+Estas son las imágenes recibidas en la **primera semana temática** de la [comunidad hispanohablante de Final Fantasy XIV](https://x.com/FFXIVESP_){:target="_blank"}, donde los WoL participantes enviaron **imágenes** de su personaje con la **temática** correspondiente: **Oscuridad**.
 
-Podéis seguir a la comunidad en su [twitter](https://twitter.com/FFXIVESP_){:target="_blank"} o uniros a su [discord](https://discord.com/invite/XcYQ2fR){:target="_blank"} donde hay miles de jugadores con los cual compartir vuestras aventuras en Final Fantasy XIV.
+Podéis seguir a la comunidad en su [twitter](https://x.com/FFXIVESP_){:target="_blank"} o uniros a su [discord](https://discord.com/invite/XcYQ2fR){:target="_blank"} donde hay miles de jugadores con los cual compartir vuestras aventuras en Final Fantasy XIV.
 
 Estar atentos ya que en **breve empezará la siguiente semana temática**.
 
@@ -29,7 +29,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/sisukakiereruka" target="_blank">AstrAngélica</a></p>
+            <p align="center">Autor: <a href="https://x.com/sisukakiereruka" target="_blank">AstrAngélica</a></p>
         </div>
     </div>
 </div>    
@@ -44,7 +44,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Kvan0tak" target="_blank">I-VÁN | "Los de Última Hora"</a></p>
+            <p align="center">Autor: <a href="https://x.com/Kvan0tak" target="_blank">I-VÁN | "Los de Última Hora"</a></p>
         </div>
     </div>
 </div>    
@@ -60,7 +60,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/AmuArt_" target="_blank">Amu</a></p>
+            <p align="center">Autor: <a href="https://x.com/AmuArt_" target="_blank">Amu</a></p>
         </div>
     </div>
 </div>    
@@ -75,7 +75,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Loureloc" target="_blank">Loureloc</a></p>
+            <p align="center">Autor: <a href="https://x.com/Loureloc" target="_blank">Loureloc</a></p>
         </div>
     </div>
 </div>    
@@ -90,7 +90,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/FjltGolmore" target="_blank">Fjlt</a></p>
+            <p align="center">Autor: <a href="https://x.com/FjltGolmore" target="_blank">Fjlt</a></p>
         </div>
     </div>
 </div>    
@@ -105,7 +105,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/SpardaStrife" target="_blank">Aiolos Dawnbringer</a></p>
+            <p align="center">Autor: <a href="https://x.com/SpardaStrife" target="_blank">Aiolos Dawnbringer</a></p>
         </div>
     </div>
 </div> 
@@ -131,7 +131,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>    
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/AlejandroBlzque" target="_blank">Hokungway</a></p>
+            <p align="center">Autor: <a href="https://x.com/AlejandroBlzque" target="_blank">Hokungway</a></p>
         </div>
     </div>
 </div> 
@@ -146,7 +146,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Aryn_XIV" target="_blank">Aryn XIV</a></p>
+            <p align="center">Autor: <a href="https://x.com/Aryn_XIV" target="_blank">Aryn XIV</a></p>
         </div>
     </div>
 </div> 
@@ -161,7 +161,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/alimoyama" target="_blank">Kathrid</a></p>
+            <p align="center">Autor: <a href="https://x.com/alimoyama" target="_blank">Kathrid</a></p>
         </div>
     </div>
 </div> 
@@ -176,7 +176,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/strawbtw" target="_blank">Strawberry</a></p>
+            <p align="center">Autor: <a href="https://x.com/strawbtw" target="_blank">Strawberry</a></p>
         </div>
     </div>
 </div> 
@@ -202,7 +202,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>    
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/YrisMiretnjer14" target="_blank">Yris Miret-njer</a></p>
+            <p align="center">Autor: <a href="https://x.com/YrisMiretnjer14" target="_blank">Yris Miret-njer</a></p>
         </div>
     </div>
 </div> 
@@ -217,7 +217,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/LunChan7" target="_blank">Luna Chän</a></p>
+            <p align="center">Autor: <a href="https://x.com/LunChan7" target="_blank">Luna Chän</a></p>
         </div>
     </div>
 </div> 
@@ -232,7 +232,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/AkiraVay" target="_blank">Aki Ra'wr</a></p>
+            <p align="center">Autor: <a href="https://x.com/AkiraVay" target="_blank">Aki Ra'wr</a></p>
         </div>
     </div>
 </div> 
@@ -247,7 +247,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Reigar_XIV" target="_blank">Reigar XIV Xabi</a></p>
+            <p align="center">Autor: <a href="https://x.com/Reigar_XIV" target="_blank">Reigar XIV Xabi</a></p>
         </div>
     </div>
 </div> 
@@ -262,7 +262,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/CraimsonClaymor" target="_blank">CrimsonClaymore</a></p>
+            <p align="center">Autor: <a href="https://x.com/CraimsonClaymor" target="_blank">CrimsonClaymore</a></p>
         </div>
     </div>
 </div> 
@@ -277,7 +277,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/LiaTales_ffxiv" target="_blank">Lia Tales</a></p>
+            <p align="center">Autor: <a href="https://x.com/LiaTales_ffxiv" target="_blank">Lia Tales</a></p>
         </div>
     </div>
 </div> 
@@ -292,7 +292,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/musmusxiv" target="_blank">Mussie</a></p>
+            <p align="center">Autor: <a href="https://x.com/musmusxiv" target="_blank">Mussie</a></p>
         </div>
     </div>
 </div> 
@@ -307,7 +307,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/BerafortS" target="_blank">Leonardo</a></p>
+            <p align="center">Autor: <a href="https://x.com/BerafortS" target="_blank">Leonardo</a></p>
         </div>
     </div>
 </div> 
@@ -333,7 +333,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>    
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Tamit_IX" target="_blank">Tamit</a></p>
+            <p align="center">Autor: <a href="https://x.com/Tamit_IX" target="_blank">Tamit</a></p>
         </div>
     </div>
 </div> 
@@ -348,7 +348,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Celes_VI" target="_blank">Celes</a></p>
+            <p align="center">Autor: <a href="https://x.com/Celes_VI" target="_blank">Celes</a></p>
         </div>
     </div>
 </div> 
@@ -366,7 +366,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>   
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/BlackRapsodia" target="_blank">Vizius ✦ Endwalker</a></p>
+            <p align="center">Autor: <a href="https://x.com/BlackRapsodia" target="_blank">Vizius ✦ Endwalker</a></p>
         </div>
     </div>
 </div> 
@@ -381,7 +381,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Faugron" target="_blank">G.Darius</a></p>
+            <p align="center">Autor: <a href="https://x.com/Faugron" target="_blank">G.Darius</a></p>
         </div>
     </div>
 </div> 
@@ -407,7 +407,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>    
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/NidhoggMoshpit" target="_blank">Nidhogg Spooky</a></p>
+            <p align="center">Autor: <a href="https://x.com/NidhoggMoshpit" target="_blank">Nidhogg Spooky</a></p>
         </div>
     </div>
 </div> 
@@ -433,7 +433,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>    
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Taoscuro" target="_blank">Voraji, consort of Ranni</a></p>
+            <p align="center">Autor: <a href="https://x.com/Taoscuro" target="_blank">Voraji, consort of Ranni</a></p>
         </div>
     </div>
 </div> 
@@ -448,7 +448,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/ChocoFeru" target="_blank">Choco Feru</a></p>
+            <p align="center">Autor: <a href="https://x.com/ChocoFeru" target="_blank">Choco Feru</a></p>
         </div>
     </div>
 </div> 
@@ -463,7 +463,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/QueenRaikichi94" target="_blank">Kaewahn||COMMS ARE OPEN</a></p>
+            <p align="center">Autor: <a href="https://x.com/QueenRaikichi94" target="_blank">Kaewahn||COMMS ARE OPEN</a></p>
         </div>
     </div>
 </div> 
@@ -478,7 +478,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/ThorelisAsgard1" target="_blank">Thorelis Asgardian</a></p>
+            <p align="center">Autor: <a href="https://x.com/ThorelisAsgard1" target="_blank">Thorelis Asgardian</a></p>
         </div>
     </div>
 </div> 
@@ -493,7 +493,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/hiroacm" target="_blank">Hiro ACM</a></p>
+            <p align="center">Autor: <a href="https://x.com/hiroacm" target="_blank">Hiro ACM</a></p>
         </div>
     </div>
 </div> 
@@ -519,7 +519,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>    
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Diromar" target="_blank">Diromar</a></p>
+            <p align="center">Autor: <a href="https://x.com/Diromar" target="_blank">Diromar</a></p>
         </div>
     </div>
 </div> 
@@ -534,7 +534,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/XadrYX_Gamer" target="_blank">XadrYX</a></p>
+            <p align="center">Autor: <a href="https://x.com/XadrYX_Gamer" target="_blank">XadrYX</a></p>
         </div>
     </div>
 </div> 
@@ -560,7 +560,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>    
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Noirzem" target="_blank">𝑵𝒐𝒊𝒓. / Endwalked</a></p>
+            <p align="center">Autor: <a href="https://x.com/Noirzem" target="_blank">𝑵𝒐𝒊𝒓. / Endwalked</a></p>
         </div>
     </div>
 </div> 
@@ -583,7 +583,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>    
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/w_erhir" target="_blank">W'erhir // Gflower</a></p>
+            <p align="center">Autor: <a href="https://x.com/w_erhir" target="_blank">W'erhir // Gflower</a></p>
         </div>
     </div>
 </div> 
@@ -601,7 +601,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Rebecca_Trece" target="_blank">Haru</a></p>
+            <p align="center">Autor: <a href="https://x.com/Rebecca_Trece" target="_blank">Haru</a></p>
         </div>
     </div>
 </div> 
@@ -616,7 +616,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/WrittenByKyu" target="_blank">Le Kyu Sauvage</a></p>
+            <p align="center">Autor: <a href="https://x.com/WrittenByKyu" target="_blank">Le Kyu Sauvage</a></p>
         </div>
     </div>
 </div> 
@@ -631,7 +631,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/ChocoFeru" target="_blank">Choco Feru</a></p>
+            <p align="center">Autor: <a href="https://x.com/ChocoFeru" target="_blank">Choco Feru</a></p>
         </div>
     </div>
 </div> 
@@ -649,7 +649,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/_RinoaHeartilly" target="_blank">Rinoa Heartilly #FFXVI Hype Train</a></p>
+            <p align="center">Autor: <a href="https://x.com/_RinoaHeartilly" target="_blank">Rinoa Heartilly #FFXVI Hype Train</a></p>
         </div>
     </div>
 </div> 
@@ -664,7 +664,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/rezon_gon" target="_blank">Small Leaf</a></p>
+            <p align="center">Autor: <a href="https://x.com/rezon_gon" target="_blank">Small Leaf</a></p>
         </div>
     </div>
 </div> 
@@ -679,7 +679,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/RouygartV" target="_blank">Rouygart Valicourt</a></p>
+            <p align="center">Autor: <a href="https://x.com/RouygartV" target="_blank">Rouygart Valicourt</a></p>
         </div>
     </div>
 </div> 
@@ -705,7 +705,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>    
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/PalazzoSama_2" target="_blank">Pagli~ケフカ</a></p>
+            <p align="center">Autor: <a href="https://x.com/PalazzoSama_2" target="_blank">Pagli~ケフカ</a></p>
         </div>
     </div>
 </div>  
@@ -720,7 +720,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/strawbtw" target="_blank">Strawberry</a></p>
+            <p align="center">Autor: <a href="https://x.com/strawbtw" target="_blank">Strawberry</a></p>
         </div>
     </div>
 </div> 
@@ -735,7 +735,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/KaiMite_XIV" target="_blank">Ayane 6.15 spoilers</a></p>
+            <p align="center">Autor: <a href="https://x.com/KaiMite_XIV" target="_blank">Ayane 6.15 spoilers</a></p>
         </div>
     </div>
 </div> 
@@ -750,7 +750,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/Karuka_G" target="_blank">Karuka G</a></p>
+            <p align="center">Autor: <a href="https://x.com/Karuka_G" target="_blank">Karuka G</a></p>
         </div>
     </div>
 </div> 
@@ -776,7 +776,7 @@ Estar atentos ya que en **breve empezará la siguiente semana temática**.
     </div>    
     <div class="row">  
         <div class="col-xl">
-            <p align="center">Autor: <a href="https://twitter.com/XIII_Songbird" target="_blank">Navytroy</a></p>
+            <p align="center">Autor: <a href="https://x.com/XIII_Songbird" target="_blank">Navytroy</a></p>
         </div>
     </div>
 </div>  

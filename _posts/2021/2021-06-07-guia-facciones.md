@@ -20,7 +20,7 @@ Cuando llegues a nivel 20 de la historia principal de *A Realm Reborn* tienes qu
 
 Si bien cada Gran Compañía tiene una estética, un espíritu y una base de operaciones específicas, no hay diferencia técnica entre ellas. No existe una Gran Compañía objetivamente mejor. Tampoco tienes por qué elegir la compañía que está instalada en la ciudad donde empezaste el juego. Es una elección 100% pura por gustos y afinidades.
 
-<p align="center"><img src="/assets/images/articles/guias/facciones/estandartes.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/guias/facciones/estandartes.jpg' | relative_url }}"></p>
 
 Otra cosa a tener en cuenta al elegir una Gran Compañía es la estética, ya que las armas y el equipo que te ofrecen coincidirán con los colores y la temática de ese grupo.
 
@@ -32,25 +32,25 @@ Una vez que decidas con qué Gran Compañía alinearte, recibirás una versión 
 
 Cada una de las Grandes Compañías ofrece numerosos rangos, como una organización o un ejército. Puede aumentar su rango a través de una Gran Compañía al realizar misiones y eventos que ofrecen **Sellos de Compañía**. Además estos sellos se pueden intercambiar por equipo o materiales. 
 
-<p align="center"><img src="/assets/images/articles/guias/facciones/sellos.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/guias/facciones/sellos.jpg' | relative_url }}"></p>
 
 Podras comprobar la cantidad de Sellos de Compañía que tienes desde la ventana de *Currency* (Ctrl + C)
 
-<p align="center"><img src="/assets/images/articles/guias/facciones/currency.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/guias/facciones/currency.jpg' | relative_url }}"></p>
 
 También es importante indicar que al acceder a una Gran Compañía tendrás acceso a un **nuevo Hunting Log**. Este Hunting Log no te dará Giles ni experiencia sino que te dará muchos Sellos de Compañía. Además, para ascender en ciertos niveles en la organización, te pedirá que tengas **completado el nivel requerido de este Hunting Log**. Otra cosa importante es que este Hunting Log es a **nivel de cuenta**. No tendrás que repetirlo si decides subir una nueva clase (como si ocurre con los Hunting Logs normales).
 
-<p align="center"><img src="/assets/images/articles/guias/facciones/hlgc.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/guias/facciones/hlgc.jpg' | relative_url }}"></p>
 
 Cuando consigas el rango **Sargento de Segunda Clase** podrás donar equipo a la Gran Compañía. El equipo que consigas en las mazmorras y que no uses será el equipo que entregarás y a cambio te darán Sellos de Compañía. Cuanto más alto es el nivel del equipo donando, más sellos conseguirás. El NPC que cambia el equipo por sellos es el **Personnel Officer** en la pestaña de **Expert Delibery**.
 
-<p align="center"><img src="/assets/images/articles/guias/facciones/equipo.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/guias/facciones/equipo.jpg' | relative_url }}"></p>
 
 Además, el Personnel Officer te da la posibilidad de conseguir Sellos con las profesiones de **fabricación de objetos**, en la pestaña de *Supply* y de **recolección** en la pestaña de *Provisioning*. El NPC cada día te pedirá una cantidad exacta de algunos artículos fabricados o recolectados. Al entregarlos, además de conseguir Sellos, conseguirás experiencia para subir la profesión de los artículos que estés entregando. Como extra, si los artículos fabricados tienen alta calidad, conseguirás más experiencia y sellos. Es una actividad que se resetea diariamente.
 
-<p align="center"><img src="/assets/images/articles/guias/facciones/suply.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/guias/facciones/suply.jpg' | relative_url }}"></p>
 
-<p align="center"><img src="/assets/images/articles/guias/facciones/provisioning.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/guias/facciones/provisioning.jpg' | relative_url }}"></p>
 
 Como resumen, para obtener Sellos de Compañía tienes las siguientes opciones:
 
@@ -64,8 +64,8 @@ Como resumen, para obtener Sellos de Compañía tienes las siguientes opciones:
 
 Para ascender de **Rango** en la Gran Compañía como regla general tendrás que entregar sellos al *Personnel Officer* a través de la opción **Apply for a promotion**.
 
-<p align="center"><img src="/assets/images/articles/guias/facciones/promotion.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/guias/facciones/promotion.jpg' | relative_url }}"></p>
 
 Habrá rangos que para ascender, además de entregar los sellos necesarios, tendrás que tener completado el nivel de **Hunting Log** de la Gran Compañía que te pida el *Personnel Officer*. Así mismo, para ascender los dos últimos rangos en la Gran Compañía, necesitarás ayuda de tu **Escuadrón**. El rango máximo al que se puede acceder es el de Capitán (*Captain* en inglés).
 
-<p align="center"><img src="/assets/images/articles/guias/facciones/rangogc.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/guias/facciones/rangogc.jpg' | relative_url }}"></p>

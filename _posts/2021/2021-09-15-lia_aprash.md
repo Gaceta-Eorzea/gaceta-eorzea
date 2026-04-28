@@ -21,7 +21,7 @@ Hoy en 10 preguntas a creadores de contenido de FF14 tenemos a ... **Félix (Apr
   </div>
   <div class="card-body">
     <i><b>Aprash</b></i>: Pues soy un creador de contenido asturiano que en su mayor parte hace directos sobre FFXIV pero también ha realizado directos de otros juegos como Bloodborne, Monster Hunter o Sekiro.<br/>
-    Me podéis encontrar en <a href="https://www.twitch.tv/aprash_ " target="_blank">Twitch</a> y en <a href="https://twitter.com/felix3pa" target="_blank">Twitter</a>.
+    Me podéis encontrar en <a href="https://www.twitch.tv/aprash_ " target="_blank">Twitch</a> y en <a href="https://x.com/felix3pa" target="_blank">Twitter</a>.
   </div>
 </div>
 

@@ -21,13 +21,13 @@ Lo más importante es tener claro que para acceder al sistema Recluta a un Amigo
 
 Si quieres unirte a un amigo que va a empezar sus aventuras en Eorzea, debes conseguir tu **código de reclutador**. Para esto, debes entrar en tu cuenta de *Mog Station* y más o menos a la mitad de la pantalla principal encontrarás la siguiente imagen.
 
-<p align="center"><img src="/assets/images/articles/guias/reclutaamigo/reclutaamigo.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/guias/reclutaamigo/reclutaamigo.jpg' | relative_url }}"></p>
 
 Una vez haces click en la imagen verás que tendrás acceso al **código de reclutador**. Este código es el que debes pasarle a tu amigo que va a empezar a jugar en Final Fantasy XIV (O que va a cambiar su cuenta *Free trial* a cuenta *Standard*)
 
 Este **código de reclutador** se genera cada 3 horas. Si entras en la página de **recluta a un amigo** y no copias el código, no podrás acceder a otro código hasta pasado ese tiempo.
 
-<p align="center"><img src="/assets/images/articles/guias/reclutaamigo/despues.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/guias/reclutaamigo/despues.jpg' | relative_url }}"></p>
 
 Los código de reclutador son **únicos** y solo podrás dárselo a un amigo. Además puedes tener más amigos reclutados (hasta un máximo de 5) cada uno con un código de reclutador distinto.
 
@@ -35,7 +35,7 @@ Los código de reclutador son **únicos** y solo podrás dárselo a un amigo. Ad
 
 El amigo reclutado debe poner el código de reclutador que su amigo le ha proporcionado en su cuenta de *Mog Station*. Para eso, tras ingresar en la cuenta, en la pesta *Your Acount*, deberá buscar el botón ***Enter Recruitment Code*** y poner allí el código de reclutador.
 
-<p align="center"><img src="/assets/images/articles/guias/reclutaamigo/metercodigo.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/guias/reclutaamigo/metercodigo.jpg' | relative_url }}"></p>
 
 Sólo se puede ingresar **1 código** de reclutamiento por cuenta.
 
@@ -50,7 +50,7 @@ Cuando el primero de tus amigos reclutados paga su primera suscripción, el recl
 - ![plumadorada](/assets/images/articles/guias/reclutaamigo/plumadorada.jpg){:width="32"} 5 x [Gold Chocobo Feathers](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/1b65ee4f5c8/){:target="_blank" class="eorzeadb_link"}
 - Un nuevo emote que podrás hacer con amigos con el comando **/fistbump** o **/brofist**
 
-<p align="center"><img src="/assets/images/articles/guias/reclutaamigo/brofist.jpg"></p>
+<p align="center"><img src="{{ '/assets/images/articles/guias/reclutaamigo/brofist.jpg' | relative_url }}"></p>
 
 Como hemos dicho antes, podrás reclutar a más amigos (hasta un máximo de 5 amigos). Al hacerlo la primera recompensa solo serán las 5 x [Gold Chocobo Feathers](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/1b65ee4f5c8/){:target="_blank" class="eorzeadb_link"}.
 

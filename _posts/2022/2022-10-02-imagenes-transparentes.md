@@ -12,7 +12,7 @@ hidden: false
 En esta guía os vamos a explicar como podéis fácilmente **utilizar GShade para crear imágenes transparentes**, las cuales podéis usar para usar como **stickers**, **emotes** o incluso crear vuestras **propias composiciones**.
 
 <blockquote>
-Si aún no sabéis que es GShade o queréis aprender como instalarlo os recomendamos la <a href="/gshade" target="_blank">guía</a> que hicimos donde tenéis todo la información.
+Si aún no sabéis que es GShade o queréis aprender como instalarlo os recomendamos la <a href="{{ '/gshade' | relative_url }}" target="_blank">guía</a> que hicimos donde tenéis todo la información.
 </blockquote> 
 
 #### Eligiendo una imagen

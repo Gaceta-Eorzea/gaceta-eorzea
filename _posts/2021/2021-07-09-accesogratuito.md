@@ -18,7 +18,7 @@ hidden: false
 - Tener la suscripción inactiva desde hace más de 30 días y mantenerla inactiva durante todo el período de la campaña.
 
 <blockquote>
-<b>Todos estos Requisitos los puedes comprobar desde tu cuenta</b> <a href="https://sqex.to/Msp?utm_source=lodestone&utm_medium=pc_banner&utm_campaign=na_mogstation" target="_blank"><img src="/assets/images/articles/noticias/ffxiv_twitch/mog.png" height="75"></a>
+<b>Todos estos Requisitos los puedes comprobar desde tu cuenta</b> <a href="https://sqex.to/Msp?utm_source=lodestone&utm_medium=pc_banner&utm_campaign=na_mogstation" target="_blank"><img src="{{ '/assets/images/articles/noticias/ffxiv_twitch/mog.png' | relative_url }}" height="75"></a>
 </blockquote> 
 
 ### Acceder a la Campaña de Acceso Gratuito
