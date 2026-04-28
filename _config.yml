@@ -2,8 +2,8 @@
 name: "Gaceta Eorzea"
 title: "Gaceta Eorzea"
 description: "Artículos y guías de Final Fantasy XIV en Español."
-url: "https://gaceta-eorzea.com"
-baseurl: ""
+url: "https://gaceta-eorzea.github.io"
+baseurl: "/gaceta-eorzea"
 logo: 'assets/images/log.png'
 favicon: 'assets/images/logo.png'
 google_analytics: 'G-Z6JRH15CR6'
