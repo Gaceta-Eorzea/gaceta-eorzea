@@ -9,7 +9,7 @@ gem "csv", "~> 3.3"
 gem "base64", "~> 0.2"
 
 # Soporte para Windows (monitoreo de archivos)
-gem "wdm", "~> 0.2.0" if Gem.win_platform?
+gem "wdm", "~> 0.2.0", platforms: [:mswin, :mingw, :x64_mingw]
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17"
